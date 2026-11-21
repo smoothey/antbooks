@@ -4,7 +4,10 @@
   "subtitle": "Go Exponential: From Incremental Progress to Compound Growth",
   "author": "Ant Smoothey",
   "state": "outline",
-  "targetWords": [30000, 40000],
+  "targetWords": [
+    45000,
+    50000
+  ],
   "dates": {
     "interviews": "2026-11-22 to 2026-11-29",
     "firstDraft": "2026-12-06",
@@ -18,5 +21,8 @@
     "asinKindle": null,
     "isbnPaperback": null,
     "aiDisclosure": "to decide"
-  }
+  },
+  "chapters": 18,
+  "appendix": "starter kit",
+  "reviewers": "Ant reads fast; friends can review if needed"
 }
