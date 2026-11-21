@@ -3,8 +3,8 @@
 For Ant to change. Each chapter lists what it draws on: L = the logs (store records, run reports, decisions, ADRs), I = interviews with Ant.
 
 ## Part 1: The shift
-1. **Doing the work, and the ceiling it hits.** One person, evenings, many projects. *I mostly.*
-2. **Build the thing that builds the things.** The idea in one chapter, with the first night it worked. *I, plus the first run reports (18 Oct).*
+1. **Doing the work, and the ceiling it hits.** One person, evenings, many projects. *I mostly: the Commodore and the shop demo machines; AzureDump, hand-maintained since 2002; "where is the ceiling really?"*
+2. **Build the thing that builds the things.** The idea in one chapter, with the first night it worked. *I, plus the first run reports (18 Oct). Bridge: the client firewall work, a written procedure plus a memory before Jimmy existed (22 form rows became 5 rules).*
 3. **Incremental against compound.** What compounds (rules, tools, records) and what doesn't (effort). *I, plus numbers from the Hub.*
 
 ## Part 2: The machine
@@ -14,9 +14,9 @@ For Ant to change. Each chapter lists what it draws on: L = the logs (store reco
 7. **Rings and brokers.** Privacy by where data lives; approvals for merges, spend and infrastructure. *L: ADR 0003, 0009, 0010, 0014.*
 
 ## Part 3: What it teaches you
-8. **Logging a lesson isn't learning it.** The repeat lessons, and what finally fixes one. *L: lesson records; the one-off reminder lesson logged seven times, 19 Oct to 21 Nov.*
-9. **Best practice by accident.** Arriving at DevOps habits without setting out to. *L and I.*
-10. **When the machine says no.** Safety checks, trust, and what stays a human's job. *L: refusals in run reports and lessons; I.*
+8. **Logging a lesson isn't learning it.** The repeat lessons, and what finally fixes one. *L: lesson records; the one-off reminder lesson logged seven times, 19 Oct to 21 Nov. Contrast: on the client work, banked gotchas did stop repeat mistakes.*
+9. **Best practice by accident.** Arriving at DevOps habits without setting out to. *L and I. The tiny-tasks team against one person AI-first; "pull before building"; scripts split so a crash lands in the safe half.*
+10. **When the machine says no.** Safety checks, trust, and what stays a human's job. *L: refusals in run reports and lessons; I. Client work: AI builds, human holds the keys; the false FAILED report; a clean test run that proved little; the backups nobody had noticed for 17 months.*
 11. **What it costs.** Money, stalls, and the pull of building the system instead of the product. *I mostly; stall lessons from L.*
 
 ## Part 4: Your turn
