@@ -7,7 +7,7 @@ Each chapter lists what it draws on: L = the logs (store records, run reports, d
 ## Part 1: The shift
 1. **Doing the work, and the ceiling it hits.** One person, evenings, many projects. *I: the Commodore and the shop demo machines; Ophelia, the shared task tool he never had the bandwidth to grow; AzureDump, hand-maintained since 2002; "where is the ceiling really?"*
 2. **Build the thing that builds the things.** The idea in one chapter, with the first night it worked. *I, plus the first run reports (18 Oct). A present for Charlie. Bridge: the client firewall work, a written procedure plus a memory before Jimmy existed (a few hours down to minutes; 22 form rows became 5 rules). The 2019 Ophelia walkthrough against 2026.*
-3. **Incremental against compound.** What compounds (rules, tools, records) and what doesn't (effort). *I, plus numbers from the Hub.*
+3. **Incremental against compound.** What compounds (rules, tools, records) and what doesn't (effort). And the borrowed pace: AI plans in human-team time until you measure your own; the share-of-a-night measure. *I (theme note 21 Nov), decisions sizing-night-share, night-load, night-utilisation; numbers from the Hub.*
 
 ## Part 2: The machine
 4. **One place for the truth.** The store, the Hub, and why chat memory isn't enough. *L: ADR 0002, 0003. I: value hidden in memories the user can't see.*
