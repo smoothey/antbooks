@@ -1,0 +1,22 @@
+{
+  "slug": "build-the-thing",
+  "title": "Build the Thing That Builds the Things",
+  "subtitle": "Go Exponential: From Incremental Progress to Compound Growth",
+  "author": "Ant Smoothey",
+  "state": "outline",
+  "targetWords": [30000, 40000],
+  "dates": {
+    "interviews": "2026-11-22 to 2026-11-29",
+    "firstDraft": "2026-12-06",
+    "antReadAndRevise": "2026-12-16",
+    "filesAndProof": "2026-12-22",
+    "kdpUpload": "2026-12-27"
+  },
+  "cover": "A2 Vortex (Ant, 21 Nov 2026)",
+  "titleCheck": "Web search 21 Nov found no book with either phrase; Kindle store check still to do.",
+  "kdp": {
+    "asinKindle": null,
+    "isbnPaperback": null,
+    "aiDisclosure": "to decide"
+  }
+}
