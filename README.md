@@ -10,6 +10,10 @@ Tracked on the Jimmy Hub: https://hub.smoothey.co.uk/dashboard (project `antbook
 | --- | --- | --- |
 | `books/build-the-thing/` | Build the Thing That Builds the Things: Go Exponential | Outline. Aiming for late December 2026. |
 
+## How we write
+
+See [PROCESS.md](PROCESS.md): the standard for every book here.
+
 ## Layout
 
 Each book has its own folder under `books/`:

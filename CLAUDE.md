@@ -4,6 +4,9 @@
 - Books Ant writes under his own name. Not part of Ultra Transcenders: don't use its imprint, pen name or tools without asking.
 - Tracked on the Jimmy Hub (https://hub.smoothey.co.uk), project `antbooks`, code SB, compartment `r2antbooks`. The Jimmy project chat and the Hub are the authority for scheduled jobs and access (`smoothey/jimmy` `governance/loops/CONTRACT.md`).
 
+## How we write
+Follow PROCESS.md (agreed by Ant, 21 Nov 2026): interview only when needed; outline agreed and open to change; chapter reviews a paragraph at a time; agreed paragraphs stay set; a final polish pass that changes wording, never intent, agreed in bulk.
+
 ## Rules
 - Ant's voice, first person. Write plainly: short sentences, no jargon where a plain word works. Explain any technical term the first time it appears.
 - Every fact and number comes from a source: a store record, a run report, a decision, an ADR or Ant's own words in an interview. Keep the source in a comment beside it: `<!-- src: r2jimmy decision local-first-routing-2026-11-21 -->`.
