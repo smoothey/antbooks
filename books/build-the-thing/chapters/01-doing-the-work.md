@@ -44,19 +44,19 @@ Setting up a classroom for a course meant following a binder, step by step, mach
 They were a testing centre too, and they gave me my MCSE exams for free. On the back of how things went, they also paid for my MCSD, in Visual Basic 6. When I graduated they offered me a career there. I turned it down, because by then I'd met the woman who would become my wife. But I'd learned something I didn't fully notice at the time: the best use of my hours was building the thing that saved them.
 <!-- src: early years note; Ant, 22 Nov 00:15: OK to mention meeting his wife-to-be -->
 
-<!-- p: 01-04 | draft -->
+<!-- p: 01-04 | agreed 2026-11-22 -->
 Since then my work has been in infrastructure and networks, and later cloud platforms: Azure and AWS. In 2002 I joined a financial sector company as a senior technician, and went on to become its data centre manager. I did a lot of work in those years. Progress was just hard.
 <!-- src: review 22 Nov 00:47 (Azure and AWS; senior technician to data centre manager; "I did loads of work, progress was hard"), notes/interviews/build-the-thing/2026-11-22-career-and-own-time.md; employer not named -->
 
-<!-- p: 01-05 | draft -->
+<!-- p: 01-05 | agreed 2026-11-22 -->
 The most useful thing I built there was an audit tool: a VBScript with a simple HTA front end that let me check our whole infrastructure. It could run from a floppy disk, which mattered: we had a hard DMZ and even some air-gapped servers that nothing else could reach. It gave me one consolidated view of everything we ran. I built it because I needed it, before I'd even heard of ITIL or a configuration management database. Cloud computing didn't exist yet, and virtualisation was in its infancy. Years later, once the cloud arrived, that tool grew into something I called AzureDump. I kept expecting it to be made pointless by something public and polished, and every so often something came along that looked like it might. Each time, my tool still did things the others didn't.
 <!-- src: interview 1, Q1; review 22 Nov 00:47 (VBS with HTA front end, ran from floppy, DMZ and air-gapped servers, consolidated view, before ITIL and CMDBs); review 22 Nov 00:53 (no cloud in 2002, virtualisation in its infancy; AzureDump is the later name); Ant, 21 Nov 2026: AzureDump is his own IP and can be named -->
 
-<!-- p: 01-26 | draft -->
+<!-- p: 01-26 | agreed 2026-11-22 -->
 It wasn't the only one. I also built Metis, an intranet site with a floor plan of the office. Click on any PC and you could see its live state, wake it up, patch it, and see who'd used it recently. In many ways it was more useful than the official system-management software we had, and I'd installed that too.
 <!-- src: review 22 Nov 00:47 and 00:53 (Metis: floor plan intranet; more useful than SCCM, which he also installed) -->
 
-<!-- p: 01-06 | draft -->
+<!-- p: 01-06 | agreed 2026-11-22 -->
 There was a catch, and it took me years to see it clearly. To get that kind of value, I was spending my own time on work I couldn't fit into my working day. The tools did save time once they existed, but I paid for them in evenings. And keeping them going got harder every year. Every change to those tools, and later to AzureDump, was mine to make, by hand. There was a list of features I knew AzureDump needed, and the list didn't get shorter.
 <!-- src: review 22 Nov 00:47 ("burning my personal time on work tasks... it still helped free time but at a personal cost"); interview 1, Q1 (hard to maintain, features put off) -->
 
