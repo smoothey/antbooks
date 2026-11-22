@@ -31,3 +31,7 @@ Polish the whole section once the book is finished.
 
 **"Apple's interface guidelines"**: Apple's Human Interface Guidelines, its published design guidance for every Apple platform. Apple traces the document back to 1978.
 <!-- checked 22 Nov 2026: developer.apple.com, Human Interface Guidelines and "Meet the new Human Interface Guidelines"; WWDC 2017 session 802 (goes back to 1978) -->
+
+## Chapter 3: Incremental against compound
+
+**"comparative advantage"**: see the note for chapter 1.

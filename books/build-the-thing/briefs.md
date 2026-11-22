@@ -73,6 +73,7 @@ Sources live in the store (`r2antbooks` `notes/interviews/build-the-thing/`, `no
 ## 11. Best practice by accident
 - Job: arriving at known good practice without setting out to.
 - Known: "we'd be slower if we started with them"; Jimmy ended up like Azure DevOps without aiming to; the formal tiny-tasks team (ch 1) as contrast; the CMDB before ITIL (ch 1); pull before building; scripts split so a crash lands in the safe half; user stories after the fact.
+- Also (22 Nov): the Jade stopgap from ch 3 (03-05b, 03-05c): fixing the cause, not the symptom, is what IT calls problem management. Ant was doing it before he knew the name. Refer back, don't retell.
 - Gaps: few.
 
 ## 12. When the machine says no
