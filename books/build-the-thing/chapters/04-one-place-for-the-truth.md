@@ -9,8 +9,12 @@ Most of the time, it's the context. Think of the cleverest new colleague you've 
 <!-- src: theme note (context); Claude's analogy, offered for Ant to accept -->
 
 <!-- p: 04-03 | draft -->
-[STORY TO COME FROM ANT: one real "stupid" answer that turned out to be missing context, and how giving it the context fixed it.]
-<!-- src: briefs.md ch 4 gap. Not for print until filled and agreed -->
+Here's an example from the week before we revealed Charlie's site. Releases were about to be frozen, and as we planned around the freeze, the AI kept asking me the same question about item after item: should this go before the freeze, or after? I gave the same answer every time. It felt like talking to someone who wasn't listening. But it wasn't stupid. Each chat started fresh, and my answer had never gone anywhere the next one could see. So on 24 October we wrote it down as a standing rule: before the freeze by default, unless there's a good reason not to. The question stopped.
+<!-- src: Jimmy project chat "Jimmy dashboard draft PRs", 24 Oct 2026 (Ant frustrated at being repeatedly asked "before or after the freeze?" with a consistent answer; standing rule "before the freeze by default" approved, "it's perfect"); r2jimmy notes/freeze-timing-rule-proposal-2026-10-25.md -->
+
+<!-- p: 04-03b | draft -->
+The same evening, I mentioned I'd be away from 1 to 13 November. The AI marked my time away as a freeze on all work. It was a sensible guess, and it was wrong. Being away didn't mean nothing could happen. It meant I'd have about two hours a day, on a laptop or my phone. Once I'd said so, that went into the store as the standard for any time away, so no chat would have to guess again.
+<!-- src: same chat, 24 Oct 2026 (away 1 to 13 Nov first marked as a freeze; Ant: not a freeze but reduced access, about 2 hours a day on an internet-connected laptop or phone, the standard assumption for future away periods; away records updated to a 120-minutes-a-day budget) -->
 
 <!-- p: 04-04 | draft -->
 Before the store, the context lived in three places, and none of them was good enough. Some of it was in old chats, which a new chat couldn't see. Some of it was in the AI's own memory, which I couldn't easily see, check or correct. And most of it was in my head, which meant I was the one typing it out again every time. A lot of value was building up, and almost none of it was where the next piece of work could use it.
