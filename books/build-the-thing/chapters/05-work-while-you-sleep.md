@@ -30,13 +30,15 @@ The building happens in cycles. Each cycle takes the next piece of agreed work, 
 <!-- src: nightly-common.md (5. Work in cycles until a stop rule says stop; 5b. One cycle); morning briefs (e.g. 2026-11-09: "most of what they built waits on your merges"); chapter 3, 03-08 (agreed); smoothey/jimmy governance/loops/merging.md ("Plain night runs don't merge (Ant, 3 Nov 2026)"; "One pull request a night": "Every pull request costs Ant a tap") -->
 <!-- rev: new last line (control, not time); tightened to night runs, which never merge, one PR a night (merging.md); agreed by Ant 22 Nov 19:39 -->
 
-<!-- p: 05-07 | draft -->
+<!-- p: 05-07 | agreed 2026-11-22 -->
 Every run also has to know when to stop, and the rules for that turned out to matter as much as the rules for working. A run stops when the night's window closes, or when its minutes or its allowance of saved changes run out. It stops if the project's main code is broken and one attempt to fix it hasn't worked, or if fewer tests pass than when it started. It stops if a safety check refuses something, and it doesn't try to find a way round. And it stops when it has been going so long that it's losing track, which is the context problem from chapter 4 showing up at three in the morning.
 <!-- src: smoothey/jimmy governance/loops/cycles.json stop.hard (window, budget, red-main, tests-fell, live-drift, safety: "don't retry around it", context: "the session has got long and work is slowing or going wrong"); nightly-common.md 5c; chapter 4, 04-03c (agreed) -->
+<!-- rev: agreed by Ant 22 Nov 19:41 -->
 
-<!-- p: 05-08 | draft -->
+<!-- p: 05-08 | agreed 2026-11-22 -->
 That last one is why most projects have more than one shift. A long session fills up its context, and the work starts to slip. So instead of one run trying to last all night, a run writes a hand-over note when it stops, and a fresh shift picks it up later with a clear head: what was done, what's half done, what to do next. Charlie's site, which has the most work, now has relay shifts that can take over from each other through the night. It's the same idea as a hospital shift change, and for the same reason.
 <!-- src: schedule.md (second shifts at 01:37, 02:13, 02:37, 03:22, 03:47; relay shifts 00:17 and 03:07 for Charlie Doll; late shift 04:47); nightly-common.md 5d and "Relay shifts" (Ant, 22 Nov 2026, decision night-utilisation-plan-2026-11-22: when a run stops on context after about 45 minutes with agreed work left); the hospital comparison is Claude's -->
+<!-- rev: agreed by Ant 22 Nov 19:43; relay shifts agreed 22 Nov, check their track record at final check -->
 
 <!-- p: 05-09 | draft -->
 The stop I like least is "empty": a run with minutes left and nothing it's allowed to do. For a while, it was the commonest reason a night went unused. So the rules now say a run has to prove a queue is empty before it stops. It must go through every agreed item and every idea, and say why each one can't be done tonight. And if the only thing left is a small idea that's safe to build without me, it can build that instead of stopping. An idle night has to justify itself.
