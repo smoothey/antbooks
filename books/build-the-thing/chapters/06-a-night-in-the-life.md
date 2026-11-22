@@ -30,13 +30,15 @@ At 04:47 the late shift used the minutes the night had left to start the next pa
 <!-- src: 2026-11-18/morning-brief.md ("All 15 expected runs ran, wrote a heartbeat and ended ok"; nightly-transcenders-2 late shift started the pair for 3 Jan, UT-70; "used 372 of 480 (78%). Over the 75% line for the first time in seven nights") -->
 <!-- rev: agreed by Ant 22 Nov 20:15; figure fig06 goes after this paragraph -->
 
-<!-- p: 06-07 | draft -->
+<!-- p: 06-07 | agreed 2026-11-22 -->
 That's what a good night looks like. Now for the other kind.
 <!-- src: bridge -->
+<!-- rev: agreed by Ant 22 Nov 20:16 -->
 
-<!-- p: 06-08 | draft -->
-The site I'd been building for Charlie went live as her birthday present, on her birthday. We were in Canada at the time, and I was on my reduced two hours a day. The runs carried on at home, from Azure, as they always did. That night, after a day of celebrating, they ran as normal until about half past one.
+<!-- p: 06-08 | agreed 2026-11-22 -->
+The site I'd been building for Charlie went live on her birthday, as her present. We were in Canada at the time, and I was on the two hours a day from chapter 4. The runs carried on at home, from Azure, as they always did. That night they ran as normal until about half past one.
 <!-- src: Ant, 22 Nov 2026 19:55 to 19:57 (the night was Charlie's birthday; the reveal was that day; they were in Canada; "the runs were happening from Azure runner in the main"); 2026-11-02/morning-brief.md (away mode on, about 120 minutes a day; "every task before 01:37 closed"); Ant, 22 Nov 20:01: Charlie is fine with her birthday being mentioned. The night's date is deliberately not given in the text -->
+<!-- rev: suggested version (callback to 04-03b, 'celebrating' dropped); agreed by Ant 22 Nov 20:23 -->
 
 <!-- p: 06-09 | draft -->
 From 01:37 onwards, seven shifts started and never reported back. There was no finish and no failure, just nothing. The morning brief, which should have reached me by seven, was still running at a quarter to twelve, with steps that normally take seconds taking hours. Its first lines told me, honestly, that seven shifts had vanished, and that it didn't know why.
