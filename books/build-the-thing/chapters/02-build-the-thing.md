@@ -24,8 +24,8 @@ Then I hit the problem that changed everything. Every new conversation with the 
 I'd tried to fix this once before, at work, with Azure DevOps. This time, on 18 October, I built a store of my own: a small service in my own Azure account where the AI could keep what it learnt and read it back next time. Decisions, notes, the list of work still to do, what had happened the night before. Almost straight away I turned it into an MCP server, which is a standard way for an AI to use outside tools. That meant any of my Claude chats could reach the store directly, read from it and write to it, without me copying anything across.
 <!-- src: interview 1b (tried similar with ADO); interview 2 (memory store, almost immediately an MCP server); ADR 0002 (store in Ant's Azure); memory, jimmy (18 Oct: built in his own Azure, connected as an MCP connector); Jimmy Hub chat "Azure storage system for memories" 18 Oct -->
 
-<!-- p: 02-07 | draft -->
-That was the firewall lesson again, on a bigger scale. When I'd written down how the work should be done and given the AI somewhere to keep what it learnt, a job that took me hours took minutes. Now I wasn't doing it for one customer's firewall. I was doing it for everything I was building.
+<!-- p: 02-07 | agreed 2026-11-22 -->
+That was the firewall lesson again, on a bigger scale. Once the AI had somewhere to keep what it learnt, a job that took hours took minutes. Now I wasn't doing it for one customer's firewall. I was doing it for everything I was building.
 <!-- src: chapter 1, 01-13 (agreed); interview 1b (firewall before and after) -->
 
 <!-- p: 02-08 | draft -->
