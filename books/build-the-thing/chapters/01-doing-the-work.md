@@ -17,7 +17,7 @@ At school I kept turning homework into software. For some of my GCSE assignments
 
 <!-- p: 01-24 | draft -->
 School gave me one more thing I didn't value until much later. In Economics GCSE I came across an idea that turned my thinking upside down. I'd always assumed I should spend my time on whatever I was best at. The lesson was that what matters is where you add the most value, and those aren't always the same thing. Among the people I worked with I was usually the best developer. It would take a very different kind of tool before I understood what that lesson meant for me.
-<!-- src: early years note (Economics GCSE, 22 Nov 00:11); name of the idea to confirm with Ant -->
+<!-- src: early years note (Economics GCSE, 22 Nov 00:11); the idea is comparative advantage, named in ch 3 (Ant, 22 Nov 00:13) -->
 
 <!-- p: 01-19 | draft -->
 When I was 17, my mother lost her bridge partner and asked if I'd play with her the following week. I knew nothing about bridge. So I got some books from the library, read them, and started writing my own bridge programs on my Amiga 500, in a language called AMOS. The programs were limited. But to write them I had to understand the game, and a week later my mother and I placed in the top ten per cent. Nobody believed it was the first time I'd played. With humans, at least.
