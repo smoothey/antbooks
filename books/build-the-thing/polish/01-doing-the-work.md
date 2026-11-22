@@ -1,4 +1,4 @@
-# Polish: Chapter 1 (proposed, not applied)
+# Polish: Chapter 1 (applied 22 Nov 2026, approved by Ant with two extra fixes)
 Summary: The prose is in good shape: plain, first person, with a strong voice and a clear thread from the VIC-20 to the Charlie present. Most of the proposals explain technical terms on first use (the CLAUDE.md rule), as the chapter assumes an IT reader in places. The rest fix a few unclear pronouns, number style, "learnt" and "client" consistency, and one dangling clause. Small tidy, not a wording change: there is a stray double blank line after 01-24.
 
 ## Proposed changes
