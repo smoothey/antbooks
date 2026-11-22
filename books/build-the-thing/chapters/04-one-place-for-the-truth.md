@@ -34,13 +34,15 @@ It became the one place for the truth. It holds a small number of kinds of thing
 <!-- src: ADR 0002 (record kinds: backlog, state, run, message, loop, grant, decision, lesson, event); Jimmy Store connector instructions (codes such as UT-1 given by the store; needsAnt asks in the progress record) -->
 <!-- rev: 'It became', example code JM-458 (this book's first backlog item, r2jimmy); agreed by Ant 22 Nov 18:55 -->
 
-<!-- p: 04-06 | draft -->
+<!-- p: 04-06 | agreed 2026-11-22 -->
 I built it in my own Azure account, not inside any one AI product, and that was deliberate. If I change assistant, or plan, or the product changes under me, the store is still there. I can read it myself, without any AI in the way. The backups are mine, and so are the rules about who can see what. Scripts and other tools can reach it, not just chats. The price is that I now run a small service of my own, and its health is my job.
 <!-- src: ADR 0002 (context: state lived in claude.ai, tied to one vendor's product, no backups Ant controlled; consequences: survives a change of assistant or plan, Ant can read it directly, backups and access rules are his; "Bad: Ant now runs a service") -->
+<!-- rev: agreed by Ant 22 Nov 18:56 -->
 
-<!-- p: 04-07 | draft -->
+<!-- p: 04-07 | agreed 2026-11-22 -->
 It has three front doors onto the same truth. One is for the AI: the MCP connection from chapter 2, which lets any of my chats read and write. One is for scripts and devices. And one is a web page for me, the Hub. Whichever door you come in by, you see the same records, under the same rules. A night run, a daytime chat and I all look at the same backlog, so nobody is working from an old copy.
 <!-- src: ADR 0002 (three front doors on one router and one policy: /mcp for Claude, REST /v1 for scripts and devices, the Jimmy Hub site; "one source of truth") -->
+<!-- rev: agreed by Ant 22 Nov 18:58; figure fig04 goes after this paragraph -->
 
 <!-- p: 04-08 | draft -->
 Having one place also raises a problem you don't get with notes in your head: two workers changing the same thing at once. A night run and a daytime chat might both update the same progress record within a minute of each other. If the second one simply overwrote the first, work would vanish without anyone noticing. So every change says, in effect, "only save this if the record still looks the way I last saw it." If someone else got there first, the change is refused, the worker reads the new version, and tries again.
