@@ -64,7 +64,7 @@ for i,(lab,s) in enumerate(shares):
     ax.text(s+0.015,4-i,lab,va='center',fontsize=12)
 ax.set_xlim(0,1.15); ax.axis('off')
 ax.text(0,5.0,'How big is a piece of work? A share of one night of building.',fontsize=12,color=INK)
-save(fig,'fig05b-share-of-a-night')
+save(fig,'fig03c-share-of-a-night')
 
 # fig06 a night hour by hour (18 Nov 2026)
 runs=[("Charlie's site",'22:47',49),("Roblox game",'23:51',10),("Camera app",'00:07',46),("Study guides",'00:23',10),("Photo organiser",'00:53',35),("Charlie's site (2)",'01:37',112),("Photo organiser (2)",'02:13',27),("Camera app (2)",'02:37',25),("Jimmy",'02:53',19),("Jimmy (2)",'03:22',27),("Roblox game (2)",'03:47',3),("Study guides (late)",'04:47',9)]

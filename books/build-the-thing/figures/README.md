@@ -12,7 +12,7 @@ Made by `charts.py` and `diagrams.py` (SVG and PNG). The admin renders come from
 | fig03b-changes-per-week | 3 | Changes saved per week, 140 to 929 | git history of six repos, counted 22 Nov 2026 (SB-4) |
 | fig04-one-truth-three-doors | 4 | The store and its three front doors | ADR 0002 |
 | fig05a-minutes-per-night | 5 | Minutes used per night, 20 Oct to 21 Nov, with the 480 and 75% lines | r2jimmy decision night-utilisation (20 and 21 Oct); morning briefs in smoothey/jimmy governance/reports |
-| fig05b-share-of-a-night | 5 | The sizes: 1/16 to a whole night | r2jimmy decision sizing-night-share |
+| fig03c-share-of-a-night | 3 (after 03-10) | The sizes: 1/16 to a whole night | r2jimmy decision sizing-night-share |
 | fig06-a-night-hour-by-hour | 6 | The night of 18 Nov: each run's start and minutes used, two merges, the brief | smoothey/jimmy governance/schedule.md (start times); reports/2026-11-18/morning-brief.md (minutes, merges at 23:15 and 23:53) |
 | fig07-needs-you | 7 | The Needs you list | mock-up: example items in the style of the real list |
 | fig08-privacy-rings | 8 | Rings 0 to 3 | ADR 0003 |

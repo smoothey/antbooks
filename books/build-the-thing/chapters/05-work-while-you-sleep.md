@@ -10,13 +10,15 @@ The night actually starts in the afternoon. At 16:37 a readiness check looks at 
 <!-- src: smoothey/jimmy governance/schedule.md (16:37 readiness, 20:23 agency test); loops/readiness.md ("Makes sure every project has something its run can do tonight, so Ant can fix it before the evening if not"; unattended work; main passing CI); loops/agency-test.md ("Proves, before the night starts, that tonight's runs can do their jobs without anyone approving anything. If any check fails, Ant hears about it by 21:00"; clone, read rules, push) -->
 <!-- rev: agreed by Ant 22 Nov 19:31 (as is) -->
 
-<!-- p: 05-03 | draft -->
+<!-- p: 05-03 | agreed 2026-11-22 -->
 Then the runs begin, one after another. Charlie's site goes first, at 22:47. The Roblox game follows just before midnight, then the camera app, the study guides and the photo organiser in the small hours, then Jimmy itself and the work projects towards three. Most projects also get a second shift later in the night. The start times are deliberately odd, like 22:47 rather than 23:00, because runs set for the hour tend to start late when the service is busy.
 <!-- src: smoothey/jimmy governance/schedule.md (22:47 Charlie Doll, 23:51 Robyn's Roblox, 00:07 Togmatic, 00:23 Ultra Transcenders, 00:53 Snappier, 02:53 Jimmy, 03:17 Work; second shifts; "Minutes are deliberately off the hour: runs set for :00 start late when the service is busy") -->
+<!-- rev: agreed by Ant 22 Nov 19:32 -->
 
-<!-- p: 05-04 | draft -->
-The night is a budget of 480 minutes, shared by priority. Charlie's site gets a third of it. The camera app gets a fifth, and so does Jimmy, almost. The photo organiser gets about an eighth, and the Roblox game, the study guides and the work projects share what's left. A project's share is guaranteed, but it isn't a wall. When a run finishes early, the minutes it didn't use flow on to the runs that come after it, so a busy project can borrow up to three times its own share from a quiet one.
+<!-- p: 05-04 | agreed 2026-11-22 -->
+The night is a budget of 480 minutes, shared by priority. Charlie's site gets a third of it. The camera app and Jimmy get about a fifth each. The photo organiser gets about an eighth, and the Roblox game, the study guides and the work projects share what's left. A project's share is guaranteed, but it isn't a wall. When a run finishes early, the minutes it didn't use flow on to the runs that come after it, so a busy project can borrow up to three times its own share from a quiet one.
 <!-- src: smoothey/jimmy governance/loops/cycles.json budget (nightMinutes 480; shares charliedoll 0.33, togmatic 0.20, jimmy 0.19, photo-organiser 0.13, robroblox 0.06, transcenders 0.05, work 0.04; "A project's share is guaranteed; minutes left by projects that finished earlier tonight may be borrowed"; borrowCeiling 3) -->
+<!-- rev: 'about a fifth each'; agreed by Ant 22 Nov 19:34 -->
 
 <!-- p: 05-05 | draft -->
 A run doesn't start by writing code. It starts by taking stock. It reads its project's progress record and backlog from the store, and brings them up to date with whatever happened since the last run: what I merged, what I agreed, what I turned down. It acts on my decisions first. Then it spends about three quarters of an hour on a critical review of its own project, looking for what's broken, what's weak and what's missing, before it looks at what's next, what dates could move forward, and whether the rules themselves need changing. Only after all that does it start building.
