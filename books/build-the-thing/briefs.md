@@ -98,7 +98,8 @@ Sources live in the store (`r2antbooks` `notes/interviews/build-the-thing/`, `no
 - Don't let readers anchor on the number. Two books a week is not the message; the message is building a line that runs at whatever pace fits the work.
 - Patterns: a shared source of material built once (the research corpus); one controlled release step (one pull request per book); approval at exactly one point; a steady cadence the system holds; the line itself improves over time.
 - Ends with a short checklist for any repeating output: a newsletter, client reports, releases.
-- Gaps: pen name and series name, in or out (Ant's call); what's changing in the line now.
+- In print: neither the series name nor the pen name (Ant, 22 Nov 01:43). Call it "a series of technical study guides I publish". The work and how it's evolving can be described; the names can't.
+- Gaps: what's changing in the line now.
 
 ## 17. The right tool for each job
 - Job: not everything needs the biggest model.

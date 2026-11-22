@@ -13,6 +13,7 @@ Follow PROCESS.md (agreed by Ant, 21 Nov 2026): interview only when needed; outl
 - Interview notes stay in the store (`r2antbooks`), never in this repo. A chapter only uses what Ant has agreed to print.
 - Name guardrail: Charlie is Charlie Doll. Her real surname never appears anywhere in this repo.
 - Never: ring 0 content, Forge client names or work detail, other people's private stories without their say-so, money figures, secrets.
+- The study guides Ant publishes are never named in print: no series name, no pen name (Ant, 22 Nov 2026). Describe them as "a series of technical study guides".
 - Nothing goes to KDP or anywhere public without Ant agreeing it.
 - Every reference to the Hub, a backlog code or a pull request is a link Ant can tap.
 - Commit under the session's own name. Don't set a name or email in a commit command.
