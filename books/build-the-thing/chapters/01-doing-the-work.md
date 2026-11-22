@@ -28,19 +28,19 @@ School gave me one more thing, and it was a game changer. In Economics GCSE I le
 When I was 17, my mother lost her bridge partner and asked if I'd play with her the following week. I knew nothing about bridge. So I got some books from the library, read them, and started writing my own bridge programs on my Amiga 500, in a language called AMOS. The programs were limited. But to write them I had to understand the game, and a week later my mother and I placed in the top ten per cent. Nobody believed it was the first time I'd played. With humans, at least.
 <!-- src: early years note (bridge at 17); Ant, 22 Nov 00:15: his mother can be named -->
 
-<!-- p: 01-20 | draft -->
+<!-- p: 01-20 | agreed 2026-11-22 -->
 I've worked that way ever since, and it's exactly how I work with AI now. I have to be able to frame clearly what I'm trying to achieve, just as I had to understand bridge to program it. The difference is that the AI makes it a conversation. I still have to understand the problem. I no longer have to do all of the typing.
 <!-- src: early years note ("AI for me is the same way") -->
 
-<!-- p: 01-21 | draft -->
+<!-- p: 01-21 | agreed 2026-11-22 -->
 I always wanted to be a programmer. My career took me a different way. During my software development degree I did a paid placement with a company in Brussels, in 2000. They spotted something in me early: I ended up doing consultancy, and teaching NT4 and networking courses. I was also responsible for setting up the classrooms, and that was where the real lesson was.
 <!-- src: early years note (Brussels placement, 2000); employer not named -->
 
-<!-- p: 01-22 | draft -->
+<!-- p: 01-22 | agreed 2026-11-22 -->
 Setting up a classroom for a course meant following a binder, step by step, machine by machine. It took hours, and it was the same hours every time. So I looked at the tools available for copying whole disks. They were all immature then. I picked PowerQuest's Drive Image Pro, even though it wasn't the market leader, for one reason: unlike its competitors, it could be scripted. Each machine got hidden partitions on its hard drive that could put a course back in place on demand. Where a setup couldn't be made general enough for that, I built DVD-based installs instead. Hours became minutes. The time I got back is what let me start my consultancy and teaching career.
 <!-- src: early years note; Ant, 22 Nov 00:15 (Drive Image Pro, chosen because it was scriptable) -->
 
-<!-- p: 01-23 | draft -->
+<!-- p: 01-23 | agreed 2026-11-22 -->
 They were a testing centre too, and they gave me my MCSE exams for free. On the back of how things went, they also paid for my MCSD, in Visual Basic 6. When I graduated they offered me a career there. I turned it down, because by then I'd met the woman who would become my wife. But I'd learned something I didn't fully notice at the time: the best use of my hours was building the thing that saved them.
 <!-- src: early years note; Ant, 22 Nov 00:15: OK to mention meeting his wife-to-be -->
 
