@@ -19,10 +19,6 @@ Those bugs taught me the feeling this whole book is about. You write something d
 At school I kept turning homework into software. For some of my GCSE assignments I wrote computer programs instead of just doing the coursework. Writing the program was almost certainly more work than the assignment itself, though the program listings in my appendices did look impressive. But it forced me to understand the subject properly. You can't write code for something you only half understand.
 <!-- src: early years note, notes/interviews/build-the-thing/2026-11-22-early-years-and-game-theory.md -->
 
-<!-- p: 01-24 | agreed 2026-11-22 -->
-School gave me one more thing, and it was a game changer. In Economics GCSE I learnt about comparative advantage, an idea the economist David Ricardo set out in 1817. In plain terms: you shouldn't spend your time on whatever you're best at, but on whatever adds the most value, because those aren't always the same thing. I'd always assumed the opposite. At sixteen it was just an idea that made sense. It would be decades, and a very different kind of tool, before I understood what it meant for me.
-<!-- src: early years note (Economics GCSE, 22 Nov 00:11); review 22 Nov 00:31: name the theory here; comparative advantage (Ricardo, On the Principles of Political Economy and Taxation, 1817); ch 3 expands it -->
-
 <!-- p: 01-19 | agreed 2026-11-22 -->
 When I was 17, my mother lost her bridge partner and asked if I'd play with her the following week. I knew nothing about bridge. So I got some books from the library, read them, and started writing my own bridge programs on my Amiga 500, in a language called AMOS. The programs were limited. But to write them I had to understand the game, and a week later my mother and I placed in the top ten per cent. Nobody believed it was the first time I'd played. With humans, at least.
 <!-- src: early years note (bridge at 17); Ant, 22 Nov 00:15: his mother can be named -->
@@ -31,13 +27,17 @@ When I was 17, my mother lost her bridge partner and asked if I'd play with her 
 I've worked that way ever since, and it's exactly how I work with AI now. I have to be able to frame clearly what I'm trying to achieve, just as I had to understand bridge to program it. The difference is that the AI makes it a conversation. I still have to understand the problem. I no longer have to do all of the typing.
 <!-- src: early years note ("AI for me is the same way") -->
 
+<!-- p: 01-24 | agreed 2026-11-22 -->
+School gave me one more thing, and it was a game changer. In Economics GCSE I learnt about comparative advantage, an idea the economist David Ricardo set out in 1817. In plain terms: you shouldn't spend your time on whatever you're best at, but on whatever adds the most value, because those aren't always the same thing. I'd always assumed the opposite. At sixteen it was just an idea that made sense. It would be decades, and a very different kind of tool, before I understood what it meant for me.
+<!-- src: early years note (Economics GCSE, 22 Nov 00:11); review 22 Nov 00:31: name the theory here; comparative advantage (Ricardo, On the Principles of Political Economy and Taxation, 1817); ch 3 expands it -->
+
 <!-- p: 01-21 | agreed 2026-11-22 -->
 I always wanted to be a programmer. My career took me a different way. During my software development degree I did a paid placement with a company in Brussels, in 2000. They spotted something in me early: I ended up doing consultancy, and teaching NT4 and networking courses. I was also responsible for setting up the classrooms, and that was where the real lesson was.
 <!-- src: early years note (Brussels placement, 2000); employer not named -->
 
 <!-- p: 01-22 | agreed 2026-11-22 -->
-Setting up a classroom for a course meant following a binder, step by step, machine by machine. It took hours, and it was the same hours every time. So I looked at the tools available for copying whole disks. They were all immature then. I picked PowerQuest's Drive Image Pro, even though it wasn't the market leader, for one reason: unlike its competitors, it could be scripted. Each machine got hidden partitions on its hard drive that could put a course back in place on demand. Where a setup couldn't be made general enough for that, I built DVD-based installs instead. Hours became minutes. The time I got back is what let me start my consultancy and teaching career.
-<!-- src: early years note; Ant, 22 Nov 00:15 (Drive Image Pro, chosen because it was scriptable) -->
+Setting up a classroom for a course meant following a binder, step by step, machine by machine. It took hours, and it was the same hours every time. So I looked at the tools available for copying whole disks. They were all immature then. I picked PowerQuest's Drive Image Pro, even though it wasn't the market leader, for one reason: unlike its competitors, it could be scripted. Each machine got hidden partitions on its hard drive that could put a course back in place on demand. Where a setup couldn't be made general enough for that, I built DVD-based installs instead. Hours became minutes, and the time I got back went into the consultancy and teaching.
+<!-- src: early years note; Ant, 22 Nov 00:15 (Drive Image Pro, chosen because it was scriptable); polish question 3 agreed 22 Nov 01:21 (ending reworded) -->
 
 <!-- p: 01-23 | agreed 2026-11-22 -->
 They were a testing centre too, and they gave me my MCSE exams for free. On the back of how things went, they also paid for my MCSD, in Visual Basic 6. When I graduated they offered me a career there. I turned it down, because by then I'd met the woman who would become my wife. But I'd learned something I didn't fully notice at the time: the best use of my hours was building the thing that saved them.
@@ -47,8 +47,8 @@ They were a testing centre too, and they gave me my MCSE exams for free. On the 
 Since then my work has been in infrastructure and networks, and later cloud platforms: Azure and AWS. In 2002 I joined a financial sector company as a senior technician, and went on to become its data centre manager. I did a lot of work in those years. Progress was just hard.
 <!-- src: review 22 Nov 00:47 (Azure and AWS; senior technician to data centre manager; "I did loads of work, progress was hard"), notes/interviews/build-the-thing/2026-11-22-career-and-own-time.md; employer not named -->
 
-<!-- p: 01-05 | agreed 2026-11-22 -->
-The most useful thing I built there was an audit tool: a VBScript with a simple HTA front end that let me check our whole infrastructure. It could run from a floppy disk, which mattered: we had a hard DMZ and even some air-gapped servers that nothing else could reach. It gave me one consolidated view of everything we ran. I built it because I needed it, before I'd even heard of ITIL or a configuration management database. Cloud computing didn't exist yet, and virtualisation was in its infancy. Years later, once the cloud arrived, that tool grew into something I called AzureDump. I kept expecting it to be made pointless by something public and polished, and every so often something came along that looked like it might. Each time, my tool still did things the others didn't.
+<!-- p: 01-05 | reopened 2026-11-22: 'free tools' clarified as free tools on the PowerShell Gallery -->
+The most useful thing I built there was an audit tool: a VBScript with a simple HTA front end that let me check our whole infrastructure. It could run from a floppy disk, which mattered: we had a hard DMZ and even some air-gapped servers that nothing else could reach. It gave me one consolidated view of everything we ran. I built it because I needed it, before I'd even heard of ITIL or a configuration management database. Cloud computing didn't exist yet, and virtualisation was in its infancy. Years later, once the cloud arrived, that tool grew into something I called AzureDump. I kept expecting it to be made pointless by free tools other people published, mostly on the PowerShell Gallery, and every so often something came along that looked like it might. Each time, my tool still did things the others didn't.
 <!-- src: interview 1, Q1; review 22 Nov 00:47 (VBS with HTA front end, ran from floppy, DMZ and air-gapped servers, consolidated view, before ITIL and CMDBs); review 22 Nov 00:53 (no cloud in 2002, virtualisation in its infancy; AzureDump is the later name); Ant, 21 Nov 2026: AzureDump is his own IP and can be named -->
 
 <!-- p: 01-26 | agreed 2026-11-22 -->
@@ -94,9 +94,9 @@ Meanwhile, the team I was part of decided to vibe code its own deployment tool: 
 I found it frustrating, and it took me a while to say why. The team had the same AI I had. But it was using it to do the old way of working a bit faster: the same small tasks, the same hand-offs, the same pace. The project lacked ambition. Not because the people lacked talent, but because nobody had asked how different the work could be now.
 <!-- src: interview 1, Q2 -->
 
-<!-- p: 01-16 | agreed 2026-11-22 -->
-Then the job changed. I took voluntary redundancy and quickly found a new role. Somewhere in that change, I finally asked myself the question I'd been circling: where is the ceiling, really? From the middle of September 2026, I set myself a challenge. Keep improving, all the time, and see how far AI could take me.
-<!-- src: interview 1, Q2; review 22 Nov 01:09 (started mid September 2026, not mid October) -->
+<!-- p: 01-16 | reopened 2026-11-22: start date 14 September, first day of gardening leave, between job applications -->
+Then the job changed. I took voluntary redundancy and quickly found a new role. Somewhere in that change, I finally asked myself the question I'd been circling: where is the ceiling, really? I started on 14 September 2026, the first day of my gardening leave, in between applying for jobs, which understandably came first. I set myself a challenge. Keep improving, all the time, and see how far AI could take me.
+<!-- src: interview 1, Q2; review 22 Nov 01:09 and 01:21 (started 14 Sep 2026, first day of gardening leave, between job applications) -->
 
 <!-- p: 01-17 | agreed 2026-11-22 -->
 I didn't start with a grand plan. I was skint, and I wanted to make Charlie, my partner, a present. A website for her modelling seemed the obvious thing. I expected to write a good chunk of the code myself and let the AI help. That isn't what happened. Before long I wasn't building a website. I was building the thing that would build it.
