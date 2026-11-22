@@ -44,13 +44,15 @@ On the evening of 18 October, the first scheduled run of the night began at 22:4
 At 06:14 the next morning, a morning brief ran for the first time. It read every report from the night and wrote me one page. Three projects had run overnight. One had put its work live; another had finished its whole list and was waiting for me to say yes. And there were 26 recommendations for me to agree, each with a reason, an action and a note on whether it could be done without me. Its only complaint was that it couldn't see one project, because I hadn't given it access. Five weeks on, I'm still typing "attach repos".
 <!-- src: smoothey/jimmy governance/reports/2026-10-18/morning-brief.md (06:14, first run; runs table; 26 recommendations with why, action, type, size and unattended; flag 2026-10-18-morning-brief-1, couldn't read ultimatetranscender, HTTP 403); Ant typed "attach repos" in the Jimmy project chat 22 Nov 02:02 -->
 
-<!-- p: 02-12 | draft -->
-Reading it, I realised I could genuinely be onto something. In software, DevOps is the name for the habits that take code from an idea to live and keep it running. This was the same thing, run by AI: AI DevOps, or whatever we end up calling it. I read every line. Then I went straight to Charlie's site, and to anything in Jimmy that might hold it up. Twenty-six decisions didn't daunt me, because I knew I could use AI to triage those too.
+<!-- p: 02-12 | agreed 2026-11-22 -->
+I read every line. By the end, I realised I might genuinely be onto something. In software, DevOps is the name for the habits that take code from an idea to live and keep it running. This was the same thing, run by AI: AI DevOps, or whatever we end up calling it. Then I went straight to Charlie's site, and to anything in Jimmy that might hold it up. Twenty-six decisions didn't daunt me, because I knew I could use AI to sort and rank those too.
 <!-- src: Ant 22 Nov 02:12 (onto something; AI DevOps "whatever we want to call it"; read it all; focused on Charlie Doll and Jimmy functionality that may hold it up; not daunted, could triage using AI) -->
+<!-- rev: reordered, 'might', 'sort and rank'; agreed by Ant 22 Nov 17:13 ('for now') -->
 
-<!-- p: 02-16 | draft -->
-I still do. Even now, with a dashboard that shows every project, I often just ask the AI what needs my attention. The dashboard shows me everything. The question gets me a short list, in order, and I can argue with it. One I look at; the other I talk to. That's why I'm building a cockpit: one place that blends the two.
+<!-- p: 02-16 | agreed 2026-11-22 -->
+I still do. Even now, with a dashboard that shows every project, I often just ask the AI what needs my attention. The dashboard shows me everything. The question gets me a short list, in order, and I can argue with it. One I look at; the other I talk to. That's why I'm building what I call the Cockpit: one place that blends the two.
 <!-- src: Ant 22 Nov 02:12 (often ask AI "What needs my attention"; curated, prioritised experience has value because it's interactive; cockpit built to create that blended experience) -->
+<!-- rev: 'what I call the Cockpit' (matches ch 18); agreed by Ant 22 Nov 17:14 -->
 
 <!-- p: 02-13 | draft -->
 That's the idea this book is about, and it's simple enough to fit in one sentence. Stop doing the work, and build the thing that does the work. The website was the work. The store, the rules and the runs were the thing that builds the things. Once that existed, every project I added got the same memory, the same rules and the same nights for free.
