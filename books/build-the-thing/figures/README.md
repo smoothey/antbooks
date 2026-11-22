@@ -6,7 +6,7 @@ Made by `charts.py` and `diagrams.py` (SVG and PNG). The admin renders come from
 
 | File | Chapter | What it shows | Source |
 | --- | --- | --- | --- |
-| fig02a-admin-grew.png | 2 | The Poseroll admin on 13, 16 and 25 Oct (4, 20, 46 files) | smoothey/poseroll git history at those dates |
+| fig02a-admin-grew.png | 2 | The Poseroll admin on 13, 16 and 25 Oct (4, 20, 46 files) | smoothey/poseroll git history at those dates; logo replaced with a placeholder; the reveal date on the 25 Oct checklist replaced with "the reveal" (Ant, 22 Nov) |
 | fig02b-how-it-grew | 2 | One problem at a time: repo, site, Jimmy, store, first night, brief and Hub, share of a night, Cockpit | chapter 2 (agreed); r2jimmy decisions; Cockpit plan docs |
 | fig03a-incremental-vs-compound | 3 | A capped straight line against a curve | illustration of the chapter's idea, no data |
 | fig03b-changes-per-week | 3 | Changes saved per week, 140 to 929 | git history of six repos, counted 22 Nov 2026 (SB-4) |
