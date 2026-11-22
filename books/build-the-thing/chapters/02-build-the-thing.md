@@ -54,13 +54,17 @@ I still do. Even now, with a dashboard that shows every project, I often just as
 <!-- src: Ant 22 Nov 02:12 (often ask AI "What needs my attention"; curated, prioritised experience has value because it's interactive; cockpit built to create that blended experience) -->
 <!-- rev: 'what I call the Cockpit' (matches ch 18); agreed by Ant 22 Nov 17:14 -->
 
-<!-- p: 02-13 | draft -->
-That's the idea this book is about, and it's simple enough to fit in one sentence. Stop doing the work, and build the thing that does the work. The website was the work. The store, the rules and the runs were the thing that builds the things. Once that existed, every project I added got the same memory, the same rules and the same nights for free.
+<!-- p: 02-13 | agreed 2026-11-22 -->
+But the real idea, the one this book is about, fits in one sentence. Stop doing the work, and build the thing that does the work. The website was the work. The store, the rules and the runs were the thing that builds the things. Once that existed, every project I added got the same memory, the same rules and the same nights, without any extra work from me.
+<!-- rev: src: Ant's title and thesis (21 Nov), outline; 'But the real idea', 'without any extra work'; agreed by Ant 22 Nov 17:15 -->
 
-<!-- p: 02-14 | draft -->
-It also changed what I did all day. It was pointless for me to write code any more. The AI wrote it faster than I could, and it could work while I slept. What it couldn't do was decide where we were going, challenge its own decisions, design the way the work should flow, or check the result. That was where I added the most value. The idea I'd met in Economics GCSE had finally caught up with me.
+<!-- p: 02-14 | agreed 2026-11-22 -->
+Building it also changed what I did all day. After all those years wanting to be a programmer, there was no point in me writing code any more. The AI wrote it faster than I could, and it could work while I slept. What it couldn't do was decide where we were going, challenge its own decisions, design the way the work should flow, or check the result. That was where I added the most value. The idea I'd met in Economics GCSE had finally caught up with me.
 <!-- src: early years note (realising it's pointless to write code; value from direction, critical review, process design, reviewing PRs); chapter 1, 01-24 (agreed) -->
+<!-- rev: irony version (callback to 01-21); agreed by Ant 22 Nov 17:16 -->
 
-<!-- p: 02-15 | draft -->
-By the end of October the same system was running all of my projects: Charlie's site, a photo organiser, a series of technical study guides, a game, and the system itself. It had a home page of its own, which I called the Hub, where I could see every project's progress and the short list of things only I could decide. It wasn't finished. It still isn't. But the shape was there, and it's the shape the rest of this book describes.
+<!-- p: 02-15 | agreed 2026-11-22 -->
+By the end of October the same system was running all of my projects: Charlie's site, a photo organiser, a camera coaching app, a series of technical study guides, a game, and the system itself. It had a home page of its own, which I called the Hub, where I could see every project's progress and the short list of things only I could decide. It wasn't finished. It still isn't. But the shape was there, and it's the shape the rest of this book describes.
 <!-- src: architecture docs, 21 Oct (projects table); memory, jimmy (19 Oct: progress page on the store is his source of truth); CLAUDE.md (study guides never named) -->
+<!-- rev: camera coaching app added (Togmatic approved on the Hub 28 Oct 2026, project register); agreed by Ant 22 Nov 17:17 -->
+
