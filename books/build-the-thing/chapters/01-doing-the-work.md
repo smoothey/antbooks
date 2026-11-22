@@ -72,14 +72,14 @@ I still have a message I posted for her in January 2019, walking her through how
 Reading that now, it's the whole problem in one line. However much I handed over, the last step always waited on me. She could describe what she wanted, but nothing happened until I found the time to write it. I wanted to turn Ophelia into something anyone could use. I never had the bandwidth. The service she was built on has since been retired, and she went with it.
 <!-- src: interview 2 follow-up; Ant, 21 Nov 2026 (LUIS retired, project retired) -->
 
-<!-- p: 01-10 | draft -->
+<!-- p: 01-10 | agreed 2026-11-22 -->
 That was the pattern for years. The limit wasn't ideas, and it wasn't skill. It was hours. Every idea had to pass through one person with a day job, and that person was the narrowest part of the pipe. Working harder made the pipe a little wider for a while. It never changed its shape.
 
-<!-- p: 01-11 | draft -->
+<!-- p: 01-11 | agreed 2026-11-22 -->
 My first real taste of AI at work came when I was seconded into a Data & AI team at a previous employer. I was careful with it. At first I only asked it to help me troubleshoot. Later I let it track down problems, but only ones I was confident I understood and could fix myself in time if it went wrong. Some colleagues used it to explain how code worked. Among the people I worked with I was usually the best developer, and reading code had always been a strength, so that wasn't where it helped me.
 <!-- src: interview 1, Q2; early years note (usually the best developer among peers; moved here from 01-24 in review, 22 Nov 00:32) -->
 
-<!-- p: 01-12 | draft -->
+<!-- p: 01-12 | agreed 2026-11-22 -->
 Where it did help was in writing the scripts. I started getting AI to write discovery and troubleshooting scripts for client problems. It was faster, and it let me work on more than one thing at once. My theories weren't always right. Its theories weren't always right either. But between us we generally turned days of troubleshooting into hours, and my clients got the benefit.
 <!-- src: interview 1, Q3 -->
 
