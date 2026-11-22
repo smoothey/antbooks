@@ -83,13 +83,13 @@ My first real taste of AI at work came when I was seconded into a Data & AI team
 Where it did help was in writing the scripts. I started getting AI to write discovery and troubleshooting scripts for client problems. It was faster, and it let me work on more than one thing at once. My theories weren't always right. Its theories weren't always right either. But between us we generally turned days of troubleshooting into hours, and my clients got the benefit.
 <!-- src: interview 1, Q3 -->
 
-<!-- p: 01-13 | draft -->
+<!-- p: 01-13 | agreed 2026-11-22 -->
 I was called in on one customer's firewall changes when the consultants who usually looked after it weren't around. I didn't know their setup, and a single change could take me a few hours. So I wrote down how the work should be done, step by step, and gave the AI a place to keep what it learned about that customer between jobs. After that, a change took minutes. And it worked the way I work: it fitted in with what was already there, and challenged it when something wasn't right. I didn't know it yet, but that was the idea behind everything that came later.
 <!-- src: interview 1 follow-ups (firewall before and after); notes/source-material/build-the-thing/2026-11-21-client-azure-ops-ai-usage.md; client not named -->
 
-<!-- p: 01-14 | draft -->
-Meanwhile, the team I was part of decided to build its own deployment tool with AI. I worked on some of its parts. It was one big Python program that, when you looked closely, mostly handed out templates. Nobody in the team knew Python well. It could just as easily have been PowerShell, and I genuinely don't think anyone stopped to ask what it should be written in. It was run very formally in Azure DevOps, broken into tiny tasks and handed out to individuals. Many of those tasks were things the AI could have finished in minutes.
-<!-- src: interview 1 follow-ups ("Lacked ambition") -->
+<!-- p: 01-14 | agreed 2026-11-22 -->
+Meanwhile, the team I was part of decided to vibe code its own deployment tool: let the AI write it, and hope. I worked on some of its parts. It was one big Python program that, when you looked closely, mostly handed out templates. Nobody in the team knew Python well. It could just as easily have been PowerShell, and I genuinely don't think anyone stopped to ask what it should be written in. It was run very formally in Azure DevOps, broken into tiny tasks and handed out to individuals. Many of those tasks were things the AI could have finished in minutes.
+<!-- src: interview 1 follow-ups ("Lacked ambition"); interview 1, Q2 ("vibe coded"; Ant, 22 Nov 01:07: keep the term) -->
 
 <!-- p: 01-15 | draft -->
 I found it frustrating, and it took me a while to say why. The team had the same AI I had. But it was using it to do the old way of working a bit faster: the same small tasks, the same hand-offs, the same pace. The project lacked ambition. Not because the people lacked talent, but because nobody had asked how different the work could be now.
