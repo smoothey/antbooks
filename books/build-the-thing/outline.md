@@ -28,7 +28,7 @@ Each chapter lists what it draws on: L = the logs (store records, run reports, d
 ## Part 4: Your turn
 14. **Start small: one loop, one record, one rule.** *Written fresh.*
 15. **Many projects from one hub.** Tiers, onboarding, saying no to projects. *L: project-tiers, project-onboarding.*
-16. **Two books a week.** Ultra Transcenders as the case study: research corpus, book prep, go-live in one pull request, the Sunday upload. *L: UT decisions and plan docs. Pen name only if Ant wants it.*
+16. **A production line, end to end.** One repeating piece of work followed from idea to published product, and how the line keeps evolving. Ultra Transcenders is the worked example (research corpus, book prep, go-live in one pull request, approval at one point), not the subject. The lesson is the line, not the number: readers should not anchor on two books a week. Ends with a checklist for any repeating output. *L: UT decisions and plan docs; Ant, 22 Nov 01:42.*
 17. **The right tool for each job.** Not everything needs the biggest model: local models, small helpers, brokers, cheapest capacity first. *L: ADR 0014, 0017, 0018; local model decisions.*
 18. **What comes next.** The Cockpit, own models, and where this goes. *L: own-photo-models, Cockpit plans; I.*
 

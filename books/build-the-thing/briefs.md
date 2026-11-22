@@ -6,6 +6,7 @@ Sources live in the store (`r2antbooks` `notes/interviews/build-the-thing/`, `no
 
 ## Introduction (drafted, not yet reviewed)
 - Job: the promise of the book in under 1,000 words.
+- Check at review: 00-02 says "two books a week". Keep it as one example among several, so readers don't anchor on it (Ant, 22 Nov).
 - Check at review: it repeats chapter 1's question ("where is the ceiling, really?"). Decide whether the intro asks it and chapter 1 answers it, or the intro leads with a different hook.
 - Now says mid September (fixed 22 Nov). Its list of themes should add comparative advantage and context.
 
@@ -32,7 +33,7 @@ Sources live in the store (`r2antbooks` `notes/interviews/build-the-thing/`, `no
 ## 3. Incremental against compound
 - Job: why building the system beats working harder.
 - Known: comparative advantage (Ricardo, 1817): from best developer to vision, architecture and design. The borrowed pace: AI planned in human-team time until they measured their own; share of a night; utilisation metrics added 21 Nov. The personal-time cost from ch 1 is the incremental side.
-- Gaps: before-and-after numbers (SB-4): books a week, pull requests and lines a week, Ant's own minutes a day. Unit counts only, no money.
+- Gaps: before-and-after numbers (SB-4): books a week, pull requests and lines a week, Ant's own minutes a day. Unit counts only, no money. Present them as Ant's results, not targets: readers shouldn't anchor on any one number (Ant, 22 Nov).
 
 ## 4. One place for the truth
 - Job: the store and the Hub, and why context is everything.
@@ -91,10 +92,13 @@ Sources live in the store (`r2antbooks` `notes/interviews/build-the-thing/`, `no
 - Job: tiers, onboarding, saying no.
 - Known: project-tiers and project-onboarding decisions; this book's own onboarding on 21 Nov (proposed, approved, repo, backlog, all in one evening) is a ready-made example.
 
-## 16. Two books a week
-- Job: the study guides as the case study.
-- Known: UT decisions and plan docs: research corpus, book prep, go-live in one pull request, the Sunday upload.
-- Gaps: pen name and series name in or out (Ant's call).
+## 16. A production line, end to end
+- Job (Ant, 22 Nov 01:42): show one repeating piece of work as a production line, from idea to published product, and how it keeps evolving.
+- Ultra Transcenders is cited as the worked example, including how the process is changing. It is not the subject.
+- Don't let readers anchor on the number. Two books a week is not the message; the message is building a line that runs at whatever pace fits the work.
+- Patterns: a shared source of material built once (the research corpus); one controlled release step (one pull request per book); approval at exactly one point; a steady cadence the system holds; the line itself improves over time.
+- Ends with a short checklist for any repeating output: a newsletter, client reports, releases.
+- Gaps: pen name and series name, in or out (Ant's call); what's changing in the line now.
 
 ## 17. The right tool for each job
 - Job: not everything needs the biggest model.
