@@ -15,6 +15,10 @@ Those bugs taught me the feeling this whole book is about. You write something d
 At school I kept turning homework into software. For some of my GCSE assignments I wrote computer programs instead of just doing the coursework. Writing the program was almost certainly more work than the assignment itself, though the program listings in my appendices did look impressive. But it forced me to understand the subject properly. You can't write code for something you only half understand.
 <!-- src: early years note, notes/interviews/build-the-thing/2026-11-22-early-years-and-game-theory.md -->
 
+<!-- p: 01-24 | draft -->
+School gave me one more thing I didn't value until much later. In Economics GCSE I came across an idea that turned my thinking upside down. I'd always assumed I should spend my time on whatever I was best at. The lesson was that what matters is where you add the most value, and those aren't always the same thing. Among the people I worked with I was usually the best developer. It would take a very different kind of tool before I understood what that lesson meant for me.
+<!-- src: early years note (Economics GCSE, 22 Nov 00:11); name of the idea to confirm with Ant -->
+
 <!-- p: 01-19 | draft -->
 When I was 17, my mother lost her bridge partner and asked if I'd play with her the following week. I knew nothing about bridge. So I got some books from the library, read them, and started writing my own bridge programs on my Amiga 500, in a language called AMOS. The programs were limited. But to write them I had to understand the game, and a week later my mother and I placed in the top ten per cent. Nobody believed it was the first time I'd played. With humans, at least.
 <!-- src: early years note (bridge at 17); check before print: his mother happy to be in it -->
