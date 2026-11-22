@@ -20,13 +20,15 @@ Around midnight the other projects took their turns. The Roblox game's run had n
 <!-- src: 2026-11-18/morning-brief.md (nightly-robroblox: applied RR-234's dates, no build work, 838 logic tests pass; nightly-togmatic: "the card says when a finger crept over the lens (TG-176)"; nightly-transcenders: "Corpus refreshed (815 pages, 13 changed) plus 696 new pages for the two VCAP books"; nightly-photo-organiser: PO-299, PO-300, PO-287, "Windows run on the first shift's head passed"). Study guide series and exam names not printed -->
 <!-- rev: 'Around midnight', 'target dates'; agreed by Ant 22 Nov 20:09 -->
 
-<!-- p: 06-05 | draft -->
+<!-- p: 06-05 | agreed 2026-11-22 -->
 At 01:37 Charlie's site came back for its second shift. It picked up the first run's hand-over note, mended a broken sync with the test version of the site, and finished six more items. On its own it used 112 minutes, more than any other shift that night. Around three, Jimmy's own runs worked on the system itself. The second of them tried to download a tool it wasn't allowed to fetch, was refused, and stopped there, without trying a way round. That's a safety stop working exactly as it should.
 <!-- src: 2026-11-18/morning-brief.md (nightly-charliedoll-2: "Mended the beta sync (CD-238 remade on main). Six items on poseroll#464"; "Charlie Doll's second shift used 112 minutes on its own"; nightly-jimmy-2: "stopped on safety after one block (a PowerShell download, not retried)") -->
+<!-- rev: agreed by Ant 22 Nov 20:12 -->
 
-<!-- p: 06-06 | draft -->
+<!-- p: 06-06 | agreed 2026-11-22 -->
 At 04:47 the late shift used the minutes the night had left to start the next pair of study guides. At 06:13 the morning brief gathered it all. Fifteen runs had been expected; fifteen had run, written their heartbeats and finished properly. They had used 372 of the night's 480 minutes, the best night that week. Everything that needed me fitted on one list.
 <!-- src: 2026-11-18/morning-brief.md ("All 15 expected runs ran, wrote a heartbeat and ended ok"; nightly-transcenders-2 late shift started the pair for 3 Jan, UT-70; "used 372 of 480 (78%). Over the 75% line for the first time in seven nights") -->
+<!-- rev: agreed by Ant 22 Nov 20:15; figure fig06 goes after this paragraph -->
 
 <!-- p: 06-07 | draft -->
 That's what a good night looks like. Now for the other kind.
