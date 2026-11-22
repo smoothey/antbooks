@@ -32,17 +32,20 @@ At the financial sector company, a whole team of developers built our business s
 Three years after I'd left, I was back there as a consultant on some unrelated work. My temporary fix was still running. The crash had never been fixed. The stopgap had worked so well that the pain went away, and with it, the reason to fix the cause. It was the right instinct to build something that kept working without me. I'd just built it on the wrong side of the problem.
 <!-- src: Ant, 22 Nov 17:34 (three years after leaving, contracted as a consultant for unrelated work; "temporary fix" still running; devs never fixed the source); closing reading by Claude, agreed by Ant 22 Nov 17:36 -->
 
-<!-- p: 03-06 | draft -->
-Which brings me back to the idea I met in Economics GCSE. It's called comparative advantage, and it was set out by the economist David Ricardo more than two hundred years ago. The usual way to explain it goes like this. A lawyer might type faster than her assistant. She still shouldn't do her own typing, because every hour she spends typing is an hour she isn't doing the work only she can do. Being best at something doesn't mean it's the best use of your time.
+<!-- p: 03-06 | agreed 2026-11-22 -->
+There's a second idea behind all this, and I met it long before any of these tools existed: in Economics GCSE. It's called comparative advantage, and it was set out by the economist David Ricardo more than two hundred years ago. The usual way to explain it goes like this. A lawyer might type faster than her assistant. She still shouldn't do her own typing, because every hour she spends typing is an hour she isn't doing the work only she can do. Being best at something doesn't mean it's the best use of your time.
 <!-- src: chapter 1, 01-24 (agreed); r2antbooks notes/interviews/build-the-thing/2026-11-22-early-years-and-game-theory.md (comparative advantage, Ant 00:11 to 00:13); the lawyer and typist is the standard textbook illustration, not Ant's own story -->
+<!-- rev: new bridge after the Jade story; agreed by Ant 22 Nov 17:38 -->
 
-<!-- p: 03-07 | draft -->
-For most of my career, I was the lawyer who did his own typing. Among the people I worked with I was usually the best developer, so writing the code myself felt like the obvious thing to do. Once AI could write code faster than me, that changed completely. My value moved to the things the AI couldn't do: deciding where we were going, designing how the work should flow, challenging decisions, and reviewing what came back.
+<!-- p: 03-07 | agreed 2026-11-22 -->
+For most of my career, I was the lawyer who did his own typing. Among the people I worked with I was usually the best developer, so writing the code myself felt like the obvious thing to do. Once AI could write code faster than me, that changed completely. In the world after AI, I add far more through vision, architecture and design than I ever did by typing code.
 <!-- src: notes/interviews/build-the-thing/2026-11-22-early-years-and-game-theory.md ("among his peers he has mostly been the best developer"; "in the post-AI world he adds much more in vision, architecture and design"; direction, critical review, process design, reviewing PRs); chapter 2, 02-14 (agreed) -->
+<!-- rev: ending in Ant's interview words (avoids repeating 02-14); agreed by Ant 22 Nov 17:39 -->
 
-<!-- p: 03-08 | draft -->
-Reviewing turns out to be quick. When we agreed how to measure my own time, we counted about five minutes to review and merge each piece of finished work. The AI does hours of building; I do minutes of checking. That's comparative advantage in practice, and it's also where the compounding comes from. The more the system can do without me, the more of my minutes go on the decisions that change what it does next.
+<!-- p: 03-08 | agreed 2026-11-22 -->
+Most of my hands-on time now goes on checking what comes back, and that turns out to be quick. When we agreed how to measure my own time, we counted about five minutes to review and accept each piece of finished work. The AI does hours of building; I do minutes of checking. That's comparative advantage in practice, and it's also where the compounding comes from. The more the system can do without me, the more of my minutes go on the decisions that change what it does next.
 <!-- src: r2jimmy decision sizing-night-share (antTime "includes reviewing and merging (about 5 min a PR)") -->
+<!-- rev: bridge added, 'review and accept'; agreed by Ant 22 Nov 17:40 -->
 
 <!-- p: 03-09 | draft -->
 There was one thing slowing all of this down, and it took me a while to see it. The AI kept planning my work as if a team of people were doing it. It sized tasks as small, medium and large, and talked in weeks and sprints. Left alone, it would happily plan a fortnight of work that it could then finish in a night. I found myself challenging it again and again.
