@@ -32,7 +32,7 @@ That was the firewall lesson again, on a bigger scale. Once the AI had somewhere
 Rules came next. I wanted every screen I built to feel the same, so I started writing down interface rules. I'd been an Apple fan once, and I borrowed the idea from Apple's interface guidelines: one written set of rules everyone follows, so you don't decide the same thing twice. The interface rules grew into rules for everything else: how work gets planned, who approves what, what must never happen. That became governance, and governance became Jimmy. Not just the cat in the admin area any more, but the system that holds the rules and runs the work.
 <!-- src: interview 2, Q1 (consistent interface; Apple's interface rules; rules morphed into governance and later Jimmy) -->
 
-<!-- p: 02-09 | draft -->
+<!-- p: 02-09 | agreed 2026-11-22 -->
 None of this was designed up front. I didn't sit down and plan a store, a set of rules and a system to run my projects. Each piece was the answer to the problem the last piece had shown up. Memory showed I needed one place for the truth. One place for the truth showed I needed rules about what went in it. Rules showed I needed something to follow them while I wasn't there.
 <!-- src: interview 2 (developed organically); theme note on best practice layered on as needed -->
 
