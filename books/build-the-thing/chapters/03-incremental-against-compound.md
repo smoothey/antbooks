@@ -15,13 +15,22 @@ Compounding works differently. Some things you make keep paying out, and each on
 <!-- src: outline ch 3 ("what compounds: rules, tools, records"); r2jimmy decision sizing-night-share (20 Oct 2026: agreed 11:50, governance merged 13:05, "live for tonight's runs", applies to every project) -->
 <!-- rev: 'easier to build', 'into Jimmy'; agreed by Ant 22 Nov 17:27 -->
 
-<!-- p: 03-04 | draft -->
-Here's a real example. On the morning of 20 October I agreed a new way of sizing work, which I'll come to later in this chapter. By lunchtime it was written into the rules, and that night every project used it. One decision, made once, changed how six projects planned their work, and it has kept doing so every night since.
+<!-- p: 03-04 | agreed 2026-11-22 -->
+Here's a real example. On the morning of 20 October I agreed a new way of sizing work, which I'll come to later in this chapter. By lunchtime it was written into the rules, and that night every project used it. One decision, made once, changed how five projects planned their work, and it has kept doing so every night since.
 <!-- src: r2jimmy decision sizing-night-share (decided 11:50, governance merged 13:05 on 20 Oct 2026; appliesTo: r2poseroll, r2jimmy, r2photoorganiser, r2transcenders, r2robroblox, w2aaah once live) -->
+<!-- rev: 'five' (sixth, w2aaah, was 'once live'); agreed by Ant 22 Nov 17:27 -->
 
-<!-- p: 03-05 | draft -->
-Effort doesn't compound. An evening spent fixing something by hand is gone once it's spent. It might help, but tomorrow starts from the same place. So I started asking one question of everything I did: will this leave something behind that works without me? If the answer was no, it was probably the wrong thing for me to be doing.
-<!-- src: outline ch 3 ("what doesn't compound: effort"); NEEDS ANT: confirm the question is one he actually asks, or reword -->
+<!-- p: 03-05 | agreed 2026-11-22 -->
+Effort doesn't compound. An evening spent fixing something by hand is gone once it's spent. It might help, but tomorrow starts from the same place. I've had one principle since I wrote my first scripts: it isn't enough for something to fix the problem in front of me. It should stop the problem coming back.
+<!-- src: Ant, 22 Nov 17:34 ("not just asking myself if something fixes the issue, it's whether it prevents future issues too"; principle "right back to when I first made scripts"); agreed by Ant 22 Nov 17:36 -->
+
+<!-- p: 03-05b | agreed 2026-11-22 -->
+At the financial sector company, a whole team of developers built our business systems in a language called Jade. The software kept falling over at night, and I was asked to help soften the impact. I pushed back. The developers should stop it crashing in the first place. But to help in the meantime, I built a VBScript tool that watched the network connections the software used, and restarted it if they dropped. I was clear that it wasn't a fix. It was a stopgap, until they fixed the cause.
+<!-- src: Ant, 22 Nov 17:34 (Jade business systems falling over at night; pushed back; VBScript tool monitoring the ports, restarting the app; "it wasn't a fix, it was a stopgap"); employer not named; agreed by Ant 22 Nov 17:36 -->
+
+<!-- p: 03-05c | agreed 2026-11-22 -->
+Three years after I'd left, I was back there as a consultant on some unrelated work. My temporary fix was still running. The crash had never been fixed. The stopgap had worked so well that the pain went away, and with it, the reason to fix the cause. It was the right instinct to build something that kept working without me. I'd just built it on the wrong side of the problem.
+<!-- src: Ant, 22 Nov 17:34 (three years after leaving, contracted as a consultant for unrelated work; "temporary fix" still running; devs never fixed the source); closing reading by Claude, agreed by Ant 22 Nov 17:36 -->
 
 <!-- p: 03-06 | draft -->
 Which brings me back to the idea I met in Economics GCSE. It's called comparative advantage, and it was set out by the economist David Ricardo more than two hundred years ago. The usual way to explain it goes like this. A lawyer might type faster than her assistant. She still shouldn't do her own typing, because every hour she spends typing is an hour she isn't doing the work only she can do. Being best at something doesn't mean it's the best use of your time.
