@@ -1,12 +1,14 @@
 # Chapter 5: Work while you sleep
 
-<!-- p: 05-01 | draft -->
-The first night run, on 18 October, lasted less than an hour and worked on one project. A month later, every night has more than a dozen runs across seven projects, from before eleven in the evening until six the next morning. None of them needs my laptop on. Each one is a scheduled task in the cloud, so it runs whether I'm at my desk, asleep, or away.
+<!-- p: 05-01 | agreed 2026-11-22 -->
+The first night run, on 18 October, lasted less than an hour. A month later, every night has more than a dozen runs across seven projects, from before eleven in the evening until six the next morning. None of them needs my laptop on. Each one is a scheduled task in the cloud, so it runs whether I'm at my desk, asleep, or away.
 <!-- src: chapter 2, 02-10 (agreed: first run 22:48 to 23:45 on 18 Oct); smoothey/jimmy governance/schedule.md (nightly runs from 22:47; window ends 06:00; "Every run is a Claude scheduled task in the cloud, so it runs whether or not the MSI laptop or Balrog is on"); readiness.md (seven projects: Charlie Doll, Snappier, Jimmy, Robyn's Roblox, Togmatic, Ultra Transcenders, Work) -->
+<!-- rev: 'worked on one project' cut (ch 2 says three projects ran that night); agreed by Ant 22 Nov 19:27 -->
 
-<!-- p: 05-02 | draft -->
+<!-- p: 05-02 | agreed 2026-11-22 -->
 The night actually starts in the afternoon. At 16:37 a readiness check looks at every project and asks a simple question: is there something tonight's run can do without me? If a project has nothing agreed, or its code is broken, I hear about it while there's still time to fix it. At 20:23 an agency test goes further. It proves that tonight's runs can do their jobs without anyone approving anything: that each one can reach its code, read its rules and save its work. If any check fails, I know before I go to bed, not when I wake up.
 <!-- src: smoothey/jimmy governance/schedule.md (16:37 readiness, 20:23 agency test); loops/readiness.md ("Makes sure every project has something its run can do tonight, so Ant can fix it before the evening if not"; unattended work; main passing CI); loops/agency-test.md ("Proves, before the night starts, that tonight's runs can do their jobs without anyone approving anything. If any check fails, Ant hears about it by 21:00"; clone, read rules, push) -->
+<!-- rev: agreed by Ant 22 Nov 19:31 (as is) -->
 
 <!-- p: 05-03 | draft -->
 Then the runs begin, one after another. Charlie's site goes first, at 22:47. The Roblox game follows just before midnight, then the camera app, the study guides and the photo organiser in the small hours, then Jimmy itself and the work projects towards three. Most projects also get a second shift later in the night. The start times are deliberately odd, like 22:47 rather than 23:00, because runs set for the hour tend to start late when the service is busy.
