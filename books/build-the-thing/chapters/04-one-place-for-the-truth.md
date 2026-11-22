@@ -1,12 +1,14 @@
 # Chapter 4: One place for the truth
 
-<!-- p: 04-01 | draft -->
+<!-- p: 04-01 | agreed 2026-11-22 -->
 AI sometimes says stupid things. Anyone who has used it for more than an afternoon has seen it: a confident answer that ignores something obvious, a plan that breaks a rule you agreed an hour ago, a fix for a problem you solved last week. For a long time I took that as a limit of the tool. Then I started asking a different question. Is it stupid, or has nobody given it the right context?
 <!-- src: notes/interviews/build-the-thing/2026-11-22-theme-context.md (Ant, 22 Nov 00:38: "AI sometimes says stupid things. But is it stupid, or just not given the right context?") -->
+<!-- rev: agreed by Ant 22 Nov 18:50 (as is) -->
 
-<!-- p: 04-02 | draft -->
+<!-- p: 04-02 | agreed 2026-11-22 -->
 Most of the time, it's the context. Think of the cleverest new colleague you've ever had, on their first morning. They know their trade inside out, and they know nothing about your place: what you've already tried, what the customer hates, which system falls over if you touch it. Every new chat with an AI is that first morning. Unless you give it what it needs to know, it will fill the gaps with sensible guesses, and some of those guesses will look stupid.
 <!-- src: theme note (context); Claude's analogy, offered for Ant to accept -->
+<!-- rev: agreed by Ant 22 Nov 18:50 -->
 
 <!-- p: 04-03 | agreed 2026-11-22 -->
 Here's an example from the week before we revealed Charlie's site. Releases were about to be frozen, and as we planned around the freeze, the AI kept asking me the same question about item after item: should this go before the freeze, or after? I gave the same answer every time. It felt like talking to someone who wasn't listening. But it wasn't stupid. Each chat started fresh, and my answer had never gone anywhere the next one could see. So on 24 October we wrote it down as a standing rule: before the freeze by default, unless there's a good reason not to. The question stopped.
