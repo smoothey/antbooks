@@ -57,7 +57,7 @@ It wasn't the only one. I also built Metis, an intranet site with a floor plan o
 <!-- src: review 22 Nov 00:47 and 00:53 (Metis: floor plan intranet; more useful than SCCM, which he also installed) -->
 
 <!-- p: 01-06 | draft -->
-There was a catch, and it took me years to see it clearly. To get that kind of value, I was spending my own time on work I couldn't fit into my working day. The tools did save time once they existed, but I paid for them in evenings. And keeping them going got harder every year. Every change to those tools, and later to AzureDump, was mine to make, by hand. There was a list of features I knew it needed, and the list didn't get shorter.
+There was a catch, and it took me years to see it clearly. To get that kind of value, I was spending my own time on work I couldn't fit into my working day. The tools did save time once they existed, but I paid for them in evenings. And keeping them going got harder every year. Every change to those tools, and later to AzureDump, was mine to make, by hand. There was a list of features I knew AzureDump needed, and the list didn't get shorter.
 <!-- src: review 22 Nov 00:47 ("burning my personal time on work tasks... it still helped free time but at a personal cost"); interview 1, Q1 (hard to maintain, features put off) -->
 
 <!-- p: 01-07 | draft -->
