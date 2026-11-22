@@ -60,10 +60,7 @@ The nights aren't the only time the work goes on. During the day, extra runs pic
 <!-- src: schedule.md (07:00 to 21:30 credit runs for Jimmy, Snappier, Robyn's Roblox, Togmatic, Charlie Doll queued tasks only; "started by the backup runner"; daily allowance in cycles.json budget.credit); no money figures per the never list -->
 <!-- rev: credit runs may merge when green and nothing on the hold list (merging.md); agreed by Ant 22 Nov 19:48 -->
 
-<!-- p: 05-13 | draft -->
+<!-- p: 05-13 | agreed 2026-11-22 -->
 My part of the night is small, but it isn't nothing. Before bed I usually check what's waiting and accept a couple of pull requests, so the night starts from the latest work. On 18 November I accepted two at 23:15 and 23:53, while Charlie's site was mid-run. In the morning I read the brief, agree or decline what it asks, and accept what's ready. Twenty minutes either side of sleep, against a night of building.
-<!-- src: smoothey/jimmy governance/reports/2026-11-18/morning-brief.md (poseroll#453 merged 23:15, poseroll#460 merged 23:53); NEEDS ANT: "twenty minutes either side of sleep" is Claude's estimate; give a real figure or soften -->
-
-<!-- p: 05-14 | draft -->
-That's how the nights work on paper. What it looks like in practice, hour by hour, with the good nights and the bad, is the next chapter.
-<!-- src: bridge to ch 6 -->
+<!-- src: smoothey/jimmy governance/reports/2026-11-18/morning-brief.md (poseroll#453 merged 23:15, poseroll#460 merged 23:53); "twenty minutes either side of sleep" confirmed by Ant 22 Nov 19:52 -->
+<!-- rev: agreed by Ant 22 Nov 19:52 -->
