@@ -12,16 +12,17 @@ I didn't wait for them to say yes. I used to hang around computer shops and writ
 The Commodore 64's manual turned out to be full of program listings. I typed every one of them in, line by line, and I grew and learnt with each one. Before long I was using the 64's graphics keys to make my own bugs walk across the screen, with brackets for legs, and balls that bounced around it. Later I discovered Input, a magazine that printed listings for every home computer of its day. I still have the full set. It's one of my prized possessions, even if it's no use to anyone now. You typed those listings in line by line too, and heaven help you if you forgot to save. That's how I learnt to program: by copying out other people's instructions until I understood them well enough to write my own.
 <!-- src: interview 1 follow-ups (C64 graphics keys, bugs, bouncing balls); review 22 Nov 00:27 (C64 manual listings typed in line by line; Input magazine, full set kept; forgetting to save) -->
 
-<!-- p: 01-03 | draft -->
+<!-- p: 01-03 | agreed 2026-11-22 -->
 Those bugs taught me the feeling this whole book is about. You write something down, the machine does it, and it keeps doing it after you've stopped. A loop. A few lines of instructions, and the screen is busy without you. I didn't have words for it then, but I've been chasing that feeling ever since.
 
-<!-- p: 01-18 | draft -->
+<!-- p: 01-18 | agreed 2026-11-22 -->
 At school I kept turning homework into software. For some of my GCSE assignments I wrote computer programs instead of just doing the coursework. Writing the program was almost certainly more work than the assignment itself, though the program listings in my appendices did look impressive. But it forced me to understand the subject properly. You can't write code for something you only half understand.
 <!-- src: early years note, notes/interviews/build-the-thing/2026-11-22-early-years-and-game-theory.md -->
 
-<!-- p: 01-24 | draft -->
-School gave me one more thing I didn't value until much later. In Economics GCSE I came across an idea that turned my thinking upside down. I'd always assumed I should spend my time on whatever I was best at. The lesson was that what matters is where you add the most value, and those aren't always the same thing. Among the people I worked with I was usually the best developer. It would take a very different kind of tool before I understood what that lesson meant for me.
-<!-- src: early years note (Economics GCSE, 22 Nov 00:11); the idea is comparative advantage, named in ch 3 (Ant, 22 Nov 00:13) -->
+<!-- p: 01-24 | agreed 2026-11-22 -->
+School gave me one more thing, and it was a game changer. In Economics GCSE I learnt about comparative advantage, an idea the economist David Ricardo set out in 1817. In plain terms: you shouldn't spend your time on whatever you're best at, but on whatever adds the most value, because those aren't always the same thing. I'd always assumed the opposite. At sixteen it was just an idea that made sense. It would be decades, and a very different kind of tool, before I understood what it meant for me.
+<!-- src: early years note (Economics GCSE, 22 Nov 00:11); review 22 Nov 00:31: name the theory here; comparative advantage (Ricardo, On the Principles of Political Economy and Taxation, 1817); ch 3 expands it -->
+
 
 <!-- p: 01-19 | draft -->
 When I was 17, my mother lost her bridge partner and asked if I'd play with her the following week. I knew nothing about bridge. So I got some books from the library, read them, and started writing my own bridge programs on my Amiga 500, in a language called AMOS. The programs were limited. But to write them I had to understand the game, and a week later my mother and I placed in the top ten per cent. Nobody believed it was the first time I'd played. With humans, at least.
@@ -71,8 +72,8 @@ Reading that now, it's the whole problem in one line. Everything waited on me. O
 That was the pattern for years. The limit wasn't ideas, and it wasn't skill. It was hours. Every idea had to pass through one person with a day job, and that person was the narrowest part of the pipe. Working harder made the pipe a little wider for a while. It never changed its shape.
 
 <!-- p: 01-11 | draft -->
-My first real taste of AI at work came when I was seconded into a Data & AI team at a previous employer. I was careful with it. At first I only asked it to help me troubleshoot. Later I let it track down problems, but only ones I was confident I understood and could fix myself in time if it went wrong. Some colleagues used it to explain how code worked. I've always been strong at reading code, so that wasn't where it helped me.
-<!-- src: interview 1, Q2 -->
+My first real taste of AI at work came when I was seconded into a Data & AI team at a previous employer. I was careful with it. At first I only asked it to help me troubleshoot. Later I let it track down problems, but only ones I was confident I understood and could fix myself in time if it went wrong. Some colleagues used it to explain how code worked. Among the people I worked with I was usually the best developer, and reading code had always been a strength, so that wasn't where it helped me.
+<!-- src: interview 1, Q2; early years note (usually the best developer among peers; moved here from 01-24 in review, 22 Nov 00:32) -->
 
 <!-- p: 01-12 | draft -->
 Where it did help was in writing the scripts. I started getting AI to write discovery and troubleshooting scripts for client problems. It was faster, and it let me work on more than one thing at once. My theories weren't always right. Its theories weren't always right either. But between us we generally turned days of troubleshooting into hours, and my clients got the benefit.
