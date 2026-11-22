@@ -40,13 +40,15 @@ The site I'd been building for Charlie went live on her birthday, as her present
 <!-- src: Ant, 22 Nov 2026 19:55 to 19:57 (the night was Charlie's birthday; the reveal was that day; they were in Canada; "the runs were happening from Azure runner in the main"); 2026-11-02/morning-brief.md (away mode on, about 120 minutes a day; "every task before 01:37 closed"); Ant, 22 Nov 20:01: Charlie is fine with her birthday being mentioned. The night's date is deliberately not given in the text -->
 <!-- rev: suggested version (callback to 04-03b, 'celebrating' dropped); agreed by Ant 22 Nov 20:23 -->
 
-<!-- p: 06-09 | draft -->
+<!-- p: 06-09 | agreed 2026-11-22 -->
 From 01:37 onwards, seven shifts started and never reported back. There was no finish and no failure, just nothing. The morning brief, which should have reached me by seven, was still running at a quarter to twelve, with steps that normally take seconds taking hours. Its first lines told me, honestly, that seven shifts had vanished, and that it didn't know why.
 <!-- src: 2026-11-02/morning-brief.md ("Started 06:14 ... finished about 11:45, well past its 07:00 target. Steps that take seconds took hours ... and I don't know why"; "Seven shifts started and never reported ... Claude's task record shows no finish and no failure reason for any of them"; "Of the 8 tasks fired from 01:37 onward, only nightly-jimmy-2 closed") -->
+<!-- rev: agreed by Ant 22 Nov 20:24 -->
 
-<!-- p: 06-10 | draft -->
-That morning we were driving from Strathroy to Toronto. Before we left, I read the brief and set some investigations running, then checked in on my phone whenever we stopped. It's an odd feeling, finding out from a service station car park that half your night has gone missing, and trusting the system to find out why while you get back on the road.
-<!-- src: Ant, 22 Nov 2026 19:57 ("I was driving us to Toronto from Strayroy so I think I mainly set off investigations to run whilst I was driving") and 19:58 ("I set it off before we left and checked in on my phone during stops"). Ant, 22 Nov 20:01: Strathroy can be named. NEEDS ANT: "service station car park" is Claude's colour, check it fits -->
+<!-- p: 06-10 | agreed 2026-11-22 -->
+That morning we were driving from Strathroy to Toronto. Before we left, I read what the brief had so far and set some investigations running, then checked in on my phone whenever we stopped. It's an odd feeling, finding out from a rest stop that half your night has gone missing, and trusting the system to find out why while you get back on the road.
+<!-- src: Ant, 22 Nov 2026 19:57 ("I was driving us to Toronto from Strayroy so I think I mainly set off investigations to run whilst I was driving") and 19:58 ("I set it off before we left and checked in on my phone during stops"). Ant, 22 Nov 20:01: Strathroy can be named. 'rest stop' and 'what the brief had so far' agreed 22 Nov 20:26 -->
+<!-- rev: agreed by Ant 22 Nov 20:26 -->
 
 <!-- p: 06-11 | draft -->
 The cause turned out to be one I hadn't known existed. My runs were set to approve their own actions automatically, but that automatic approval has a limit. Each action is still checked, and if enough are blocked, three in a row or twenty in one session, the session stops approving itself and starts asking a person instead. From then on, even harmless steps wait for someone to tap Allow. In the middle of the night, with me asleep in Canada, nobody did. Some of those shifts sat waiting for up to eight and a half hours.
