@@ -24,12 +24,12 @@ School gave me one more thing, and it was a game changer. In Economics GCSE I le
 <!-- src: early years note (Economics GCSE, 22 Nov 00:11); review 22 Nov 00:31: name the theory here; comparative advantage (Ricardo, On the Principles of Political Economy and Taxation, 1817); ch 3 expands it -->
 
 
-<!-- p: 01-19 | draft -->
+<!-- p: 01-19 | agreed 2026-11-22 -->
 When I was 17, my mother lost her bridge partner and asked if I'd play with her the following week. I knew nothing about bridge. So I got some books from the library, read them, and started writing my own bridge programs on my Amiga 500, in a language called AMOS. The programs were limited. But to write them I had to understand the game, and a week later my mother and I placed in the top ten per cent. Nobody believed it was the first time I'd played. With humans, at least.
 <!-- src: early years note (bridge at 17); Ant, 22 Nov 00:15: his mother can be named -->
 
 <!-- p: 01-20 | draft -->
-I've worked that way ever since, and it's exactly how I work with AI now. I have to be able to say clearly what I'm trying to achieve, just as I had to understand bridge to program it. The difference is that the AI makes it a conversation. I still have to understand the problem. I no longer have to do all of the typing.
+I've worked that way ever since, and it's exactly how I work with AI now. I have to be able to frame clearly what I'm trying to achieve, just as I had to understand bridge to program it. The difference is that the AI makes it a conversation. I still have to understand the problem. I no longer have to do all of the typing.
 <!-- src: early years note ("AI for me is the same way") -->
 
 <!-- p: 01-21 | draft -->

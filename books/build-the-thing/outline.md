@@ -10,7 +10,7 @@ Each chapter lists what it draws on: L = the logs (store records, run reports, d
 3. **Incremental against compound.** What compounds (rules, tools, records) and what doesn't (effort). Comparative advantage: when AI writes the code, my value moves from being the best developer to vision, architecture and design. And the borrowed pace: AI plans in human-team time until you measure your own; the share-of-a-night measure. *I (Economics GCSE, 22 Nov; theme note 21 Nov), decisions sizing-night-share, night-load, night-utilisation; numbers from the Hub.*
 
 ## Part 2: The machine
-4. **One place for the truth.** The store, the Hub, and why chat memory isn't enough. *L: ADR 0002, 0003. I: value hidden in memories the user can't see.*
+4. **One place for the truth.** The store, the Hub, and why chat memory isn't enough. Is the AI stupid, or missing context? Good context management drives AI productivity. *L: ADR 0002, 0003. I: value hidden in memories the user can't see.*
 5. **Work while you sleep.** Night runs, shifts, budgets as a share of a night. *L: overnight-cycles, night-load, sizing-night-share.*
 6. **A night in the life.** One real night, hour by hour: from the evening run to the morning brief. Shifts, stalls, the 2am approvals. *L: run reports and morning briefs; I.*
 7. **Only real asks reach you.** Needs you, Agree, away mode, the phone test. *L: asks-need-ant-and-agree, away-mode.*
