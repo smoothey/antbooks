@@ -96,7 +96,7 @@ I found it frustrating, and it took me a while to say why. The team had the same
 <!-- src: interview 1, Q2 -->
 
 <!-- p: 01-16 | draft -->
-Then the job changed. I took voluntary redundancy and quickly found a new role. Somewhere in that change, I finally asked myself the question I'd been circling: where is the ceiling, really? From the middle of September 2026, I set myself a challenge. Keep improving, all the time, and put AI first.
+Then the job changed. I took voluntary redundancy and quickly found a new role. Somewhere in that change, I finally asked myself the question I'd been circling: where is the ceiling, really? From the middle of September 2026, I set myself a challenge. Keep improving, all the time, and see how far AI could take me.
 <!-- src: interview 1, Q2; review 22 Nov 01:09 (started mid September 2026, not mid October) -->
 
 <!-- p: 01-17 | draft -->
