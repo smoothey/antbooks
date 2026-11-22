@@ -67,14 +67,17 @@ So we changed the plan to match the evidence. On 22 October we started planning 
 <!-- src: r2jimmy decision night-load (22 Oct 2026: "Nights planned at about 2x nightShare; runs keep taking next items until a stop rule"); decision night-utilisation (22 Oct 2026: self-promote up to 6 of its own ideas, unattended yes only; "Morning brief reports minutes used of 480 and flags a night under 75%") -->
 <!-- rev: agreed by Ant 22 Nov 17:49 -->
 
-<!-- p: 03-13 | draft -->
-Why does the AI borrow a human pace in the first place? My guess is that it learned what work looks like from writing made before AI, when work was done by teams of people. It may also play safe and pad its estimates, and it has no way of knowing its own speed unless someone measures it. Whatever the cause, the lesson is the same one I learnt with bridge and with every tool since: don't assume, find out. The most expensive limit is the one you don't notice you've accepted.
+<!-- p: 03-13 | agreed 2026-11-22 -->
+I said at the start that my guess is the AI learned its sense of time from writing made before AI. There may be more to it. It may play safe and pad its estimates, and it can't know its own speed until someone measures it. Either way, the most expensive limit is the one you don't notice you've accepted.
 <!-- src: notes/interviews/build-the-thing/2026-11-21-theme-pace-anchoring.md (Ant's guess: anchored to training material from before AI; Claude's offered causes: caution, no view of its own throughput). NEEDS ANT: the two extra causes were Claude's suggestion; keep only if Ant agrees -->
+<!-- rev: shorter, nods to 00-05; Claude's two extra causes accepted by Ant 22 Nov 17:50 -->
 
 <!-- p: 03-14 | draft -->
 [NUMBERS TO COME, SB-4: before and after, in units only. What a typical month looked like before mid September (things shipped, changes made, my hours) against a typical month by November (projects running, changes made each week, nights used, my minutes a day). Presented as my results, not targets.]
 <!-- src: briefs.md ch 3 gaps; r2antbooks backlog btt-numbers (SB-4). Not for print until filled and agreed -->
 
-<!-- p: 03-15 | draft -->
-That's the whole difference. Incremental is adding hours to the work. Compound is adding things that add to the work: rules, tools, records, and a pace you've measured rather than borrowed. The first is capped by how much of yourself you can give. The second isn't, because each thing you add keeps working while you're asleep. The rest of this book is about the things I added, starting with the first one, the one everything else stands on: one place for the truth.
+<!-- p: 03-15 | agreed 2026-11-22 -->
+That's the whole difference. Incremental is adding hours to the work. Compound is adding things that add to the work: rules, tools, records, and a pace you've measured rather than borrowed. The first is capped by how much of yourself you can give. The second isn't, because each thing you add keeps working while you're asleep, as long as you've built it on the right side of the problem. The rest of this book is about the things I added, starting with the first one, the one everything else stands on: one place for the truth.
 <!-- src: outline ch 3 and ch 4 ("One place for the truth"); book thesis -->
+<!-- rev: Jade callback added; 'The second isn't' kept; agreed by Ant 22 Nov 17:51 -->
+
