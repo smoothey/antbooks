@@ -28,9 +28,9 @@ It hasn't all gone well, and I haven't left the bad parts out. Runs have stalled
 The book has four parts. Part 1 is the shift: where I was, the ceiling I hit, and the idea that got me past it. Part 2 is the machine: how the system actually works, from the store at its centre to what happens on a typical night, and how it keeps other people's lives private. Part 3 is what it taught me, including what it costs and when to trust it. Part 4 is your turn: how to start small, how to run many projects from one place, how to turn repeating work into a production line, and how to pick the right tool for each job, ending with where I think this goes next. At the back there's a starter kit you can copy, notes on sources, and a plain glossary.
 <!-- src: outline draft 2 (agreed 21 Nov 23:36); notes section agreed 22 Nov 16:32; fuller version, Ant 22 Nov 16:40 -->
 
-<!-- p: 00-08 | draft -->
-Almost everything here comes from records the system kept as it went: run reports, decisions, lessons and design notes, plus long conversations in which I was interviewed about the parts the records couldn't tell. Where I give a fact or a number, it comes from those records. I don't name clients or employers, past or present, and there are no money figures. Some people in these pages are close to me; they appear only in ways they've agreed to.
-<!-- src: smoothey/antbooks CLAUDE.md (sources and never list); Ant, 21 Nov 2026 (Charlie happy to be in the story) -->
+<!-- p: 00-08 | agreed 2026-11-22 -->
+Almost everything here comes from records the system kept as it went: run reports, decisions, lessons and design notes, plus long conversations in which I was interviewed about the parts the records couldn't tell. Where I give a fact or a number, it comes from those records, from my own memory, or from a source listed in the notes. I don't name clients or employers, past or present, and there are no money figures. Some people in these pages are close to me; they appear only in ways they've agreed to.
+<!-- src: smoothey/antbooks CLAUDE.md (sources and never list); Ant, 21 Nov 2026 (Charlie happy to be in the story); sources sentence widened and "agreed to" kept, Ant 22 Nov 16:42: check with everyone close to Ant who appears before upload (SB-15) -->
 
-<!-- p: 00-09 | draft -->
+<!-- p: 00-09 | agreed 2026-11-22 -->
 You don't need my setup to use what's in this book. You don't need Azure, a store of your own or a cat. If you have more ideas than hours, and you've started to suspect that working harder isn't the answer, this book is for you.
