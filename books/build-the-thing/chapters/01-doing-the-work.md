@@ -65,11 +65,11 @@ Not everything I built was for work. In 2019 I built a bot called Ophelia. She l
 <!-- src: interview 2, Q1 and follow-up -->
 
 <!-- p: 01-08 | draft -->
-I still have a message I posted for friends in January 2019, walking them through how to teach Ophelia something new. Log in. Create an intent. Name it properly. Type in examples of what people might say. Train it, publish it. And the last step: "Once done, give Ant the nod and he can write the code to recognise it."
-<!-- src: Ant's screenshot of the 12 Jan 2019 walkthrough (URL and key not reproduced) -->
+I still have a message I posted for her in January 2019, walking her through how to teach Ophelia something new. Log in. Create an intent. Name it properly. Type in examples of what people might say. Train it, publish it. Looking back, that was the clever part. LUIS let someone who couldn't program shape a tool we both used. I could hand part of the work over. But not all of it. The last step read: "Once done, give Ant the nod and he can write the code to recognise it."
+<!-- src: Ant's screenshot of the 12 Jan 2019 walkthrough (URL and key not reproduced); review 22 Nov 01:01 (posted for his partner; LUIS let a non-programmer contribute: delegation) -->
 
 <!-- p: 01-09 | draft -->
-Reading that now, it's the whole problem in one line. Everything waited on me. Other people could describe what they wanted, but nothing happened until I found the time to write it. I wanted to turn Ophelia into something anyone could use. I never had the bandwidth. The service she was built on has since been retired, and she went with it.
+Reading that now, it's the whole problem in one line. However much I handed over, the last step always waited on me. She could describe what she wanted, but nothing happened until I found the time to write it. I wanted to turn Ophelia into something anyone could use. I never had the bandwidth. The service she was built on has since been retired, and she went with it.
 <!-- src: interview 2 follow-up; Ant, 21 Nov 2026 (LUIS retired, project retired) -->
 
 <!-- p: 01-10 | draft -->
