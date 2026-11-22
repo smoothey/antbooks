@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="572.4pt" height="320.121204pt" viewBox="0 0 572.4 320.121204" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-22T18:34:08.359655</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 320.121204 
+L 572.4 320.121204 
+L 572.4 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 7.2 54.682729 
+L 565.2 54.682729 
+L 565.2 27.549741 
+L 7.2 27.549741 
+z
+" clip-path="url(#p53955ceb05)" style="fill: #efefef"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 7.2 91.990588 
+L 565.2 91.990588 
+" clip-path="url(#p53955ceb05)" style="fill: none; stroke: #bdbdbd; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 7.2 125.906824 
+L 565.2 125.906824 
+" clip-path="url(#p53955ceb05)" style="fill: none; stroke: #bdbdbd; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 7.2 159.823059 
+L 565.2 159.823059 
+" clip-path="url(#p53955ceb05)" style="fill: none; stroke: #bdbdbd; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 7.2 193.739294 
+L 565.2 193.739294 
+" clip-path="url(#p53955ceb05)" style="fill: none; stroke: #bdbdbd; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 7.2 227.655529 
+L 565.2 227.655529 
+" clip-path="url(#p53955ceb05)" style="fill: none; stroke: #bdbdbd; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 7.2 261.571765 
+L 565.2 261.571765 
+" clip-path="url(#p53955ceb05)" style="fill: none; stroke: #bdbdbd; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_7">
+    <path d="M 7.2 295.488 
+L 565.2 295.488 
+" clip-path="url(#p53955ceb05)" style="fill: none; stroke: #bdbdbd; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'Inter'; text-anchor: start; fill: #1e1e1e" x="15.57" y="45.299585" transform="rotate(-0 15.57 45.299585)">What I did</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 11.5px; font-family: 'Inter'; text-anchor: start; fill: #1e1e1e" x="336.42" y="45.299585" transform="rotate(-0 336.42 45.299585)">What it's called</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 11.5px; font-family: 'Inter'; text-anchor: start; fill: #1e1e1e" x="15.57" y="79.21582" transform="rotate(-0 15.57 79.21582)">A stopgap, then pushed for the real fix (the Jade crash)</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 11.5px; font-family: 'Inter'; text-anchor: start; fill: #e07a1f" x="336.42" y="79.21582" transform="rotate(-0 336.42 79.21582)">Problem management</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 11.5px; font-family: 'Inter'; text-anchor: start; fill: #1e1e1e" x="15.57" y="113.132055" transform="rotate(-0 15.57 113.132055)">An audit tool that listed everything we ran</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 11.5px; font-family: 'Inter'; text-anchor: start; fill: #e07a1f" x="336.42" y="113.132055" transform="rotate(-0 336.42 113.132055)">A configuration database (CMDB)</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 11.5px; font-family: 'Inter'; text-anchor: start; fill: #1e1e1e" x="15.57" y="147.048291" transform="rotate(-0 15.57 147.048291)">User stories written after the work was done</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 11.5px; font-family: 'Inter'; text-anchor: start; fill: #e07a1f" x="336.42" y="147.048291" transform="rotate(-0 336.42 147.048291)">User stories (usually written first)</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 11.5px; font-family: 'Inter'; text-anchor: start; fill: #1e1e1e" x="15.57" y="180.964526" transform="rotate(-0 15.57 180.964526)">No releases in the week before a reveal</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 11.5px; font-family: 'Inter'; text-anchor: start; fill: #e07a1f" x="336.42" y="180.964526" transform="rotate(-0 336.42 180.964526)">A change freeze</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 11.5px; font-family: 'Inter'; text-anchor: start; fill: #1e1e1e" x="15.57" y="214.880761" transform="rotate(-0 15.57 214.880761)">A one-page brief every morning</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 11.5px; font-family: 'Inter'; text-anchor: start; fill: #e07a1f" x="336.42" y="214.880761" transform="rotate(-0 336.42 214.880761)">A daily stand-up</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 11.5px; font-family: 'Inter'; text-anchor: start; fill: #1e1e1e" x="15.57" y="248.796997" transform="rotate(-0 15.57 248.796997)">Writing down what went wrong and what we changed</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 11.5px; font-family: 'Inter'; text-anchor: start; fill: #e07a1f" x="336.42" y="248.796997" transform="rotate(-0 336.42 248.796997)">A retrospective</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 11.5px; font-family: 'Inter'; text-anchor: start; fill: #1e1e1e" x="15.57" y="282.713232" transform="rotate(-0 15.57 282.713232)">Recording what we decided and why</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 11.5px; font-family: 'Inter'; text-anchor: start; fill: #e07a1f" x="336.42" y="282.713232" transform="rotate(-0 336.42 282.713232)">Architecture decision records</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 9px; font-family: 'Inter'; text-anchor: start; fill: #6b6b6b" x="15.57" y="310.750306" transform="rotate(-0 15.57 310.750306)">DRAFT: the list is agreed with Ant when chapter 11 is written</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p53955ceb05">
+   <rect x="7.2" y="7.2" width="558" height="288.288"/>
+  </clipPath>
+ </defs>
+</svg>

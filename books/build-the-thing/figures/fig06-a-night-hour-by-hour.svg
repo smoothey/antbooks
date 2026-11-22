@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="516.6pt" height="352.511242pt" viewBox="0 0 516.6 352.511242" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-22T18:34:30.481478</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 352.511242 
+L 516.6 352.511242 
+L 516.6 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 7.2 326.08175 
+L 509.4 326.08175 
+L 509.4 37.79375 
+L 7.2 37.79375 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 143.952923 64.453612 
+L 181.811077 64.453612 
+L 181.811077 50.89775 
+L 143.952923 50.89775 
+z
+" clip-path="url(#p39f6d545df)" style="fill: #e07a1f"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 193.400308 87.046716 
+L 201.126462 87.046716 
+L 201.126462 73.490853 
+L 193.400308 73.490853 
+z
+" clip-path="url(#p39f6d545df)" style="fill: #6b6b6b"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 205.762154 109.639819 
+L 241.302462 109.639819 
+L 241.302462 96.083957 
+L 205.762154 96.083957 
+z
+" clip-path="url(#p39f6d545df)" style="fill: #6b6b6b"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 218.124 132.232922 
+L 225.850154 132.232922 
+L 225.850154 118.67706 
+L 218.124 118.67706 
+z
+" clip-path="url(#p39f6d545df)" style="fill: #6b6b6b"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 241.302462 154.826026 
+L 268.344 154.826026 
+L 268.344 141.270164 
+L 241.302462 141.270164 
+z
+" clip-path="url(#p39f6d545df)" style="fill: #6b6b6b"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 275.297538 177.419129 
+L 361.830462 177.419129 
+L 361.830462 163.863267 
+L 275.297538 163.863267 
+z
+" clip-path="url(#p39f6d545df)" style="fill: #e07a1f"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 303.111692 200.012233 
+L 323.972308 200.012233 
+L 323.972308 186.456371 
+L 303.111692 186.456371 
+z
+" clip-path="url(#p39f6d545df)" style="fill: #6b6b6b"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 321.654462 222.605336 
+L 340.969846 222.605336 
+L 340.969846 209.049474 
+L 321.654462 209.049474 
+z
+" clip-path="url(#p39f6d545df)" style="fill: #6b6b6b"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 334.016308 245.19844 
+L 348.696 245.19844 
+L 348.696 231.642578 
+L 334.016308 231.642578 
+z
+" clip-path="url(#p39f6d545df)" style="fill: #6b6b6b"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 356.422154 267.791543 
+L 377.282769 267.791543 
+L 377.282769 254.235681 
+L 356.422154 254.235681 
+z
+" clip-path="url(#p39f6d545df)" style="fill: #6b6b6b"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 375.737538 290.384647 
+L 378.055385 290.384647 
+L 378.055385 276.828784 
+L 375.737538 276.828784 
+z
+" clip-path="url(#p39f6d545df)" style="fill: #6b6b6b"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 422.094462 312.97775 
+L 429.048 312.97775 
+L 429.048 299.421888 
+L 422.094462 299.421888 
+z
+" clip-path="url(#p39f6d545df)" style="fill: #6b6b6b"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1"/>
+     <g id="text_1">
+      <text style="font-size: 13px; font-family: 'Inter'; text-anchor: middle; fill: #1e1e1e" x="107.64" y="342.1755" transform="rotate(-0 107.64 342.1755)">22:00</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2"/>
+     <g id="text_2">
+      <text style="font-size: 13px; font-family: 'Inter'; text-anchor: middle; fill: #1e1e1e" x="153.996923" y="342.1755" transform="rotate(-0 153.996923 342.1755)">23:00</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3"/>
+     <g id="text_3">
+      <text style="font-size: 13px; font-family: 'Inter'; text-anchor: middle; fill: #1e1e1e" x="200.353846" y="342.1755" transform="rotate(-0 200.353846 342.1755)">00:00</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4"/>
+     <g id="text_4">
+      <text style="font-size: 13px; font-family: 'Inter'; text-anchor: middle; fill: #1e1e1e" x="246.710769" y="342.1755" transform="rotate(-0 246.710769 342.1755)">01:00</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5"/>
+     <g id="text_5">
+      <text style="font-size: 13px; font-family: 'Inter'; text-anchor: middle; fill: #1e1e1e" x="293.067692" y="342.1755" transform="rotate(-0 293.067692 342.1755)">02:00</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6"/>
+     <g id="text_6">
+      <text style="font-size: 13px; font-family: 'Inter'; text-anchor: middle; fill: #1e1e1e" x="339.424615" y="342.1755" transform="rotate(-0 339.424615 342.1755)">03:00</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_7"/>
+     <g id="text_7">
+      <text style="font-size: 13px; font-family: 'Inter'; text-anchor: middle; fill: #1e1e1e" x="385.781538" y="342.1755" transform="rotate(-0 385.781538 342.1755)">04:00</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_8"/>
+     <g id="text_8">
+      <text style="font-size: 13px; font-family: 'Inter'; text-anchor: middle; fill: #1e1e1e" x="432.138462" y="342.1755" transform="rotate(-0 432.138462 342.1755)">05:00</text>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_9"/>
+     <g id="text_9">
+      <text style="font-size: 13px; font-family: 'Inter'; text-anchor: middle; fill: #1e1e1e" x="478.495385" y="342.1755" transform="rotate(-0 478.495385 342.1755)">06:00</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2"/>
+   <g id="line2d_10">
+    <path d="M 165.586154 326.08175 
+L 165.586154 37.79375 
+" clip-path="url(#p39f6d545df)" style="fill: none; stroke-dasharray: 1.2,1.98; stroke-dashoffset: 0; stroke: #bdbdbd; stroke-width: 1.2"/>
+   </g>
+   <g id="line2d_11">
+    <path d="M 194.945538 326.08175 
+L 194.945538 37.79375 
+" clip-path="url(#p39f6d545df)" style="fill: none; stroke-dasharray: 1.2,1.98; stroke-dashoffset: 0; stroke: #bdbdbd; stroke-width: 1.2"/>
+   </g>
+   <g id="line2d_12">
+    <path d="M 488.539385 326.08175 
+L 488.539385 37.79375 
+" clip-path="url(#p39f6d545df)" style="fill: none; stroke: #1e1e1e; stroke-width: 1.2; stroke-linecap: square"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 7.2 326.08175 
+L 509.4 326.08175 
+" style="fill: none; stroke: #6b6b6b; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 10px; font-family: 'Inter'; text-anchor: end" x="140.862462" y="61.313376" transform="rotate(-0 140.862462 61.313376)">Charlie's site</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 10px; font-family: 'Inter'; text-anchor: end" x="190.309846" y="83.90648" transform="rotate(-0 190.309846 83.90648)">Roblox game</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 10px; font-family: 'Inter'; text-anchor: end" x="202.671692" y="106.499583" transform="rotate(-0 202.671692 106.499583)">Camera app</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 10px; font-family: 'Inter'; text-anchor: end" x="215.033538" y="129.092687" transform="rotate(-0 215.033538 129.092687)">Study guides</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 10px; font-family: 'Inter'; text-anchor: end" x="238.212" y="151.68579" transform="rotate(-0 238.212 151.68579)">Photo organiser</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 10px; font-family: 'Inter'; text-anchor: end" x="272.207077" y="174.278894" transform="rotate(-0 272.207077 174.278894)">Charlie's site (2)</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 10px; font-family: 'Inter'; text-anchor: end" x="300.021231" y="196.871997" transform="rotate(-0 300.021231 196.871997)">Photo organiser (2)</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 10px; font-family: 'Inter'; text-anchor: end" x="318.564" y="219.4651" transform="rotate(-0 318.564 219.4651)">Camera app (2)</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 10px; font-family: 'Inter'; text-anchor: end" x="330.925846" y="242.058204" transform="rotate(-0 330.925846 242.058204)">Jimmy</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 10px; font-family: 'Inter'; text-anchor: end" x="353.331692" y="264.651307" transform="rotate(-0 353.331692 264.651307)">Jimmy (2)</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 10px; font-family: 'Inter'; text-anchor: end" x="372.647077" y="287.244411" transform="rotate(-0 372.647077 287.244411)">Roblox game (2)</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 10px; font-family: 'Inter'; text-anchor: end" x="419.004" y="309.837514" transform="rotate(-0 419.004 309.837514)">Study guides (late)</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 9px; font-family: 'Inter'; fill: #6b6b6b" transform="translate(198.036 60.341895)">my two merges</text>
+    <text style="font-size: 9px; font-family: 'Inter'; fill: #6b6b6b" transform="translate(198.036 71.231543)">before bed</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 10px; font-family: 'Inter'; text-anchor: end" x="486.221538" y="44.119819" transform="rotate(-0 486.221538 44.119819)">06:13 morning brief</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 13px; font-family: 'Inter'; text-anchor: start" x="7.2" y="19.79375" transform="rotate(-0 7.2 19.79375)">One night, 18 November 2026: 372 of 480 minutes used</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p39f6d545df">
+   <rect x="7.2" y="37.79375" width="502.2" height="288.288"/>
+  </clipPath>
+ </defs>
+</svg>

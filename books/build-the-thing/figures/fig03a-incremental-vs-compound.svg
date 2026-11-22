@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="480.529492pt" height="292.626555pt" viewBox="0 0 480.529492 292.626555" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-22T18:34:30.223593</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 292.626555 
+L 480.529492 292.626555 
+L 480.529492 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 26.929492 265.697062 
+L 473.329492 265.697062 
+L 473.329492 10.673062 
+L 26.929492 10.673062 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="text_1">
+     <text style="font-size: 13px; font-family: 'Inter'; text-anchor: middle; fill: #1e1e1e" x="250.129492" y="282.290812" transform="rotate(-0 250.129492 282.290812)">Time</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="text_2">
+     <text style="font-size: 13px; font-family: 'Inter'; text-anchor: middle; fill: #1e1e1e" x="19.79375" y="138.185062" transform="rotate(-90 19.79375 138.185062)">What gets done</text>
+    </g>
+   </g>
+   <g id="line2d_1">
+    <path d="M 26.929492 265.697062 
+L 273.683261 133.539525 
+L 275.926477 132.872062 
+L 473.329492 132.872062 
+L 473.329492 132.872062 
+" clip-path="url(#p269cffa00a)" style="fill: none; stroke: #6b6b6b; stroke-width: 3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 26.929492 265.697062 
+L 47.118437 264.200508 
+L 65.064166 262.669168 
+L 83.009894 260.920585 
+L 98.712407 259.188242 
+L 114.414919 257.242672 
+L 130.117432 255.057629 
+L 143.576728 252.971887 
+L 157.036025 250.667943 
+L 170.495321 248.122971 
+L 181.711402 245.799927 
+L 192.927482 243.276059 
+L 204.143563 240.534004 
+L 215.359643 237.554902 
+L 226.575723 234.31826 
+L 237.791804 230.801813 
+L 246.764668 227.77101 
+L 255.737532 224.532351 
+L 264.710397 221.071582 
+L 273.683261 217.373469 
+L 282.656125 213.421737 
+L 291.62899 209.19899 
+L 300.601854 204.686642 
+L 309.574718 199.864833 
+L 316.304367 196.032679 
+L 323.034015 192.005058 
+L 329.763663 187.772 
+L 336.493311 183.323027 
+L 343.22296 178.647125 
+L 349.952608 173.73272 
+L 356.682256 168.567645 
+L 363.411904 163.139115 
+L 370.141552 157.433693 
+L 376.871201 151.437254 
+L 383.600849 145.134955 
+L 390.330497 138.511194 
+L 397.060145 131.549575 
+L 403.789794 124.232865 
+L 410.519442 116.542952 
+L 417.24909 108.460799 
+L 423.978738 99.966401 
+L 430.708387 91.038728 
+L 437.438035 81.655682 
+L 444.167683 71.794034 
+L 450.897331 61.429374 
+L 457.62698 50.536043 
+L 464.356628 39.087077 
+L 471.086276 27.054133 
+L 473.329492 22.908274 
+L 473.329492 22.908274 
+" clip-path="url(#p269cffa00a)" style="fill: none; stroke: #e07a1f; stroke-width: 3.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 26.929492 132.872062 
+L 473.329492 132.872062 
+" clip-path="url(#p269cffa00a)" style="fill: none; stroke-dasharray: 5.55,2.4; stroke-dashoffset: 0; stroke: #bdbdbd; stroke-width: 1.5"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 26.929492 265.697062 
+L 26.929492 10.673062 
+" style="fill: none; stroke: #6b6b6b; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 26.929492 265.697062 
+L 473.329492 265.697062 
+" style="fill: none; stroke: #6b6b6b; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 11px; font-family: 'Inter'; text-anchor: start; fill: #6b6b6b" x="35.857492" y="126.230812" transform="rotate(-0 35.857492 126.230812)">The ceiling: the hours you have</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 12px; font-family: 'Inter'; fill: #6b6b6b" transform="translate(312.625492 184.765031)">Incremental:</text>
+    <text style="font-size: 12px; font-family: 'Inter'; fill: #6b6b6b" transform="translate(312.625492 199.284562)">adding hours</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'Inter'; fill: #e07a1f" transform="translate(339.409492 18.825)">Compound:</text>
+    <text style="font-weight: 700; font-size: 12px; font-family: 'Inter'; fill: #e07a1f" transform="translate(339.409492 33.344531)">adding things</text>
+    <text style="font-weight: 700; font-size: 12px; font-family: 'Inter'; fill: #e07a1f" transform="translate(339.409492 47.864062)">that add</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p269cffa00a">
+   <rect x="26.929492" y="10.673062" width="446.4" height="255.024"/>
+  </clipPath>
+ </defs>
+</svg>

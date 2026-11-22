@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="405pt" height="369.216pt" viewBox="0 0 405 369.216" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-22T18:34:08.532038</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 369.216 
+L 405 369.216 
+L 405 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 21.15 356.472 
+L 383.85 356.472 
+Q 392.22 356.472 392.22 348.156 
+L 392.22 21.06 
+Q 392.22 12.744 383.85 12.744 
+L 21.15 12.744 
+Q 12.78 12.744 12.78 21.06 
+L 12.78 348.156 
+Q 12.78 356.472 21.15 356.472 
+z
+" clip-path="url(#p778a9d6850)" style="fill: #ffffff; stroke: #1e1e1e; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 12.78 51.552 
+L 392.22 51.552 
+L 392.22 12.744 
+L 12.78 12.744 
+z
+" clip-path="url(#p778a9d6850)" style="fill: #efefef"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 35.1 119.7432 
+L 85.32 119.7432 
+Q 90.9 119.7432 90.9 114.1992 
+L 90.9 97.5672 
+Q 90.9 92.0232 85.32 92.0232 
+L 35.1 92.0232 
+Q 29.52 92.0232 29.52 97.5672 
+L 29.52 114.1992 
+Q 29.52 119.7432 35.1 119.7432 
+z
+" clip-path="url(#p778a9d6850)" style="fill: #e07a1f; stroke: #1e1e1e; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 35.1 186.2712 
+L 85.32 186.2712 
+Q 90.9 186.2712 90.9 180.7272 
+L 90.9 164.0952 
+Q 90.9 158.5512 85.32 158.5512 
+L 35.1 158.5512 
+Q 29.52 158.5512 29.52 164.0952 
+L 29.52 180.7272 
+Q 29.52 186.2712 35.1 186.2712 
+z
+" clip-path="url(#p778a9d6850)" style="fill: #ffffff; stroke: #1e1e1e; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 35.1 252.7992 
+L 85.32 252.7992 
+Q 90.9 252.7992 90.9 247.2552 
+L 90.9 230.6232 
+Q 90.9 225.0792 85.32 225.0792 
+L 35.1 225.0792 
+Q 29.52 225.0792 29.52 230.6232 
+L 29.52 247.2552 
+Q 29.52 252.7992 35.1 252.7992 
+z
+" clip-path="url(#p778a9d6850)" style="fill: #ffffff; stroke: #1e1e1e; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 35.1 319.3272 
+L 85.32 319.3272 
+Q 90.9 319.3272 90.9 313.7832 
+L 90.9 297.1512 
+Q 90.9 291.6072 85.32 291.6072 
+L 35.1 291.6072 
+Q 29.52 291.6072 29.52 297.1512 
+L 29.52 313.7832 
+Q 29.52 319.3272 35.1 319.3272 
+z
+" clip-path="url(#p778a9d6850)" style="fill: #ffffff; stroke: #1e1e1e; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 29.52 133.0488 
+L 375.48 133.0488 
+" clip-path="url(#p778a9d6850)" style="fill: none; stroke: #bdbdbd; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 29.52 199.5768 
+L 375.48 199.5768 
+" clip-path="url(#p778a9d6850)" style="fill: none; stroke: #bdbdbd; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 29.52 266.1048 
+L 375.48 266.1048 
+" clip-path="url(#p778a9d6850)" style="fill: none; stroke: #bdbdbd; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 29.52 332.6328 
+L 375.48 332.6328 
+" clip-path="url(#p778a9d6850)" style="fill: none; stroke: #bdbdbd; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'Inter'; text-anchor: start" x="29.52" y="32.148" transform="rotate(-0 29.52 32.148)">Needs you</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'Inter'; text-anchor: end; fill: #e07a1f" x="375.48" y="32.148" transform="rotate(-0 375.48 32.148)">4</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Inter'; text-anchor: middle; fill: #ffffff" x="60.21" y="109.70278" transform="rotate(-0 60.21 109.70278)">Merge</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 10.5px; font-family: 'Inter'; text-anchor: start" x="104.85" y="102.49558" transform="rotate(-0 104.85 102.49558)">Photo organiser: three fixes on one pull request</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 9.5px; font-family: 'Inter'; text-anchor: end; fill: #6b6b6b" x="375.48" y="118.08" transform="rotate(-0 375.48 118.08)">2 min</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Inter'; text-anchor: middle; fill: #1e1e1e" x="60.21" y="176.23078" transform="rotate(-0 60.21 176.23078)">Agree</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 10.5px; font-family: 'Inter'; text-anchor: start" x="104.85" y="169.02358" transform="rotate(-0 104.85 169.02358)">Charlie's site: give the second shift 10 changes a night</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 9.5px; font-family: 'Inter'; text-anchor: end; fill: #6b6b6b" x="375.48" y="184.608" transform="rotate(-0 375.48 184.608)">1 min</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Inter'; text-anchor: middle; fill: #1e1e1e" x="60.21" y="242.75878" transform="rotate(-0 60.21 242.75878)">Try</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 10.5px; font-family: 'Inter'; text-anchor: start" x="104.85" y="235.55158" transform="rotate(-0 104.85 235.55158)">Camera app: test the new lens warning on your phone</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 9.5px; font-family: 'Inter'; text-anchor: end; fill: #6b6b6b" x="375.48" y="251.136" transform="rotate(-0 375.48 251.136)">5 min</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Inter'; text-anchor: middle; fill: #1e1e1e" x="60.21" y="309.28678" transform="rotate(-0 60.21 309.28678)">Discuss</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 10.5px; font-family: 'Inter'; text-anchor: start" x="104.85" y="302.07958" transform="rotate(-0 104.85 302.07958)">Book: which night should chapter 6 follow?</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 9.5px; font-family: 'Inter'; text-anchor: end; fill: #6b6b6b" x="375.48" y="317.664" transform="rotate(-0 375.48 317.664)">talk</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 8.5px; font-family: 'Inter'; text-anchor: start; fill: #6b6b6b" x="29.52" y="345.384" transform="rotate(-0 29.52 345.384)">Illustration: items are examples in the style of the real list</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p778a9d6850">
+   <rect x="7.2" y="7.2" width="390.6" height="354.816"/>
+  </clipPath>
+ </defs>
+</svg>

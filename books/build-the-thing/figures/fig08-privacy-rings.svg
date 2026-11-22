@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="402.48pt" height="450.421228pt" viewBox="0 0 402.48 450.421228" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-22T18:34:08.302208</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 450.421228 
+L 402.48 450.421228 
+L 402.48 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 201.24 379.7568 
+C 248.583209 379.7568 293.993736 360.947144 327.47044 327.47044 
+C 360.947144 293.993736 379.7568 248.583209 379.7568 201.24 
+C 379.7568 153.896791 360.947144 108.486264 327.47044 75.00956 
+C 293.993736 41.532856 248.583209 22.7232 201.24 22.7232 
+C 153.896791 22.7232 108.486264 41.532856 75.00956 75.00956 
+C 41.532856 108.486264 22.7232 153.896791 22.7232 201.24 
+C 22.7232 248.583209 41.532856 293.993736 75.00956 327.47044 
+C 108.486264 360.947144 153.896791 379.7568 201.24 379.7568 
+z
+" clip-path="url(#p47e4609b7e)" style="fill: #f4f4f4; stroke: #1e1e1e; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 201.24 337.068 
+C 237.262007 337.068 271.813495 322.756305 297.2849 297.2849 
+C 322.756305 271.813495 337.068 237.262007 337.068 201.24 
+C 337.068 165.217993 322.756305 130.666505 297.2849 105.1951 
+C 271.813495 79.723695 237.262007 65.412 201.24 65.412 
+C 165.217993 65.412 130.666505 79.723695 105.1951 105.1951 
+C 79.723695 130.666505 65.412 165.217993 65.412 201.24 
+C 65.412 237.262007 79.723695 271.813495 105.1951 297.2849 
+C 130.666505 322.756305 165.217993 337.068 201.24 337.068 
+z
+" clip-path="url(#p47e4609b7e)" style="fill: #e2e2e2; stroke: #1e1e1e; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 201.24 294.3792 
+C 225.940805 294.3792 249.633254 284.565466 267.09936 267.09936 
+C 284.565466 249.633254 294.3792 225.940805 294.3792 201.24 
+C 294.3792 176.539195 284.565466 152.846746 267.09936 135.38064 
+C 249.633254 117.914534 225.940805 108.1008 201.24 108.1008 
+C 176.539195 108.1008 152.846746 117.914534 135.38064 135.38064 
+C 117.914534 152.846746 108.1008 176.539195 108.1008 201.24 
+C 108.1008 225.940805 117.914534 249.633254 135.38064 267.09936 
+C 152.846746 284.565466 176.539195 294.3792 201.24 294.3792 
+z
+" clip-path="url(#p47e4609b7e)" style="fill: #c9c9c9; stroke: #1e1e1e; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 201.24 251.6904 
+C 214.619602 251.6904 227.453012 246.374628 236.91382 236.91382 
+C 246.374628 227.453012 251.6904 214.619602 251.6904 201.24 
+C 251.6904 187.860398 246.374628 175.026988 236.91382 165.56618 
+C 227.453012 156.105372 214.619602 150.7896 201.24 150.7896 
+C 187.860398 150.7896 175.026988 156.105372 165.56618 165.56618 
+C 156.105372 175.026988 150.7896 187.860398 150.7896 201.24 
+C 150.7896 214.619602 156.105372 227.453012 165.56618 236.91382 
+C 175.026988 246.374628 187.860398 251.6904 201.24 251.6904 
+z
+" clip-path="url(#p47e4609b7e)" style="fill: #e07a1f; stroke: #1e1e1e; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'Inter'; fill: #ffffff" transform="translate(182.680312 198.345469)">Ring 0</text>
+    <text style="font-weight: 700; font-size: 12px; font-family: 'Inter'; fill: #ffffff" transform="translate(178.05375 212.865)">only me</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 11px; font-family: 'Inter'" transform="translate(185.962031 126.79188)">Ring 1</text>
+    <text style="font-size: 11px; font-family: 'Inter'" transform="translate(186.665859 140.10145)">home</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 11px; font-family: 'Inter'; text-anchor: middle" x="201.24" y="90.757865" transform="rotate(-0 201.24 90.757865)">Ring 2: a project</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 11px; font-family: 'Inter'; text-anchor: middle" x="201.24" y="48.069065" transform="rotate(-0 201.24 48.069065)">Ring 3: the public</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 10px; font-family: 'Inter'; fill: #6b6b6b" transform="translate(29.272812 416.6099)">Ring 0: only me.  Ring 1: me and Charlie.  Ring 2: a project and its people.</text>
+    <text style="font-size: 10px; font-family: 'Inter'; fill: #6b6b6b" transform="translate(76.636094 428.709509)">Ring 3: published pages only, no access to the store.</text>
+    <text style="font-size: 10px; font-family: 'Inter'; fill: #6b6b6b" transform="translate(48.661875 440.809119)">Checked by the store on every request, not by what an AI is told.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p47e4609b7e">
+   <rect x="7.2" y="7.2" width="388.08" height="388.08"/>
+  </clipPath>
+ </defs>
+</svg>

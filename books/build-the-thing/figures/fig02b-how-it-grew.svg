@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="739.8pt" height="213.984pt" viewBox="0 0 739.8 213.984" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-22T18:34:08.164180</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 213.984 
+L 739.8 213.984 
+L 739.8 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 57.42 116.68608 
+C 59.1958 116.68608 60.899107 115.965071 62.154787 114.681847 
+C 63.410467 113.398623 64.116 111.657953 64.116 109.8432 
+C 64.116 108.028447 63.410467 106.287777 62.154787 105.004553 
+C 60.899107 103.721329 59.1958 103.00032 57.42 103.00032 
+C 55.6442 103.00032 53.940893 103.721329 52.685213 105.004553 
+C 51.429533 106.287777 50.724 108.028447 50.724 109.8432 
+C 50.724 111.657953 51.429533 113.398623 52.685213 114.681847 
+C 53.940893 115.965071 55.6442 116.68608 57.42 116.68608 
+z
+" clip-path="url(#p883136e6af)" style="fill: #1e1e1e; stroke: #1e1e1e; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 146.7 116.68608 
+C 148.4758 116.68608 150.179107 115.965071 151.434787 114.681847 
+C 152.690467 113.398623 153.396 111.657953 153.396 109.8432 
+C 153.396 108.028447 152.690467 106.287777 151.434787 105.004553 
+C 150.179107 103.721329 148.4758 103.00032 146.7 103.00032 
+C 144.9242 103.00032 143.220893 103.721329 141.965213 105.004553 
+C 140.709533 106.287777 140.004 108.028447 140.004 109.8432 
+C 140.004 111.657953 140.709533 113.398623 141.965213 114.681847 
+C 143.220893 115.965071 144.9242 116.68608 146.7 116.68608 
+z
+" clip-path="url(#p883136e6af)" style="fill: #1e1e1e; stroke: #1e1e1e; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 235.98 116.68608 
+C 237.7558 116.68608 239.459107 115.965071 240.714787 114.681847 
+C 241.970467 113.398623 242.676 111.657953 242.676 109.8432 
+C 242.676 108.028447 241.970467 106.287777 240.714787 105.004553 
+C 239.459107 103.721329 237.7558 103.00032 235.98 103.00032 
+C 234.2042 103.00032 232.500893 103.721329 231.245213 105.004553 
+C 229.989533 106.287777 229.284 108.028447 229.284 109.8432 
+C 229.284 111.657953 229.989533 113.398623 231.245213 114.681847 
+C 232.500893 115.965071 234.2042 116.68608 235.98 116.68608 
+z
+" clip-path="url(#p883136e6af)" style="fill: #1e1e1e; stroke: #1e1e1e; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 325.26 116.68608 
+C 327.0358 116.68608 328.739107 115.965071 329.994787 114.681847 
+C 331.250467 113.398623 331.956 111.657953 331.956 109.8432 
+C 331.956 108.028447 331.250467 106.287777 329.994787 105.004553 
+C 328.739107 103.721329 327.0358 103.00032 325.26 103.00032 
+C 323.4842 103.00032 321.780893 103.721329 320.525213 105.004553 
+C 319.269533 106.287777 318.564 108.028447 318.564 109.8432 
+C 318.564 111.657953 319.269533 113.398623 320.525213 114.681847 
+C 321.780893 115.965071 323.4842 116.68608 325.26 116.68608 
+z
+" clip-path="url(#p883136e6af)" style="fill: #1e1e1e; stroke: #1e1e1e; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 414.54 116.68608 
+C 416.3158 116.68608 418.019107 115.965071 419.274787 114.681847 
+C 420.530467 113.398623 421.236 111.657953 421.236 109.8432 
+C 421.236 108.028447 420.530467 106.287777 419.274787 105.004553 
+C 418.019107 103.721329 416.3158 103.00032 414.54 103.00032 
+C 412.7642 103.00032 411.060893 103.721329 409.805213 105.004553 
+C 408.549533 106.287777 407.844 108.028447 407.844 109.8432 
+C 407.844 111.657953 408.549533 113.398623 409.805213 114.681847 
+C 411.060893 115.965071 412.7642 116.68608 414.54 116.68608 
+z
+" clip-path="url(#p883136e6af)" style="fill: #1e1e1e; stroke: #1e1e1e; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 503.82 116.68608 
+C 505.5958 116.68608 507.299107 115.965071 508.554787 114.681847 
+C 509.810467 113.398623 510.516 111.657953 510.516 109.8432 
+C 510.516 108.028447 509.810467 106.287777 508.554787 105.004553 
+C 507.299107 103.721329 505.5958 103.00032 503.82 103.00032 
+C 502.0442 103.00032 500.340893 103.721329 499.085213 105.004553 
+C 497.829533 106.287777 497.124 108.028447 497.124 109.8432 
+C 497.124 111.657953 497.829533 113.398623 499.085213 114.681847 
+C 500.340893 115.965071 502.0442 116.68608 503.82 116.68608 
+z
+" clip-path="url(#p883136e6af)" style="fill: #1e1e1e; stroke: #1e1e1e; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 593.1 116.68608 
+C 594.8758 116.68608 596.579107 115.965071 597.834787 114.681847 
+C 599.090467 113.398623 599.796 111.657953 599.796 109.8432 
+C 599.796 108.028447 599.090467 106.287777 597.834787 105.004553 
+C 596.579107 103.721329 594.8758 103.00032 593.1 103.00032 
+C 591.3242 103.00032 589.620893 103.721329 588.365213 105.004553 
+C 587.109533 106.287777 586.404 108.028447 586.404 109.8432 
+C 586.404 111.657953 587.109533 113.398623 588.365213 114.681847 
+C 589.620893 115.965071 591.3242 116.68608 593.1 116.68608 
+z
+" clip-path="url(#p883136e6af)" style="fill: #1e1e1e; stroke: #1e1e1e; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 682.38 116.68608 
+C 684.1558 116.68608 685.859107 115.965071 687.114787 114.681847 
+C 688.370467 113.398623 689.076 111.657953 689.076 109.8432 
+C 689.076 108.028447 688.370467 106.287777 687.114787 105.004553 
+C 685.859107 103.721329 684.1558 103.00032 682.38 103.00032 
+C 680.6042 103.00032 678.900893 103.721329 677.645213 105.004553 
+C 676.389533 106.287777 675.684 108.028447 675.684 109.8432 
+C 675.684 111.657953 676.389533 113.398623 677.645213 114.681847 
+C 678.900893 115.965071 680.6042 116.68608 682.38 116.68608 
+z
+" clip-path="url(#p883136e6af)" style="fill: #1e1e1e; stroke: #1e1e1e; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 29.52 109.8432 
+L 710.28 109.8432 
+" clip-path="url(#p883136e6af)" style="fill: none; stroke: #bdbdbd; stroke-width: 3; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 10px; font-family: 'Inter'; text-anchor: middle; fill: #6b6b6b" x="57.42" y="84.1824" transform="rotate(-0 57.42 84.1824)">30 Sep</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Inter'; fill: #1e1e1e" transform="translate(45.915938 137.122275)">First</text>
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Inter'; fill: #1e1e1e" transform="translate(30.918984 149.826865)">repository</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 9px; font-family: 'Inter'; text-anchor: middle; fill: #6b6b6b" x="57.42" y="174.44547" transform="rotate(-0 57.42 174.44547)">a record starts</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 10px; font-family: 'Inter'; text-anchor: middle; fill: #6b6b6b" x="146.7" y="84.1824" transform="rotate(-0 146.7 84.1824)">13 Oct</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Inter'; fill: #1e1e1e" transform="translate(123.734531 137.122275)">Charlie's</text>
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Inter'; fill: #1e1e1e" transform="translate(137.337773 149.826865)">site</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 9px; font-family: 'Inter'; text-anchor: middle; fill: #6b6b6b" x="146.7" y="174.44547" transform="rotate(-0 146.7 174.44547)">the work</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 10px; font-family: 'Inter'; text-anchor: middle; fill: #6b6b6b" x="235.98" y="84.1824" transform="rotate(-0 235.98 84.1824)">16 Oct</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Inter'; fill: #1e1e1e" transform="translate(206.321602 137.122275)">Jimmy gets</text>
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Inter'; fill: #1e1e1e" transform="translate(217.452422 149.826865)">a name</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 9px; font-family: 'Inter'; text-anchor: middle; fill: #6b6b6b" x="235.98" y="174.44547" transform="rotate(-0 235.98 174.44547)">and a face</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 10px; font-family: 'Inter'; text-anchor: middle; fill: #6b6b6b" x="325.26" y="84.1824" transform="rotate(-0 325.26 84.1824)">18 Oct</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Inter'; fill: #1e1e1e" transform="translate(315.359648 137.122275)">The</text>
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Inter'; fill: #1e1e1e" transform="translate(312.090703 149.826865)">store</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 9px; font-family: 'Inter'; fill: #6b6b6b" transform="translate(304.4475 174.44547)">one place</text>
+    <text style="font-size: 9px; font-family: 'Inter'; fill: #6b6b6b" transform="translate(300.086016 185.335118)">for the truth</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 10px; font-family: 'Inter'; text-anchor: middle; fill: #6b6b6b" x="414.54" y="84.1824" transform="rotate(-0 414.54 84.1824)">18 Oct</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Inter'; fill: #1e1e1e" transform="translate(403.035938 137.122275)">First</text>
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Inter'; fill: #1e1e1e" transform="translate(391.423594 149.826865)">night run</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 9px; font-family: 'Inter'; text-anchor: middle; fill: #6b6b6b" x="414.54" y="174.44547" transform="rotate(-0 414.54 174.44547)">22:48 to 23:45</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 10px; font-family: 'Inter'; text-anchor: middle; fill: #6b6b6b" x="503.82" y="84.1824" transform="rotate(-0 503.82 84.1824)">19 Oct</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Inter'; fill: #1e1e1e" transform="translate(482.256445 137.122275)">Morning</text>
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Inter'; fill: #1e1e1e" transform="translate(491.694961 149.826865)">brief</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 9px; font-family: 'Inter'; text-anchor: middle; fill: #6b6b6b" x="503.82" y="174.44547" transform="rotate(-0 503.82 174.44547)">and the Hub</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 10px; font-family: 'Inter'; text-anchor: middle; fill: #6b6b6b" x="593.1" y="84.1824" transform="rotate(-0 593.1 84.1824)">20 Oct</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Inter'; fill: #1e1e1e" transform="translate(571.655391 137.122275)">Share of</text>
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Inter'; fill: #1e1e1e" transform="translate(575.609297 149.826865)">a night</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 9px; font-family: 'Inter'; text-anchor: middle; fill: #6b6b6b" x="593.1" y="174.44547" transform="rotate(-0 593.1 174.44547)">our own pace</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 10px; font-family: 'Inter'; text-anchor: middle; fill: #6b6b6b" x="682.38" y="84.1824" transform="rotate(-0 682.38 84.1824)">Nov</text>
+   </g>
+   <g id="text_23">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Inter'; fill: #1e1e1e" transform="translate(672.479648 137.122275)">The</text>
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Inter'; fill: #1e1e1e" transform="translate(662.487422 149.826865)">Cockpit</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 9px; font-family: 'Inter'; fill: #6b6b6b" transform="translate(655.369453 174.44547)">look and talk</text>
+    <text style="font-size: 9px; font-family: 'Inter'; fill: #6b6b6b" transform="translate(656.553516 185.335118)">in one place</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 13px; font-family: 'Inter'; text-anchor: start; fill: #1e1e1e" x="29.52" y="35.712" transform="rotate(-0 29.52 35.712)">Each piece answered the problem the last one showed up</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p883136e6af">
+   <rect x="7.2" y="7.2" width="725.4" height="199.584"/>
+  </clipPath>
+ </defs>
+</svg>

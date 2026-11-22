@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="460.8pt" height="183.55787pt" viewBox="0 0 460.8 183.55787" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-22T18:34:30.429389</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 183.55787 
+L 460.8 183.55787 
+L 460.8 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 7.2 55.858043 
+L 31.46087 55.858043 
+L 31.46087 38.76587 
+L 7.2 38.76587 
+z
+" clip-path="url(#p266067b412)" style="fill: #6b6b6b"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 7.2 84.345 
+L 55.721739 84.345 
+L 55.721739 67.252826 
+L 7.2 67.252826 
+z
+" clip-path="url(#p266067b412)" style="fill: #6b6b6b"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 7.2 112.831957 
+L 104.243478 112.831957 
+L 104.243478 95.739783 
+L 7.2 95.739783 
+z
+" clip-path="url(#p266067b412)" style="fill: #6b6b6b"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 7.2 141.318913 
+L 201.286957 141.318913 
+L 201.286957 124.226739 
+L 7.2 124.226739 
+z
+" clip-path="url(#p266067b412)" style="fill: #6b6b6b"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 7.2 169.80587 
+L 395.373913 169.80587 
+L 395.373913 152.713696 
+L 7.2 152.713696 
+z
+" clip-path="url(#p266067b412)" style="fill: #e07a1f"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 12px; font-family: 'Inter'; text-anchor: start" x="37.283478" y="51.677191" transform="rotate(-0 37.283478 51.677191)">1/16</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 12px; font-family: 'Inter'; text-anchor: start" x="61.544348" y="80.164147" transform="rotate(-0 61.544348 80.164147)">1/8</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 12px; font-family: 'Inter'; text-anchor: start" x="110.066087" y="108.651104" transform="rotate(-0 110.066087 108.651104)">1/4</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 12px; font-family: 'Inter'; text-anchor: start" x="207.109565" y="137.13806" transform="rotate(-0 207.109565 137.13806)">1/2</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 12px; font-family: 'Inter'; text-anchor: start" x="401.196522" y="165.625017" transform="rotate(-0 401.196522 165.625017)">1 night</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 12px; font-family: 'Inter'; text-anchor: start; fill: #1e1e1e" x="7.2" y="18.825" transform="rotate(-0 7.2 18.825)">How big is a piece of work? A share of one night of building.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p266067b412">
+   <rect x="7.2" y="32.21387" width="446.4" height="144.144"/>
+  </clipPath>
+ </defs>
+</svg>

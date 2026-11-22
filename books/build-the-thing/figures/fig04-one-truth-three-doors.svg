@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="516.6pt" height="291.6pt" viewBox="0 0 516.6 291.6" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-22T18:34:08.248236</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 291.6 
+L 516.6 291.6 
+L 516.6 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 183.528 257.7888 
+L 333.072 257.7888 
+Q 337.536 257.7888 337.536 253.3536 
+L 337.536 187.9344 
+Q 337.536 183.4992 333.072 183.4992 
+L 183.528 183.4992 
+Q 179.064 183.4992 179.064 187.9344 
+L 179.064 253.3536 
+Q 179.064 257.7888 183.528 257.7888 
+z
+" clip-path="url(#pd6631e6037)" style="fill: #efefef; stroke: #e07a1f; stroke-width: 2.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 27.288 108.1008 
+L 154.512 108.1008 
+Q 158.976 108.1008 158.976 103.6656 
+L 158.976 49.3344 
+Q 158.976 44.8992 154.512 44.8992 
+L 27.288 44.8992 
+Q 22.824 44.8992 22.824 49.3344 
+L 22.824 103.6656 
+Q 22.824 108.1008 27.288 108.1008 
+z
+" clip-path="url(#pd6631e6037)" style="fill: #ffffff; stroke: #1e1e1e; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 194.688 108.1008 
+L 321.912 108.1008 
+Q 326.376 108.1008 326.376 103.6656 
+L 326.376 49.3344 
+Q 326.376 44.8992 321.912 44.8992 
+L 194.688 44.8992 
+Q 190.224 44.8992 190.224 49.3344 
+L 190.224 103.6656 
+Q 190.224 108.1008 194.688 108.1008 
+z
+" clip-path="url(#pd6631e6037)" style="fill: #ffffff; stroke: #1e1e1e; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 362.088 108.1008 
+L 489.312 108.1008 
+Q 493.776 108.1008 493.776 103.6656 
+L 493.776 49.3344 
+Q 493.776 44.8992 489.312 44.8992 
+L 362.088 44.8992 
+Q 357.624 44.8992 357.624 49.3344 
+L 357.624 103.6656 
+Q 357.624 108.1008 362.088 108.1008 
+z
+" clip-path="url(#pd6631e6037)" style="fill: #ffffff; stroke: #1e1e1e; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'Inter'; fill: #1e1e1e" transform="translate(228.197891 217.508258)">The store</text>
+    <text style="font-weight: 700; font-size: 13px; font-family: 'Inter'; fill: #1e1e1e" transform="translate(187.993359 233.23775)">one place for the truth</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 11px; font-family: 'Inter'; fill: #1e1e1e" transform="translate(31.122734 73.84668)">AI chats and night runs</text>
+    <text style="font-size: 11px; font-family: 'Inter'; fill: #1e1e1e" transform="translate(52.637188 87.15625)">(through MCP)</text>
+   </g>
+   <g id="patch_6">
+    <path d="M 92.736557 110.554707 
+Q 174.599969 145.799987 254.923027 180.382086 
+" style="fill: none; stroke: #6b6b6b; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 250.886728 175.595825 
+L 254.923027 180.382086 
+L 248.672239 180.739369 
+z
+" style="fill: #6b6b6b; stroke: #6b6b6b; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 11px; font-family: 'Inter'; fill: #1e1e1e" transform="translate(207.183516 73.84668)">Scripts and devices</text>
+    <text style="font-size: 11px; font-family: 'Inter'; fill: #1e1e1e" transform="translate(213.945938 87.15625)">(through the API)</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 258.3 111.765511 
+Q 258.3 145.802131 258.3 178.161701 
+" style="fill: none; stroke: #6b6b6b; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 261.1 172.561701 
+L 258.3 178.161701 
+L 255.5 172.561701 
+z
+" style="fill: #6b6b6b; stroke: #6b6b6b; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 11px; font-family: 'Inter'; fill: #1e1e1e" transform="translate(417.525625 73.84668)">Me</text>
+    <text style="font-size: 11px; font-family: 'Inter'; fill: #1e1e1e" transform="translate(379.48625 87.15625)">(through the Hub)</text>
+   </g>
+   <g id="patch_8">
+    <path d="M 423.863443 110.554707 
+Q 342.000031 145.799987 261.676973 180.382086 
+" style="fill: none; stroke: #6b6b6b; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 267.927761 180.739369 
+L 261.676973 180.382086 
+L 265.713272 175.595825 
+z
+" style="fill: #6b6b6b; stroke: #6b6b6b; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 10px; font-family: 'Inter'; text-anchor: middle; fill: #6b6b6b" x="258.3" y="276.084" transform="rotate(-0 258.3 276.084)">Same records, same rules, whichever door you use</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pd6631e6037">
+   <rect x="7.2" y="7.2" width="502.2" height="277.2"/>
+  </clipPath>
+ </defs>
+</svg>
