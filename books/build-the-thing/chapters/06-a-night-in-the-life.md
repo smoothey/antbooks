@@ -10,13 +10,15 @@ The good night was 18 November. At 16:37 the readiness check found work for ever
 <!-- src: governance/reports/2026-11-18/morning-brief.md ("readiness: ok. Every project had work except Robyn's Roblox (RR-233)"; "agency-test: ok, 14 of 14") -->
 <!-- rev: Roblox waiting on Ant's play-test (Ant 22 Nov 20:05); agreed -->
 
-<!-- p: 06-03 | draft -->
-Charlie's site started at 22:47. I was still up, so I looked at what was waiting from the night before and accepted two pull requests, at 23:15 and 23:53, while the run worked on. Between them they carried seven pieces of work for the site. By the time I went to bed, the night was already building on top of them.
+<!-- p: 06-03 | agreed 2026-11-22 -->
+Charlie's site started at 22:47. I was still up, so as the run finished pieces of work, I looked at them and accepted them: two pull requests, at 23:15 and 23:53, carrying seven pieces of work between them. By the time I went to bed, the night was already building on top of what I'd accepted.
 <!-- src: 2026-11-18/morning-brief.md (nightly-charliedoll: "You merged poseroll#453 at 23:15 (CD-744, CD-746, CD-826) and poseroll#460 at 23:53 (CD-745, CD-755, CD-747, CD-748)"); schedule.md (22:47) -->
+<!-- rev: both PRs were that night's (poseroll#453, #460); agreed by Ant 22 Nov 20:08 -->
 
-<!-- p: 06-04 | draft -->
-After midnight the other projects took their turns. The Roblox game's run had nothing to build, so it updated the game's dates instead and checked that all 838 of its logic tests still passed. The camera app added a warning for when a finger creeps over the lens. The study guides refreshed their research: 815 pages checked, 13 of them changed, and 696 new pages gathered for the next two books. The photo organiser worked through three items and checked them on Windows as well.
+<!-- p: 06-04 | agreed 2026-11-22 -->
+Around midnight the other projects took their turns. The Roblox game's run had nothing to build, so it updated the game's target dates instead and checked that all 838 of its logic tests still passed. The camera app added a warning for when a finger creeps over the lens. The study guides refreshed their research: 815 pages checked, 13 of them changed, and 696 new pages gathered for the next two books. The photo organiser worked through three items and checked them on Windows as well.
 <!-- src: 2026-11-18/morning-brief.md (nightly-robroblox: applied RR-234's dates, no build work, 838 logic tests pass; nightly-togmatic: "the card says when a finger crept over the lens (TG-176)"; nightly-transcenders: "Corpus refreshed (815 pages, 13 changed) plus 696 new pages for the two VCAP books"; nightly-photo-organiser: PO-299, PO-300, PO-287, "Windows run on the first shift's head passed"). Study guide series and exam names not printed -->
+<!-- rev: 'Around midnight', 'target dates'; agreed by Ant 22 Nov 20:09 -->
 
 <!-- p: 06-05 | draft -->
 At 01:37 Charlie's site came back for its second shift. It picked up the first run's hand-over note, mended a broken sync with the test version of the site, and finished six more items. On its own it used 112 minutes, more than any other shift that night. Around three, Jimmy's own runs worked on the system itself. The second of them tried to download a tool it wasn't allowed to fetch, was refused, and stopped there, without trying a way round. That's a safety stop working exactly as it should.
