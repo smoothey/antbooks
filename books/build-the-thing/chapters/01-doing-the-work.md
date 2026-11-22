@@ -1,12 +1,16 @@
 # Chapter 1: Doing the work, and the ceiling it hits
 
-<!-- p: 01-01 | draft -->
-I was six when I fell in love with a computer. It belonged to my cousin: a Commodore VIC-20. I didn't so much want one as need one, and I nagged my parents about it for a year until they gave in.
-<!-- src: interview 1, Q2 -->
+<!-- p: 01-01 | agreed 2026-11-22 -->
+I was six when I fell in love with a computer. It belonged to my cousin: a Commodore VIC-20. I wanted one of my own more than anything, and I nagged my parents about it for a whole year.
+<!-- src: interview 1, Q2; review 22 Nov 00:21 and 00:23 -->
 
-<!-- p: 01-02 | draft -->
-Even then, one machine wasn't enough. I used to hang around computer shops and write my own programs on whatever demo machines they had out: Commodores, Spectrums, Amstrads. I loved them all. I started where everyone started, filling the screen with Hello World over and over. GOTO was my friend. Later, on the Commodore 64, I used its graphics keys to make bugs walk across the screen, with brackets for legs, and balls that bounced off the edges.
-<!-- src: interview 1 follow-ups, notes/interviews/build-the-thing/2026-11-21-interview-1b.md -->
+<!-- p: 01-02 | agreed 2026-11-22 -->
+I didn't wait for them to say yes. I used to hang around computer shops and write my own programs on whatever demo machines they had out: Commodores, Spectrums, Amstrads. I loved them all. I filled their screens with Hello World, over and over. GOTO was my friend. That's what changed my parents' minds. They could see this wasn't just a child wanting the latest thing. It was someone who would do something with it, maybe even make a future of it. They bought me a Commodore 64. It was the most expensive present they ever gave me. My sister technically got the television it plugged into, as her present.
+<!-- src: interview 1 follow-ups; review 22 Nov 00:21 and 00:23 (shops before owning a computer; first computer a C64; most expensive present; sister got the telly) -->
+
+<!-- p: 01-25 | agreed 2026-11-22 -->
+The Commodore 64's manual turned out to be full of program listings. I typed every one of them in, line by line, and I grew and learnt with each one. Before long I was using the 64's graphics keys to make my own bugs walk across the screen, with brackets for legs, and balls that bounced around it. Later I discovered Input, a magazine that printed listings for every home computer of its day. I still have the full set. It's one of my prized possessions, even if it's no use to anyone now. You typed those listings in line by line too, and heaven help you if you forgot to save. That's how I learnt to program: by copying out other people's instructions until I understood them well enough to write my own.
+<!-- src: interview 1 follow-ups (C64 graphics keys, bugs, bouncing balls); review 22 Nov 00:27 (C64 manual listings typed in line by line; Input magazine, full set kept; forgetting to save) -->
 
 <!-- p: 01-03 | draft -->
 Those bugs taught me the feeling this whole book is about. You write something down, the machine does it, and it keeps doing it after you've stopped. A loop. A few lines of instructions, and the screen is busy without you. I didn't have words for it then, but I've been chasing that feeling ever since.
