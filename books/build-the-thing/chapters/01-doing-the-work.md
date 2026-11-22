@@ -95,10 +95,10 @@ Meanwhile, the team I was part of decided to vibe code its own deployment tool: 
 I found it frustrating, and it took me a while to say why. The team had the same AI I had. But it was using it to do the old way of working a bit faster: the same small tasks, the same hand-offs, the same pace. The project lacked ambition. Not because the people lacked talent, but because nobody had asked how different the work could be now.
 <!-- src: interview 1, Q2 -->
 
-<!-- p: 01-16 | draft -->
+<!-- p: 01-16 | agreed 2026-11-22 -->
 Then the job changed. I took voluntary redundancy and quickly found a new role. Somewhere in that change, I finally asked myself the question I'd been circling: where is the ceiling, really? From the middle of September 2026, I set myself a challenge. Keep improving, all the time, and see how far AI could take me.
 <!-- src: interview 1, Q2; review 22 Nov 01:09 (started mid September 2026, not mid October) -->
 
-<!-- p: 01-17 | draft -->
+<!-- p: 01-17 | agreed 2026-11-22 -->
 I didn't start with a grand plan. I was skint, and I wanted to make Charlie, my partner, a present. A website for her modelling seemed the obvious thing. I expected to write a good chunk of the code myself and let the AI help. That isn't what happened. Before long I wasn't building a website. I was building the thing that would build it.
 <!-- src: interview 1 follow-ups (mid October); Ant, 21 Nov 2026 (Charlie happy to be in the story; "skint" can go in) -->
