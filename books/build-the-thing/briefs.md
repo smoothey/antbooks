@@ -105,6 +105,9 @@ Sources live in the store (`r2antbooks` `notes/interviews/build-the-thing/`, `no
 - Job: not everything needs the biggest model.
 - Known: Drive Image Pro (ch 1) as the early example; ADR 0014, 0017, 0018; local models and small helpers.
 
+## Closing chapter
+- Ant, 22 Nov: the words-in, words-out ledger across the whole book could become a closing paragraph. Chapter 1: about 2,080 words typed by Ant, about 2,220 in the approved chapter, about 3.5 hours. The honest reading so far: about one to one on words; the leverage is time, quality and scaffolding. Use the final totals from `state/words-ledger-build-the-thing`.
+
 ## 18. What comes next
 - Job: the Cockpit, own models, and where this goes.
 - Known: Cockpit plans; own-photo-models decisions; Ophelia's last step finally closed.

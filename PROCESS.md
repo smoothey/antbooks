@@ -45,6 +45,9 @@ When the chapters are agreed, a polish reviewer reads the whole book. It may cha
 - Anything that would change meaning isn't polish: it goes back to step 3 for that paragraph.
 - The polish reviewer is a separate pass that hasn't written the draft, so the work isn't marking itself.
 
+## Words in, words out
+For each book we keep a ledger of how many words Ant typed against how many ended up in the book (Ant, 22 Nov 2026). At each chapter's approval, Claude counts Ant's messages that fed the chapter (content and direction), the approved chapter's words, the generated working text, and the time it took, and adds an entry to the store record `state/words-ledger-<book>` in `r2antbooks`. Chat replies aren't counted. The totals may feed the book's closing.
+
 ## Always
 - Ant's voice, first person, plain words.
 - Every fact has a source comment beside it (see CLAUDE.md).
