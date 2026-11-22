@@ -45,16 +45,20 @@ They were a testing centre too, and they gave me my MCSE exams for free. On the 
 <!-- src: early years note; Ant, 22 Nov 00:15: OK to mention meeting his wife-to-be -->
 
 <!-- p: 01-04 | draft -->
-Since then my work has been in infrastructure, networks and cloud platforms, mostly Azure. But when I'm honest about my own projects, the ones I did in my own time, the answer for most of those years is simple. I did little.
-<!-- src: interview 1, Q1 ("I did little"); profile (Azure, infrastructure and networking) -->
+Since then my work has been in infrastructure, networks and cloud platforms: Azure and AWS. In 2002 I joined a financial sector company as a senior technician, and went on to become its data centre manager. I did a lot of work in those years. Progress was just hard.
+<!-- src: review 22 Nov 00:47 (Azure and AWS; senior technician to data centre manager; "I did loads of work, progress was hard"), notes/interviews/build-the-thing/2026-11-22-career-and-own-time.md; employer not named -->
 
 <!-- p: 01-05 | draft -->
-The most useful thing I'd ever written for myself was AzureDump. It started in 2002 as a VBScript I wrote to document the infrastructure at a financial sector company I worked at. Over the years it grew into a cloud tool. I kept expecting it to be made pointless by something public and polished, and every so often something came along that looked like it might. Each time, my tool still did things the others didn't.
-<!-- src: interview 1, Q1; Ant, 21 Nov 2026: AzureDump is his own IP and can be named -->
+The most useful thing I built there became AzureDump. It started as a VBScript with a simple HTA front end that let me audit our infrastructure. It could run from a floppy disk, which mattered: we had a hard DMZ and even some air-gapped servers that nothing else could reach. It gave me one consolidated view of everything we ran. I built it because I needed it, before I'd even heard of ITIL or a configuration management database. Over the years it grew into a cloud tool. I kept expecting it to be made pointless by something public and polished, and every so often something came along that looked like it might. Each time, my tool still did things the others didn't.
+<!-- src: interview 1, Q1; review 22 Nov 00:47 (VBS with HTA front end, ran from floppy, DMZ and air-gapped servers, consolidated view, before ITIL and CMDBs); Ant, 21 Nov 2026: AzureDump is his own IP and can be named -->
+
+<!-- p: 01-26 | draft -->
+It wasn't the only one. I also built an intranet site with a floor plan of the office. Click on any PC and you could see its live state, wake it up, patch it, and see who'd used it recently. In many ways it was more useful than the official system-management software we had, and I'd installed that too.
+<!-- src: review 22 Nov 00:47 (floor plan intranet; more useful than SCCM, which he also installed) -->
 
 <!-- p: 01-06 | draft -->
-It was also getting harder and harder to keep going. Every change was mine to make, by hand, in the evenings. There was a list of features I knew it needed, and the list didn't get shorter. It just sat there, a reminder of how little time I had compared with how much I wanted to build.
-<!-- src: interview 1, Q1 -->
+There was a catch, and it took me years to see it clearly. To get that kind of value, I was spending my own time on work I couldn't fit into my working day. The tools did save time once they existed, but I paid for them in evenings. And keeping them going got harder every year. Every change to AzureDump was mine to make, by hand. There was a list of features I knew it needed, and the list didn't get shorter.
+<!-- src: review 22 Nov 00:47 ("burning my personal time on work tasks... it still helped free time but at a personal cost"); interview 1, Q1 (hard to maintain, features put off) -->
 
 <!-- p: 01-07 | draft -->
 AzureDump wasn't the only one. In 2019 I built a bot called Ophelia. She lived in Discord, and I wrote her by hand in Node, using a Microsoft language service called LUIS to understand what people typed. She could search for images, but her real job was tasks: she let me and my partner at the time share the running of day-to-day jobs, with both of us able to see what was done and what wasn't.
