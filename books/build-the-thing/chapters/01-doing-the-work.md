@@ -91,13 +91,13 @@ I was called in on one customer's firewall changes when the consultants who usua
 Meanwhile, the team I was part of decided to vibe code its own deployment tool: let the AI write it, and hope. I worked on some of its parts. It was one big Python program that, when you looked closely, mostly handed out templates. Nobody in the team knew Python well. It could just as easily have been PowerShell, and I genuinely don't think anyone stopped to ask what it should be written in. It was run very formally in Azure DevOps, broken into tiny tasks and handed out to individuals. Many of those tasks were things the AI could have finished in minutes.
 <!-- src: interview 1 follow-ups ("Lacked ambition"); interview 1, Q2 ("vibe coded"; Ant, 22 Nov 01:07: keep the term) -->
 
-<!-- p: 01-15 | draft -->
+<!-- p: 01-15 | agreed 2026-11-22 -->
 I found it frustrating, and it took me a while to say why. The team had the same AI I had. But it was using it to do the old way of working a bit faster: the same small tasks, the same hand-offs, the same pace. The project lacked ambition. Not because the people lacked talent, but because nobody had asked how different the work could be now.
 <!-- src: interview 1, Q2 -->
 
 <!-- p: 01-16 | draft -->
-Then the job changed. I took voluntary redundancy and quickly found a new role. Somewhere in that change, I finally asked myself the question I'd been circling: where is the ceiling, really? From the middle of October 2026, I set myself a challenge. Keep improving, all the time, and put AI first.
-<!-- src: interview 1, Q2 -->
+Then the job changed. I took voluntary redundancy and quickly found a new role. Somewhere in that change, I finally asked myself the question I'd been circling: where is the ceiling, really? From the middle of September 2026, I set myself a challenge. Keep improving, all the time, and put AI first.
+<!-- src: interview 1, Q2; review 22 Nov 01:09 (started mid September 2026, not mid October) -->
 
 <!-- p: 01-17 | draft -->
 I didn't start with a grand plan. I was skint, and I wanted to make Charlie, my partner, a present. A website for her modelling seemed the obvious thing. I expected to write a good chunk of the code myself and let the AI help. That isn't what happened. Before long I wasn't building a website. I was building the thing that would build it.

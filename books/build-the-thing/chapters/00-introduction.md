@@ -1,8 +1,8 @@
 # Introduction
 
 <!-- p: 00-01 | draft -->
-In the middle of October 2026 I asked myself a question I'd been putting off for years: where is the ceiling, really? Not for AI in general. For me. One person, with a day job, evenings, weekends, and far more ideas than time.
-<!-- src: interview 1, r2antbooks notes/interviews/build-the-thing/2026-11-21-interview-1.md -->
+In the middle of September 2026 I asked myself a question I'd been putting off for years: where is the ceiling, really? Not for AI in general. For me. One person, with a day job, evenings, weekends, and far more ideas than time.
+<!-- src: interview 1, r2antbooks notes/interviews/build-the-thing/2026-11-21-interview-1.md; review 22 Nov 01:09 (mid September, not mid October) -->
 
 <!-- p: 00-02 | draft -->
 This book is what happened next. I stopped doing the work and started building the thing that does the work. Within a few weeks, a system I call Jimmy was running my projects through the night: a modelling website, a photo organiser, a camera coaching app, a Roblox game, and a series of technical study guides going out at two books a week. Most mornings I wake up to finished work waiting for me to check, a short brief on how the night went, and a small list of things only I can decide.
