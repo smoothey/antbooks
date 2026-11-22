@@ -12,9 +12,9 @@ Two weeks later, on 13 October, I started on Charlie's website. Charlie models a
 I'd expected to be writing and tweaking code. I realised straight away that I wasn't. I described what I wanted, read what came back, and said yes, no or not like that. By the end of the first day, 43 changes had been saved to the site. The next day there were 56, including the page we'd use to reveal it.
 <!-- src: interview 2 (expected to write and tweak code); Ant 22 Nov (realised straight away I wasn't writing code); charlie-doll-origins note (43 commits 13 Oct; 56 commits 14 Oct incl. birthday reveal) -->
 
-<!-- p: 02-04 | draft -->
-The site grew quickly, and so did my ambitions for it. It became something that could one day be a product for models and photographers, which I called Poseroll. It also needed a helper inside the admin area: someone Charlie could ask how to do things. I'd built chatbots before, and most chatbots I'd used were woeful. I wanted this one to be cute and capable. So he got a name, Jimmy, after our grey cat, and a face to go with it.
-<!-- src: architecture docs, 21 Oct (site built so it can become Poseroll; Jimmy inside the admin); interview 2 (persona: cute and capable; chatbots woeful); smoothey/jimmy CLAUDE.md (Jimmy is Ant and Charlie's grey cat) -->
+<!-- p: 02-04 | agreed 2026-11-22 -->
+The site grew quickly, and so did my ambitions for it. I'd called the project Poseroll from the first day, because I could see it becoming a product for models and photographers one day. It also needed a helper inside the admin area: someone Charlie could ask how to do things. I'd built chatbots before, and most chatbots I'd used were woeful. I wanted this one to be cute and capable. So on 16 October he got a name, Jimmy, after our grey cat, and that same night a face to go with it.
+<!-- src: charlie-doll-origins note (Poseroll named from day one; Jimmy first commit ffb0d3f 16 Oct 17:54, avatar same night); architecture docs, 21 Oct (site built so it can become Poseroll); interview 2 (cute and capable; chatbots woeful); smoothey/jimmy CLAUDE.md (grey cat) -->
 
 <!-- p: 02-05 | draft -->
 Then I hit the problem that changed everything. Every new conversation with the AI started from nothing. I'd explain how the site worked, what we'd decided, what not to touch, and the next day I'd explain it again. A lot of value was building up in those conversations, and almost none of it carried over. Some of it sat in the AI's memory, where I couldn't easily see it or check it. The rest just vanished.
