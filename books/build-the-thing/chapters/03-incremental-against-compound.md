@@ -1,0 +1,61 @@
+# Chapter 3: Incremental against compound
+
+<!-- p: 03-01 | draft -->
+There are two ways to get more done. You can add: more hours, more effort, more evenings. Or you can multiply: build things that keep working after you've stopped. For twenty years I mostly added. This chapter is about the difference, and why it matters more now than it ever has.
+<!-- src: book thesis (Ant, 21 Nov 2026, title and outline); chapter 1, 01-06 and 01-10 (agreed) -->
+
+<!-- p: 03-02 | draft -->
+Adding works, up to a point. Every tool I built in my own time saved hours once it existed. But every hour it saved, I'd already paid for in an evening or a weekend, and every change it needed came out of the same evenings. My progress grew in a straight line at best, and the line could never climb higher than the hours I had. That's what incremental means. It isn't slow. It's capped.
+<!-- src: notes/interviews/build-the-thing/2026-11-22-career-and-own-time.md ("burning my personal time"; "still helped free up time, but at a personal cost"); chapter 1, 01-06 (agreed) -->
+
+<!-- p: 03-03 | draft -->
+Compounding works differently. Some things you make keep paying out, and each payout makes the next one bigger. A rule, written down once, applies to every piece of work from then on. A tool, built once, gets used every night. A record of what happened, kept once, means nobody has to rediscover it. When I write a rule into Jimmy's governance today, it applies to every project tonight, without me doing anything else.
+<!-- src: outline ch 3 ("what compounds: rules, tools, records"); r2jimmy decision sizing-night-share (20 Oct 2026: agreed 11:50, governance merged 13:05, "live for tonight's runs", applies to every project) -->
+
+<!-- p: 03-04 | draft -->
+Here's a real example. On the morning of 20 October I agreed a new way of sizing work, which I'll come to later in this chapter. By lunchtime it was written into the rules, and that night every project used it. One decision, made once, changed how six projects planned their work, and it has kept doing so every night since.
+<!-- src: r2jimmy decision sizing-night-share (decided 11:50, governance merged 13:05 on 20 Oct 2026; appliesTo: r2poseroll, r2jimmy, r2photoorganiser, r2transcenders, r2robroblox, w2aaah once live) -->
+
+<!-- p: 03-05 | draft -->
+Effort doesn't compound. An evening spent fixing something by hand is gone once it's spent. It might help, but tomorrow starts from the same place. So I started asking one question of everything I did: will this leave something behind that works without me? If the answer was no, it was probably the wrong thing for me to be doing.
+<!-- src: outline ch 3 ("what doesn't compound: effort"); NEEDS ANT: confirm the question is one he actually asks, or reword -->
+
+<!-- p: 03-06 | draft -->
+Which brings me back to the idea I met in Economics GCSE. It's called comparative advantage, and it was set out by the economist David Ricardo more than two hundred years ago. The usual way to explain it goes like this. A lawyer might type faster than her assistant. She still shouldn't do her own typing, because every hour she spends typing is an hour she isn't doing the work only she can do. Being best at something doesn't mean it's the best use of your time.
+<!-- src: chapter 1, 01-24 (agreed); r2antbooks notes/interviews/build-the-thing/2026-11-22-early-years-and-game-theory.md (comparative advantage, Ant 00:11 to 00:13); the lawyer and typist is the standard textbook illustration, not Ant's own story -->
+
+<!-- p: 03-07 | draft -->
+For most of my career, I was the lawyer who did his own typing. Among the people I worked with I was usually the best developer, so writing the code myself felt like the obvious thing to do. Once AI could write code faster than me, that changed completely. My value moved to the things the AI couldn't do: deciding where we were going, designing how the work should flow, challenging decisions, and reviewing what came back.
+<!-- src: notes/interviews/build-the-thing/2026-11-22-early-years-and-game-theory.md ("among his peers he has mostly been the best developer"; "in the post-AI world he adds much more in vision, architecture and design"; direction, critical review, process design, reviewing PRs); chapter 2, 02-14 (agreed) -->
+
+<!-- p: 03-08 | draft -->
+Reviewing turns out to be quick. When we agreed how to measure my own time, we counted about five minutes to review and merge each piece of finished work. The AI does hours of building; I do minutes of checking. That's comparative advantage in practice, and it's also where the compounding comes from. The more the system can do without me, the more of my minutes go on the decisions that change what it does next.
+<!-- src: r2jimmy decision sizing-night-share (antTime "includes reviewing and merging (about 5 min a PR)") -->
+
+<!-- p: 03-09 | draft -->
+There was one thing slowing all of this down, and it took me a while to see it. The AI kept planning my work as if a team of people were doing it. It sized tasks as small, medium and large, and talked in weeks and sprints. Left alone, it would happily plan a fortnight of work that it could then finish in a night. I found myself challenging it again and again.
+<!-- src: notes/interviews/build-the-thing/2026-11-21-theme-pace-anchoring.md ("AI's answers often assumed a rate of progress anchored to a human team. He has constantly had to challenge that"); r2jimmy decision sizing-night-share (replaced S/M/L sizes); introduction, 00-05 (agreed). NEEDS ANT: "a fortnight of work it could finish in a night" is illustrative; confirm or give a real case -->
+
+<!-- p: 03-10 | draft -->
+So on 20 October we stopped borrowing a pace and made our own. We decided to size every piece of work as a share of a night: a sixteenth, an eighth, a quarter, a half, or a whole night. Anything bigger gets split before it's planned. A "night" isn't a time of day. It's a unit of building effort, so work done in a daytime chat counts in the same units. My own time is counted separately, in minutes, because it's the thing in shortest supply.
+<!-- src: r2jimmy decision sizing-night-share (20 Oct 2026: nightShare 0, 1/16, 1/8, 1/4, 1/2, 1; split anything over one night; "a night is a unit of Claude build effort, not a time of day: daytime chat work counts in the same units"; antTime in minutes) -->
+
+<!-- p: 03-11 | draft -->
+Then we measured. Each night has eight hours of building time, 480 minutes. On the nights of 20 and 21 October, the runs used only about 274 and 255 of them. Nothing had run out of time. The runs had simply run out of work. Some projects emptied their lists; others hit a limit on how many changes they could put live in one go. The AI had planned for the pace it expected, and the real pace was faster.
+<!-- src: r2jimmy decision night-utilisation (22 Oct 2026: "The nights of 20 and 21 Oct used about 274 and 255 of 480 minutes; runs stopped on empty queues ... or push caps, never on time"); decision night-load (22 Oct 2026, evidence) -->
+
+<!-- p: 03-12 | draft -->
+So we changed the plan to match the evidence. On 22 October we started planning each night at about twice what we expected it to take. Runs that finish early now pull in more work by themselves, from items that are safe to do without me. And the morning brief now tells me how many of the 480 minutes were used, and warns me if a night used less than three quarters of them. An idle night became something I could see, and something we could fix.
+<!-- src: r2jimmy decision night-load (22 Oct 2026: "Nights planned at about 2x nightShare; runs keep taking next items until a stop rule"); decision night-utilisation (22 Oct 2026: self-promote up to 6 of its own ideas, unattended yes only; "Morning brief reports minutes used of 480 and flags a night under 75%") -->
+
+<!-- p: 03-13 | draft -->
+Why does the AI borrow a human pace in the first place? My guess is that it learned what work looks like from writing made before AI, when work was done by teams of people. It may also play safe and pad its estimates, and it has no way of knowing its own speed unless someone measures it. Whatever the cause, the lesson is the same one I learnt with bridge and with every tool since: don't assume, find out. The most expensive limit is the one you don't notice you've accepted.
+<!-- src: notes/interviews/build-the-thing/2026-11-21-theme-pace-anchoring.md (Ant's guess: anchored to training material from before AI; Claude's offered causes: caution, no view of its own throughput). NEEDS ANT: the two extra causes were Claude's suggestion; keep only if Ant agrees -->
+
+<!-- p: 03-14 | draft -->
+[NUMBERS TO COME, SB-4: before and after, in units only. What a typical month looked like before mid September (things shipped, changes made, my hours) against a typical month by November (projects running, changes made each week, nights used, my minutes a day). Presented as my results, not targets.]
+<!-- src: briefs.md ch 3 gaps; r2antbooks backlog btt-numbers (SB-4). Not for print until filled and agreed -->
+
+<!-- p: 03-15 | draft -->
+That's the whole difference. Incremental is adding hours to the work. Compound is adding things that add to the work: rules, tools, records, and a pace you've measured rather than borrowed. The first is capped by how much of yourself you can give. The second isn't, because each thing you add keeps working while you're asleep. The rest of this book is about the things I added, starting with the first one, the one everything else stands on: one place for the truth.
+<!-- src: outline ch 3 and ch 4 ("One place for the truth"); book thesis -->
