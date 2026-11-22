@@ -50,13 +50,15 @@ That morning we were driving from Strathroy to Toronto. Before we left, I read w
 <!-- src: Ant, 22 Nov 2026 19:57 ("I was driving us to Toronto from Strayroy so I think I mainly set off investigations to run whilst I was driving") and 19:58 ("I set it off before we left and checked in on my phone during stops"). Ant, 22 Nov 20:01: Strathroy can be named. 'rest stop' and 'what the brief had so far' agreed 22 Nov 20:26 -->
 <!-- rev: agreed by Ant 22 Nov 20:26 -->
 
-<!-- p: 06-11 | draft -->
-The cause turned out to be one I hadn't known existed. My runs were set to approve their own actions automatically, but that automatic approval has a limit. Each action is still checked, and if enough are blocked, three in a row or twenty in one session, the session stops approving itself and starts asking a person instead. From then on, even harmless steps wait for someone to tap Allow. In the middle of the night, with me asleep in Canada, nobody did. Some of those shifts sat waiting for up to eight and a half hours.
+<!-- p: 06-11 | agreed 2026-11-22 -->
+The cause turned out to be one I hadn't known existed. My runs were set to approve their own actions automatically, but that automatic approval has a limit. Each action is still checked, and if enough are blocked, three in a row or twenty in one session, the session stops approving itself and starts asking a person instead. From then on, even harmless steps wait for someone to tap Allow. In the middle of the night at home, with me five hours behind in Canada and not watching, nobody did. Some of those shifts sat waiting for up to eight and a half hours.
 <!-- src: smoothey/jimmy governance/loops/CONTRACT.md "Blocks and prompts: automatic approval has a limit (Ant, 3 Nov 2026)" ("after 3 blocks in a row or 20 in a session the session falls back to asking. From then on even harmless commands can wait for a tap, and overnight nobody is there (PF-86: seven shifts waited up to 8.5 hours on the night of 2 Nov)") -->
+<!-- rev: time-zone fix (Canada five hours behind); agreed by Ant 22 Nov 20:30 -->
 
-<!-- p: 06-12 | draft -->
+<!-- p: 06-12 | agreed 2026-11-22 -->
 Many of those blocks came from something that looked harmless: runs trying to accept their own pull requests at the end of a shift. The safety check had started refusing those, every time, and each refusal counted towards the limit. So the fix was a rule, written the next day. Night runs never try to accept their own work, not even once. They leave it ready, and ask me. It's the rule from chapter 5, and this is where it came from.
-<!-- src: governance/loops/merging.md ("Plain night runs don't merge (Ant, 3 Nov 2026) ... Since 2 Nov Claude's safety check refuses those merges every time, and each refusal counts towards the block limit that can hold a run at a prompt"); chapter 5, 05-06 (agreed). NEEDS ANT: "many of those blocks came from" self-merges is Claude's reading of the rules; confirm -->
+<!-- src: governance/loops/merging.md ("Plain night runs don't merge (Ant, 3 Nov 2026) ... Since 2 Nov Claude's safety check refuses those merges every time, and each refusal counts towards the block limit that can hold a run at a prompt"); chapter 5, 05-06 (agreed). "many" confirmed by Ant 22 Nov 20:34 -->
+<!-- rev: agreed by Ant 22 Nov 20:34 (keeps 'many') -->
 
 <!-- p: 06-13 | draft -->
 It wasn't fixed overnight. The next nights still had stalls, and on one of them, around a quarter to two, I tapped Allow from my phone so the waiting runs could carry on. But two nights after Charlie's birthday, still away, thirteen of fifteen runs finished properly, and by borrowing from each other they used more minutes than the night had.
