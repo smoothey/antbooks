@@ -23,7 +23,6 @@ At school I kept turning homework into software. For some of my GCSE assignments
 School gave me one more thing, and it was a game changer. In Economics GCSE I learnt about comparative advantage, an idea the economist David Ricardo set out in 1817. In plain terms: you shouldn't spend your time on whatever you're best at, but on whatever adds the most value, because those aren't always the same thing. I'd always assumed the opposite. At sixteen it was just an idea that made sense. It would be decades, and a very different kind of tool, before I understood what it meant for me.
 <!-- src: early years note (Economics GCSE, 22 Nov 00:11); review 22 Nov 00:31: name the theory here; comparative advantage (Ricardo, On the Principles of Political Economy and Taxation, 1817); ch 3 expands it -->
 
-
 <!-- p: 01-19 | agreed 2026-11-22 -->
 When I was 17, my mother lost her bridge partner and asked if I'd play with her the following week. I knew nothing about bridge. So I got some books from the library, read them, and started writing my own bridge programs on my Amiga 500, in a language called AMOS. The programs were limited. But to write them I had to understand the game, and a week later my mother and I placed in the top ten per cent. Nobody believed it was the first time I'd played. With humans, at least.
 <!-- src: early years note (bridge at 17); Ant, 22 Nov 00:15: his mother can be named -->
@@ -101,4 +100,4 @@ Then the job changed. I took voluntary redundancy and quickly found a new role. 
 
 <!-- p: 01-17 | agreed 2026-11-22 -->
 I didn't start with a grand plan. I was skint, and I wanted to make Charlie, my partner, a present. A website for her modelling seemed the obvious thing. I expected to write a good chunk of the code myself and let the AI help. That isn't what happened. Before long I wasn't building a website. I was building the thing that would build it.
-<!-- src: interview 1 follow-ups (mid October); Ant, 21 Nov 2026 (Charlie happy to be in the story; "skint" can go in) -->
+<!-- src: interview 1 follow-ups (challenge from mid September, per review 22 Nov 01:09); Ant, 21 Nov 2026 (Charlie happy to be in the story; "skint" can go in) -->

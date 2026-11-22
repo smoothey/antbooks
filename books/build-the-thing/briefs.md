@@ -20,12 +20,14 @@ Sources live in the store (`r2antbooks` `notes/interviews/build-the-thing/`, `no
   - The personal-time cost of building tools in the evenings → ch 3 and ch 13.
   - "Before long I wasn't building a website. I was building the thing that would build it." → ch 2 opens here.
 - Don't retell in later chapters: the Commodore, the shops, Input, bridge, Brussels, the vibe-coded team tool. Refer back in a line at most.
+- From the polish review (22 Nov): "where is the ceiling, really?" is used in the intro and 01-16, so not a third time early on; "building the thing that builds/saves" appears three times before ch 2, so watch overuse; AzureDump's feature list "didn't get shorter", so a later chapter should say whether it finally did; "loop" needs a glossary entry; keep each telling of the tiny-tasks pace distinct (ch 1, intro, ch 3, ch 11).
 
 ## 2. Build the thing that builds the things
 - Job: the idea in one chapter, and the first night it worked.
 - Known: Charlie's site came first (mid September to October); the store started as memory so the AI could see what Ant had told it; almost at once it became a server chats could reach; then interface rules (from Apple's guidelines), then governance, then Jimmy. Nobody designed it up front. The persona: cute and capable, because chatbots had been woeful. The firewall work as the pattern (procedure plus memory), now told in full from the client notes. Store went live 18 to 19 Oct.
 - Turn: it's pointless for Ant to write code (comparative advantage in action, ch 3 names the cost and benefit).
-- Gaps (ask Ant): what was the first night something finished while he slept, and how did that feel? When did the website stop being the point?
+- Must bridge mid September (the challenge and Charlie's present, end of ch 1) to 18 Oct (the store and the first nights).
+- Gaps (ask Ant): what was the first night something finished while he slept, and how did that feel? When did the website stop being the point? When did work on Charlie's site start?
 
 ## 3. Incremental against compound
 - Job: why building the system beats working harder.
