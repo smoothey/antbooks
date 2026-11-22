@@ -60,8 +60,8 @@ It wasn't the only one. I also built Metis, an intranet site with a floor plan o
 There was a catch, and it took me years to see it clearly. To get that kind of value, I was spending my own time on work I couldn't fit into my working day. The tools did save time once they existed, but I paid for them in evenings. And keeping them going got harder every year. Every change to those tools, and later to AzureDump, was mine to make, by hand. There was a list of features I knew AzureDump needed, and the list didn't get shorter.
 <!-- src: review 22 Nov 00:47 ("burning my personal time on work tasks... it still helped free time but at a personal cost"); interview 1, Q1 (hard to maintain, features put off) -->
 
-<!-- p: 01-07 | draft -->
-AzureDump wasn't the only one. In 2019 I built a bot called Ophelia. She lived in Discord, and I wrote her by hand in Node, using a Microsoft language service called LUIS to understand what people typed. She could search for images, but her real job was tasks: she let me and my partner at the time share the running of day-to-day jobs, with both of us able to see what was done and what wasn't.
+<!-- p: 01-07 | agreed 2026-11-22 -->
+Not everything I built was for work. In 2019 I built a bot called Ophelia. She lived in Discord, and I wrote her by hand in Node, using a Microsoft language service called LUIS to understand what people typed. She could search for images, but her real job was tasks: she let me and my partner at the time share the running of day-to-day jobs, with both of us able to see what was done and what wasn't.
 <!-- src: interview 2, Q1 and follow-up -->
 
 <!-- p: 01-08 | draft -->

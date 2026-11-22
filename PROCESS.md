@@ -13,6 +13,13 @@ The book's `outline.md` holds the agreed chapter headings and themes. Either of 
 ## 3. Chapter reviews, a paragraph at a time
 When either of us asks, we go through a chapter one paragraph at a time. For each paragraph Ant either approves it, or we agree an amendment and then it's approved.
 
+Each step shows a sliding window, so the paragraph is read in context (Ant, 22 Nov 2026):
+- the paragraph before it, for reference;
+- the paragraph under review, with what's Ant's and what's Claude's wording;
+- the paragraph after it, for reference.
+
+Only the middle one is being agreed. If a change ripples into a neighbour, that neighbour is flagged and reviewed again in its turn.
+
 ## 4. Agreed paragraphs stay set
 An agreed paragraph doesn't change unless:
 - new context changes what it says (a fact turns out wrong, a story changes, Ant adds something), or
