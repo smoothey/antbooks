@@ -40,13 +40,15 @@ That last one is why most projects have more than one shift. A long session fill
 <!-- src: schedule.md (second shifts at 01:37, 02:13, 02:37, 03:22, 03:47; relay shifts 00:17 and 03:07 for Charlie Doll; late shift 04:47); nightly-common.md 5d and "Relay shifts" (Ant, 22 Nov 2026, decision night-utilisation-plan-2026-11-22: when a run stops on context after about 45 minutes with agreed work left); the hospital comparison is Claude's -->
 <!-- rev: agreed by Ant 22 Nov 19:43; relay shifts agreed 22 Nov, check their track record at final check -->
 
-<!-- p: 05-09 | draft -->
+<!-- p: 05-09 | agreed 2026-11-22 -->
 The stop I like least is "empty": a run with minutes left and nothing it's allowed to do. For a while, it was the commonest reason a night went unused. So the rules now say a run has to prove a queue is empty before it stops. It must go through every agreed item and every idea, and say why each one can't be done tonight. And if the only thing left is a small idea that's safe to build without me, it can build that instead of stopping. An idle night has to justify itself.
 <!-- src: nightly-common.md 5c ("Prove it's empty", Ant, 21 Nov 2026, decision night-fill-stronger; small ideas instead of empty, PF-118 and PF-133); morning briefs Nov 2026 (runs stopping on empty); chapter 3, 03-12 (agreed) -->
+<!-- rev: agreed by Ant 22 Nov 19:43; figure fig05a goes after this paragraph -->
 
-<!-- p: 05-10 | draft -->
-Each run leaves a trail. When it starts, it writes a heartbeat, a small file that says "I'm running". When it finishes, it replaces that with a final heartbeat and a report: what it did, how many minutes it used, why it stopped, and what it needs from me. If a run disappears without a final heartbeat, something went wrong, and the system can tell the difference between a run that's still working and one that has quietly died.
+<!-- p: 05-10 | agreed 2026-11-22 -->
+Each run leaves a trail. When it starts, it writes a heartbeat, a small file that says "I'm running". When it finishes, it replaces that with a final heartbeat and a report: what it did, how many minutes it used, why it stopped, and what it needs from me. If a run disappears without a final heartbeat, something went wrong. Telling a run that's still working from one that has quietly died turned out to be harder than it sounds, as the next chapter shows.
 <!-- src: smoothey/jimmy governance/loops/CONTRACT.md (2. Start heartbeat; 3. Heartbeat: governance/status/<night>/<loop>.json replaces the start heartbeat; "the watchdog on GitHub reads"); reports in governance/reports/<night>/; r2jimmy lesson 2026-11-02-morning-brief-1 ("Seven shifts left no final heartbeat, and the brief can't tell stopped from still working") -->
+<!-- rev: honest ending (2 Nov: seven shifts left no final heartbeat); sets up ch 6; agreed by Ant 22 Nov 19:45 -->
 
 <!-- p: 05-11 | draft -->
 At 06:13 the morning brief reads all of it. It checks that every run that should have happened did, and that nothing is missing or failed. It counts the minutes used. It gathers everything that needs me into one list, with a reason for each item and an action I can take. When I wake up, that's the first thing I read: one page about a night I slept through.
