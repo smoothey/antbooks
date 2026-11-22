@@ -80,10 +80,11 @@ Not everything I built was for work. In 2019 I built a bot called Ophelia. She l
 <!-- src: interview 2, Q1 and follow-up -->
 <!-- rev: friend reviewer proof 22 Nov; Ant 22 Nov 13:12 -->
 
-<!-- p: 01-08 | reopened 2026-11-22: friend reviewer proof edits, fixes and Ant 13:12 answers; awaiting Ant -->
-I still have a message I posted for my partner in January 2019, walking her through how to teach Ophelia something new: Log in, create an intent, name it properly, type in examples of what people might say, train it, publish it. Looking back, that was the clever part. LUIS let someone who couldn't program shape a tool we both used. I could hand part of the work over. But not all of it. The last step read: "Once done, give Ant the nod and he can write the code to recognise it."
+<!-- p: 01-08 | agreed 2026-11-22 -->
+I still have a message I posted for my partner in January 2019, walking her through how to teach Ophelia something new: Log in, create an intent, name it properly, type in examples of what people might say, train it, publish it. Looking back, that was the clever part. LUIS let someone who couldn't program shape a tool we both used. I could hand part of the work over. But not all of it. Partly that was LUIS. Partly it was me. Handing over the last step has never come easily to a self-confessed control freak. The last step read: "Once done, give Ant the nod and he can write the code to recognise it."
 <!-- src: Ant's screenshot of the 12 Jan 2019 walkthrough (URL and key not reproduced); review 22 Nov 01:01 (posted for his partner; LUIS let a non-programmer contribute: delegation) -->
 <!-- rev: friend reviewer proof 22 Nov; Ant 22 Nov 13:12 -->
+<!-- rev: control-freak line, Ant 22 Nov 16:29 (option 2 of 3; may soften later) -->
 
 <!-- p: 01-09 | reopened 2026-11-22: friend reviewer proof edits, fixes and Ant 13:12 answers; awaiting Ant -->
 Reading that now, it sums up the whole problem in one line. However much I handed over, the last step always waited on me. My partner could describe what she wanted, but nothing happened until I found the time to write it. I wanted to turn Ophelia into something anyone could use. I never had the bandwidth. The service she was built on has since been retired, and Ophelia went with it.
