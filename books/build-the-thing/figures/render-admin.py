@@ -23,6 +23,7 @@ async def run(date, root, route, out):
             if u.startswith('http://local/'):
                 if path=='/config.js': return await r.fulfill(body="window.SITE_CONFIG={googleClientId:'x',apiBase:'/api',mediaBase:''};",content_type='application/javascript')
                 if path=='/assets/signin.js': return await r.fulfill(body=STUB_SI,content_type='application/javascript')
+                if any(k in path for k in ('logo','badge','favicon','brand')): return await r.fulfill(body='''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><circle cx="32" cy="32" r="30" fill="#6B6B6B"/><rect x="20" y="20" width="24" height="24" rx="3" fill="none" stroke="#fff" stroke-width="3"/></svg>''',content_type='image/svg+xml')
                 if path.startswith('/ph/'): return await r.fulfill(body=PH[int(path[4])],content_type='image/jpeg')
                 if path.startswith('/api/'):
                     p2=path[len('/api/'):]
