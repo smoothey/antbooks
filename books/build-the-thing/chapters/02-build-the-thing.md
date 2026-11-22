@@ -16,7 +16,7 @@ I'd expected to be writing and tweaking code. I realised straight away that I wa
 The site grew quickly, and so did my ambitions for it. I'd called the project Poseroll from the first day, because I could see it becoming a product for models and photographers one day. It also needed a helper inside the admin area: someone Charlie could ask how to do things. I'd built chatbots before, and most chatbots I'd used were woeful. I wanted this one to be cute and capable. So on 16 October he got a name, Jimmy, after our grey cat, and that same night a face to go with it.
 <!-- src: charlie-doll-origins note (Poseroll named from day one; Jimmy first commit ffb0d3f 16 Oct 17:54, avatar same night); architecture docs, 21 Oct (site built so it can become Poseroll); interview 2 (cute and capable; chatbots woeful); smoothey/jimmy CLAUDE.md (grey cat) -->
 
-<!-- p: 02-05 | draft -->
+<!-- p: 02-05 | agreed 2026-11-22 -->
 Then I hit the problem that changed everything. Every new conversation with the AI started from nothing. I'd explain how the site worked, what we'd decided, what not to touch, and the next day I'd explain it again. A lot of value was building up in those conversations, and almost none of it carried over. Some of it sat in the AI's memory, where I couldn't easily see it or check it. The rest just vanished.
 <!-- src: interview 1b ("a lot of value sits in memories and isn't always visible to the person using the AI") -->
 
