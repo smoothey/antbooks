@@ -28,7 +28,7 @@ I'd tried to fix this once before, at work, with Azure DevOps. This time, on 18 
 That was the firewall lesson again, on a bigger scale. Once the AI had somewhere to keep what it learnt, a job that took hours took minutes. Now I wasn't doing it for one customer's firewall. I was doing it for everything I was building.
 <!-- src: chapter 1, 01-13 (agreed); interview 1b (firewall before and after) -->
 
-<!-- p: 02-08 | draft -->
+<!-- p: 02-08 | agreed 2026-11-22 -->
 Rules came next. I wanted every screen I built to feel the same, so I started writing down interface rules. I'd been an Apple fan once, and I borrowed the idea from Apple's interface guidelines: one written set of rules everyone follows, so you don't decide the same thing twice. The interface rules grew into rules for everything else: how work gets planned, who approves what, what must never happen. That became governance, and governance became Jimmy. Not just the cat in the admin area any more, but the system that holds the rules and runs the work.
 <!-- src: interview 2, Q1 (consistent interface; Apple's interface rules; rules morphed into governance and later Jimmy) -->
 
