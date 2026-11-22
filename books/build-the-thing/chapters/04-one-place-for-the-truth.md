@@ -59,13 +59,15 @@ I'd seen what one place for the truth could do before I built it. On the firewal
 <!-- src: notes/source-material/build-the-thing/2026-11-21-client-azure-ops-ai-usage.md ("Project memory carried state between sessions ... Each new session started primed instead of re-discovering the estate"; "Memory is what made it compound. Banked gotchas ... stopped repeat mistakes across sessions"); chapter 1, 01-13 (agreed) -->
 <!-- rev: 'I wrote down' kept, confirmed by Ant 22 Nov 19:02 -->
 
-<!-- p: 04-11 | draft -->
+<!-- p: 04-11 | agreed 2026-11-22 -->
 The store does the same for everything. When a chat starts work on Charlie's site, it reads the site's progress record and backlog before it does anything else. It knows what's been done, what's waiting, and what's waiting on me. When it finishes, it writes back what changed, so the next chat, or the next night, starts from where it left off rather than from nothing. Every piece of work leaves the store a little more complete than it found it.
-<!-- src: project instructions (Ultra Transcenders project: "Write state/progress there whenever you work on it; keep open items there as backlog"); Jimmy Store connector instructions; NEEDS ANT: confirm Charlie's site chat works this way, or swap in the project he'd rather use -->
+<!-- src: project instructions (Ultra Transcenders project: "Write state/progress there whenever you work on it; keep open items there as backlog"); Jimmy Store connector instructions -->
+<!-- rev: Charlie's site example confirmed by Ant 22 Nov 19:03 -->
 
-<!-- p: 04-12 | draft -->
+<!-- p: 04-12 | agreed 2026-11-22 -->
 That's why I now think good context management drives AI productivity more than anything else. Clever wording in a prompt helps a little, once. The right context, kept in one place where every chat and every run can reach it, helps every time. If an AI keeps getting something wrong, my first question isn't "how do I word this better?" It's "what doesn't it know?" More often than not, the answer belongs in the store.
 <!-- src: theme note (Ant: "Good context management really drives AI productivity"); introduction, 00-04 (agreed: clever wording mattered far less) -->
+<!-- rev: agreed by Ant 22 Nov 19:05 -->
 
 <!-- p: 04-13 | draft -->
 One place for the truth also has to know what it must never hold. Passwords, keys and other secrets never go in. Neither does anything from clients' systems, or other people's private details. Each project has its own short list of things that never go in the store, a report or a change, and every chat and run is told it at the start. Knowing what to leave out is as much a part of good context as knowing what to put in.
