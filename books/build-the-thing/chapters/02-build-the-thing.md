@@ -1,14 +1,14 @@
 # Chapter 2: Build the thing that builds the things
 
-<!-- p: 02-01 | draft -->
+<!-- p: 02-01 | agreed 2026-11-22 -->
 I didn't start with a plan. From 14 September, the first day of my gardening leave, I spent the gaps between job applications in long chats with AI and reading about what other people were doing with it. None of that left a trace. The first thing that did was a repository, the folder where code and the history of every change to it live, for a series of technical study guides. I created it on 30 September, just before midnight. Every change saved to a repository carries a date, so from that night on there's a record of what I built and when.
 <!-- src: review 22 Nov 01:21 (started 14 Sep, between job applications); Ant 22 Nov 02:00 (initial work in informal chats and own research); GitHub smoothey/ultimatetranscender created 2026-09-30T23:56Z, first commit 38d81a0 2026-09-30T23:51Z; CLAUDE.md (study guides never named) -->
 
-<!-- p: 02-02 | draft -->
+<!-- p: 02-02 | agreed 2026-11-22 -->
 Two weeks later, on 13 October, I started on Charlie's website. Charlie models as Charlie Doll, and she needed somewhere to show her work. I wanted an admin area where she could pick photos straight from the Google Drive folder that held her shoots, and a public site that showed watermarked versions. I tried a website builder first, one of the new ones where you describe what you want and AI puts it together. I used up the free credit and wasn't impressed. The same day I switched to Claude, on Azure, the cloud platform I know best.
 <!-- src: GitHub smoothey/poseroll created 2026-10-13, first commit 7b58f1a 2026-10-13; r2antbooks notes/source-material/build-the-thing/2026-11-22-charlie-doll-origins.md (13 Oct: Base44 prompt, then Claude on Azure); memory, charlie-portfolio-site (Drive picker, watermarking; Base44 free credit, not impressed) -->
 
-<!-- p: 02-03 | draft -->
+<!-- p: 02-03 | agreed 2026-11-22 -->
 I'd expected to be writing and tweaking code. I realised straight away that I wasn't. I described what I wanted, read what came back, and said yes, no or not like that. By the end of the first day, 43 changes had been saved to the site. The next day there were 56, including the page we'd use to reveal it.
 <!-- src: interview 2 (expected to write and tweak code); Ant 22 Nov (realised straight away I wasn't writing code); charlie-doll-origins note (43 commits 13 Oct; 56 commits 14 Oct incl. birthday reveal) -->
 
