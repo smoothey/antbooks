@@ -1,16 +1,16 @@
 # Introduction
 
-<!-- p: 00-01 | draft -->
+<!-- p: 00-01 | agreed 2026-11-22 -->
 In the middle of September 2026 I asked myself a question I'd been putting off for years: where is the ceiling, really? Not for AI in general. For me. One person, with a day job, evenings, weekends, and far more ideas than time.
 <!-- src: interview 1, r2antbooks notes/interviews/build-the-thing/2026-11-21-interview-1.md; review 22 Nov 01:09 (mid September, not mid October) -->
 
-<!-- p: 00-02 | draft -->
-This book is what happened next. I stopped doing the work and started building the thing that does the work. Within a few weeks, a system I call Jimmy was running my projects through the night: a modelling website, a photo organiser, a camera coaching app, a Roblox game, and a series of technical study guides going out at two books a week. Most mornings I wake up to finished work waiting for me to check, a short brief on how the night went, and a small list of things only I can decide.
-<!-- src: r2jimmy decision go-live-two-a-week; Jimmy Hub project register; overnight-cycles plan doc -->
+<!-- p: 00-02 | agreed 2026-11-22 -->
+This book is what happened next. I stopped doing the work and started building the thing that does the work. Within a few weeks, a system I call Jimmy was running my projects through the night: a modelling website, a photo organiser, a camera coaching app, a Roblox game, and a series of technical study guides. Most mornings I wake up to finished work waiting for me to check, a short brief on how the night went, and a small list of things only I can decide.
+<!-- src: r2jimmy decision go-live-two-a-week; Jimmy Hub project register; overnight-cycles plan doc; "two books a week" cut, Ant 22 Nov 16:35 (don't anchor on the number) -->
 
-<!-- p: 00-03 | draft -->
-Jimmy is named after our grey cat. The system didn't start out as anything grand. It began as a place to keep memories, so the AI could see what I'd already told it. It grew one problem at a time into what I now think of as my governance, orchestration and portfolio management tool. Nobody designed it up front, least of all me.
-<!-- src: interview 2, notes/interviews/build-the-thing/2026-11-21-interview-2.md; smoothey/jimmy CLAUDE.md (Jimmy is a grey cat) -->
+<!-- p: 00-03 | agreed 2026-11-22 -->
+Jimmy is named after our grey cat. The system didn't start out as anything grand. It began as a place to keep memories, so the AI could see what I'd already told it. It grew one problem at a time into the thing that now runs my projects: it keeps the rules, hands out the work, and tells me what needs me. Nobody designed it up front, least of all me.
+<!-- src: interview 2, notes/interviews/build-the-thing/2026-11-21-interview-2.md; smoothey/jimmy CLAUDE.md (Jimmy is a grey cat); plainer wording for governance/orchestration/portfolio, Ant 22 Nov 16:36 -->
 
 <!-- p: 00-04 | draft -->
 This isn't a book about prompt engineering. I nearly took a course in it. What I found instead was that, with the models I was using, clever wording mattered far less than two plain things: saying clearly what I needed, and putting a structure of rules around the work. The trick, as the AI kept improving, was working out the right way to work with it. That keeps changing, and this book is a snapshot of where I've got to.
