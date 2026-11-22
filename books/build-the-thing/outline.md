@@ -2,6 +2,8 @@
 
 Agreed by Ant on 21 Nov 2026: the first 14 chapters, then all four new chapters and the appendix. Target about 45,000 to 50,000 words, about 2,500 words a chapter.
 
+Fuller briefs per chapter (job, what's set up, known material, gaps): briefs.md.
+
 Each chapter lists what it draws on: L = the logs (store records, run reports, decisions, ADRs), I = interviews with Ant.
 
 ## Part 1: The shift
