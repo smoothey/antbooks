@@ -69,10 +69,13 @@ That's why I now think good context management drives AI productivity more than 
 <!-- src: theme note (Ant: "Good context management really drives AI productivity"); introduction, 00-04 (agreed: clever wording mattered far less) -->
 <!-- rev: agreed by Ant 22 Nov 19:05 -->
 
-<!-- p: 04-13 | draft -->
+<!-- p: 04-13 | agreed 2026-11-22 -->
 One place for the truth also has to know what it must never hold. Passwords, keys and other secrets never go in. Neither does anything from clients' systems, or other people's private details. Each project has its own short list of things that never go in the store, a report or a change, and every chat and run is told it at the start. Knowing what to leave out is as much a part of good context as knowing what to put in.
 <!-- src: Jimmy project register ("never" list on every project); ADR 0003 ("Client data never goes in the store"); Jimmy Store connector instructions (never-store rules) -->
+<!-- rev: agreed by Ant 22 Nov 19:06 (as is) -->
 
-<!-- p: 04-14 | draft -->
-With the store in place, the AI stopped starting every morning as a stranger. It knew the work, the rules and the history, and it could pick up where the last worker had stopped. That raised an obvious question. If it could pick up where I'd stopped, did it need me there at all while it worked? The next chapter is about the nights.
+<!-- p: 04-14 | agreed 2026-11-22 -->
+With the store in place, the AI stopped starting every morning as a stranger. It knew the work, the rules and the history, and it could pick up where the last worker had stopped. That raised an obvious question. If it could carry on from where I'd left off, did it need me there at all while it worked? The next chapter is about the nights.
 <!-- src: bridge to ch 5, Work while you sleep -->
+<!-- rev: 'left off'; agreed by Ant 22 Nov 19:19 -->
+
