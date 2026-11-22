@@ -11,8 +11,32 @@ Even then, one machine wasn't enough. I used to hang around computer shops and w
 <!-- p: 01-03 | draft -->
 Those bugs taught me the feeling this whole book is about. You write something down, the machine does it, and it keeps doing it after you've stopped. A loop. A few lines of instructions, and the screen is busy without you. I didn't have words for it then, but I've been chasing that feeling ever since.
 
+<!-- p: 01-18 | draft -->
+At school I kept turning homework into software. For some of my GCSE assignments I wrote computer programs instead of just doing the coursework. Writing the program was almost certainly more work than the assignment itself, though the program listings in my appendices did look impressive. But it forced me to understand the subject properly. You can't write code for something you only half understand.
+<!-- src: early years note, notes/interviews/build-the-thing/2026-11-22-early-years-and-game-theory.md -->
+
+<!-- p: 01-19 | draft -->
+When I was 17, my mother lost her bridge partner and asked if I'd play with her the following week. I knew nothing about bridge. So I got some books from the library, read them, and started writing my own bridge programs on my Amiga 500, in a language called AMOS. The programs were limited. But to write them I had to understand the game, and a week later my mother and I placed in the top ten per cent. Nobody believed it was the first time I'd played. With humans, at least.
+<!-- src: early years note (bridge at 17); check before print: his mother happy to be in it -->
+
+<!-- p: 01-20 | draft -->
+I've worked that way ever since, and it's exactly how I work with AI now. I have to be able to say clearly what I'm trying to achieve, just as I had to understand bridge to program it. The difference is that the AI makes it a conversation. I still have to understand the problem. I no longer have to do all of the typing.
+<!-- src: early years note ("AI for me is the same way") -->
+
+<!-- p: 01-21 | draft -->
+I always wanted to be a programmer. My career took me a different way. During my software development degree I did a paid placement with a company in Brussels, in 2000. They spotted something in me early: I ended up doing consultancy, and teaching NT4 and networking courses. I was also responsible for setting up the classrooms, and that was where the real lesson was.
+<!-- src: early years note (Brussels placement, 2000); employer not named -->
+
+<!-- p: 01-22 | draft -->
+Setting up a classroom for a course meant following a binder, step by step, machine by machine. It took hours, and it was the same hours every time. So I looked at the tools available, picked a disk imaging tool, and automated it. Each machine got hidden partitions on its hard drive that could put a course back in place on demand. Where a setup couldn't be made general enough for that, I built DVD-based installs instead. Hours became minutes. The time I got back is what let me start my consultancy and teaching career.
+<!-- src: early years note; exact tool name to confirm with Ant ("Power Image Pro") -->
+
+<!-- p: 01-23 | draft -->
+They were a testing centre too, and they gave me my MCSE exams for free. On the back of how things went, they also paid for my MCSD, in Visual Basic 6. When I graduated they offered me a career there. I turned it down, because by then I'd met the woman who would become my wife. But I'd learned something I didn't fully notice at the time: the best use of my hours was building the thing that saved them.
+<!-- src: early years note; check before print: the line about meeting his wife-to-be -->
+
 <!-- p: 01-04 | draft -->
-Decades later, computers are still my job. I work in infrastructure, networks and cloud platforms, mostly Azure. But when I'm honest about my own projects, the ones I did in my own time, the answer for most of those years is simple. I did little.
+Since then my work has been in infrastructure, networks and cloud platforms, mostly Azure. But when I'm honest about my own projects, the ones I did in my own time, the answer for most of those years is simple. I did little.
 <!-- src: interview 1, Q1 ("I did little"); profile (Azure, infrastructure and networking) -->
 
 <!-- p: 01-05 | draft -->
