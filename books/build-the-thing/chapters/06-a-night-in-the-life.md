@@ -60,10 +60,13 @@ Many of those blocks came from something that looked harmless: runs trying to ac
 <!-- src: governance/loops/merging.md ("Plain night runs don't merge (Ant, 3 Nov 2026) ... Since 2 Nov Claude's safety check refuses those merges every time, and each refusal counts towards the block limit that can hold a run at a prompt"); chapter 5, 05-06 (agreed). "many" confirmed by Ant 22 Nov 20:34 -->
 <!-- rev: agreed by Ant 22 Nov 20:34 (keeps 'many') -->
 
-<!-- p: 06-13 | draft -->
-It wasn't fixed overnight. The next nights still had stalls, and on one of them, around a quarter to two, I tapped Allow from my phone so the waiting runs could carry on. But two nights after Charlie's birthday, still away, thirteen of fifteen runs finished properly, and by borrowing from each other they used more minutes than the night had.
+<!-- p: 06-13 | agreed 2026-11-22 -->
+It wasn't fixed overnight. The next night still had stalls. Two nights after Charlie's birthday, still away, I tapped Allow from my phone at about a quarter to two, UK time, so the waiting runs could carry on. After that, thirteen of fifteen runs finished properly, and by borrowing from each other they used more minutes than the night had.
 <!-- src: 2026-11-04/morning-brief.md ("Before you tapped at about 01:47, four sessions waited"; "13 of 15 runs and shifts finished ok"; "Used 517 of 480 minutes (108%)"); 2026-11-03/morning-brief.md (partial night, stalls) -->
+<!-- rev: tap and 13 of 15 were the same night (4 Nov); agreed by Ant 22 Nov 20:37 -->
 
-<!-- p: 06-14 | draft -->
-I don't think the good night teaches as much as the bad one. On 18 November the system simply did what it had been built to do. The night of Charlie's birthday showed me a limit I didn't know about, and every part of that failure became a rule: don't do what will be refused, leave a heartbeat, and make the morning brief say plainly when it doesn't know. The good nights are what the rules make possible. The bad nights are where the rules come from.
+<!-- p: 06-14 | agreed 2026-11-22 -->
+I don't think the good night teaches as much as the bad one. On 18 November the system simply did what it had been built to do. The night of Charlie's birthday showed me a limit I didn't know about, and every part of that failure became a rule: don't do what will be refused, and leave a heartbeat every time. And one thing worked as it should: the morning brief told me plainly that it didn't know. The good nights are what the rules make possible. The bad nights are where the rules come from.
 <!-- src: CONTRACT.md "Blocks and prompts"; merging.md; r2jimmy lessons 2026-11-02-morning-brief-1, 2026-11-03-agency-test-1 (abandoned heartbeats) -->
+<!-- rev: brief's honesty framed as what worked, not a new rule; agreed by Ant 22 Nov 20:39 -->
+
