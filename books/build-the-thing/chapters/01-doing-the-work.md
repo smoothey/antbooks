@@ -99,28 +99,32 @@ I still have a message I posted for my partner in January 2019, walking her thro
 <!-- rev: friend reviewer proof 22 Nov; Ant 22 Nov 13:12 -->
 <!-- rev: control-freak line, Ant 22 Nov 16:29 (option 2 of 3; may soften later) -->
 
-<!-- p: 01-09 | reopened 2026-11-22: friend reviewer proof edits, fixes and Ant 13:12 answers; awaiting Ant -->
+<!-- p: 01-09 | agreed 2026-11-22 -->
 Reading that now, it sums up the whole problem in one line. However much I handed over, the last step always waited on me. My partner could describe what she wanted, but nothing happened until I found the time to write it. I wanted to turn Ophelia into something anyone could use. I never had the bandwidth. The service she was built on has since been retired, and Ophelia went with it.
 <!-- src: interview 2 follow-up; Ant, 21 Nov 2026 (LUIS retired, project retired) -->
 <!-- rev: friend reviewer proof 22 Nov; Ant 22 Nov 13:12 -->
+<!-- rev: agreed by Ant 22 Nov 16:59 -->
 
-<!-- p: 01-10 | reopened 2026-11-22: friend reviewer proof edits, fixes and Ant 13:12 answers; awaiting Ant -->
-That was the pattern for years. The limit wasn't ideas, and it wasn't skill. It was hours. Every idea had to pass through one person with a day job, and that person was the narrowest part of the pipe. Working harder made the pipe a little wider for a while but it never changed its shape.
+<!-- p: 01-10 | agreed 2026-11-22 -->
+That was the pattern for years. The limit wasn't ideas, and it wasn't skill. It was hours. Every idea had to pass through one person with a day job, and that person was the narrowest part of the pipe. Working harder made the pipe a little wider for a while. It never changed its shape.
 <!-- rev: friend reviewer proof 22 Nov; Ant 22 Nov 13:12 -->
+<!-- rev: original two sentences kept; agreed by Ant 22 Nov 17:00 -->
 
-<!-- p: 01-11 | reopened 2026-11-22: friend reviewer proof edits, fixes and Ant 13:12 answers; awaiting Ant -->
+<!-- p: 01-11 | agreed 2026-11-22 -->
 My first real taste of AI at work came when I was seconded into a Data & AI team at a previous employer. At first I was careful with it, only asking it to help me troubleshoot. Later I let it track down problems, but only ones I was confident I understood and could fix myself in time if it went wrong. Some colleagues used it to explain how code worked. Among the people I worked with I was usually the best developer, and reading code had always been a strength, so that wasn't where it helped me.
 <!-- src: interview 1, Q2; early years note (usually the best developer among peers; moved here from 01-24 in review, 22 Nov 00:32) -->
 <!-- rev: friend reviewer proof 22 Nov; Ant 22 Nov 13:12 -->
+<!-- rev: agreed by Ant 22 Nov 17:01 -->
 
 <!-- p: 01-12 | agreed 2026-11-22 -->
 Where it did help was in writing scripts. I started getting AI to write discovery and troubleshooting scripts for client problems. It was faster, and it let me work on more than one thing at once. My theories weren't always right. Its theories weren't always right either. But between us we generally turned days of troubleshooting into hours, and my clients got the benefit.
 <!-- src: interview 1, Q3 -->
 
-<!-- p: 01-13 | reopened 2026-11-22: friend reviewer proof edits, fixes and Ant 13:12 answers; awaiting Ant -->
-I was called in on one client's firewall changes when the consultants who usually looked after it weren't around. I didn't know their setup, and a single change could take me a few hours. So, I wrote down how the work should be done, step by step, and gave the AI a place to keep what it learnt about that client between jobs. After that, a change took minutes. And it worked the way I work: it fitted in with what was already there, and challenged it when something wasn't right. I didn't know it yet, but that was the core idea behind everything that came later.
+<!-- p: 01-13 | agreed 2026-11-22 -->
+I was called in on one client's firewall changes when the consultants who usually looked after it weren't around. I didn't know their setup, and a single change could take me a few hours. So I wrote down how the work should be done, step by step, and gave the AI a place to keep what it learnt about that client between jobs. After that, a change took minutes. And it worked the way I work: it fitted in with what was already there, and challenged it when something wasn't right. I didn't know it yet, but that was the core idea behind everything that came later.
 <!-- src: interview 1 follow-ups (firewall before and after); notes/source-material/build-the-thing/2026-11-21-client-azure-ops-ai-usage.md; client not named -->
 <!-- rev: friend reviewer proof 22 Nov; Ant 22 Nov 13:12 -->
+<!-- rev: comma after 'So' dropped; agreed by Ant 22 Nov 17:02 -->
 
 <!-- p: 01-14 | reopened 2026-11-22: friend reviewer proof edits, fixes and Ant 13:12 answers; awaiting Ant -->
 Meanwhile, the team I was part of decided to vibe code its own deployment tool: let the AI write it, and hope for the best. I worked on some of its features. It was one big Python program that, when you looked closely, mostly handed out templates. Nobody in the team knew Python well. It could just as easily have been PowerShell, Microsoft's own scripting language, and I genuinely don't think anyone stopped to ask what it should be written in. It was run very formally in Azure DevOps (Microsoft's tool for planning and tracking software work), broken into tiny tasks and handed out to individuals. Many of those tasks were things the AI could have finished in minutes.
