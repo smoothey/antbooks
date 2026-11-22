@@ -23,3 +23,11 @@ Polish the whole section once the book is finished.
 
 **"a Microsoft language service called LUIS"**: Language Understanding (LUIS). Microsoft stopped new LUIS resources from April 2023, closed its portal on 31 October 2025, and retired the service fully on 31 March 2026, pointing users to its successor, conversational language understanding.
 <!-- checked 22 Nov 2026: Microsoft Learn, "What is LUIS" (portal closed 31 Oct 2025, fully retired 31 Mar 2026); Microsoft Q&A retirement announcement (no new resources from 1 Apr 2023) -->
+
+## Chapter 2: Build the thing that builds the things
+
+**"an MCP server"**: the Model Context Protocol, an open standard for connecting AI assistants to the tools and data people already use. Anthropic published it on 25 November 2024.
+<!-- checked 22 Nov 2026: Anthropic, "Introducing the Model Context Protocol" (25 Nov 2024); InfoWorld, 26 Nov 2024 -->
+
+**"Apple's interface guidelines"**: Apple's Human Interface Guidelines, its published design guidance for every Apple platform. Apple traces the document back to 1978.
+<!-- checked 22 Nov 2026: developer.apple.com, Human Interface Guidelines and "Meet the new Human Interface Guidelines"; WWDC 2017 session 802 (goes back to 1978) -->
