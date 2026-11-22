@@ -36,25 +36,29 @@ When I was seventeen, my mother lost her bridge partner and asked if I'd play wi
 <!-- rev: friend reviewer proof 22 Nov; Ant 22 Nov 13:12 -->
 <!-- rev: 'A week later' to avoid repeat; agreed by Ant 22 Nov 16:48 -->
 
-<!-- p: 01-20 | reopened 2026-11-22: friend reviewer proof edits, fixes and Ant 13:12 answers; awaiting Ant -->
-I've worked in that way ever since, and it's exactly how I work with AI now. I have to be able to clearly frame what I'm trying to achieve, just as I had to with bridge in order to make a program. The difference now is that the AI makes it a conversation. I still have to understand the problem but I no longer have to do all of the typing.
+<!-- p: 01-20 | agreed 2026-11-22 -->
+I've worked that way ever since, and it's exactly how I work with AI now. I have to be able to clearly frame what I'm trying to achieve, just as I had to understand bridge to program it. The difference now is that the AI makes it a conversation. I still have to understand the problem, but I no longer have to do all of the typing.
 <!-- src: early years note ("AI for me is the same way") -->
 <!-- rev: friend reviewer proof 22 Nov; Ant 22 Nov 13:12 -->
+<!-- rev: mix of original and proof wording; agreed by Ant 22 Nov 16:49 -->
 
-<!-- p: 01-24 | reopened 2026-11-22: friend reviewer proof edits, fixes and Ant 13:12 answers; awaiting Ant -->
+<!-- p: 01-24 | agreed 2026-11-22 -->
 School gave me one more thing, and it was a game changer. In Economics GCSE I learnt about comparative advantage, an idea the economist David Ricardo set out in 1817. In plain terms: you shouldn't spend your time on what you're best at, but on what adds the most value, because those aren't always the same thing. I'd always assumed the opposite. At sixteen it was just an idea that made sense. It would be decades, and a very different kind of tool, before I truly understood what that meant for me.
 <!-- src: early years note (Economics GCSE, 22 Nov 00:11); review 22 Nov 00:31: name the theory here; comparative advantage (Ricardo, On the Principles of Political Economy and Taxation, 1817); ch 3 expands it -->
 <!-- rev: friend reviewer proof 22 Nov; Ant 22 Nov 13:12 -->
+<!-- rev: agreed by Ant 22 Nov 16:50 -->
 
-<!-- p: 01-21 | reopened 2026-11-22: friend reviewer proof edits, fixes and Ant 13:12 answers; awaiting Ant -->
-I always wanted to be a programmer but my early career took me a different way. During my software development degree I did a paid placement with a company in Brussels, in 2000. They spotted something in me early: I ended up doing consultancy, and teaching Windows NT4 and networking courses. I was also made responsible for setting up the classrooms, and that was where the real lesson was.
+<!-- p: 01-21 | agreed 2026-11-22 -->
+I always wanted to be a programmer, but my career took me a different way. During my software development degree I did a paid placement with a company in Brussels, in 2000. They spotted something in me early: I ended up doing consultancy, and teaching Windows NT4 and networking courses. I was also made responsible for setting up the classrooms, and that was where the real lesson was.
 <!-- src: early years note (Brussels placement, 2000); employer not named -->
 <!-- rev: friend reviewer proof 22 Nov; Ant 22 Nov 13:12 -->
+<!-- rev: 'early' dropped, comma added; agreed by Ant 22 Nov 16:51 -->
 
-<!-- p: 01-22 | reopened 2026-11-22: friend reviewer proof edits, fixes and Ant 13:12 answers; awaiting Ant -->
-Setting up a classroom for a course meant following a binder, step by step, machine by machine. It took hours, and it was the same hours every time. So I looked at the tools available for copying whole disks. They were all immature then. I picked PowerQuest's Drive Image Pro, even though it wasn't the market leader, for one reason: unlike its competitors, it could be scripted, meaning it ran from a written list of instructions instead of by hand. Each machine's hard drive had hidden sections, called partitions, that could put a course back in place on demand. Where a setup couldn't be made general enough for that, I built DVD-based installs instead. Hours became minutes, and the time I got back went into the consultancy and teaching.
+<!-- p: 01-22 | agreed 2026-11-22 -->
+Setting up a classroom for a course meant following a binder, step by step, machine by machine. It took hours, and it was the same hours every time. So I looked at the tools available for copying whole disks. They were all immature then. I picked PowerQuest's Drive Image Pro, even though it wasn't the market leader, for one reason: unlike its competitors, it could be scripted, meaning it ran from a written list of instructions instead of by hand. I gave each machine's hard drive hidden sections, called partitions, that could put a course back in place on demand. Where a setup couldn't be made general enough for that, I built DVD-based installs instead. Hours became minutes, and the time I got back went into the consultancy and teaching.
 <!-- src: early years note; Ant, 22 Nov 00:15 (Drive Image Pro, chosen because it was scriptable); polish question 3 agreed 22 Nov 01:21 (ending reworded) -->
 <!-- rev: friend reviewer proof 22 Nov; Ant 22 Nov 13:12 -->
+<!-- rev: 'I gave each machine's hard drive'; agreed by Ant 22 Nov 16:51 -->
 
 <!-- p: 01-23 | agreed 2026-11-22 -->
 The company was also a testing centre, and they gave me my MCSE exams, Microsoft's certification for systems engineers, for free. On the back of how things went, they also paid for my MCSD, the developer equivalent, in Visual Basic 6. When I graduated they offered me a job there. I turned it down. By then I'd met the woman who would become my wife, and that mattered more. I left with something more useful than a job offer, though I didn't notice it at the time: the best use of my hours was building the thing that saved them.
