@@ -52,17 +52,20 @@ There was one thing slowing all of this down, and it took me a while to see it. 
 <!-- src: notes/interviews/build-the-thing/2026-11-21-theme-pace-anchoring.md ("AI's answers often assumed a rate of progress anchored to a human team. He has constantly had to challenge that"); r2jimmy decision sizing-night-share (replaced S/M/L sizes); introduction, 00-05 (agreed). NEEDS ANT: "a fortnight of work it could finish in a night" is illustrative; confirm or give a real case -->
 <!-- rev: rewritten from Ant 22 Nov 17:44 (Charlie Doll sprints in hours, interactive and overnight; freeze worries days ahead; 3 sprints in an afternoon alongside other projects); sprint explained; agreed by Ant 22 Nov 17:46 -->
 
-<!-- p: 03-10 | draft -->
+<!-- p: 03-10 | agreed 2026-11-22 -->
 So on 20 October we stopped borrowing a pace and made our own. We decided to size every piece of work as a share of a night: a sixteenth, an eighth, a quarter, a half, or a whole night. Anything bigger gets split before it's planned. A "night" isn't a time of day. It's a unit of building effort, so work done in a daytime chat counts in the same units. My own time is counted separately, in minutes, because it's the thing in shortest supply.
 <!-- src: r2jimmy decision sizing-night-share (20 Oct 2026: nightShare 0, 1/16, 1/8, 1/4, 1/2, 1; split anything over one night; "a night is a unit of Claude build effort, not a time of day: daytime chat work counts in the same units"; antTime in minutes) -->
+<!-- rev: agreed by Ant 22 Nov 17:47 -->
 
-<!-- p: 03-11 | draft -->
+<!-- p: 03-11 | agreed 2026-11-22 -->
 Then we measured. Each night has eight hours of building time, 480 minutes. On the nights of 20 and 21 October, the runs used only about 274 and 255 of them. Nothing had run out of time. The runs had simply run out of work. Some projects emptied their lists; others hit a limit on how many changes they could put live in one go. The AI had planned for the pace it expected, and the real pace was faster.
 <!-- src: r2jimmy decision night-utilisation (22 Oct 2026: "The nights of 20 and 21 Oct used about 274 and 255 of 480 minutes; runs stopped on empty queues ... or push caps, never on time"); decision night-load (22 Oct 2026, evidence) -->
+<!-- rev: agreed by Ant 22 Nov 17:48 (as is) -->
 
-<!-- p: 03-12 | draft -->
+<!-- p: 03-12 | agreed 2026-11-22 -->
 So we changed the plan to match the evidence. On 22 October we started planning each night at about twice what we expected it to take. Runs that finish early now pull in more work by themselves, from items that are safe to do without me. And the morning brief now tells me how many of the 480 minutes were used, and warns me if a night used less than three quarters of them. An idle night became something I could see, and something we could fix.
 <!-- src: r2jimmy decision night-load (22 Oct 2026: "Nights planned at about 2x nightShare; runs keep taking next items until a stop rule"); decision night-utilisation (22 Oct 2026: self-promote up to 6 of its own ideas, unattended yes only; "Morning brief reports minutes used of 480 and flags a night under 75%") -->
+<!-- rev: agreed by Ant 22 Nov 17:49 -->
 
 <!-- p: 03-13 | draft -->
 Why does the AI borrow a human pace in the first place? My guess is that it learned what work looks like from writing made before AI, when work was done by teams of people. It may also play safe and pad its estimates, and it has no way of knowing its own speed unless someone measures it. Whatever the cause, the lesson is the same one I learnt with bridge and with every tool since: don't assume, find out. The most expensive limit is the one you don't notice you've accepted.
