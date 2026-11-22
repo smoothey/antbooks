@@ -1,0 +1,57 @@
+# Chapter 4: One place for the truth
+
+<!-- p: 04-01 | draft -->
+AI sometimes says stupid things. Anyone who has used it for more than an afternoon has seen it: a confident answer that ignores something obvious, a plan that breaks a rule you agreed an hour ago, a fix for a problem you solved last week. For a long time I took that as a limit of the tool. Then I started asking a different question. Is it stupid, or has nobody given it the right context?
+<!-- src: notes/interviews/build-the-thing/2026-11-22-theme-context.md (Ant, 22 Nov 00:38: "AI sometimes says stupid things. But is it stupid, or just not given the right context?") -->
+
+<!-- p: 04-02 | draft -->
+Most of the time, it's the context. Think of the cleverest new colleague you've ever had, on their first morning. They know their trade inside out, and they know nothing about your place: what you've already tried, what the customer hates, which system falls over if you touch it. Every new chat with an AI is that first morning. Unless you give it what it needs to know, it will fill the gaps with sensible guesses, and some of those guesses will look stupid.
+<!-- src: theme note (context); Claude's analogy, offered for Ant to accept -->
+
+<!-- p: 04-03 | draft -->
+[STORY TO COME FROM ANT: one real "stupid" answer that turned out to be missing context, and how giving it the context fixed it.]
+<!-- src: briefs.md ch 4 gap. Not for print until filled and agreed -->
+
+<!-- p: 04-04 | draft -->
+Before the store, the context lived in three places, and none of them was good enough. Some of it was in old chats, which a new chat couldn't see. Some of it was in the AI's own memory, which I couldn't easily see, check or correct. And most of it was in my head, which meant I was the one typing it out again every time. A lot of value was building up, and almost none of it was where the next piece of work could use it.
+<!-- src: interview 1b ("a lot of value sits in memories and isn't always visible to the person using the AI"); chapter 2, 02-05 (agreed) -->
+
+<!-- p: 04-05 | draft -->
+So the store became the one place for the truth. It holds a small number of kinds of thing, and each has a plain job. The backlog is the list of work still to do, with every item given a short code. A progress record says where a project is today and what it needs from me. Decisions record what we agreed and why, so nobody argues the same point twice. Lessons record what went wrong and what we changed. Run reports say what happened each night. And messages let one chat ask another for something, the way colleagues leave each other notes.
+<!-- src: ADR 0002 (record kinds: backlog, state, run, message, loop, grant, decision, lesson, event); Jimmy Store connector instructions (codes such as UT-1 given by the store; needsAnt asks in the progress record) -->
+
+<!-- p: 04-06 | draft -->
+I built it in my own Azure account, not inside any one AI product, and that was deliberate. If I change assistant, or plan, or the product changes under me, the store is still there. I can read it myself, without any AI in the way. The backups are mine, and so are the rules about who can see what. Scripts and other tools can reach it, not just chats. The price is that I now run a small service of my own, and its health is my job.
+<!-- src: ADR 0002 (context: state lived in claude.ai, tied to one vendor's product, no backups Ant controlled; consequences: survives a change of assistant or plan, Ant can read it directly, backups and access rules are his; "Bad: Ant now runs a service") -->
+
+<!-- p: 04-07 | draft -->
+It has three front doors onto the same truth. One is for the AI: the MCP connection from chapter 2, which lets any of my chats read and write. One is for scripts and devices. And one is a web page for me, the Hub. Whichever door you come in by, you see the same records, under the same rules. A night run, a daytime chat and I all look at the same backlog, so nobody is working from an old copy.
+<!-- src: ADR 0002 (three front doors on one router and one policy: /mcp for Claude, REST /v1 for scripts and devices, the Jimmy Hub site; "one source of truth") -->
+
+<!-- p: 04-08 | draft -->
+Having one place also raises a problem you don't get with notes in your head: two workers changing the same thing at once. A night run and a daytime chat might both update the same progress record within a minute of each other. If the second one simply overwrote the first, work would vanish without anyone noticing. So every change says, in effect, "only save this if the record still looks the way I last saw it." If someone else got there first, the change is refused, the worker reads the new version, and tries again.
+<!-- src: ADR 0002 ("etag-checked writes"); Jimmy Store connector instructions (expected_etag: "only change it if it still has this etag ... otherwise you get a conflict") -->
+
+<!-- p: 04-09 | draft -->
+The same goes for privacy. The store holds very different things: my own notes, things Charlie and I share, and project work that other people may one day see. I didn't want the line between them to depend on an AI remembering a rule, because a rule that only lives in what you tell an AI can be talked round. So the lines are built into the store itself. Each part has a privacy ring, and the store checks every request against it, whatever the AI has been told. Chapter 8 goes into how that works.
+<!-- src: ADR 0003 (rings; "A rule that lives only in a prompt ... can be talked round"; "enforced in the store's code ... never in what a model is told") -->
+
+<!-- p: 04-10 | draft -->
+I'd seen what one place for the truth could do before I built it. On the firewall work in chapter 1, the AI kept notes about that customer between jobs: what the network looked like, how they named things, what had gone wrong before. Each new session started already knowing all that, instead of rediscovering it. And when the AI hit a trap once, the trap went into the notes, so it didn't fall into it again. Looking back at that work, the conclusion I wrote down was simple: memory is what made it compound.
+<!-- src: notes/source-material/build-the-thing/2026-11-21-client-azure-ops-ai-usage.md ("Project memory carried state between sessions ... Each new session started primed instead of re-discovering the estate"; "Memory is what made it compound. Banked gotchas ... stopped repeat mistakes across sessions"); chapter 1, 01-13 (agreed) -->
+
+<!-- p: 04-11 | draft -->
+The store does the same for everything. When a chat starts work on Charlie's site, it reads the site's progress record and backlog before it does anything else. It knows what's been done, what's waiting, and what's waiting on me. When it finishes, it writes back what changed, so the next chat, or the next night, starts from where it left off rather than from nothing. Every piece of work leaves the store a little more complete than it found it.
+<!-- src: project instructions (Ultra Transcenders project: "Write state/progress there whenever you work on it; keep open items there as backlog"); Jimmy Store connector instructions; NEEDS ANT: confirm Charlie's site chat works this way, or swap in the project he'd rather use -->
+
+<!-- p: 04-12 | draft -->
+That's why I now think good context management drives AI productivity more than anything else. Clever wording in a prompt helps a little, once. The right context, kept in one place where every chat and every run can reach it, helps every time. If an AI keeps getting something wrong, my first question isn't "how do I word this better?" It's "what doesn't it know?" More often than not, the answer belongs in the store.
+<!-- src: theme note (Ant: "Good context management really drives AI productivity"); introduction, 00-04 (agreed: clever wording mattered far less) -->
+
+<!-- p: 04-13 | draft -->
+One place for the truth also has to know what it must never hold. Passwords, keys and other secrets never go in. Neither does anything from clients' systems, or other people's private details. Each project has its own short list of things that never go in the store, a report or a change, and every chat and run is told it at the start. Knowing what to leave out is as much a part of good context as knowing what to put in.
+<!-- src: Jimmy project register ("never" list on every project); ADR 0003 ("Client data never goes in the store"); Jimmy Store connector instructions (never-store rules) -->
+
+<!-- p: 04-14 | draft -->
+With the store in place, the AI stopped starting every morning as a stranger. It knew the work, the rules and the history, and it could pick up where the last worker had stopped. That raised an obvious question. If it could pick up where I'd stopped, did it need me there at all while it worked? The next chapter is about the nights.
+<!-- src: bridge to ch 5, Work while you sleep -->
