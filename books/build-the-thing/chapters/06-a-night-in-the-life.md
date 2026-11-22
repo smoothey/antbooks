@@ -1,12 +1,14 @@
 # Chapter 6: A night in the life
 
-<!-- p: 06-01 | draft -->
-Chapter 5 described how the nights are meant to work. This chapter shows two real ones. The first is a good night, when everything did what it should. The second is the night it all went quiet, which happened, of course, on the one night I'd have most wanted it not to.
+<!-- p: 06-01 | agreed 2026-11-22 -->
+So much for how the nights are meant to work. Here are two real ones. The first is a good night, when everything did what it should. The second is the night it all went quiet, which happened, of course, on the one night I'd have most wanted it not to.
 <!-- src: chapter 5 (agreed); reports for the nights of 18 Nov and 2 Nov 2026 in smoothey/jimmy governance/reports -->
+<!-- rev: livelier opening; agreed by Ant 22 Nov 20:03 -->
 
-<!-- p: 06-02 | draft -->
-The good night was 18 November. At 16:37 the readiness check found work for every project except the Roblox game, which was waiting for a decision from me. At 20:23 the agency test passed all fourteen of its checks. By the time I sat down for the evening, the night was ready to start without me.
+<!-- p: 06-02 | agreed 2026-11-22 -->
+The good night was 18 November. At 16:37 the readiness check found work for every project except the Roblox game, which was waiting for me to play-test it. At 20:23 the agency test passed all fourteen of its checks. By the time I sat down for the evening, the night was ready to start without me.
 <!-- src: governance/reports/2026-11-18/morning-brief.md ("readiness: ok. Every project had work except Robyn's Roblox (RR-233)"; "agency-test: ok, 14 of 14") -->
+<!-- rev: Roblox waiting on Ant's play-test (Ant 22 Nov 20:05); agreed -->
 
 <!-- p: 06-03 | draft -->
 Charlie's site started at 22:47. I was still up, so I looked at what was waiting from the night before and accepted two pull requests, at 23:15 and 23:53, while the run worked on. Between them they carried seven pieces of work for the site. By the time I went to bed, the night was already building on top of them.
