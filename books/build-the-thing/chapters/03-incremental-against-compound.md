@@ -1,16 +1,19 @@
 # Chapter 3: Incremental against compound
 
-<!-- p: 03-01 | draft -->
-There are two ways to get more done. You can add: more hours, more effort, more evenings. Or you can multiply: build things that keep working after you've stopped. For twenty years I mostly added. This chapter is about the difference, and why it matters more now than it ever has.
+<!-- p: 03-01 | agreed 2026-11-22 -->
+There are two ways to get more done. You can add: more hours, more effort, more evenings. Or you can multiply: build things that keep working after you've stopped. For more than twenty years I mostly added. This chapter is about the difference, and why it matters more now than it ever has.
 <!-- src: book thesis (Ant, 21 Nov 2026, title and outline); chapter 1, 01-06 and 01-10 (agreed) -->
+<!-- rev: 'more than twenty years' (from Brussels, 2000); agreed by Ant 22 Nov 17:25 -->
 
-<!-- p: 03-02 | draft -->
-Adding works, up to a point. Every tool I built in my own time saved hours once it existed. But every hour it saved, I'd already paid for in an evening or a weekend, and every change it needed came out of the same evenings. My progress grew in a straight line at best, and the line could never climb higher than the hours I had. That's what incremental means. It isn't slow. It's capped.
+<!-- p: 03-02 | agreed 2026-11-22 -->
+Adding works, up to a point. Every tool I built in my own time saved hours once it existed. But much of what it saved, I'd already paid for in an evening or a weekend, and every change it needed came out of the same evenings. My progress grew in a straight line at best, and the line could never climb higher than the hours I had. That's what incremental means. It isn't slow. It's capped.
 <!-- src: notes/interviews/build-the-thing/2026-11-22-career-and-own-time.md ("burning my personal time"; "still helped free up time, but at a personal cost"); chapter 1, 01-06 (agreed) -->
+<!-- rev: 'much of what it saved'; agreed by Ant 22 Nov 17:26 -->
 
-<!-- p: 03-03 | draft -->
-Compounding works differently. Some things you make keep paying out, and each payout makes the next one bigger. A rule, written down once, applies to every piece of work from then on. A tool, built once, gets used every night. A record of what happened, kept once, means nobody has to rediscover it. When I write a rule into Jimmy's governance today, it applies to every project tonight, without me doing anything else.
+<!-- p: 03-03 | agreed 2026-11-22 -->
+Compounding works differently. Some things you make keep paying out, and each one makes the next one easier to build. A rule, written down once, applies to every piece of work from then on. A tool, built once, gets used every night. A record of what happened, kept once, means nobody has to rediscover it. When I write a rule into Jimmy today, it applies to every project tonight, without me doing anything else.
 <!-- src: outline ch 3 ("what compounds: rules, tools, records"); r2jimmy decision sizing-night-share (20 Oct 2026: agreed 11:50, governance merged 13:05, "live for tonight's runs", applies to every project) -->
+<!-- rev: 'easier to build', 'into Jimmy'; agreed by Ant 22 Nov 17:27 -->
 
 <!-- p: 03-04 | draft -->
 Here's a real example. On the morning of 20 October I agreed a new way of sizing work, which I'll come to later in this chapter. By lunchtime it was written into the rules, and that night every project used it. One decision, made once, changed how six projects planned their work, and it has kept doing so every night since.
