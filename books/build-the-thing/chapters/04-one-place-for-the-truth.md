@@ -24,13 +24,15 @@ The same evening, I mentioned I'd be away from 1 to 13 November. The AI marked m
 It helps to know what "context" means to an AI. When it answers, it can only use what's in front of it at that moment: your message, the conversation so far, and any files, notes or instructions it has been given. That's its context. It doesn't carry anything over from one chat to the next unless something feeds it back in, and there's a limit to how much it can hold at once. When a long piece of work fills that space, older details start to drop out. So the question is never just whether the AI is clever enough. It's whether the right things are in front of it when it needs them.
 <!-- src: Claude's plain explanation of an AI's context (and the context window); added at Ant's request, agreed as written 22 Nov 18:51 -->
 
-<!-- p: 04-04 | draft -->
-Before the store, the context lived in three places, and none of them was good enough. Some of it was in old chats, which a new chat couldn't see. Some of it was in the AI's own memory, which I couldn't easily see, check or correct. And most of it was in my head, which meant I was the one typing it out again every time. A lot of value was building up, and almost none of it was where the next piece of work could use it.
+<!-- p: 04-04 | agreed 2026-11-22 -->
+Before the store, the context lived in three places, and none of them was good enough. Some of it was in old chats, which a new chat couldn't see. Some of it was in the AI's own memory, which I couldn't easily see, check or correct. And most of it was in my head, which meant I was the one typing it out again every time. Chapter 2 told how that pushed me to build the store. This chapter is about what it became.
 <!-- src: interview 1b ("a lot of value sits in memories and isn't always visible to the person using the AI"); chapter 2, 02-05 (agreed) -->
+<!-- rev: last sentence changed to avoid repeating 02-05; agreed by Ant 22 Nov 18:53 -->
 
-<!-- p: 04-05 | draft -->
-So the store became the one place for the truth. It holds a small number of kinds of thing, and each has a plain job. The backlog is the list of work still to do, with every item given a short code. A progress record says where a project is today and what it needs from me. Decisions record what we agreed and why, so nobody argues the same point twice. Lessons record what went wrong and what we changed. Run reports say what happened each night. And messages let one chat ask another for something, the way colleagues leave each other notes.
+<!-- p: 04-05 | agreed 2026-11-22 -->
+It became the one place for the truth. It holds a small number of kinds of thing, and each has a plain job. The backlog is the list of work still to do, with every item given a short code, such as JM-458. A progress record says where a project is today and what it needs from me. Decisions record what we agreed and why, so nobody argues the same point twice. Lessons record what went wrong and what we changed. Run reports say what happened each night. And messages let one chat ask another for something, the way colleagues leave each other notes.
 <!-- src: ADR 0002 (record kinds: backlog, state, run, message, loop, grant, decision, lesson, event); Jimmy Store connector instructions (codes such as UT-1 given by the store; needsAnt asks in the progress record) -->
+<!-- rev: 'It became', example code JM-458 (this book's first backlog item, r2jimmy); agreed by Ant 22 Nov 18:55 -->
 
 <!-- p: 04-06 | draft -->
 I built it in my own Azure account, not inside any one AI product, and that was deliberate. If I change assistant, or plan, or the product changes under me, the store is still there. I can read it myself, without any AI in the way. The backups are mine, and so are the rules about who can see what. Scripts and other tools can reach it, not just chats. The price is that I now run a small service of my own, and its health is my job.
