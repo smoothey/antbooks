@@ -44,17 +44,20 @@ It has three front doors onto the same truth. One is for the AI: the MCP connect
 <!-- src: ADR 0002 (three front doors on one router and one policy: /mcp for Claude, REST /v1 for scripts and devices, the Jimmy Hub site; "one source of truth") -->
 <!-- rev: agreed by Ant 22 Nov 18:58; figure fig04 goes after this paragraph -->
 
-<!-- p: 04-08 | draft -->
+<!-- p: 04-08 | agreed 2026-11-22 -->
 Having one place also raises a problem you don't get with notes in your head: two workers changing the same thing at once. A night run and a daytime chat might both update the same progress record within a minute of each other. If the second one simply overwrote the first, work would vanish without anyone noticing. So every change says, in effect, "only save this if the record still looks the way I last saw it." If someone else got there first, the change is refused, the worker reads the new version, and tries again.
 <!-- src: ADR 0002 ("etag-checked writes"); Jimmy Store connector instructions (expected_etag: "only change it if it still has this etag ... otherwise you get a conflict") -->
+<!-- rev: agreed by Ant 22 Nov 18:59 -->
 
-<!-- p: 04-09 | draft -->
-The same goes for privacy. The store holds very different things: my own notes, things Charlie and I share, and project work that other people may one day see. I didn't want the line between them to depend on an AI remembering a rule, because a rule that only lives in what you tell an AI can be talked round. So the lines are built into the store itself. Each part has a privacy ring, and the store checks every request against it, whatever the AI has been told. Chapter 8 goes into how that works.
+<!-- p: 04-09 | agreed 2026-11-22 -->
+Privacy needed the same kind of care, built in rather than hoped for. The store holds very different things: my own notes, things Charlie and I share, and project work that other people may one day see. I didn't want the line between them to depend on an AI remembering a rule, because a rule that only lives in what you tell an AI can be talked round. So the lines are built into the store itself. Each part has a privacy ring, and the store checks every request against it, whatever the AI has been told. Chapter 8 goes into how that works.
 <!-- src: ADR 0003 (rings; "A rule that lives only in a prompt ... can be talked round"; "enforced in the store's code ... never in what a model is told") -->
+<!-- rev: new opening; agreed by Ant 22 Nov 19:00 -->
 
-<!-- p: 04-10 | draft -->
+<!-- p: 04-10 | agreed 2026-11-22 -->
 I'd seen what one place for the truth could do before I built it. On the firewall work in chapter 1, the AI kept notes about that customer between jobs: what the network looked like, how they named things, what had gone wrong before. Each new session started already knowing all that, instead of rediscovering it. And when the AI hit a trap once, the trap went into the notes, so it didn't fall into it again. Looking back at that work, the conclusion I wrote down was simple: memory is what made it compound.
 <!-- src: notes/source-material/build-the-thing/2026-11-21-client-azure-ops-ai-usage.md ("Project memory carried state between sessions ... Each new session started primed instead of re-discovering the estate"; "Memory is what made it compound. Banked gotchas ... stopped repeat mistakes across sessions"); chapter 1, 01-13 (agreed) -->
+<!-- rev: 'I wrote down' kept, confirmed by Ant 22 Nov 19:02 -->
 
 <!-- p: 04-11 | draft -->
 The store does the same for everything. When a chat starts work on Charlie's site, it reads the site's progress record and backlog before it does anything else. It knows what's been done, what's waiting, and what's waiting on me. When it finishes, it writes back what changed, so the next chat, or the next night, starts from where it left off rather than from nothing. Every piece of work leaves the store a little more complete than it found it.
