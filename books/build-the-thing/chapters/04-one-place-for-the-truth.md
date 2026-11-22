@@ -20,6 +20,10 @@ The same evening, I mentioned I'd be away from 1 to 13 November. The AI marked m
 <!-- src: same chat, 24 Oct 2026 (away 1 to 13 Nov first marked as a freeze; Ant: not a freeze but reduced access, about 2 hours a day on an internet-connected laptop or phone, the standard assumption for future away periods; away records updated to a 120-minutes-a-day budget) -->
 <!-- rev: agreed by Ant 22 Nov 18:49 -->
 
+<!-- p: 04-03c | agreed 2026-11-22 -->
+It helps to know what "context" means to an AI. When it answers, it can only use what's in front of it at that moment: your message, the conversation so far, and any files, notes or instructions it has been given. That's its context. It doesn't carry anything over from one chat to the next unless something feeds it back in, and there's a limit to how much it can hold at once. When a long piece of work fills that space, older details start to drop out. So the question is never just whether the AI is clever enough. It's whether the right things are in front of it when it needs them.
+<!-- src: Claude's plain explanation of an AI's context (and the context window); added at Ant's request, agreed as written 22 Nov 18:51 -->
+
 <!-- p: 04-04 | draft -->
 Before the store, the context lived in three places, and none of them was good enough. Some of it was in old chats, which a new chat couldn't see. Some of it was in the AI's own memory, which I couldn't easily see, check or correct. And most of it was in my head, which meant I was the one typing it out again every time. A lot of value was building up, and almost none of it was where the next piece of work could use it.
 <!-- src: interview 1b ("a lot of value sits in memories and isn't always visible to the person using the AI"); chapter 2, 02-05 (agreed) -->
