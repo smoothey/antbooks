@@ -36,8 +36,8 @@ Rules came next. I wanted every screen I built to feel the same, so I started wr
 None of this was designed up front. I didn't sit down and plan a store, a set of rules and a system to run my projects. Each piece was the answer to the problem the last piece had shown up. Memory showed I needed one place for the truth. One place for the truth showed I needed rules about what went in it. Rules showed I needed something to follow them while I wasn't there.
 <!-- src: interview 2 (developed organically); theme note on best practice layered on as needed -->
 
-<!-- p: 02-10 | draft -->
-On the evening of 18 October, the first scheduled run of the night began at 22:48. It worked on Charlie's site, the project I'd started all this for, and it finished at 23:45. By then nine changes were live on the site, all tested, every deployment green. There was a freeze built into the deployments for the week we'd reveal the site, so nothing could go out by accident. A privacy page explained how AI was used. And Jimmy no longer trusted chat history sent from the browser, so nobody could forge his past answers.
+<!-- p: 02-10 | agreed 2026-11-22 -->
+On the evening of 18 October, the first scheduled run of the night began at 22:48. It worked on Charlie's site, the project I'd started all this for, and it finished at 23:45. By then nine changes were live on the site, all tested, and every release to the live site worked. During the week we'd reveal the site, releases were frozen, so nothing could go out by accident. A privacy page explained how AI was used. And Jimmy no longer trusted chat history sent from the browser, so nobody could forge his past answers.
 <!-- src: smoothey/jimmy governance/reports/2026-10-18/nightly-charliedoll.md (22:48 to 23:45; nine items live on main; deploys green; reveal freeze; privacy page; Jimmy history sealed) -->
 
 <!-- p: 02-11 | draft -->
