@@ -1,23 +1,27 @@
 # Chapter 1: Doing the work, and the ceiling it hits
 
-<!-- p: 01-01 | reopened 2026-11-22: friend reviewer proof edits, fixes and Ant 13:12 answers; awaiting Ant -->
-I was six years old when I first fell in love with a computer, the 1981 Commodore VIC-20. It belonged to my cousin and I wanted one of my own more than anything. I nagged my parents about it for a whole year.
+<!-- p: 01-01 | agreed 2026-11-22 -->
+I was six years old when I first fell in love with a computer: a Commodore VIC-20. It belonged to my cousin, and I wanted one of my own more than anything. I nagged my parents about it for a whole year.
 <!-- src: interview 1, Q2; review 22 Nov 00:21 and 00:23 -->
 <!-- rev: friend reviewer proof 22 Nov; Ant 22 Nov 13:12 -->
+<!-- rev: year dropped (in notes), comma added; agreed by Ant 22 Nov 16:44 -->
 
-<!-- p: 01-02 | reopened 2026-11-22: friend reviewer proof edits, fixes and Ant 13:12 answers; awaiting Ant -->
+<!-- p: 01-02 | agreed 2026-11-22 -->
 I didn't wait for them to say yes. I used to hang around computer shops and write my own programs on whatever demo machines they had out: Commodores, Spectrums, Amstrads. I loved them all! I filled their screens with Hello World, over and over and over again. GOTO, the command that sends a program back to an earlier line, was my friend.
 <!-- src: interview 1 follow-ups; review 22 Nov 00:21 and 00:23 (shops before owning a computer; first computer a C64; most expensive present; sister got the telly) -->
 <!-- rev: friend reviewer proof 22 Nov; Ant 22 Nov 13:12 -->
+<!-- rev: agreed by Ant 22 Nov 16:45 -->
 
-<!-- p: 01-02b | reopened 2026-11-22: friend reviewer proof edits, fixes and Ant 13:12 answers; awaiting Ant -->
+<!-- p: 01-02b | agreed 2026-11-22 -->
 That's what changed my parents' minds. They saw that this wasn't just a child wanting the latest thing. It was someone who would do something with it, maybe even make a future of it. They bought me a Commodore 64. It was the most expensive present they had ever given me. Technically, my sister's present was the television it plugged into.
 <!-- rev: split from 01-02 on the reviewer's suggestion; friend reviewer proof 22 Nov; Ant 22 Nov 13:12 -->
+<!-- rev: agreed by Ant 22 Nov 16:46 -->
 
-<!-- p: 01-25 | reopened 2026-11-22: friend reviewer proof edits, fixes and Ant 13:12 answers; awaiting Ant -->
-The Commodore 64's manual turned out to be full of program listings. I typed every one of them in, line by line, growing and learning with each one. Before long I was using the 64's graphics keys to make my own bugs, with brackets for legs, walk across the screen. Later I discovered Input, a magazine that printed listings for every home computer of its day. I still have the full set and it's one of my most prized possessions, even if it's of no use to anyone now. You typed those listings in line by line, and heaven help you if you forgot to save! That's how I learnt to program: by copying out other people's instructions until I understood them well enough to write my own.
+<!-- p: 01-25 | agreed 2026-11-22 -->
+The Commodore 64's manual turned out to be full of program listings. I typed every one of them in, line by line, growing and learning with each one. Before long I was using the 64's graphics keys to make my own bugs, with brackets for legs, that walked across the screen. Later I discovered Input, a magazine that printed listings for every home computer of its day. I still have the full set and it's one of my most prized possessions, even if it's of no use to anyone now. You typed those listings in line by line too, and heaven help you if you forgot to save! That's how I learnt to program: by copying out other people's instructions until I understood them well enough to write my own.
 <!-- src: interview 1 follow-ups (C64 graphics keys, bugs, bouncing balls); review 22 Nov 00:27 (C64 manual listings typed in line by line; Input magazine, full set kept; forgetting to save) -->
 <!-- rev: friend reviewer proof 22 Nov; Ant 22 Nov 13:12 -->
+<!-- rev: 'that walked' and 'too' restored; agreed by Ant 22 Nov 16:47 -->
 
 <!-- p: 01-03 | agreed 2026-11-22 -->
 Those walking bugs taught me the feeling this whole book is about. You write something down, the machine does it, and it keeps doing it after you've stopped. A loop. A few lines of instructions, and the screen is busy without you. I didn't have words for it then, but I've been chasing that feeling ever since.
@@ -26,10 +30,11 @@ Those walking bugs taught me the feeling this whole book is about. You write som
 At school I kept turning homework into software. For some of my GCSE assignments I wrote computer programs instead of just doing the coursework. Writing the program was almost certainly more work than the assignment itself, though the program listings in my appendices did look impressive. It also forced me to understand the subject properly. You can't write code for something you only half understand.
 <!-- src: early years note, notes/interviews/build-the-thing/2026-11-22-early-years-and-game-theory.md -->
 
-<!-- p: 01-19 | reopened 2026-11-22: friend reviewer proof edits, fixes and Ant 13:12 answers; awaiting Ant -->
-When I was seventeen, my mother lost her bridge partner and asked if I'd play with her the following week. I knew nothing about bridge, so I got some books from the library and read them. I started writing my own bridge programs on my Amiga 500, in a language called AMOS. The programs were limited, but to write them I had to understand the game. The following week my mother and I placed in the top ten per cent. Nobody believed it was the first time I'd played… with humans, at least.
+<!-- p: 01-19 | agreed 2026-11-22 -->
+When I was seventeen, my mother lost her bridge partner and asked if I'd play with her the following week. I knew nothing about bridge, so I got some books from the library and read them. I started writing my own bridge programs on my Amiga 500, in a language called AMOS. The programs were limited, but to write them I had to understand the game. A week later, my mother and I placed in the top ten per cent. Nobody believed it was the first time I'd played… with humans, at least.
 <!-- src: early years note (bridge at 17); Ant, 22 Nov 00:15: his mother can be named -->
 <!-- rev: friend reviewer proof 22 Nov; Ant 22 Nov 13:12 -->
+<!-- rev: 'A week later' to avoid repeat; agreed by Ant 22 Nov 16:48 -->
 
 <!-- p: 01-20 | reopened 2026-11-22: friend reviewer proof edits, fixes and Ant 13:12 answers; awaiting Ant -->
 I've worked in that way ever since, and it's exactly how I work with AI now. I have to be able to clearly frame what I'm trying to achieve, just as I had to with bridge in order to make a program. The difference now is that the AI makes it a conversation. I still have to understand the problem but I no longer have to do all of the typing.
