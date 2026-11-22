@@ -2,7 +2,7 @@
 
 One brief per chapter: its job, what earlier chapters have already set up (agreed text only), what we already know, and the gaps to fill. Updated after chapter 1 was agreed. Briefs change as the book develops (PROCESS.md, step 2).
 
-Sources live in the store (`r2antbooks` `notes/interviews/build-the-thing/`, `notes/source-material/build-the-thing/`) and in `smoothey/jimmy` and `r2jimmy`. Themes noted so far: borrowed pace; comparative advantage; context management; delegation through frameworks.
+Sources live in the store (`r2antbooks` `notes/interviews/build-the-thing/`, `notes/source-material/build-the-thing/`) and in `smoothey/jimmy` and `r2jimmy`. Themes noted so far: borrowed pace; comparative advantage; context management; delegation through frameworks; holding back on access (a deliberate counterpoint to the speed story, Ant 22 Nov 02:26).
 
 ## Introduction (drafted, not yet reviewed)
 - Job: the promise of the book in under 1,000 words.
@@ -58,6 +58,7 @@ Sources live in the store (`r2antbooks` `notes/interviews/build-the-thing/`, `no
 ## 8. Rings and brokers
 - Job: privacy by where data lives; approvals for merges, spend and infrastructure.
 - Known: ADR 0003, 0009, 0010, 0014. Little Ant input needed.
+- Holding back on access: approvals and rings are the mechanics of the restraint ch 12 explains. Link forward to it.
 
 ## 9. The people around you
 - Job: what never goes in, building for people you care about, and keeping their stories theirs.
@@ -77,7 +78,8 @@ Sources live in the store (`r2antbooks` `notes/interviews/build-the-thing/`, `no
 ## 12. When the machine says no
 - Job: safety checks, trust, and what stays a human's job.
 - Known: refusals (19, 21, 24, 25 Oct; 21 Nov); "challenge goes both ways"; "attach repos" friction; Ant's role: direction, challenging decisions, designing processes, reviewing pull requests; client lessons (false FAILED, clean test run hiding bugs, 17 months of missed backups).
-- Gaps: few.
+- Holding back on access (Ant, 22 Nov 02:26): he hasn't pushed harder or rewritten governance to widen repo access beyond what he's given, because of news about AI breaking out of sandboxes. It's a theme in its own right and a counterpoint to the book's speed and "go exponential" message; he thinks it's important. Set up in ch 2, 02-11 ("still typing 'attach repos'", told as a joke there). Pay it off here: the friction is partly a choice. Any news cited must be researched and sourced at draft time, not from memory.
+- Gaps: few. Ask Ant which stories or events he has in mind, and where his line sits today.
 
 ## 13. What it costs
 - Job: the real cost was work not done.
@@ -111,4 +113,5 @@ Sources live in the store (`r2antbooks` `notes/interviews/build-the-thing/`, `no
 ## 18. What comes next
 - Job: the Cockpit, own models, and where this goes.
 - Known: Cockpit plans; own-photo-models decisions; Ophelia's last step finally closed.
+- Set up in ch 2, 02-16: he still asks AI "what needs my attention" rather than reading the dashboard, because a curated, prioritised list he can argue with beats a board; the Cockpit blends the two (plus AI and compute brokering). Pay that off here.
 - Gaps: Ant's own view of where this goes.
