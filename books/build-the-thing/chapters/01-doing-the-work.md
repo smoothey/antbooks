@@ -126,20 +126,23 @@ I was called in on one client's firewall changes when the consultants who usuall
 <!-- rev: friend reviewer proof 22 Nov; Ant 22 Nov 13:12 -->
 <!-- rev: comma after 'So' dropped; agreed by Ant 22 Nov 17:02 -->
 
-<!-- p: 01-14 | reopened 2026-11-22: friend reviewer proof edits, fixes and Ant 13:12 answers; awaiting Ant -->
+<!-- p: 01-14 | agreed 2026-11-22 -->
 Meanwhile, the team I was part of decided to vibe code its own deployment tool: let the AI write it, and hope for the best. I worked on some of its features. It was one big Python program that, when you looked closely, mostly handed out templates. Nobody in the team knew Python well. It could just as easily have been PowerShell, Microsoft's own scripting language, and I genuinely don't think anyone stopped to ask what it should be written in. It was run very formally in Azure DevOps (Microsoft's tool for planning and tracking software work), broken into tiny tasks and handed out to individuals. Many of those tasks were things the AI could have finished in minutes.
 <!-- src: interview 1 follow-ups ("Lacked ambition"); interview 1, Q2 ("vibe coded"; Ant, 22 Nov 01:07: keep the term) -->
 <!-- rev: friend reviewer proof 22 Nov; Ant 22 Nov 13:12 -->
+<!-- rev: agreed by Ant 22 Nov 17:03 -->
 
-<!-- p: 01-15 | reopened 2026-11-22: friend reviewer proof edits, fixes and Ant 13:12 answers; awaiting Ant -->
+<!-- p: 01-15 | agreed 2026-11-22 -->
 I found it frustrating, and it took me a while to say why. The team had the same AI I had, but was using it to do the old way of working a bit faster: the same small tasks, the same hand-offs, the same pace. The project lacked ambition. Not because the people lacked talent, but because nobody had asked how different the work could be now.
 <!-- src: interview 1, Q2 -->
 <!-- rev: friend reviewer proof 22 Nov; Ant 22 Nov 13:12 -->
+<!-- rev: agreed by Ant 22 Nov 17:04 -->
 
-<!-- p: 01-16 | reopened 2026-11-22: friend reviewer proof edits, fixes and Ant 13:12 answers; awaiting Ant -->
-Then the job changed. I took voluntary redundancy and quickly found a new role. Somewhere in that change, I finally asked myself the question I'd been circling: where is the ceiling, really? On 14 September 2026, the first day of my gardening leave, I set myself a challenge: keep improving, and see how far AI could take me. Applying for jobs came first, understandably, so this happened in between.
+<!-- p: 01-16 | agreed 2026-11-22 -->
+Then the job changed. I took voluntary redundancy and quickly found a new role. Somewhere in that change, I finally asked myself the question I'd been circling: where is the ceiling, really? On 14 September 2026, the first day of my gardening leave, I set myself a challenge: keep improving, all the time, and see how far AI could take me. Applying for jobs came first, understandably, so this happened in between.
 <!-- src: interview 1, Q2; review 22 Nov 01:09 and 01:21 (started 14 Sep 2026, first day of gardening leave, between job applications) -->
 <!-- rev: friend reviewer proof 22 Nov; Ant 22 Nov 13:12 -->
+<!-- rev: 'all the time' restored; agreed by Ant 22 Nov 17:04 -->
 
 <!-- p: 01-17 | agreed 2026-11-22 -->
 I didn't start with a grand plan. I was skint, and I wanted to make Charlie, my partner, a present. A website for her modelling seemed the obvious thing. I expected to write a good chunk of the code myself and let the AI help. That isn't what happened. Before long I wasn't building a website. I was building the thing that would build it.
