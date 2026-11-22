@@ -47,14 +47,14 @@ I always wanted to be a programmer but my early career took me a different way. 
 <!-- rev: friend reviewer proof 22 Nov; Ant 22 Nov 13:12 -->
 
 <!-- p: 01-22 | reopened 2026-11-22: friend reviewer proof edits, fixes and Ant 13:12 answers; awaiting Ant -->
-Setting up a classroom for a course meant following a binder, step by step, machine by machine. It took hours, and it was the same hours every time. So I looked at the tools available for copying whole disks. They were all immature then. I picked PowerQuest's Drive Image Pro. Even though it wasn't the market leader, for one reason: unlike its competitors, it could be scripted, meaning it ran from a written list of instructions instead of by hand. Each machine's hard drive had hidden sections, called partitions, that could put a course back in place on demand. Where a setup couldn't be made general enough for that, I built DVD-based installs instead. Hours became minutes, and the time I got back went into the consultancy and teaching.
+Setting up a classroom for a course meant following a binder, step by step, machine by machine. It took hours, and it was the same hours every time. So I looked at the tools available for copying whole disks. They were all immature then. I picked PowerQuest's Drive Image Pro, even though it wasn't the market leader, for one reason: unlike its competitors, it could be scripted, meaning it ran from a written list of instructions instead of by hand. Each machine's hard drive had hidden sections, called partitions, that could put a course back in place on demand. Where a setup couldn't be made general enough for that, I built DVD-based installs instead. Hours became minutes, and the time I got back went into the consultancy and teaching.
 <!-- src: early years note; Ant, 22 Nov 00:15 (Drive Image Pro, chosen because it was scriptable); polish question 3 agreed 22 Nov 01:21 (ending reworded) -->
 <!-- rev: friend reviewer proof 22 Nov; Ant 22 Nov 13:12 -->
 
-<!-- p: 01-23 | reopened 2026-11-22: friend reviewer proof edits, fixes and Ant 13:12 answers; awaiting Ant -->
-The company was also a testing centre, and they gave me my MCSE exams, Microsoft's certification for systems engineers, for free. On the back of how things went, they also paid for my MCSD, the developer equivalent, in Visual Basic 6. When I graduated they offered me a position there. I turned it down, because by then I'd met the woman who would become my wife. But I'd learnt something I didn't fully notice at the time: the best use of my hours was building the thing that saved them.
+<!-- p: 01-23 | agreed 2026-11-22 -->
+The company was also a testing centre, and they gave me my MCSE exams, Microsoft's certification for systems engineers, for free. On the back of how things went, they also paid for my MCSD, the developer equivalent, in Visual Basic 6. When I graduated they offered me a job there. I turned it down. By then I'd met the woman who would become my wife, and that mattered more. I left with something more useful than a job offer, though I didn't notice it at the time: the best use of my hours was building the thing that saved them.
 <!-- src: early years note; Ant, 22 Nov 00:15: OK to mention meeting his wife-to-be -->
-<!-- rev: friend reviewer proof 22 Nov; Ant 22 Nov 13:12 -->
+<!-- rev: friend reviewer proof 22 Nov; Ant 22 Nov 13:12; option A agreed by Ant 22 Nov 16:32 ("and that mattered more") -->
 
 <!-- p: 01-04 | agreed 2026-11-22 -->
 Since then my work has been in infrastructure and networks, and later cloud platforms: Azure and AWS. In 2002 I joined a financial sector company as a senior technician, and went on to become its data centre manager. I did a lot of work in those years. Progress was just hard.
