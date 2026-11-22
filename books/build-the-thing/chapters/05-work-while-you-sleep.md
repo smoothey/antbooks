@@ -50,13 +50,15 @@ Each run leaves a trail. When it starts, it writes a heartbeat, a small file tha
 <!-- src: smoothey/jimmy governance/loops/CONTRACT.md (2. Start heartbeat; 3. Heartbeat: governance/status/<night>/<loop>.json replaces the start heartbeat; "the watchdog on GitHub reads"); reports in governance/reports/<night>/; r2jimmy lesson 2026-11-02-morning-brief-1 ("Seven shifts left no final heartbeat, and the brief can't tell stopped from still working") -->
 <!-- rev: honest ending (2 Nov: seven shifts left no final heartbeat); sets up ch 6; agreed by Ant 22 Nov 19:45 -->
 
-<!-- p: 05-11 | draft -->
-At 06:13 the morning brief reads all of it. It checks that every run that should have happened did, and that nothing is missing or failed. It counts the minutes used. It gathers everything that needs me into one list, with a reason for each item and an action I can take. When I wake up, that's the first thing I read: one page about a night I slept through.
+<!-- p: 05-11 | agreed 2026-11-22 -->
+At 06:13 the morning brief reads all of it. It checks that every run that should have happened did, and that nothing is missing or failed. It counts the minutes used. It gathers everything that needs me into one list, with a reason for each item and an action I can take. When I wake up, that's the first thing I read. Most mornings it takes me a few minutes, and the list of things only I can decide is short.
 <!-- src: schedule.md (06:13 Portfolio: morning brief, "Gathers the night, checks nothing is missing, tells Ant what to agree"); morning briefs in governance/reports (runs, utilisation, recs with why and action); chapter 2, 02-11 (agreed) -->
+<!-- rev: new ending (avoids echoing 02-11), confirmed true by Ant; agreed 22 Nov 19:46 -->
 
-<!-- p: 05-12 | draft -->
-The nights aren't the only time the work goes on. During the day, extra runs pick up queued tasks for some of the projects, paid from a separate daily allowance and started automatically when there's room. But the night is still where most of the building happens, because it's the time I'm least able to help and least likely to be missed.
+<!-- p: 05-12 | agreed 2026-11-22 -->
+The nights aren't the only time the work goes on. During the day, extra runs pick up queued tasks for some of the projects, paid from a separate daily allowance and started automatically when there's room. Unlike the night runs, these can accept their own work when every check passes and nothing in it is on the list that always waits for me. But the night is still where most of the building happens, because it's the time I'm least able to help, and the time the work gets in nobody's way.
 <!-- src: schedule.md (07:00 to 21:30 credit runs for Jimmy, Snappier, Robyn's Roblox, Togmatic, Charlie Doll queued tasks only; "started by the backup runner"; daily allowance in cycles.json budget.credit); no money figures per the never list -->
+<!-- rev: credit runs may merge when green and nothing on the hold list (merging.md); agreed by Ant 22 Nov 19:48 -->
 
 <!-- p: 05-13 | draft -->
 My part of the night is small, but it isn't nothing. Before bed I usually check what's waiting and accept a couple of pull requests, so the night starts from the latest work. On 18 November I accepted two at 23:15 and 23:53, while Charlie's site was mid-run. In the morning I read the brief, agree or decline what it asks, and accept what's ready. Twenty minutes either side of sleep, against a night of building.
