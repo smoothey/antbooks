@@ -9,7 +9,7 @@ Before I read a single novel for fun, I had a shelf of Ladybird books. It ran al
 What stayed with me wasn't the facts in those books. It was the method behind them. An idea is worth what the evidence says it's worth. Not how much you like it, not who said it, and not how nicely they said it. You test an idea by trying to break it. If it survives, you keep it, until something better comes along.
 <!-- src: as 13-01 ("anchored in the scientific method"); answer 3 ("natural skepticism (scientific method)") -->
 
-<!-- p: 13-03 | draft -->
+<!-- p: 13-03 | agreed 2026-11-23 -->
 AI, left to itself, works the other way round. It's built to fit your preferences. It learns what you like, and it gives you more of it. Most of the time that's exactly what you want. But it means the tool you're using to think is quietly leaning towards agreeing with you.
 <!-- src: notes/interviews/build-the-thing/2026-11-23-driving-answers-and-echo-chamber.md, answer 2 ("AI is designed to fit your preferences") -->
 
