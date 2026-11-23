@@ -1,8 +1,8 @@
-# Build the Thing That Builds the Things: chapter briefs (22 Nov 2026)
+# Build the Thing That Builds the Things: chapter briefs (22 Nov 2026, updated 23 Nov)
 
 One brief per chapter: its job, what earlier chapters have already set up (agreed text only), what we already know, and the gaps to fill. Updated after chapter 1 was agreed. Briefs change as the book develops (PROCESS.md, step 2).
 
-Sources live in the store (`r2antbooks` `notes/interviews/build-the-thing/`, `notes/source-material/build-the-thing/`) and in `smoothey/jimmy` and `r2jimmy`. Themes noted so far: borrowed pace; comparative advantage; context management; delegation through frameworks; holding back on access (a deliberate counterpoint to the speed story, Ant 22 Nov 02:26).
+Sources live in the store (`r2antbooks` `notes/interviews/build-the-thing/`, `notes/source-material/build-the-thing/`) and in `smoothey/jimmy` and `r2jimmy`. Themes noted so far: borrowed pace; comparative advantage; context management; delegation through frameworks; holding back on access (a deliberate counterpoint to the speed story, Ant 22 Nov 02:26); driving AI or being led by it (Ant 23 Nov 20:05, case study 3D Jimmy).
 
 ## Introduction (drafted, not yet reviewed)
 - Job: the promise of the book in under 1,000 words.
@@ -75,6 +75,16 @@ Sources live in the store (`r2antbooks` `notes/interviews/build-the-thing/`, `no
 - Known: "we'd be slower if we started with them"; Jimmy ended up like Azure DevOps without aiming to; the formal tiny-tasks team (ch 1) as contrast; the CMDB before ITIL (ch 1); pull before building; scripts split so a crash lands in the safe half; user stories after the fact.
 - Also (22 Nov): the Jade stopgap from ch 3 (03-05b, 03-05c): fixing the cause, not the symptom, is what IT calls problem management. Ant was doing it before he knew the name. Refer back, don't retell.
 - Gaps: few.
+
+## Proposed: Driving, or being driven? (Ant's theme, 23 Nov 2026; placement not agreed)
+- Ant's words (23 Nov, 20:05): "are you driving AI or is it leading you", with the 3D Jimmy evening as the case study.
+- Proposed home: a chapter of its own in Part 3, before "When the machine says no" (which would become ch 13, and the rest move down one). That takes the book to 19 chapters, still within 45,000 to 50,000 words at about 2,500 each. Alternative: fold it into ch 12 as its opening half.
+- Job: how to tell whether you're steering the AI or following it, told through one evening's work on [JM-491](https://hub.smoothey.co.uk/dashboard#ref/JM-491) (3D Jimmy).
+- Story beats: the AI picks the first method and judges it by what it can count (40 bones, 48 moves), and the result "still looks a little cursed"; Ant sets one test anyone can apply (could you take a still for the drawing at a glance?); Ant picks the route (build from his own layers); short steers on taste (deeper sockets, the "chubster", the ears); a rule only he knew (paw down unless waving); a second AI tool keeps redrawing him in its own idea of cute until it's given his own drawing to continue; Ant goes and tries a different tool himself; the AI gives an honest side-by-side and a plan that keeps the best of both.
+- Message (draft): driving isn't doing the work. It's owning the goal and the taste, and noticing when the tool's defaults have quietly become yours.
+- Pays off: comparative advantage (ch 3: value moves to vision and design); what stays a human's job (ch 12: direction). Sets up ch 17 (the right tool for each job).
+- Sources: store `r2antbooks` `notes/source-material/build-the-thing/2026-11-23-3d-jimmy-evening.md` and theme note; [smoothey/jimmy#1174](https://github.com/smoothey/jimmy/pull/1174), [#1175](https://github.com/smoothey/jimmy/pull/1175).
+- Gaps (ask Ant): how version 1 felt, and whether "cursed" goes in print; why he tried the other tool himself; his own rule of thumb for noticing he's being led; how the story ends (wait for the outcome); a picture of version 1, version 2 and the drawing side by side?
 
 ## 12. When the machine says no
 - Job: safety checks, trust, and what stays a human's job.
