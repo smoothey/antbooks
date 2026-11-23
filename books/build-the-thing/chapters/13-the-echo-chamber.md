@@ -56,8 +56,10 @@ The AI hadn't flattered me. It had done something more human than that. It had t
 <!-- src: as 13-08, example 1 ("took an earlier decision as settled and framed every choice around it") -->
 
 <!-- p: 13-13 | draft -->
-My family has a motto: Smoothey: do things for reasons. If you can't say why you're doing something, it's fair for someone to challenge you on it. That cuts both ways. It applies to me, to the people I work with, and now to the AI. When I suggest something to the AI, I often ask it to argue the other side. If it can't find a good argument, I'm more confident. If it can, I've learnt something before it cost me anything.
+My family has a motto: Smootheys do things for reasons. If you can't say why you're doing something, it's fair for someone to challenge you on it. That cuts both ways. It applies to me, to the people I work with, and now to the AI. When I suggest something to the AI, I often ask it to argue the other side. If it can't find a good argument, I'm more confident. If it can, I've learnt something before it cost me anything.
 <!-- src: notes/interviews/build-the-thing/2026-11-23-echo-chamber-answers.md, answer 2 ("I often invite a disenting opinion"; "My family motto is literally "Smoothey Do things for Reasons", if you can't articulate the way - it is fair to be challenged on it") -->
+
+<!-- rev: 23 Nov 22:16, Ant: the motto is "Smootheys do things for reasons" (his surname, the name the book is published under) -->
 
 <!-- p: 13-14 | draft -->
 I hold people to the same standard. On the day I wrote this chapter, I told a former colleague: "You can't judge competence by how nice people are to you." I'd rather respect someone who's good at their job and doesn't much like me than someone who loves me and doesn't know what they're talking about. Or, as I put it that day: "I don't need gold stars issued by idiots!" An AI that agrees with everything I say is handing out exactly those gold stars.
