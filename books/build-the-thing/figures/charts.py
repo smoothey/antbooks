@@ -98,3 +98,27 @@ ax.text(dd[0],0.7,'The same lesson, written down seven times in five weeks',font
 ax.set_ylim(-1,1.3); ax.axis('off')
 save(fig,'fig10-lesson-seven-times')
 print('ok')
+
+# fig03d lines to date, stacked by project (like the Hub's Wall)
+import json, datetime as dt, matplotlib.dates as mdates
+L=json.load(open(OUT+'fig03d-lines-to-date.json'))
+dd=[dt.date.fromisoformat(x) for x in L['days']]
+order=["Charlie's site",'Jimmy','Photo organiser','Roblox game','Study guides']
+cols={"Charlie's site":MID,'Jimmy':ACC,'Photo organiser':LIGHT,'Roblox game':FAINT,'Study guides':INK}
+fig,ax=plt.subplots(figsize=(9,4.8))
+ys=[L['series'][k] for k in order]
+ax.stackplot(dd,ys,colors=[cols[k] for k in order],edgecolor='white',linewidth=0.6)
+tot=[sum(v) for v in zip(*ys)]
+base=0
+for k,y in zip(order,ys):
+    top=base+y[-1]; mid=(base+top)/2
+    ax.text(dd[-1]+dt.timedelta(days=1),mid if y[-1]>20000 else top+4000,f"{k}  {y[-1]:,}",va='center',fontsize=10.5,color=ACC if k=='Jimmy' else INK,fontweight='bold' if k=='Jimmy' else 'normal')
+    base=top
+ax.text(dd[0],tot[-1]*0.93,f"{tot[-1]:,} lines",fontsize=20,fontweight='bold',color=INK)
+ax.text(dd[0],tot[-1]*0.84,'1 Oct to 22 Nov 2026, five projects',fontsize=10.5,color=MID)
+ax.annotate('18 Oct: the first night',xy=(dt.date(2026,10,18),tot[17]),xytext=(dt.date(2026,10,9),tot[-1]*0.45),fontsize=10,color=MID,arrowprops=dict(arrowstyle='-',color=MID))
+ax.set_xlim(dd[0],dd[-1]); ax.set_ylim(0,tot[-1]*1.02)
+ax.yaxis.set_major_formatter(matplotlib.ticker.FuncFormatter(lambda v,p:"0" if v==0 else f"{int(v/1000)}k"))
+ax.set_ylabel('Lines written, to date')
+ax.xaxis.set_major_formatter(mdates.DateFormatter('%-d %b')); ax.tick_params(length=0)
+save(fig,'fig03d-lines-to-date')

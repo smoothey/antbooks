@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-11-22T18:34:30.429389</dc:date>
+    <dc:date>2026-11-23T09:50:38.847018</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -35,7 +35,7 @@ L 31.46087 55.858043
 L 31.46087 38.76587 
 L 7.2 38.76587 
 z
-" clip-path="url(#p266067b412)" style="fill: #6b6b6b"/>
+" clip-path="url(#pc40e850784)" style="fill: #6b6b6b"/>
    </g>
    <g id="patch_3">
     <path d="M 7.2 84.345 
@@ -43,7 +43,7 @@ L 55.721739 84.345
 L 55.721739 67.252826 
 L 7.2 67.252826 
 z
-" clip-path="url(#p266067b412)" style="fill: #6b6b6b"/>
+" clip-path="url(#pc40e850784)" style="fill: #6b6b6b"/>
    </g>
    <g id="patch_4">
     <path d="M 7.2 112.831957 
@@ -51,7 +51,7 @@ L 104.243478 112.831957
 L 104.243478 95.739783 
 L 7.2 95.739783 
 z
-" clip-path="url(#p266067b412)" style="fill: #6b6b6b"/>
+" clip-path="url(#pc40e850784)" style="fill: #6b6b6b"/>
    </g>
    <g id="patch_5">
     <path d="M 7.2 141.318913 
@@ -59,7 +59,7 @@ L 201.286957 141.318913
 L 201.286957 124.226739 
 L 7.2 124.226739 
 z
-" clip-path="url(#p266067b412)" style="fill: #6b6b6b"/>
+" clip-path="url(#pc40e850784)" style="fill: #6b6b6b"/>
    </g>
    <g id="patch_6">
     <path d="M 7.2 169.80587 
@@ -67,7 +67,7 @@ L 395.373913 169.80587
 L 395.373913 152.713696 
 L 7.2 152.713696 
 z
-" clip-path="url(#p266067b412)" style="fill: #e07a1f"/>
+" clip-path="url(#pc40e850784)" style="fill: #e07a1f"/>
    </g>
    <g id="text_1">
     <text style="font-size: 12px; font-family: 'Inter'; text-anchor: start" x="37.283478" y="51.677191" transform="rotate(-0 37.283478 51.677191)">1/16</text>
@@ -90,7 +90,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="p266067b412">
+  <clipPath id="pc40e850784">
    <rect x="7.2" y="32.21387" width="446.4" height="144.144"/>
   </clipPath>
  </defs>
