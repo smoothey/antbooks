@@ -43,7 +43,7 @@ It was the evening of 26 October, and we were designing the Cockpit, the page I 
 
 <!-- rev: 23 Nov 22:12, agreed by Ant; the rule's origin from the logs: the AI wrote it into the capacity broker plan on 24 Oct ("Hard rules: Ring 0 and work tasks never go to routes A or B"; project doc claude/capacity-broker.md; chat 'Max 20x monthly credits', 24 Oct), and Ant agreed the plan -->
 
-<!-- p: 13-10 | draft -->
+<!-- p: 13-10 | agreed 2026-11-23 -->
 I didn't pick either. I asked: "Is there really a security benefit of preventing work and ring0 via the API routes - lets work that through". (Ring 0 is what I call my most private data.)
 <!-- src: as 13-08, example 1 (Ant's words, verbatim) -->
 
