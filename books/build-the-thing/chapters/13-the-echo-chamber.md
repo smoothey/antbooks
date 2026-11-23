@@ -32,8 +32,10 @@ So the question isn't whether the AI remembers you. It's what it remembers you a
 <!-- src: notes/interviews/build-the-thing/2026-11-23-driving-answers-and-echo-chamber.md, answer 2 ("if you want to grow - you need to anchor it and the memories it keeps of you on that desire to grow and explorer. If you get mediocre results from AI, maybe you are anchoring it in your own mediocrity rather than freeing it to help you grow"). "Mediocrity": Ant, 23 Nov 20:54, only if it finds a natural place; kept as written at review, 21:57 ("its perfect") -->
 
 <!-- p: 13-08 | draft -->
-The echo chamber doesn't always look like flattery, either. The version that caught me out was much quieter. Nobody told me I was brilliant. The AI simply took something we'd already decided, treated it as settled, and built every choice around it.
+The echo chamber doesn't always look like flattery, either. The version that nearly caught me out was much quieter. Nobody told me my ideas were great. The AI simply took something we'd already decided, treated it as settled, and built every choice around it.
 <!-- src: notes/source-material/build-the-thing/2026-11-23-echo-chamber-log-examples.md, example 1 ("Why it fits"); use agreed by Ant 23 Nov 21:09 -->
+
+<!-- rev: 23 Nov 22:00, Ant: not 'brilliant' ('my ideas were great'); 'nearly caught me out' -->
 
 <!-- p: 13-09 | draft -->
 It was the evening of 26 October, and we were designing the Cockpit, the page I want to do most of my work from. Early on, we'd set a rule: my most private data, and anything to do with my day job, must never go through the AI's direct routes. Everything had to go the slow way. The AI followed the rule faithfully. It told me that chat in those two areas would take minutes, not seconds. Then it gave me two options, both inside the rule: put up with slow chat, or agree a narrow exception. "Both your call," it said.
