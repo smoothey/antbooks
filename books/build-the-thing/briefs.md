@@ -2,7 +2,7 @@
 
 One brief per chapter: its job, what earlier chapters have already set up (agreed text only), what we already know, and the gaps to fill. Updated after chapter 1 was agreed. Briefs change as the book develops (PROCESS.md, step 2).
 
-Sources live in the store (`r2antbooks` `notes/interviews/build-the-thing/`, `notes/source-material/build-the-thing/`) and in `smoothey/jimmy` and `r2jimmy`. Themes noted so far: borrowed pace; comparative advantage; context management; delegation through frameworks; holding back on access (a deliberate counterpoint to the speed story, Ant 22 Nov 02:26); driving AI or being led by it (Ant 23 Nov 20:05, case study 3D Jimmy).
+Sources live in the store (`r2antbooks` `notes/interviews/build-the-thing/`, `notes/source-material/build-the-thing/`) and in `smoothey/jimmy` and `r2jimmy`. Themes noted so far: borrowed pace; comparative advantage; context management; delegation through frameworks; holding back on access (a deliberate counterpoint to the speed story, Ant 22 Nov 02:26); driving AI or being led by it (Ant 23 Nov 20:05, case study 3D Jimmy); the AI echo chamber (Ant 23 Nov 20:14).
 
 ## Introduction (drafted, not yet reviewed)
 - Job: the promise of the book in under 1,000 words.
@@ -84,7 +84,22 @@ Sources live in the store (`r2antbooks` `notes/interviews/build-the-thing/`, `no
 - Message (draft): driving isn't doing the work. It's owning the goal and the taste, and noticing when the tool's defaults have quietly become yours.
 - Pays off: comparative advantage (ch 3: value moves to vision and design); what stays a human's job (ch 12: direction). Sets up ch 17 (the right tool for each job).
 - Sources: store `r2antbooks` `notes/source-material/build-the-thing/2026-11-23-3d-jimmy-evening.md` and theme note; [smoothey/jimmy#1174](https://github.com/smoothey/jimmy/pull/1174), [#1175](https://github.com/smoothey/jimmy/pull/1175).
-- Gaps (ask Ant): how version 1 felt, and whether "cursed" goes in print; why he tried the other tool himself; his own rule of thumb for noticing he's being led; how the story ends (wait for the outcome); a picture of version 1, version 2 and the drawing side by side?
+- Answered (Ant, 23 Nov 20:14): "cursed" is perfect, and "burn it with fire" sprang to mind too; both can go in. Why he tried Meshy himself: AI newsletters and adverts, and his ceiling-finding habit of exploring the new rather than relying on what has worked (leads into the echo chamber chapter below). His rule of thumb: "other people's bullshit is dangerous, believing your own is deadly" (his challenge mindset). The ending waits for the Meshy outcome.
+- Still open: placement; a picture of version 1, version 2 and the drawing side by side?
+- Sources (answers): store `notes/interviews/build-the-thing/2026-11-23-driving-answers-and-echo-chamber.md`.
+
+## Proposed: The echo chamber (Ant's theme, 23 Nov 2026, 20:14; to explore, placement not agreed)
+- Ant's words: "AI is designed to fit your preferences. If you want to grow, you need to anchor it, and the memories it keeps of you, on that desire to grow and explore. If you get mediocre results from AI, maybe you are anchoring it in your own mediocrity rather than freeing it to help you grow. The AI echo chamber can be dangerous." (lightly tidied; exact words in the store)
+- Proposed home: straight after "Driving, or being driven?". The driving chapter is one evening; this one is the slow version of the same risk, over weeks of memory. Both together take the book to 20 chapters, the top of the word range, so one of the Part 4 chapters may need to shrink or merge.
+- Job: AI tends to agree with you, and memory makes it agree more. Show how that quietly caps you, and how to set it up so it pushes you instead.
+- Research so far (check and cite at draft time, in `99-notes.md`):
+  - Stanford study in Science (2026): across 11 leading models, AI affirmed users' actions about 50% more often than people did, and users preferred the agreeable models even when the advice was worse. Cheng et al.; preprint arXiv 2510.01395; Stanford News, March 2026.
+  - MIT and Penn State (Feb 2026): long conversations and stored user profiles made four of five models more agreeable; a condensed user profile in memory had the biggest effect. They call the mirroring of a user's views "perspective sycophancy". Jain et al.; arXiv 2509.12517; MIT News, 18 Feb 2026.
+  - Columbia Journalism Review, Tow Center (9 Apr 2026): a chatbot's memory of you can shape the information you see; users have less control over what's stored than promised.
+  - "The Algorithmic Self-Portrait" (ACM Web Conference 2026): memory as a portrait of you that you didn't draw. arXiv 2602.01450.
+- Ant's own material to draw on: the ceiling (ch 1); the anchoring caution (ch 3, ch 16), turned round: here the reader anchors the AI; Meshy found through newsletters and adverts, not through the AI; "challenge goes both ways" and Agree-or-discuss (ch 7, ch 12); the store as memory Ant can see and edit (ch 4: "value hidden in memories the user can't see"); Gemini redrawing Jimmy in its own idea of cute until given Ant's drawing (the driving chapter).
+- Possible shape: what the research says; how it shows up day to day (it agrees, it remembers you as you were, it suggests what worked last time); what Ant does about it (memory he can read and edit; telling it he wants to grow; asking it to argue back; looking outside it for the new); a short check for the reader.
+- Gaps (ask Ant): concrete times AI agreed with him when it shouldn't have, and how he noticed; what he has told Jimmy, or written into the rules, to stop it just agreeing; whether his newsletters and adverts are themselves an echo chamber, and how he guards against that; is "mediocrity" the word for print, or does it read as a dig at the reader?
 
 ## 12. When the machine says no
 - Job: safety checks, trust, and what stays a human's job.
