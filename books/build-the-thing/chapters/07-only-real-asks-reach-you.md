@@ -1,6 +1,6 @@
 # Chapter 7: Only real asks reach you
 
-<!-- p: 07-01 | draft -->
+<!-- p: 07-01 | agreed 2026-11-23 -->
 A machine that works all night can make a lot of noise in the morning. The first brief asked me to agree 26 things. That was fine for one morning. It wouldn't be fine every morning, across seven projects, for months. If every piece of work that touched me turned into a question, I'd have swapped writing code for answering a system, and the narrowest part of the pipe would still be me.
 <!-- src: governance/reports/2026-10-18/morning-brief.md (26 recommendations); chapter 5, 05-01 (seven projects, agreed); chapter 1, 01-10 (narrowest part of the pipe, agreed) -->
 
