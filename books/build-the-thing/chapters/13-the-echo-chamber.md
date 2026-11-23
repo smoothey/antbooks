@@ -75,7 +75,7 @@ When it works, it looks quite ordinary. In November I asked for help sending AI 
 It works the other way too. Earlier that month I told the AI a pull request had been merged. It checked, found that a different one had gone in and mine was still waiting, and said so. Small, but it's the habit that matters. Evidence beats whoever said it, including me.
 <!-- src: as 13-08, example 3 (Jimmy Hub chat, 5 Nov 2026: Ant said a PR had merged; Claude checked GitHub, a different one had merged) -->
 
-<!-- p: 13-17 | draft -->
+<!-- p: 13-17 | agreed 2026-11-23 -->
 On 23 November I wrote it into the rules that every chat and every night run follows. Every suggestion comes with its reason, whether it's mine or the AI's. When the AI disagrees, it says so plainly and gives its reason, then does what I decide. It asks to be challenged on its own ideas too. Agreement is judged on evidence, not on how nicely something is said. And what it remembers about me is there to help it understand me, not to tell me what I want to hear.
 <!-- src: smoothey/jimmy governance/README.md, Principles, "Do things for reasons" (Ant, 23 Nov 2026), merged by Ant in smoothey/jimmy#1176, 23 Nov 21:01; governance/decisions.md 2026-11-23 -->
 
