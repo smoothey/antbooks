@@ -28,7 +28,7 @@ Two days later I split the list in two. "Anything that is To Agree should have a
 The next day I asked for a review of everything waiting for me, to turn anything that should just be an Agree into one. It found more than I expected. The photo organiser had asked me eight separate times to try a night's work on a PC; those became one ask. The Roblox game's four play-tests became one. A long item about the game's recorded lines became a question I could answer from my phone: "Are the 54 lines right as written?"
 <!-- src: claude/walk-me-through.md, "The agree line, and the review of 28 Oct" (Ant 15:12; eight "try night X on a PC" asks folded into po-try-since-22oct; four play-test asks into rr-playtest-all-28oct; rr-recording-words became "Are the 54 lines right as written?") -->
 
-<!-- p: 07-08 | draft -->
+<!-- p: 07-08 | agreed 2026-11-23 -->
 Real asks still need an order. A few days before all this, I'd asked for a way for Jimmy to walk me through everything I needed to do, one thing at a time, most important first. The order is fixed. Anything blocking tonight's runs comes first. Then anything with a hard date, then whatever unblocks the most work, then the softer dates, then the quick ones, then the oldest. The Needs you list on the Hub, the morning brief and the walk-through all use the same order, so wherever I look, the top item is the same.
 <!-- src: claude/walk-me-through.md (22 Oct 10:31: walk through everything one at a time in priority order; ranking: blocks tonight, hard due, asap and gates, unblocks most, soft due, quick then oldest; Needs you and the brief use the same order). "asap and gates" left out as jargon -->
 
