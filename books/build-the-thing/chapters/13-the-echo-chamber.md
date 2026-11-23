@@ -1,8 +1,9 @@
 # Chapter 13: The echo chamber
 
 <!-- p: 13-01 | draft -->
-Before I read a single novel for fun, I had a shelf of Ladybird books. It ran along three walls of my bedroom. Magnetism, electricity, atoms, inertia, physics: if there was a little hardback explaining how the world worked, I wanted it. Until my teens I read nothing but non-fiction in my own time. I read novels when school made me, and I couldn't see the point of them. I thought of myself as a scientist.
-<!-- src: notes/interviews/build-the-thing/2026-11-23-echo-chamber-answers.md, answer 1 ("identified as a scientist, anchored in the scientific method"; "until my teens I only read non-fiction"; "read fiction only for the school curriculum"; Ladybird books "across three walls of my bedroom"; "magentism, electricity, atoms, inertia, physics") -->
+Before I read a single novel for fun, I had a shelf of Ladybird books. It ran along three walls of my bedroom. We were poor, and you could pick up a Ladybird science book for pence. Magnetism, electricity, atoms, inertia, physics: if there was one explaining how the world worked, I wanted it. At six, I didn't like stories that weren't true. Until my teens I read nothing but non-fiction in my own time, and novels only when school made me. It took me years to understand the truths that fiction can teach. Back then, I thought of myself as a scientist.
+<!-- src: notes/interviews/build-the-thing/2026-11-23-echo-chamber-answers.md, answer 1 (scientist; non-fiction only until his teens; fiction only for the curriculum; Ladybird books across three walls; magnetism, electricity, atoms, inertia, physics); review 23 Nov 21:44 ("we were poor - you could pick up science ladybird books for pence"; "aged 6 I literally didn't like storys that weren't true, it took time for me to undertand the truths that couldd be learned from fiction") -->
+<!-- rev: 23 Nov 21:44, Ant: not the books' size but their price; closer to his words on fiction -->
 
 <!-- p: 13-02 | draft -->
 What stayed with me wasn't the facts in those books. It was the method behind them. An idea is worth what the evidence says it's worth. Not how much you like it, not who said it, and not how nicely they said it. You test an idea by trying to break it. If it survives, you keep it, until something better comes along.
