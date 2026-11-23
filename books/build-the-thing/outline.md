@@ -39,5 +39,6 @@ Each chapter lists what it draws on: L = the logs (store records, run reports, d
 - A closing chapter.
 - **Appendix: starter kit.** Templates a reader can copy: a contract page, a backlog record, a lesson record, a night run, a "never" list.
 - A plain glossary.
+- **Acknowledgements.** Ant has invited Dan Redmond to be credited (23 Nov). Add others as they agree.
 - **Notes and further reading.** References grouped by chapter, keyed by a short phrase, with no marks in the text. Filled in as each chapter is written, polished once the book is finished (Ant, 22 Nov 16:32). File: `chapters/99-notes.md`.
 - "How this book was made". Kept open until upload, to match Ant's answer to KDP's AI question (SB-10).
