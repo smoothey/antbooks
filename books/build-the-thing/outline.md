@@ -1,6 +1,6 @@
-# Build the Thing That Builds the Things: outline (draft 2, agreed 21 Nov 2026)
+# Build the Thing That Builds the Things: outline (draft 3, 23 Nov 2026)
 
-Agreed by Ant on 21 Nov 2026: the first 14 chapters, then all four new chapters and the appendix. Target about 45,000 to 50,000 words, about 2,500 words a chapter.
+Agreed by Ant on 21 Nov 2026: the first 14 chapters, then all four new chapters and the appendix. 23 Nov: two more chapters added in Part 3 (12 and 13, Ant's themes); later chapters renumbered 14 to 20. Ant: chapters are coming in under length, so no padding and no squeezing to fit. Target about 45,000 to 50,000 words, about 2,500 words a chapter.
 
 Fuller briefs per chapter (job, what's set up, known material, gaps): briefs.md.
 
@@ -22,15 +22,17 @@ Each chapter lists what it draws on: L = the logs (store records, run reports, d
 ## Part 3: What it teaches you
 10. **Logging a lesson isn't learning it.** The repeat lessons, and what finally fixes one. *L: lesson records; the one-off reminder lesson logged seven times, 19 Oct to 21 Nov. Contrast: on the client work, banked gotchas did stop repeat mistakes.*
 11. **Best practice by accident.** Arriving at DevOps habits without setting out to. *I: "we'd be slower if we started with them"; ended up like Azure DevOps without aiming to. The tiny-tasks team against one person AI-first; "pull before building"; scripts split so a crash lands in the safe half.*
-12. **When the machine says no.** Safety checks, trust, and what stays a human's job: direction, challenging decisions, designing processes, reviewing pull requests. *L: refusals in run reports and lessons; I: challenge goes both ways; "attach repos" in every chat. Client work: AI builds, human holds the keys; the false FAILED report; a clean test run that proved little; the backups nobody had noticed for 17 months.*
-13. **What it costs.** The cost that hurt was work not done, not money spent. Stalls, minutes run out, the pull of building the system instead of the product. *I; stall lessons and night-use decisions from L. No money figures.*
+12. **Driving, or being driven?** Are you steering the AI, or following it? One evening's work on 3D Jimmy: the first version "cursed", one test anyone can apply, a rule only I knew, a tool found outside the AI. Driving isn't doing the work; it's owning the goal and the taste. *I (23 Nov), L: JM-491, jimmy#1174, #1175.*
+13. **The echo chamber.** AI is built to fit your preferences, and memory makes it agree more. Anchor it on growth, not on what you already are. The scientist's habit; gold stars issued by idiots; do things for reasons. *I (23 Nov); research: Stanford in Science 2026, MIT and Penn State 2026, CJR Tow Center 2026.*
+14. **When the machine says no.** Safety checks, trust, and what stays a human's job: direction, challenging decisions, designing processes, reviewing pull requests. *L: refusals in run reports and lessons; I: challenge goes both ways; "attach repos" in every chat. Client work: AI builds, human holds the keys; the false FAILED report; a clean test run that proved little; the backups nobody had noticed for 17 months.*
+15. **What it costs.** The cost that hurt was work not done, not money spent. Stalls, minutes run out, the pull of building the system instead of the product. *I; stall lessons and night-use decisions from L. No money figures.*
 
 ## Part 4: Your turn
-14. **Start small: one loop, one record, one rule.** *Written fresh.*
-15. **Many projects from one hub.** Tiers, onboarding, saying no to projects. *L: project-tiers, project-onboarding.*
-16. **A production line, end to end.** One repeating piece of work followed from idea to published product, and how the line keeps evolving. The study guides are the worked example, never named in print (no series name, no pen name; Ant, 22 Nov 01:43) (research corpus, book prep, go-live in one pull request, approval at one point), not the subject. The lesson is the line, not the number: readers should not anchor on two books a week. Ends with a checklist for any repeating output. *L: UT decisions and plan docs; Ant, 22 Nov 01:42.*
-17. **The right tool for each job.** Not everything needs the biggest model: local models, small helpers, brokers, cheapest capacity first. *L: ADR 0014, 0017, 0018; local model decisions.*
-18. **What comes next.** The Cockpit, own models, and where this goes. *L: own-photo-models, Cockpit plans; I.*
+16. **Start small: one loop, one record, one rule.** *Written fresh.*
+17. **Many projects from one hub.** Tiers, onboarding, saying no to projects. *L: project-tiers, project-onboarding.*
+18. **A production line, end to end.** One repeating piece of work followed from idea to published product, and how the line keeps evolving. The study guides are the worked example, never named in print (no series name, no pen name; Ant, 22 Nov 01:43) (research corpus, book prep, go-live in one pull request, approval at one point), not the subject. The lesson is the line, not the number: readers should not anchor on two books a week. Ends with a checklist for any repeating output. *L: UT decisions and plan docs; Ant, 22 Nov 01:42.*
+19. **The right tool for each job.** Not everything needs the biggest model: local models, small helpers, brokers, cheapest capacity first. *L: ADR 0014, 0017, 0018; local model decisions.*
+20. **What comes next.** The Cockpit, own models, and where this goes. *L: own-photo-models, Cockpit plans; I.*
 
 ## Front and back
 - A short opening story.

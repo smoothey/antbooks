@@ -1,4 +1,4 @@
-# Build the Thing That Builds the Things: chapter briefs (22 Nov 2026, updated 23 Nov)
+# Build the Thing That Builds the Things: chapter briefs (22 Nov 2026, updated 23 Nov; chapters 12 and 13 added, later chapters renumbered)
 
 One brief per chapter: its job, what earlier chapters have already set up (agreed text only), what we already know, and the gaps to fill. Updated after chapter 1 was agreed. Briefs change as the book develops (PROCESS.md, step 2).
 
@@ -15,10 +15,10 @@ Sources live in the store (`r2antbooks` `notes/interviews/build-the-thing/`, `no
   - "I didn't know it yet, but that was the idea behind everything that came later" (the firewall procedure plus memory) → ch 2.
   - Comparative advantage, named at sixteen, "decades and a very different kind of tool" before he understood it → ch 3.
   - "The best use of my hours was building the thing that saved them" → ch 2 and ch 3.
-  - Drive Image Pro picked because it could be scripted → ch 17.
+  - Drive Image Pro picked because it could be scripted → ch 19.
   - Building a CMDB from need before knowing ITIL → ch 11.
-  - Ophelia: a framework let a non-programmer contribute, but the last step always waited on Ant → ch 9 and ch 18.
-  - The personal-time cost of building tools in the evenings → ch 3 and ch 13.
+  - Ophelia: a framework let a non-programmer contribute, but the last step always waited on Ant → ch 9 and ch 20.
+  - The personal-time cost of building tools in the evenings → ch 3 and ch 15.
   - "Before long I wasn't building a website. I was building the thing that would build it." → ch 2 opens here.
 - Don't retell in later chapters: the Commodore, the shops, Input, bridge, Brussels, the vibe-coded team tool. Refer back in a line at most.
 - From the polish review (22 Nov): "where is the ceiling, really?" is used in the intro and 01-16, so not a third time early on; "building the thing that builds/saves" appears three times before ch 2, so watch overuse; AzureDump's feature list "didn't get shorter", so a later chapter should say whether it finally did; "loop" needs a glossary entry; keep each telling of the tiny-tasks pace distinct (ch 1, intro, ch 3, ch 11).
@@ -58,7 +58,7 @@ Sources live in the store (`r2antbooks` `notes/interviews/build-the-thing/`, `no
 ## 8. Rings and brokers
 - Job: privacy by where data lives; approvals for merges, spend and infrastructure.
 - Known: ADR 0003, 0009, 0010, 0014. Little Ant input needed.
-- Holding back on access: approvals and rings are the mechanics of the restraint ch 12 explains. Link forward to it.
+- Holding back on access: approvals and rings are the mechanics of the restraint ch 14 explains. Link forward to it.
 
 ## 9. The people around you
 - Job: what never goes in, building for people you care about, and keeping their stories theirs.
@@ -76,51 +76,57 @@ Sources live in the store (`r2antbooks` `notes/interviews/build-the-thing/`, `no
 - Also (22 Nov): the Jade stopgap from ch 3 (03-05b, 03-05c): fixing the cause, not the symptom, is what IT calls problem management. Ant was doing it before he knew the name. Refer back, don't retell.
 - Gaps: few.
 
-## Proposed: Driving, or being driven? (Ant's theme, 23 Nov 2026; placement not agreed)
+## 12. Driving, or being driven? (Ant's theme, 23 Nov 2026; added to the outline 23 Nov)
 - Ant's words (23 Nov, 20:05): "are you driving AI or is it leading you", with the 3D Jimmy evening as the case study.
-- Proposed home: a chapter of its own in Part 3, before "When the machine says no" (which would become ch 13, and the rest move down one). That takes the book to 19 chapters, still within 45,000 to 50,000 words at about 2,500 each. Alternative: fold it into ch 12 as its opening half.
+- Home: Part 3, ch 12, before the echo chamber (ch 13) and "When the machine says no" (now ch 14). Ant, 23 Nov 20:54: chapters have been coming in under length, so there's room; don't pad or shrink others to fit.
 - Job: how to tell whether you're steering the AI or following it, told through one evening's work on [JM-491](https://hub.smoothey.co.uk/dashboard#ref/JM-491) (3D Jimmy).
 - Story beats: the AI picks the first method and judges it by what it can count (40 bones, 48 moves), and the result "still looks a little cursed"; Ant sets one test anyone can apply (could you take a still for the drawing at a glance?); Ant picks the route (build from his own layers); short steers on taste (deeper sockets, the "chubster", the ears); a rule only he knew (paw down unless waving); a second AI tool keeps redrawing him in its own idea of cute until it's given his own drawing to continue; Ant goes and tries a different tool himself; the AI gives an honest side-by-side and a plan that keeps the best of both.
 - Message (draft): driving isn't doing the work. It's owning the goal and the taste, and noticing when the tool's defaults have quietly become yours.
-- Pays off: comparative advantage (ch 3: value moves to vision and design); what stays a human's job (ch 12: direction). Sets up ch 17 (the right tool for each job).
+- Pays off: comparative advantage (ch 3: value moves to vision and design); what stays a human's job (ch 14: direction). Sets up ch 19 (the right tool for each job).
 - Sources: store `r2antbooks` `notes/source-material/build-the-thing/2026-11-23-3d-jimmy-evening.md` and theme note; [smoothey/jimmy#1174](https://github.com/smoothey/jimmy/pull/1174), [#1175](https://github.com/smoothey/jimmy/pull/1175).
 - Answered (Ant, 23 Nov 20:14): "cursed" is perfect, and "burn it with fire" sprang to mind too; both can go in. Why he tried Meshy himself: AI newsletters and adverts, and his ceiling-finding habit of exploring the new rather than relying on what has worked (leads into the echo chamber chapter below). His rule of thumb: "other people's bullshit is dangerous, believing your own is deadly" (his challenge mindset). The ending waits for the Meshy outcome.
-- Still open: placement; a picture of version 1, version 2 and the drawing side by side?
+- Still open: a picture of version 1, version 2 and the drawing side by side?
 - Sources (answers): store `notes/interviews/build-the-thing/2026-11-23-driving-answers-and-echo-chamber.md`.
 
-## Proposed: The echo chamber (Ant's theme, 23 Nov 2026, 20:14; to explore, placement not agreed)
+## 13. The echo chamber (Ant's theme, 23 Nov 2026, 20:14; added to the outline 23 Nov)
 - Ant's words: "AI is designed to fit your preferences. If you want to grow, you need to anchor it, and the memories it keeps of you, on that desire to grow and explore. If you get mediocre results from AI, maybe you are anchoring it in your own mediocrity rather than freeing it to help you grow. The AI echo chamber can be dangerous." (lightly tidied; exact words in the store)
-- Proposed home: straight after "Driving, or being driven?". The driving chapter is one evening; this one is the slow version of the same risk, over weeks of memory. Both together take the book to 20 chapters, the top of the word range, so one of the Part 4 chapters may need to shrink or merge.
+- Home: Part 3, ch 13, straight after "Driving, or being driven?". The driving chapter is one evening; this one is the slow version of the same risk, over weeks of memory.
 - Job: AI tends to agree with you, and memory makes it agree more. Show how that quietly caps you, and how to set it up so it pushes you instead.
 - Research so far (check and cite at draft time, in `99-notes.md`):
   - Stanford study in Science (2026): across 11 leading models, AI affirmed users' actions about 50% more often than people did, and users preferred the agreeable models even when the advice was worse. Cheng et al.; preprint arXiv 2510.01395; Stanford News, March 2026.
   - MIT and Penn State (Feb 2026): long conversations and stored user profiles made four of five models more agreeable; a condensed user profile in memory had the biggest effect. They call the mirroring of a user's views "perspective sycophancy". Jain et al.; arXiv 2509.12517; MIT News, 18 Feb 2026.
   - Columbia Journalism Review, Tow Center (9 Apr 2026): a chatbot's memory of you can shape the information you see; users have less control over what's stored than promised.
   - "The Algorithmic Self-Portrait" (ACM Web Conference 2026): memory as a portrait of you that you didn't draw. arXiv 2602.01450.
-- Ant's own material to draw on: the ceiling (ch 1); the anchoring caution (ch 3, ch 16), turned round: here the reader anchors the AI; Meshy found through newsletters and adverts, not through the AI; "challenge goes both ways" and Agree-or-discuss (ch 7, ch 12); the store as memory Ant can see and edit (ch 4: "value hidden in memories the user can't see"); Gemini redrawing Jimmy in its own idea of cute until given Ant's drawing (the driving chapter).
+- Ant's own material to draw on: the ceiling (ch 1); the anchoring caution (ch 3, ch 18), turned round: here the reader anchors the AI; Meshy found through newsletters and adverts, not through the AI; "challenge goes both ways" and Agree-or-discuss (ch 7, ch 14); the store as memory Ant can see and edit (ch 4: "value hidden in memories the user can't see"); Gemini redrawing Jimmy in its own idea of cute until given Ant's drawing (the driving chapter).
 - Possible shape: what the research says; how it shows up day to day (it agrees, it remembers you as you were, it suggests what worked last time); what Ant does about it (memory he can read and edit; telling it he wants to grow; asking it to argue back; looking outside it for the new); a short check for the reader.
-- Gaps (ask Ant): concrete times AI agreed with him when it shouldn't have, and how he noticed; what he has told Jimmy, or written into the rules, to stop it just agreeing; whether his newsletters and adverts are themselves an echo chamber, and how he guards against that; is "mediocrity" the word for print, or does it read as a dig at the reader?
+- Answered (Ant, 23 Nov 20:54; store `2026-11-23-echo-chamber-answers.md`):
+  - Scientist first: anchored in the scientific method; read only non-fiction in his own time as a boy; a shelf of Ladybird science books across three walls of his bedroom (magnetism, electricity, atoms, inertia). New material, not in ch 1.
+  - His own line, to an ex-colleague the same day: you can't judge competence by how nice people are to you; "I don't need gold stars issued by idiots!" (colleague never named). The human version of the sycophancy research.
+  - He invites a dissenting opinion when he suggests something. Family motto: "Smoothey: do things for reasons"; if you can't say why, it's fair to be challenged. Codified that evening as a governance principle: [smoothey/jimmy#1176](https://github.com/smoothey/jimmy/pull/1176).
+  - His own feeds: you can't fully guard against it; you minimise it with natural scepticism, which you have to carry in your head. "We are all vulnerable to flattery, subtle or otherwise."
+  - "Mediocrity": only if it finds a natural place.
+- Still open: a real example of AI agreeing when it shouldn't have, and how he noticed (none given yet; look in the logs for a challenged decision).
 
-## 12. When the machine says no
+## 14. When the machine says no
 - Job: safety checks, trust, and what stays a human's job.
 - Known: refusals (19, 21, 24, 25 Oct; 21 Nov); "challenge goes both ways"; "attach repos" friction; Ant's role: direction, challenging decisions, designing processes, reviewing pull requests; client lessons (false FAILED, clean test run hiding bugs, 17 months of missed backups).
 - Holding back on access (Ant, 22 Nov 02:26): he hasn't pushed harder or rewritten governance to widen repo access beyond what he's given, because of news about AI breaking out of sandboxes. It's a theme in its own right and a counterpoint to the book's speed and "go exponential" message; he thinks it's important. Set up in ch 2, 02-11 ("still typing 'attach repos'", told as a joke there). Pay it off here: the friction is partly a choice. Any news cited must be researched and sourced at draft time, not from memory.
 - Gaps: few. Ask Ant which stories or events he has in mind, and where his line sits today.
 
-## 13. What it costs
+## 15. What it costs
 - Job: the real cost was work not done.
 - Known: overrunning a budget never bothered Ant; idle nights did (unused budget, Actions minutes running out); stalls; personal time (ch 1). No money figures.
 - Gaps: how much of the night went unused in the bad weeks (unit counts from the logs).
 
-## 14. Start small
+## 16. Start small
 - Job: one loop, one record, one rule. Written fresh for the reader.
 - Gaps: Ant's own advice to someone starting (SB-6).
 
-## 15. Many projects from one hub
+## 17. Many projects from one hub
 - Job: tiers, onboarding, saying no.
 - Known: project-tiers and project-onboarding decisions; this book's own onboarding on 21 Nov (proposed, approved, repo, backlog, all in one evening) is a ready-made example.
 
-## 16. A production line, end to end
+## 18. A production line, end to end
 - Job (Ant, 22 Nov 01:42): show one repeating piece of work as a production line, from idea to published product, and how it keeps evolving.
 - Ultra Transcenders is cited as the worked example, including how the process is changing. It is not the subject.
 - Don't let readers anchor on the number. Two books a week is not the message; the message is building a line that runs at whatever pace fits the work.
@@ -129,7 +135,7 @@ Sources live in the store (`r2antbooks` `notes/interviews/build-the-thing/`, `no
 - In print: neither the series name nor the pen name (Ant, 22 Nov 01:43). Call it "a series of technical study guides I publish". The work and how it's evolving can be described; the names can't.
 - Gaps: what's changing in the line now.
 
-## 17. The right tool for each job
+## 19. The right tool for each job
 - Job: not everything needs the biggest model.
 - Known: Drive Image Pro (ch 1) as the early example; ADR 0014, 0017, 0018; local models and small helpers.
 
@@ -137,7 +143,7 @@ Sources live in the store (`r2antbooks` `notes/interviews/build-the-thing/`, `no
 - Ant, 22 Nov: the words-in, words-out ledger across the whole book could become a closing paragraph. Chapter 1: about 2,080 words typed by Ant, about 2,220 in the approved chapter, about 3.5 hours. The honest reading so far: about one to one on words; the leverage is time, quality and scaffolding. Use the final totals from `state/words-ledger-build-the-thing`.
 - Figure: `figures/figclose-lines-to-date` (lines written to date, stacked by project, like the Hub Wall) sits beside the ledger as the final "look what came out" picture (Ant, 23 Nov). Refresh its data from r2jimmy `state/output-stats` just before publishing, and say in the text that it's a rough activity count, not a measure of value.
 
-## 18. What comes next
+## 20. What comes next
 - Job: the Cockpit, own models, and where this goes.
 - Known: Cockpit plans; own-photo-models decisions; Ophelia's last step finally closed.
 - Set up in ch 2, 02-16: he still asks AI "what needs my attention" rather than reading the dashboard, because a curated, prioritised list he can argue with beats a board; the Cockpit blends the two (plus AI and compute brokering). Pay that off here.
