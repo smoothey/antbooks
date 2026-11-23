@@ -71,7 +71,7 @@ I hold people to the same standard. On the day I wrote this chapter, talking it 
 When it works, it looks quite ordinary. In November I asked for help sending AI work to the cheapest model, including models running on my own PCs at home. I was keen on the idea, and I assumed it would save money. The research said otherwise: for plain text jobs, the cheapest hosted model had become so cheap that running my own cost about the same. The AI told me, and the plan changed shape. Home models are still worth having, for privacy and for jobs with pictures, but not for the reason I'd assumed.
 <!-- src: as 13-08, example 2 (project doc claude/task-routing-research.md, 21 Nov 2026: "local saves less on text than we assumed"; "for plain text jobs, local and Haiku 5.5 cost about the same"; what local is still worth having); r2jimmy decision local-first-routing-2026-11-21; ADR 0018. No money figures -->
 
-<!-- p: 13-16 | draft -->
+<!-- p: 13-16 | agreed 2026-11-23 -->
 It works the other way too. Earlier that month I told the AI a pull request had been merged. It checked, found that a different one had gone in and mine was still waiting, and said so. Small, but it's the habit that matters. Evidence beats whoever said it, including me.
 <!-- src: as 13-08, example 3 (Jimmy Hub chat, 5 Nov 2026: Ant said a PR had merged; Claude checked GitHub, a different one had merged) -->
 
