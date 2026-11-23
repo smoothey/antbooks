@@ -67,7 +67,7 @@ I hold people to the same standard. On the day I wrote this chapter, talking it 
 
 <!-- rev: 23 Nov 22:20, Ant: not 'told' (too strong); a peer, and they discussed it. 22:23: agreed; Dan unnamed in the prose for now; Ant has invited him to be credited in the book -->
 
-<!-- p: 13-15 | draft -->
+<!-- p: 13-15 | agreed 2026-11-23 -->
 When it works, it looks quite ordinary. In November I asked for help sending AI work to the cheapest model, including models running on my own PCs at home. I was keen on the idea, and I assumed it would save money. The research said otherwise: for plain text jobs, the cheapest hosted model had become so cheap that running my own cost about the same. The AI told me, and the plan changed shape. Home models are still worth having, for privacy and for jobs with pictures, but not for the reason I'd assumed.
 <!-- src: as 13-08, example 2 (project doc claude/task-routing-research.md, 21 Nov 2026: "local saves less on text than we assumed"; "for plain text jobs, local and Haiku 5.5 cost about the same"; what local is still worth having); r2jimmy decision local-first-routing-2026-11-21; ADR 0018. No money figures -->
 
