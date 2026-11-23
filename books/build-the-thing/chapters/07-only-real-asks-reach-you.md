@@ -16,7 +16,7 @@ I didn't start with that rule. I found it at nine minutes past one in the mornin
 That sentence became a rule with four parts. Work that a run or a chat owns never reaches me, whatever stage it's at. If a pull request really is mine to accept, that pull request is one ask, not one ask for every item it carries. Every ask that does reach me opens with a one-line question and an Agree button, with Not now and, where it fits, Decline. And an ask that can't offer Agree is a bug: whoever raised it rewrites it as a question, or deals with it without me.
 <!-- src: r2jimmy decision asks-need-ant-and-agree, summary points 1 to 4 -->
 
-<!-- p: 07-05 | draft -->
+<!-- p: 07-05 | agreed 2026-11-23 -->
 Agree matters more than it looks. A form makes me work out what's wanted. A question with an Agree makes the AI work that out first, and put an answer in front of me. If it's right, I tap once. If it isn't, I say no, or say why. Either way my answer is recorded, and whoever asked carries on.
 <!-- src: r2jimmy decision asks-need-ant-and-agree, point 3 ("records his answer and lets the owner carry on; never an edit form") -->
 
