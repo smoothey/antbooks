@@ -4,7 +4,7 @@
 A machine that works all night can make a lot of noise in the morning. The first brief asked me to agree 26 things. That was fine for one morning. It wouldn't be fine every morning, across seven projects, for months. If every piece of work that touched me turned into a question, I'd have swapped writing code for answering a system, and the narrowest part of the pipe would still be me.
 <!-- src: governance/reports/2026-10-18/morning-brief.md (26 recommendations); chapter 5, 05-01 (seven projects, agreed); chapter 1, 01-10 (narrowest part of the pipe, agreed) -->
 
-<!-- p: 07-02 | draft -->
+<!-- p: 07-02 | agreed 2026-11-23 -->
 So the rule I care most about is a simple one. Only real asks reach me. Something comes to me when it needs my decision, my approval, or a step only I can do. Everything else is handled by the chat or run that owns it, and I never see it.
 <!-- src: r2jimmy decision asks-need-ant-and-agree (25 Oct 2026), summary point 2 -->
 
