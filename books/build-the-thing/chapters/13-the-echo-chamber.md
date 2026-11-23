@@ -5,7 +5,7 @@ Before I read a single novel for fun, I had a shelf of Ladybird books. It ran al
 <!-- src: notes/interviews/build-the-thing/2026-11-23-echo-chamber-answers.md, answer 1 (scientist; non-fiction only until his teens; fiction only for the curriculum; Ladybird books across three walls; magnetism, electricity, atoms, inertia, physics); review 23 Nov 21:44 ("we were poor - you could pick up science ladybird books for pence"; "aged 6 I literally didn't like storys that weren't true, it took time for me to undertand the truths that couldd be learned from fiction") -->
 <!-- rev: 23 Nov 21:44, Ant: not the books' size but their price; closer to his words on fiction. 21:46: primary school didn't set novels, so 'books'. 21:51: 'purely as a scientist' (he still thinks of himself as one) -->
 
-<!-- p: 13-02 | draft -->
+<!-- p: 13-02 | agreed 2026-11-23 -->
 What stayed with me wasn't the facts in those books. It was the method behind them. An idea is worth what the evidence says it's worth. Not how much you like it, not who said it, and not how nicely they said it. You test an idea by trying to break it. If it survives, you keep it, until something better comes along.
 <!-- src: as 13-01 ("anchored in the scientific method"); answer 3 ("natural skepticism (scientific method)") -->
 
