@@ -20,7 +20,7 @@ That sentence became a rule with four parts. Work that a run or a chat owns neve
 Agree matters more than it looks. A form makes me work out what's wanted. A question with an Agree makes the AI work that out first, and put an answer in front of me. If it's right, I tap once. If it isn't, I say no, or say why. Either way my answer is recorded, and whoever asked carries on.
 <!-- src: r2jimmy decision asks-need-ant-and-agree, point 3 ("records his answer and lets the owner carry on; never an edit form") -->
 
-<!-- p: 07-06 | draft -->
+<!-- p: 07-06 | agreed 2026-11-23 -->
 Two days later I split the list in two. "Anything that is To Agree should have an agree button," I said, "if it needs a discussion it should be To Discuss." Some questions really are open: there's no clear answer, or it turns on something only I know. Those go to To discuss, each with its question. But the rule is to recommend wherever you can. To discuss is for when the AI genuinely can't choose, not a place to avoid choosing. When a discussion settles on one answer, it goes back to To agree, and I tap it.
 <!-- src: r2jimmy decision agree-or-discuss (27 Oct 2026); claude/walk-me-through.md (Ant 09:19 quote); smoothey/jimmy governance/loops/CONTRACT.md ("To discuss is for when you genuinely can't, not a way to avoid choosing") -->
 
