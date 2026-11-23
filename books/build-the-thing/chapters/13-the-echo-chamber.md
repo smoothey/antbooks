@@ -37,9 +37,11 @@ The echo chamber doesn't always look like flattery, either. The version that nea
 
 <!-- rev: 23 Nov 22:00, Ant: not 'brilliant' ('my ideas were great'); 'nearly caught me out' -->
 
-<!-- p: 13-09 | draft -->
-It was the evening of 26 October, and we were designing the Cockpit, the page I want to do most of my work from. Early on, we'd set a rule: my most private data, and anything to do with my day job, must never go through the AI's direct routes. Everything had to go the slow way. The AI followed the rule faithfully. It told me that chat in those two areas would take minutes, not seconds. Then it gave me two options, both inside the rule: put up with slow chat, or agree a narrow exception. "Both your call," it said.
+<!-- p: 13-09 | agreed 2026-11-23 -->
+It was the evening of 26 October, and we were designing the Cockpit, the page I want to do most of my work from. Two days earlier, the AI had written a rule into our plans, and I'd agreed it: my most private data, and anything to do with my day job, must never go through the AI's direct routes. Everything had to go the slow way. The AI followed the rule faithfully. It told me that chat in those two areas would take minutes, not seconds. Then it gave me two options, both inside the rule: put up with slow chat, or agree a narrow exception. "Both your call," it said.
 <!-- src: as 13-08, example 1 (Jimmy Hub chat, 26 Oct 2026: the rule "ring 0 and work never go to the API routes"; "minutes, not seconds"; "Accept slow chat" or "Agree a narrow exception"; "both your call") -->
+
+<!-- rev: 23 Nov 22:12, agreed by Ant; the rule's origin from the logs: the AI wrote it into the capacity broker plan on 24 Oct ("Hard rules: Ring 0 and work tasks never go to routes A or B"; project doc claude/capacity-broker.md; chat 'Max 20x monthly credits', 24 Oct), and Ant agreed the plan -->
 
 <!-- p: 13-10 | draft -->
 I didn't pick either. I asked: "Is there really a security benefit of preventing work and ring0 via the API routes - lets work that through". (Ring 0 is what I call my most private data.)
