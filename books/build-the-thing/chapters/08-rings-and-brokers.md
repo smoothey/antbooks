@@ -4,7 +4,7 @@
 A system that works for you while you sleep has to answer two questions before you can trust it. Who can see what? And who can do what? Chapter 4 promised I'd explain how I answered the first. This chapter does that, and then the second, because the second is where the real danger is.
 <!-- src: chapter 4, 04-09 (agreed: "Chapter 8 goes into how that works"); ADR 0003 (rings); ADR 0009 and 0010 (powers) -->
 
-<!-- p: 08-02 | draft -->
+<!-- p: 08-02 | agreed 2026-11-23 -->
 Who can see what is decided by rings. Every part of the store belongs to one. Ring 0 is me alone, and it can never be shared with anyone. Ring 1 is me and people I name, like Charlie, for the things we share at home. A child in the family has a ring of her own beside it, in a separate account, shared only with her guardians and me. Ring 2 is a project, and anyone working on that project. Ring 3 is the public, and the public never touches the store at all: it only sees what's been published. My work notes sit apart again, in their own storage, reachable only through my work sign-in.
 <!-- src: ADR 0003, Decision table (ring 0 Ant only, never granted; ring 1 Ant and named people, r1household; ring 2 a project's people; work w2, Ant's work identity; ring 3 public, no store access, published content only). Child ring: one neutral line, no name (Ant, 23 Nov 23:42); ADR 0003 and ADR 0015 (c1, a child, her guardians and Ant, never granted, own account) -->
 
