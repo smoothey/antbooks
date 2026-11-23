@@ -61,11 +61,11 @@ My family has a motto: Smootheys do things for reasons. If you can't say why you
 
 <!-- rev: 23 Nov 22:16, Ant: the motto is "Smootheys do things for reasons" (his surname, the name the book is published under) -->
 
-<!-- p: 13-14 | draft -->
+<!-- p: 13-14 | agreed 2026-11-23 -->
 I hold people to the same standard. On the day I wrote this chapter, talking it over with a former colleague, I said: "You can't judge competence by how nice people are to you." I'd rather respect someone who's good at their job and doesn't much like me than someone who loves me and doesn't know what they're talking about. Or, as I put it that day: "I don't need gold stars issued by idiots!" An AI that agrees with everything I say is handing out exactly those gold stars.
 <!-- src: as 13-13, answer 1 (Ant's WhatsApp messages, 23 Nov 2026 19:00 and 19:01, shared by Ant for this theme; the colleague is Dan Redmond, a peer; unnamed in the draft until Ant decides and Dan agrees) -->
 
-<!-- rev: 23 Nov 22:20, Ant: not 'told' (too strong); a peer, and they discussed it -->
+<!-- rev: 23 Nov 22:20, Ant: not 'told' (too strong); a peer, and they discussed it. 22:23: agreed; Dan unnamed in the prose for now; Ant has invited him to be credited in the book -->
 
 <!-- p: 13-15 | draft -->
 When it works, it looks quite ordinary. In November I asked for help sending AI work to the cheapest model, including models running on my own PCs at home. I was keen on the idea, and I assumed it would save money. The research said otherwise: for plain text jobs, the cheapest hosted model had become so cheap that running my own cost about the same. The AI told me, and the plan changed shape. Home models are still worth having, for privacy and for jobs with pictures, but not for the reason I'd assumed.
