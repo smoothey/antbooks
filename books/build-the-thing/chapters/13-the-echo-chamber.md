@@ -79,11 +79,11 @@ It works the other way too. Earlier that month I told the AI a pull request had 
 On 23 November I wrote it into the rules that every chat and every night run follows. Every suggestion comes with its reason, whether it's mine or the AI's. When the AI disagrees, it says so plainly and gives its reason, then does what I decide. It asks to be challenged on its own ideas too. Agreement is judged on evidence, not on how nicely something is said. And what it remembers about me is there to help it understand me, not to tell me what I want to hear.
 <!-- src: smoothey/jimmy governance/README.md, Principles, "Do things for reasons" (Ant, 23 Nov 2026), merged by Ant in smoothey/jimmy#1176, 23 Nov 21:01; governance/decisions.md 2026-11-23 -->
 
-<!-- p: 13-18 | draft -->
+<!-- p: 13-18 | agreed 2026-11-23 -->
 Rules help, but they're not enough on their own. A few habits do most of the work for me. I keep the AI's memory somewhere I can read it and fix it, so I can see what it thinks I'm like. I tell it that I want to grow and try new things. I ask it to argue back. And I look outside it for the new. The tool that rescued my 3D Jimmy in chapter 12 didn't come from the AI at all. It came from a newsletter and an advert.
 <!-- src: chapter 4 (memory Ant can see; "value hidden in memories the user can't see"); answer 2, 23 Nov 20:54 (invites dissent); 2026-11-23-driving-answers-and-echo-chamber.md, answer 2 (newsletters and targeted advertising; "exploring the new"); chapter 12 (Meshy). CHECK at ch 12 draft: Meshy found via newsletters/adverts -->
 
-<!-- rev: 23 Nov 22:31, Ant: 'in so many words' removed (awkward) -->
+<!-- rev: 23 Nov 22:31, Ant: 'in so many words' removed (awkward). 22:34: agreed as it stands, including 'rescued' and 'a newsletter and an advert' -->
 
 <!-- p: 13-19 | draft -->
 Of course, newsletters and adverts are chosen for me by algorithms too. You can't step outside every echo chamber; there's always another one. The best you can do is carry some scepticism around with you, the scientist's habit, and keep it switched on. It has to live in your own head, because no tool will hold it for you. We're all open to flattery, subtle or otherwise. I am too.
