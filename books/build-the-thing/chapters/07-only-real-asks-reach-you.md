@@ -24,7 +24,7 @@ Agree matters more than it looks. A form makes me work out what's wanted. A ques
 Two days later I split the list in two. "Anything that is To Agree should have an agree button," I said, "if it needs a discussion it should be To Discuss." Some questions really are open: there's no clear answer, or it turns on something only I know. Those go to To discuss, each with its question. But the rule is to recommend wherever you can. To discuss is for when the AI genuinely can't choose, not a place to avoid choosing. When a discussion settles on one answer, it goes back to To agree, and I tap it.
 <!-- src: r2jimmy decision agree-or-discuss (27 Oct 2026); claude/walk-me-through.md (Ant 09:19 quote); smoothey/jimmy governance/loops/CONTRACT.md ("To discuss is for when you genuinely can't, not a way to avoid choosing") -->
 
-<!-- p: 07-07 | draft -->
+<!-- p: 07-07 | agreed 2026-11-23 -->
 The next day I asked for a review of everything waiting for me, to turn anything that should just be an Agree into one. It found more than I expected. The photo organiser had asked me eight separate times to try a night's work on a PC; those became one ask. The Roblox game's four play-tests became one. A long item about the game's recorded lines became a question I could answer from my phone: "Are the 54 lines right as written?"
 <!-- src: claude/walk-me-through.md, "The agree line, and the review of 28 Oct" (Ant 15:12; eight "try night X on a PC" asks folded into po-try-since-22oct; four play-test asks into rr-playtest-all-28oct; rr-recording-words became "Are the 54 lines right as written?") -->
 
