@@ -12,7 +12,7 @@ So the rule I care most about is a simple one. Only real asks reach me. Somethin
 I didn't start with that rule. I found it at nine minutes past one in the morning on 25 October. I'd opened an item on the Hub for Charlie's site. A night run owned it. It was already built and on the test version of the site, waiting only for that night's pull request. And the Hub showed it to me like a form: fields to edit, and a button marked Mark done. I didn't need to edit anything, and I didn't need to mark anything done. The run would do that itself. So I typed: "things like this don't need me (unless they do and if they do they need an agree option)".
 <!-- src: r2jimmy decision asks-need-ant-and-agree (agreedAt 2026-10-25T01:09+01:00; quote; trigger: CD-376, run-owned, in progress on beta, waiting only on the night's promote PR, shown as a backlog drawer with Mark done and edit fields) -->
 
-<!-- p: 07-04 | draft -->
+<!-- p: 07-04 | agreed 2026-11-23 -->
 That sentence became a rule with four parts. Work that a run or a chat owns never reaches me, whatever stage it's at. If a pull request really is mine to accept, that pull request is one ask, not one ask for every item it carries. Every ask that does reach me opens with a one-line question and an Agree button, with Not now and, where it fits, Decline. And an ask that can't offer Agree is a bug: whoever raised it rewrites it as a question, or deals with it without me.
 <!-- src: r2jimmy decision asks-need-ant-and-agree, summary points 1 to 4 -->
 
