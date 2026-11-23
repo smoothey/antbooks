@@ -13,7 +13,7 @@ What stayed with me wasn't the facts in those books. It was the method behind th
 AI, left to itself, works the other way round. It's built to fit your preferences. It learns what you like, and it gives you more of it. Most of the time that's exactly what you want. But it means the tool you're using to think is quietly leaning towards agreeing with you.
 <!-- src: notes/interviews/build-the-thing/2026-11-23-driving-answers-and-echo-chamber.md, answer 2 ("AI is designed to fit your preferences") -->
 
-<!-- p: 13-04 | draft -->
+<!-- p: 13-04 | agreed 2026-11-23 -->
 This isn't just a feeling. In 2026, researchers at Stanford tested eleven of the leading AI models on people asking for advice. The models backed the person's own actions about half as often again as other people did, even when the person described doing something wrong. And the people in the study preferred the agreeable models, even when the advice was worse. That creates a bad loop: people reward the AI for agreeing, so the AI learns to agree.
 <!-- src: research, briefs.md ch 13: Cheng et al., Science (2026), Stanford News March 2026; preprint arXiv 2510.01395 ("affirm users' actions 50% more than humans do"; participants preferred sycophantic models; "perverse incentives"). Notes entry in 99-notes.md -->
 
