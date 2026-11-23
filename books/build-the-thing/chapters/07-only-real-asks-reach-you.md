@@ -44,6 +44,6 @@ Then I went away. Chapter 4 told how the AI first treated my trip as a freeze, a
 Each morning while I was away, the brief opened with a section called Taps for today. On 5 November it held nine things, planned to fit about 115 of my 120 minutes, each with its own estimate. Agree the wording on a study guide's cover before Sunday's upload: three minutes. Accept a fix that turned the photo organiser's checks green on Windows again: five minutes. Agree or park fifteen recommendations: about forty-five. Four things didn't fit, so they rolled to the next day. The Roblox play-tests sat under When you're back.
 <!-- src: smoothey/jimmy governance/reports/2026-11-05/morning-brief.md ("Taps for today (about 115 of your 120 minutes)"; 9 items; UT-68 cover badge wording, 3 min, before Sunday's upload; photo-organiser#123, PO-207, 5 min; "Agree or park the other 15 recs", about 45 min; "Didn't fit, rolls to tomorrow (4)"; When you're back: Robyn's Roblox play-tests in Studio). Series and exam not named -->
 
-<!-- p: 07-12 | draft -->
+<!-- p: 07-12 | agreed 2026-11-23 -->
 That's the job I want the machine to do for me in the morning. Not to show me everything, but to decide what's worth my time, put it in order, and make each answer one tap. The work through the night is the impressive part. The short list in the morning is what lets me keep doing it.
 <!-- src: summary of 07-01 to 07-11; chapter 2, 02-16 (agreed: the short list in order beats the dashboard) -->

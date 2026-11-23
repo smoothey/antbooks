@@ -56,6 +56,7 @@ Sources live in the store (`r2antbooks` `notes/interviews/build-the-thing/`, `no
 - Gaps: pick the night. Options: the night of 4 Nov (stalls, Ant tapping approvals at about 1:47 and 1:59), or a recent clean night to show it working. Possibly both, as contrast.
 
 ## 7. Only real asks reach you
+- **All 12 paragraphs agreed** (23 Nov, 22:52 to 23:07), about 1,020 words. At polish: make "To agree" and "To discuss" match in case; check the photo organiser's name across chapters; 07-12 echoes 02-16 (watch overuse).
 - Job: Needs you, Agree, away mode, the phone test.
 - Known: decisions asks-need-ant-and-agree, agree-or-discuss, away-mode, away-is-reduced-access (about 2 hours a day, not a freeze).
 - Gaps: what it was like running everything from a phone while away (1 to 13 Nov), if Ant wants that in.
