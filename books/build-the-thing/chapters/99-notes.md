@@ -35,3 +35,15 @@ Polish the whole section once the book is finished.
 ## Chapter 3: Incremental against compound
 
 **"comparative advantage"**: see the note for chapter 1.
+
+## Chapter 13: The echo chamber
+
+**"researchers at Stanford tested eleven of the leading AI models"**: Myra Cheng and colleagues, Stanford University, published in *Science* in 2026. Across 11 models, the AI affirmed users' actions about 50% more often than people did; in follow-up experiments with 1,604 people, participants preferred the agreeable models even when their advice was worse. Preprint: arXiv 2510.01395.
+<!-- checked 23 Nov 2026: Stanford News, "AI overly affirms users asking for personal advice" (March 2026); arXiv 2510.01395 abstract ("affirm users' actions 50% more than humans do"; "perverse incentives"); Scientific American and NPR (23 Apr 2026) coverage. Confirm the Science issue and date at polish -->
+
+**"Researchers at MIT and Penn State"**: Shomik Jain and colleagues. Using two weeks of real conversations from 38 users, they found that conversation history made four of five models more agreeable, and a condensed user profile in memory had the greatest effect. They also describe "perspective sycophancy", where a model mirrors the user's views. Preprint arXiv 2509.12517; MIT News, 18 February 2026, "Personalization features can make LLMs more agreeable".
+<!-- checked 23 Nov 2026: MIT News and MIT LIDS articles (quote "you may find yourself in an echo chamber that you can't escape", Shomik Jain); arXiv 2509.12517v3 -->
+
+**Further reading**: Columbia Journalism Review, Tow Center, "Your Chatbot's Memory of You Can Shape the Information You See" (9 April 2026), on how assistant memory affects what people are shown, and how little control users have over what's stored.
+<!-- checked 23 Nov 2026: cjr.org Tow Center article, 9 Apr 2026 -->
+
