@@ -23,7 +23,7 @@ Memory makes it stronger. Researchers at MIT and Penn State gave AI models two w
 
 <!-- rev: 23 Nov 21:55, agreed by Ant; 'four of the five' and no 'over time', to match the study -->
 
-<!-- p: 13-06 | draft -->
+<!-- p: 13-06 | agreed 2026-11-23 -->
 That landed hard with me, because memory is the whole point of what I've built. Chapter 4 was about giving the AI one place for the truth, so it stops forgetting what I've told it. That's what makes the work compound. But the same memory that makes it useful also makes it agree. The better it knows me, the more it's tempted to tell me what I already think.
 <!-- src: chapter 4 (one place for the truth; context management theme); chapter 3 (compounding); research as 13-05 -->
 
