@@ -80,8 +80,10 @@ On 23 November I wrote it into the rules that every chat and every night run fol
 <!-- src: smoothey/jimmy governance/README.md, Principles, "Do things for reasons" (Ant, 23 Nov 2026), merged by Ant in smoothey/jimmy#1176, 23 Nov 21:01; governance/decisions.md 2026-11-23 -->
 
 <!-- p: 13-18 | draft -->
-Rules help, but they're not enough on their own. A few habits do most of the work for me. I keep the AI's memory somewhere I can read it and fix it, so I can see what it thinks I'm like. I tell it, in so many words, that I want to grow and try new things. I ask it to argue back. And I look outside it for the new. The tool that rescued my 3D Jimmy in chapter 12 didn't come from the AI at all. It came from a newsletter and an advert.
+Rules help, but they're not enough on their own. A few habits do most of the work for me. I keep the AI's memory somewhere I can read it and fix it, so I can see what it thinks I'm like. I tell it that I want to grow and try new things. I ask it to argue back. And I look outside it for the new. The tool that rescued my 3D Jimmy in chapter 12 didn't come from the AI at all. It came from a newsletter and an advert.
 <!-- src: chapter 4 (memory Ant can see; "value hidden in memories the user can't see"); answer 2, 23 Nov 20:54 (invites dissent); 2026-11-23-driving-answers-and-echo-chamber.md, answer 2 (newsletters and targeted advertising; "exploring the new"); chapter 12 (Meshy). CHECK at ch 12 draft: Meshy found via newsletters/adverts -->
+
+<!-- rev: 23 Nov 22:31, Ant: 'in so many words' removed (awkward) -->
 
 <!-- p: 13-19 | draft -->
 Of course, newsletters and adverts are chosen for me by algorithms too. You can't step outside every echo chamber; there's always another one. The best you can do is carry some scepticism around with you, the scientist's habit, and keep it switched on. It has to live in your own head, because no tool will hold it for you. We're all open to flattery, subtle or otherwise. I am too.
