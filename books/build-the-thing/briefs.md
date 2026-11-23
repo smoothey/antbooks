@@ -6,6 +6,7 @@ Sources live in the store (`r2antbooks` `notes/interviews/build-the-thing/`, `no
 
 ## Parked context (not tied to a chapter; don't force it)
 - Risk appetite and "why not?" (Ant, 23 Nov 22:07): consultants are often chosen for a different risk profile from the client, in either direction; measure for a gung-ho client, boldness for an over-cautious one; joint learning from what goes wrong. Dan R's "rather than asking why, ask why not" is his idea and needs his say-so. Store: `notes/interviews/build-the-thing/2026-11-23-parked-risk-and-why-not.md`. Possible homes: ch 12, 13, 14, 15, 10.
+- Ant is open about ADHD and autism for this book (Ant, 23 Nov 22:08). Name them where they add something; don't force it.
 
 ## Introduction (drafted, not yet reviewed)
 - Job: the promise of the book in under 1,000 words.
