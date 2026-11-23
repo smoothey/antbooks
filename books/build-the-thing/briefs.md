@@ -94,7 +94,7 @@ Sources live in the store (`r2antbooks` `notes/interviews/build-the-thing/`, `no
 - Sources (answers): store `notes/interviews/build-the-thing/2026-11-23-driving-answers-and-echo-chamber.md`.
 
 ## 13. The echo chamber (Ant's theme, 23 Nov 2026, 20:14; added to the outline 23 Nov)
-- **Drafted 23 Nov** (`chapters/13-the-echo-chamber.md`, 20 paragraphs, all draft). Ready for a paragraph review. Checks at review: "mediocrity" in 13-07 (kept, Ant 21:57); 13-18 says Meshy came from a newsletter and an advert and that it "rescued" 3D Jimmy (agreed by Ant 22:34; ch 12 must match).
+- **All 20 paragraphs agreed** (23 Nov, 21:51 to 22:37), about 1,500 words. Next: the polish pass (a separate reviewer; wording only, agreed in bulk). Checks at review: "mediocrity" in 13-07 (kept, Ant 21:57); 13-18 says Meshy came from a newsletter and an advert and that it "rescued" 3D Jimmy (agreed by Ant 22:34; ch 12 must match).
 - Ant's words: "AI is designed to fit your preferences. If you want to grow, you need to anchor it, and the memories it keeps of you, on that desire to grow and explore. If you get mediocre results from AI, maybe you are anchoring it in your own mediocrity rather than freeing it to help you grow. The AI echo chamber can be dangerous." (lightly tidied; exact words in the store)
 - Home: Part 3, ch 13, straight after "Driving, or being driven?". The driving chapter is one evening; this one is the slow version of the same risk, over weeks of memory.
 - Job: AI tends to agree with you, and memory makes it agree more. Show how that quietly caps you, and how to set it up so it pushes you instead.

@@ -89,6 +89,6 @@ Rules help, but they're not enough on their own. A few habits do most of the wor
 Of course, newsletters and adverts are chosen for me by algorithms too. You can't step outside every echo chamber; there's always another one. The best you can do is carry some scepticism around with you, the scientist's habit, and keep it switched on. It has to live in your own head, because no tool will hold it for you. We're all open to flattery, subtle or otherwise. I am too.
 <!-- src: 2026-11-23-echo-chamber-answers.md, answer 3 ("It's impossible in this day to fully guard against it, you can minimise it by having natural skepticism (scientific method), but you have to hold it in your brain, we are all vulnerable to flattery, subtle or otherwise") -->
 
-<!-- p: 13-20 | draft -->
+<!-- p: 13-20 | agreed 2026-11-23 -->
 So here's a quick check for your own setup. When did your AI last tell you that you were wrong? Do you know what it remembers about you, and is that the person you want to become, or the one you already are? And when it agrees with you, can it tell you why? If you can't answer those, the echo chamber may already be doing your thinking for you.
 <!-- src: briefs.md ch 13 ("a short check for the reader"); Ant's motto (13-13); research (13-05) -->
