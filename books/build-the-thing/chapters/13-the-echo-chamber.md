@@ -31,7 +31,7 @@ That landed hard with me, because memory is the whole point of what I've built. 
 So the question isn't whether the AI remembers you. It's what it remembers you as. If it remembers you as someone who likes things the way they are, it will keep giving you things the way they are. If you want to grow, you have to anchor it, and the memories it keeps of you, on that wish to grow and explore. If the results you get from AI are mediocre, it's worth asking whether you've anchored it in your own mediocrity, rather than freeing it to help you grow.
 <!-- src: notes/interviews/build-the-thing/2026-11-23-driving-answers-and-echo-chamber.md, answer 2 ("if you want to grow - you need to anchor it and the memories it keeps of you on that desire to grow and explorer. If you get mediocre results from AI, maybe you are anchoring it in your own mediocrity rather than freeing it to help you grow"). "Mediocrity": Ant, 23 Nov 20:54, only if it finds a natural place; kept as written at review, 21:57 ("its perfect") -->
 
-<!-- p: 13-08 | draft -->
+<!-- p: 13-08 | agreed 2026-11-23 -->
 The echo chamber doesn't always look like flattery, either. The version that nearly caught me out was much quieter. Nobody told me my ideas were great. The AI simply took something we'd already decided, treated it as settled, and built every choice around it.
 <!-- src: notes/source-material/build-the-thing/2026-11-23-echo-chamber-log-examples.md, example 1 ("Why it fits"); use agreed by Ant 23 Nov 21:09 -->
 
