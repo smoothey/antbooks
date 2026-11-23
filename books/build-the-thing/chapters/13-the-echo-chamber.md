@@ -55,7 +55,7 @@ The answer came back: "Mostly no. The rule protects against the wrong thing." Ev
 The AI hadn't flattered me. It had done something more human than that. It had trusted an earlier decision, one we'd made together, and stopped asking whether it was right. An echo chamber made of your own past decisions is still an echo chamber. It just echoes in your own voice.
 <!-- src: as 13-08, example 1 ("took an earlier decision as settled and framed every choice around it") -->
 
-<!-- p: 13-13 | draft -->
+<!-- p: 13-13 | agreed 2026-11-23 -->
 My family has a motto: Smootheys do things for reasons. If you can't say why you're doing something, it's fair for someone to challenge you on it. That cuts both ways. It applies to me, to the people I work with, and now to the AI. When I suggest something to the AI, I often ask it to argue the other side. If it can't find a good argument, I'm more confident. If it can, I've learnt something before it cost me anything.
 <!-- src: notes/interviews/build-the-thing/2026-11-23-echo-chamber-answers.md, answer 2 ("I often invite a disenting opinion"; "My family motto is literally "Smoothey Do things for Reasons", if you can't articulate the way - it is fair to be challenged on it") -->
 
