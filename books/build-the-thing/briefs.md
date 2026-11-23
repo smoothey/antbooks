@@ -106,7 +106,7 @@ Sources live in the store (`r2antbooks` `notes/interviews/build-the-thing/`, `no
 - Possible shape: what the research says; how it shows up day to day (it agrees, it remembers you as you were, it suggests what worked last time); what Ant does about it (memory he can read and edit; telling it he wants to grow; asking it to argue back; looking outside it for the new); a short check for the reader.
 - Answered (Ant, 23 Nov 20:54; store `2026-11-23-echo-chamber-answers.md`):
   - Scientist first: anchored in the scientific method; read only non-fiction in his own time as a boy; a shelf of Ladybird science books across three walls of his bedroom (magnetism, electricity, atoms, inertia). New material, not in ch 1.
-  - His own line, to an ex-colleague the same day: you can't judge competence by how nice people are to you; "I don't need gold stars issued by idiots!" (colleague never named). The human version of the sycophancy research.
+  - His own line, to an ex-colleague the same day: you can't judge competence by how nice people are to you; "I don't need gold stars issued by idiots!" (the colleague is Dan Redmond, a peer; unnamed until Ant decides and Dan agrees). The human version of the sycophancy research.
   - He invites a dissenting opinion when he suggests something. Family motto: "Smootheys do things for reasons"; if you can't say why, it's fair to be challenged. Codified that evening as a governance principle: [smoothey/jimmy#1176](https://github.com/smoothey/jimmy/pull/1176).
   - His own feeds: you can't fully guard against it; you minimise it with natural scepticism, which you have to carry in your head. "We are all vulnerable to flattery, subtle or otherwise."
   - "Mediocrity": only if it finds a natural place.

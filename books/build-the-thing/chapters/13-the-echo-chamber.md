@@ -63,7 +63,7 @@ My family has a motto: Smootheys do things for reasons. If you can't say why you
 
 <!-- p: 13-14 | draft -->
 I hold people to the same standard. On the day I wrote this chapter, talking it over with a former colleague, I said: "You can't judge competence by how nice people are to you." I'd rather respect someone who's good at their job and doesn't much like me than someone who loves me and doesn't know what they're talking about. Or, as I put it that day: "I don't need gold stars issued by idiots!" An AI that agrees with everything I say is handing out exactly those gold stars.
-<!-- src: as 13-13, answer 1 (Ant's WhatsApp messages, 23 Nov 2026 19:00 and 19:01, shared by Ant for this theme; colleague never named) -->
+<!-- src: as 13-13, answer 1 (Ant's WhatsApp messages, 23 Nov 2026 19:00 and 19:01, shared by Ant for this theme; the colleague is Dan Redmond, a peer; unnamed in the draft until Ant decides and Dan agrees) -->
 
 <!-- rev: 23 Nov 22:20, Ant: not 'told' (too strong); a peer, and they discussed it -->
 
