@@ -51,7 +51,7 @@ I didn't pick either. I asked: "Is there really a security benefit of preventing
 The answer came back: "Mostly no. The rule protects against the wrong thing." Every route sent the data to the same place in the end, so blocking one of them kept nothing safer. The real risks were somewhere else entirely: where the conversation was stored afterwards, and one automated worker that would have held my private data and the power to change code at the same time. That same night we replaced the rule with one aimed at the real risks. It was safer, and it was faster.
 <!-- src: as 13-08, example 1 ("Mostly no. The rule protects against the wrong thing"; real risks: where history is stored, the runner holding ring 0 with push rights); r2jimmy decision routes-by-storage (agreed 26 Oct 23:23); JM-301; smoothey/jimmy#299 (merged 29 Oct) -->
 
-<!-- p: 13-12 | draft -->
+<!-- p: 13-12 | agreed 2026-11-23 -->
 The AI hadn't flattered me. It had done something more human than that. It had trusted an earlier decision, one we'd made together, and stopped asking whether it was right. An echo chamber made of your own past decisions is still an echo chamber. It just echoes in your own voice.
 <!-- src: as 13-08, example 1 ("took an earlier decision as settled and framed every choice around it") -->
 
