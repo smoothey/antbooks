@@ -105,9 +105,14 @@ Sources live in the store (`r2antbooks` `notes/interviews/build-the-thing/`, `no
   - He invites a dissenting opinion when he suggests something. Family motto: "Smoothey: do things for reasons"; if you can't say why, it's fair to be challenged. Codified that evening as a governance principle: [smoothey/jimmy#1176](https://github.com/smoothey/jimmy/pull/1176).
   - His own feeds: you can't fully guard against it; you minimise it with natural scepticism, which you have to carry in your head. "We are all vulnerable to flattery, subtle or otherwise."
   - "Mediocrity": only if it finds a natural place.
-- Still open: a real example of AI agreeing when it shouldn't have, and how he noticed (none given yet; look in the logs for a challenged decision).
+- Found in the logs (23 Nov, store `notes/source-material/build-the-thing/2026-11-23-echo-chamber-log-examples.md`; use not yet agreed):
+  - Main: 26 Oct, the rule nobody questioned. The AI took an earlier privacy rule as fixed and offered Ant only choices inside it. Ant asked whether it really bought any security; the working showed "mostly no, the rule protects against the wrong thing". Replaced that night with one aimed at the real risks (decision `routes-by-storage`, [JM-301](https://hub.smoothey.co.uk/dashboard#ref/JM-301)). Not flattery: an unexamined frame, broken by Ant asking why.
+  - Counter-examples, briefly: 21 Nov, research told him running models at home saved less than assumed (ADR 0018); 5 Nov, the AI checked a merge Ant reported and found it hadn't happened.
+- The motto is now a rule: "Do things for reasons", in the Jimmy governance principles ([smoothey/jimmy#1176](https://github.com/smoothey/jimmy/pull/1176), merged by Ant 23 Nov 21:01).
+- Split with ch 14 (agreed by Ant, 23 Nov 21:02): ch 13 is the AI agreeing too easily, and owns the motto; ch 14 is the AI refusing, and what stays a human's job. Ch 14 refers back to the motto, doesn't retell it.
 
 ## 14. When the machine says no
+- Split with ch 13 (agreed by Ant, 23 Nov): this chapter is the AI refusing and what stays a human's job. "Challenge goes both ways" stays here; the echo chamber and the "do things for reasons" motto live in ch 13, referred back to in a line.
 - Job: safety checks, trust, and what stays a human's job.
 - Known: refusals (19, 21, 24, 25 Oct; 21 Nov); "challenge goes both ways"; "attach repos" friction; Ant's role: direction, challenging decisions, designing processes, reviewing pull requests; client lessons (false FAILED, clean test run hiding bugs, 17 months of missed backups).
 - Holding back on access (Ant, 22 Nov 02:26): he hasn't pushed harder or rewritten governance to widen repo access beyond what he's given, because of news about AI breaking out of sandboxes. It's a theme in its own right and a counterpoint to the book's speed and "go exponential" message; he thinks it's important. Set up in ch 2, 02-11 ("still typing 'attach repos'", told as a joke there). Pay it off here: the friction is partly a choice. Any news cited must be researched and sourced at draft time, not from memory.
