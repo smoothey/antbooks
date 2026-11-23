@@ -85,7 +85,7 @@ Rules help, but they're not enough on their own. A few habits do most of the wor
 
 <!-- rev: 23 Nov 22:31, Ant: 'in so many words' removed (awkward). 22:34: agreed as it stands, including 'rescued' and 'a newsletter and an advert' -->
 
-<!-- p: 13-19 | draft -->
+<!-- p: 13-19 | agreed 2026-11-23 -->
 Of course, newsletters and adverts are chosen for me by algorithms too. You can't step outside every echo chamber; there's always another one. The best you can do is carry some scepticism around with you, the scientist's habit, and keep it switched on. It has to live in your own head, because no tool will hold it for you. We're all open to flattery, subtle or otherwise. I am too.
 <!-- src: 2026-11-23-echo-chamber-answers.md, answer 3 ("It's impossible in this day to fully guard against it, you can minimise it by having natural skepticism (scientific method), but you have to hold it in your brain, we are all vulnerable to flattery, subtle or otherwise") -->
 
