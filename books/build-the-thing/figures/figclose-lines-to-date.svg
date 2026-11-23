@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-11-23T09:50:39.160534</dc:date>
+    <dc:date>2026-11-23T11:57:07.583214</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -39,7 +39,7 @@ z
    </g>
    <g id="FillBetweenPolyCollection_1">
     <defs>
-     <path id="mb80f499505" d="M 62.366836 -26.429492 
+     <path id="m0fea39d24f" d="M 62.366836 -26.429492 
 L 62.366836 -26.429492 
 L 72.024528 -26.429492 
 L 81.682221 -26.429492 
@@ -150,13 +150,13 @@ L 62.366836 -26.429492
 z
 " style="stroke: #ffffff; stroke-width: 0.6"/>
     </defs>
-    <g clip-path="url(#pc0404a6279)">
-     <use xlink:href="#mb80f499505" x="0" y="303.008547" style="fill: #6b6b6b; stroke: #ffffff; stroke-width: 0.6"/>
+    <g clip-path="url(#p0f096b215a)">
+     <use xlink:href="#m0fea39d24f" x="0" y="303.008547" style="fill: #6b6b6b; stroke: #ffffff; stroke-width: 0.6"/>
     </g>
    </g>
    <g id="FillBetweenPolyCollection_2">
     <defs>
-     <path id="mdd015337be" d="M 62.366836 -26.429492 
+     <path id="mdcc2aa6812" d="M 62.366836 -26.429492 
 L 62.366836 -26.429492 
 L 72.024528 -26.429492 
 L 81.682221 -26.429492 
@@ -267,13 +267,13 @@ L 62.366836 -26.429492
 z
 " style="stroke: #ffffff; stroke-width: 0.6"/>
     </defs>
-    <g clip-path="url(#pc0404a6279)">
-     <use xlink:href="#mdd015337be" x="0" y="303.008547" style="fill: #e07a1f; stroke: #ffffff; stroke-width: 0.6"/>
+    <g clip-path="url(#p0f096b215a)">
+     <use xlink:href="#mdcc2aa6812" x="0" y="303.008547" style="fill: #e07a1f; stroke: #ffffff; stroke-width: 0.6"/>
     </g>
    </g>
    <g id="FillBetweenPolyCollection_3">
     <defs>
-     <path id="m2a0be44473" d="M 62.366836 -26.429492 
+     <path id="mb801212eb8" d="M 62.366836 -26.429492 
 L 62.366836 -26.429492 
 L 72.024528 -26.429492 
 L 81.682221 -26.429492 
@@ -384,13 +384,13 @@ L 62.366836 -26.429492
 z
 " style="stroke: #ffffff; stroke-width: 0.6"/>
     </defs>
-    <g clip-path="url(#pc0404a6279)">
-     <use xlink:href="#m2a0be44473" x="0" y="303.008547" style="fill: #bdbdbd; stroke: #ffffff; stroke-width: 0.6"/>
+    <g clip-path="url(#p0f096b215a)">
+     <use xlink:href="#mb801212eb8" x="0" y="303.008547" style="fill: #bdbdbd; stroke: #ffffff; stroke-width: 0.6"/>
     </g>
    </g>
    <g id="FillBetweenPolyCollection_4">
     <defs>
-     <path id="m3ef2636f57" d="M 62.366836 -26.429492 
+     <path id="m7a567b3426" d="M 62.366836 -26.429492 
 L 62.366836 -26.429492 
 L 72.024528 -26.429492 
 L 81.682221 -26.429492 
@@ -501,13 +501,13 @@ L 62.366836 -26.429492
 z
 " style="stroke: #ffffff; stroke-width: 0.6"/>
     </defs>
-    <g clip-path="url(#pc0404a6279)">
-     <use xlink:href="#m3ef2636f57" x="0" y="303.008547" style="fill: #e6e6e6; stroke: #ffffff; stroke-width: 0.6"/>
+    <g clip-path="url(#p0f096b215a)">
+     <use xlink:href="#m7a567b3426" x="0" y="303.008547" style="fill: #e6e6e6; stroke: #ffffff; stroke-width: 0.6"/>
     </g>
    </g>
    <g id="FillBetweenPolyCollection_5">
     <defs>
-     <path id="m0276b9581c" d="M 62.366836 -28.339806 
+     <path id="m6cde9e3aa6" d="M 62.366836 -28.339806 
 L 62.366836 -26.429492 
 L 72.024528 -26.429492 
 L 81.682221 -26.429492 
@@ -618,8 +618,8 @@ L 62.366836 -28.339806
 z
 " style="stroke: #ffffff; stroke-width: 0.6"/>
     </defs>
-    <g clip-path="url(#pc0404a6279)">
-     <use xlink:href="#m0276b9581c" x="0" y="303.008547" style="fill: #1e1e1e; stroke: #ffffff; stroke-width: 0.6"/>
+    <g clip-path="url(#p0f096b215a)">
+     <use xlink:href="#m6cde9e3aa6" x="0" y="303.008547" style="fill: #1e1e1e; stroke: #ffffff; stroke-width: 0.6"/>
     </g>
    </g>
    <g id="matplotlib.axis_1">
@@ -749,7 +749,7 @@ Q 209.710277 195.961694 225.626025 226.561515
   </g>
  </g>
  <defs>
-  <clipPath id="pc0404a6279">
+  <clipPath id="p0f096b215a">
    <rect x="62.366836" y="10.467055" width="502.2" height="266.112"/>
   </clipPath>
  </defs>

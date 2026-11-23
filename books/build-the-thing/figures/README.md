@@ -10,7 +10,7 @@ Made by `charts.py` and `diagrams.py` (SVG and PNG). The admin renders come from
 | fig02b-how-it-grew | 2 | One problem at a time: repo, site, Jimmy, store, first night, brief and Hub, share of a night, Cockpit | chapter 2 (agreed); r2jimmy decisions; Cockpit plan docs |
 | fig03a-incremental-vs-compound | 3 | A capped straight line against a curve | illustration of the chapter's idea, no data |
 | fig03b-changes-per-week | 3 | Changes saved per week, 140 to 929 | git history of six repos, counted 22 Nov 2026 (SB-4) |
-| fig03d-lines-to-date | 3 (placement to agree) | Lines written to date, stacked by project: 489,335 across five projects, 1 Oct to 22 Nov | r2jimmy state/output-stats (asOf 23 Nov 02:27), saved in fig03d-lines-to-date.json; net lines of code, docs and governance; book content not counted; same as the Hub Wall (Ant, 23 Nov) |
+| figclose-lines-to-date | Closing chapter, beside the words ledger (Ant, 23 Nov) | Lines written to date, stacked by project: 489,335 across five projects, 1 Oct to 22 Nov | r2jimmy state/output-stats (asOf 23 Nov 02:27), saved in figclose-lines-to-date.json; net lines of code, docs and governance; book content not counted; same as the Hub Wall (Ant, 23 Nov) |
 | fig04-one-truth-three-doors | 4 | The store and its three front doors | ADR 0002 |
 | fig05a-minutes-per-night | 5 | Minutes used per night, 20 Oct to 21 Nov, with the 480 and 75% lines | r2jimmy decision night-utilisation (20 and 21 Oct); morning briefs in smoothey/jimmy governance/reports |
 | fig03c-share-of-a-night | 3 (after 03-10) | The sizes: 1/16 to a whole night | r2jimmy decision sizing-night-share |

@@ -99,9 +99,9 @@ ax.set_ylim(-1,1.3); ax.axis('off')
 save(fig,'fig10-lesson-seven-times')
 print('ok')
 
-# fig03d lines to date, stacked by project (like the Hub's Wall)
+# figclose lines to date (closing chapter), stacked by project (like the Hub's Wall)
 import json, datetime as dt, matplotlib.dates as mdates
-L=json.load(open(OUT+'fig03d-lines-to-date.json'))
+L=json.load(open(OUT+'figclose-lines-to-date.json'))
 dd=[dt.date.fromisoformat(x) for x in L['days']]
 order=["Charlie's site",'Jimmy','Photo organiser','Roblox game','Study guides']
 cols={"Charlie's site":MID,'Jimmy':ACC,'Photo organiser':LIGHT,'Roblox game':FAINT,'Study guides':INK}
@@ -121,4 +121,4 @@ ax.set_xlim(dd[0],dd[-1]); ax.set_ylim(0,tot[-1]*1.02)
 ax.yaxis.set_major_formatter(matplotlib.ticker.FuncFormatter(lambda v,p:"0" if v==0 else f"{int(v/1000)}k"))
 ax.set_ylabel('Lines written, to date')
 ax.xaxis.set_major_formatter(mdates.DateFormatter('%-d %b')); ax.tick_params(length=0)
-save(fig,'fig03d-lines-to-date')
+save(fig,'figclose-lines-to-date')
