@@ -4,6 +4,9 @@ One brief per chapter: its job, what earlier chapters have already set up (agree
 
 Sources live in the store (`r2antbooks` `notes/interviews/build-the-thing/`, `notes/source-material/build-the-thing/`) and in `smoothey/jimmy` and `r2jimmy`. Themes noted so far: borrowed pace; comparative advantage; context management; delegation through frameworks; holding back on access (a deliberate counterpoint to the speed story, Ant 22 Nov 02:26); driving AI or being led by it (Ant 23 Nov 20:05, case study 3D Jimmy); the AI echo chamber (Ant 23 Nov 20:14).
 
+## Parked context (not tied to a chapter; don't force it)
+- Risk appetite and "why not?" (Ant, 23 Nov 22:07): consultants are often chosen for a different risk profile from the client, in either direction; measure for a gung-ho client, boldness for an over-cautious one; joint learning from what goes wrong. Dan R's "rather than asking why, ask why not" is his idea and needs his say-so. Store: `notes/interviews/build-the-thing/2026-11-23-parked-risk-and-why-not.md`. Possible homes: ch 12, 13, 14, 15, 10.
+
 ## Introduction (drafted, not yet reviewed)
 - Job: the promise of the book in under 1,000 words.
 - Check at review: 00-02 says "two books a week". Keep it as one example among several, so readers don't anchor on it (Ant, 22 Nov).
