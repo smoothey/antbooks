@@ -8,7 +8,7 @@ A machine that works all night can make a lot of noise in the morning. The first
 So the rule I care most about is a simple one. Only real asks reach me. Something comes to me when it needs my decision, my approval, or a step only I can do. Everything else is handled by the chat or run that owns it, and I never see it.
 <!-- src: r2jimmy decision asks-need-ant-and-agree (25 Oct 2026), summary point 2 -->
 
-<!-- p: 07-03 | draft -->
+<!-- p: 07-03 | agreed 2026-11-23 -->
 I didn't start with that rule. I found it at nine minutes past one in the morning on 25 October. I'd opened an item on the Hub for Charlie's site. A night run owned it. It was already built and on the test version of the site, waiting only for that night's pull request. And the Hub showed it to me like a form: fields to edit, and a button marked Mark done. I didn't need to edit anything, and I didn't need to mark anything done. The run would do that itself. So I typed: "things like this don't need me (unless they do and if they do they need an agree option)".
 <!-- src: r2jimmy decision asks-need-ant-and-agree (agreedAt 2026-10-25T01:09+01:00; quote; trigger: CD-376, run-owned, in progress on beta, waiting only on the night's promote PR, shown as a backlog drawer with Mark done and edit fields) -->
 
