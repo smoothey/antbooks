@@ -1,6 +1,6 @@
 # Chapter 8: Rings and brokers
 
-<!-- p: 08-01 | draft -->
+<!-- p: 08-01 | agreed 2026-11-23 -->
 A system that works for you while you sleep has to answer two questions before you can trust it. Who can see what? And who can do what? Chapter 4 promised I'd explain how I answered the first. This chapter does that, and then the second, because the second is where the real danger is.
 <!-- src: chapter 4, 04-09 (agreed: "Chapter 8 goes into how that works"); ADR 0003 (rings); ADR 0009 and 0010 (powers) -->
 
