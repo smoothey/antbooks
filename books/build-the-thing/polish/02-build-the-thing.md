@@ -1,0 +1,14 @@
+# Polish: Chapter 2 (proposed 24 Nov 2026, separate reviewer)
+Summary: A tight chapter that reads well and keeps Ant's voice. The proposals are few. One explains "governance" on first use, since the introduction deliberately avoided the word. One untangles the long first-paragraph sentence that explains a repository. Two match words used elsewhere in the book ("client", "Roblox game"). Two smooth the first-night paragraph, which says "live" three times in one sentence.
+
+## Proposed changes
+1. **02-01** — Before: "The first thing that did was a repository, the folder where code and the history of every change to it live, for a series of technical study guides." → After: "The first thing that did was a repository for a series of technical study guides. A repository is the folder where code lives, along with the history of every change to it." — Why: the explanation sat in the middle of the sentence and split it; two short sentences read more easily.
+2. **02-07** — Before: "Now I wasn't doing it for one customer's firewall." → After: "Now I wasn't doing it for one client's firewall." — Why: chapter 1 says "client" for the same story (01-13).
+3. **02-08** — Before: "That became governance, and governance became Jimmy." → After: "That became governance, the rules for how all the work is run, and governance became Jimmy." — Why: first use of a technical term in the book; the introduction chose plainer words for it.
+4. **02-10** — Before: "By then nine changes were live on the site, all tested, and every release to the live site worked." → After: "By then nine changes were live on the site, all tested, and every release had worked." — Why: "live" appears twice in one sentence, and three times in the paragraph.
+5. **02-10** — Before: "During the week we'd reveal the site, releases were frozen, so nothing could go out by accident." → After: "Releases were frozen for the week we'd reveal the site, so nothing could go out by accident." — Why: leads with the subject; the original makes the reader hold the clause before knowing what it is about.
+6. **02-15** — Before: "a series of technical study guides, a game, and the system itself" → After: "a series of technical study guides, a Roblox game, and the system itself" — Why: the introduction and later chapters call it the Roblox game.
+
+## Needs Ant (not polish)
+- 02-11: "Five weeks on, I'm still typing "attach repos"." The joke needs the reader to know what "repos" are and why he types it (to give a chat access to a project's code). The words are Ant's quote, so they stay; Ant may want a few words of explanation around them, which would add meaning.
+- 02-03 / 02-11 / 02-12: number style. Counts are numerals ("43 changes", "26 recommendations") except at the start of a sentence ("Twenty-six decisions"). That is a sound rule; just confirm it is the book's rule, so later chapters follow it.
