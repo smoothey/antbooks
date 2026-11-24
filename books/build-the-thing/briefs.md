@@ -127,6 +127,7 @@ Sources live in the store (`r2antbooks` `notes/interviews/build-the-thing/`, `no
 - Gaps: few. Ask Ant which stories or events he has in mind, and where his line sits today.
 
 ## 15. What it costs
+- Possible quote (from ch 8 review, 24 Nov): on 3 Nov the runs were "meant to save me work - it's making me more work" (JM-348 notes), which led to batch merges.
 - Job: the real cost was work not done.
 - Known: overrunning a budget never bothered Ant; idle nights did (unused budget, Actions minutes running out); stalls; personal time (ch 1). No money figures.
 - Gaps: how much of the night went unused in the bad weeks (unit counts from the logs).
