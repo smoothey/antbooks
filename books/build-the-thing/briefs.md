@@ -99,6 +99,7 @@ Sources live in the store (`r2antbooks` `notes/interviews/build-the-thing/`, `no
 - New angle (Ant, 24 Nov 00:14): "changing the methodology can change the metric - the original goal may not have been phrased fully." The first ask didn't say "could pass for the drawing"; that test only appeared once version 1 was seen. So version 1 being judged by bones and moves was partly the goal as first phrased, not only the AI leading. Store: `notes/interviews/build-the-thing/2026-11-24-theme-method-changes-metric.md`.
 - Sources (answers): store `notes/interviews/build-the-thing/2026-11-23-driving-answers-and-echo-chamber.md`.
 
+- Figure idea (Ant, 24 Nov 16:15): side by side, 3D Jimmy made with Fable only against Meshy plus Fable. Both are still being worked on, so capture them as late as possible (by the files and proof step, SB-12) for the most impressive versions. Plan in figures/README.md as fig12-3d-jimmy-two-routes.
 ## 13. The echo chamber
 - Circle back (Ant, 24 Nov 13:23): 13-09 and 13-10 never explain "direct routes", "API routes" (in Ant's quote) or "the slow way". Work through it with Ant. (Ant's theme, 23 Nov 2026, 20:14; added to the outline 23 Nov)
 - **All 20 paragraphs agreed** (23 Nov, 21:51 to 22:37), about 1,500 words. Next: the polish pass (a separate reviewer; wording only, agreed in bulk). Checks at review: "mediocrity" in 13-07 (kept, Ant 21:57); 13-18 says Meshy came from a newsletter and an advert and that it "rescued" 3D Jimmy (agreed by Ant 22:34; ch 12 must match).
