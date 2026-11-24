@@ -62,7 +62,7 @@ Sources live in the store (`r2antbooks` `notes/interviews/build-the-thing/`, `no
 - Gaps: what it was like running everything from a phone while away (1 to 13 Nov), if Ant wants that in.
 
 ## 8. Rings and brokers
-- **Drafted 23 Nov** (`chapters/08-rings-and-brokers.md`, 13 paragraphs, all draft). Checks at review: 08-09 says the infra broker isn't switched on yet (JM-239, due 27 Nov); 08-12 "separation of duties" may belong in ch 11.
+- **All 13 paragraphs agreed** (23 Nov 23:31 to 24 Nov 00:26), about 1,160 words. Keep current before publishing: 08-09 says the cloud broker isn't switched on yet (JM-239, due 27 Nov). 08-13 commits ch 14 to explaining why Ant keeps the friction.
 - Job: privacy by where data lives; approvals for merges, spend and infrastructure.
 - Known: ADR 0003, 0009, 0010, 0014. Little Ant input needed.
 - Holding back on access: approvals and rings are the mechanics of the restraint ch 14 explains. Link forward to it.

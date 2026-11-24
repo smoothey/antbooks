@@ -50,6 +50,6 @@ Some limits apply whichever way the work goes. The runs paid from credit never p
 Put together, it's one idea used three times. A power, and the data it could misuse, never sit in the same place. The facts I approve are read fresh, at the moment I approve them, from the real source. And for anything that matters, the last step is a person: me. In IT this is called separation of duties. I didn't set out to copy it. It's what you end up with once you ask, for every power, what happens if the thing holding it is tricked.
 <!-- src: summary of 08-05 to 08-11 (ADR 0009, 0010, 0014); "separation of duties" is the standard term (no source needed beyond general knowledge; check at polish whether ch 11, Best practice by accident, should carry it instead) -->
 
-<!-- p: 08-13 | draft -->
+<!-- p: 08-13 | agreed 2026-11-24 -->
 None of this is free. Every merge costs me a tap, and some cost a look at my face. It would be quicker to let the runs do it all. That trade is deliberate, and chapter 14 explains why I've chosen to keep it, even when it slows me down.
 <!-- src: chapter 5, 05-xx (agreed: "every pull request costs me a tap"); briefs ch 8 ("approvals and rings are the mechanics of the restraint ch 14 explains"); theme note holding back on access (Ant, 22 Nov 02:26) -->
