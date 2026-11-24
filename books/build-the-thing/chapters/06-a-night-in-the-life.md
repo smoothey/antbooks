@@ -11,12 +11,12 @@ The good night was 18 November. At 16:37 the readiness check found work for ever
 <!-- rev: Roblox waiting on Ant's play-test (Ant 22 Nov 20:05); agreed -->
 
 <!-- p: 06-03 | agreed 2026-11-22 -->
-Charlie's site started at 22:47. I was still up, so as the run finished pieces of work, I looked at them and accepted them: two pull requests, at 23:15 and 23:53, carrying seven pieces of work between them. By the time I went to bed, the night was already building on top of what I'd accepted.
+Charlie's site started at 22:47. I was still up, so as the run finished pieces of work, I looked at them and accepted them: two pull requests, at 23:15 and 23:53, carrying seven items between them. By the time I went to bed, the night was already building on top of what I'd accepted.
 <!-- src: 2026-11-18/morning-brief.md (nightly-charliedoll: "You merged poseroll#453 at 23:15 (CD-744, CD-746, CD-826) and poseroll#460 at 23:53 (CD-745, CD-755, CD-747, CD-748)"); schedule.md (22:47) -->
 <!-- rev: both PRs were that night's (poseroll#453, #460); agreed by Ant 22 Nov 20:08 -->
 
 <!-- p: 06-04 | agreed 2026-11-22 -->
-Around midnight the other projects took their turns. The Roblox game's run had nothing to build, so it updated the game's target dates instead and checked that all 838 of its logic tests still passed. The camera app added a warning for when a finger creeps over the lens. The study guides refreshed their research: 815 pages checked, 13 of them changed, and 696 new pages gathered for the next two books. The photo organiser worked through three items and checked them on Windows as well.
+Around midnight the other projects took their turns. The Roblox game's run had nothing to build, so it updated the game's target dates instead and checked that all 838 of its logic tests still passed. The camera app added a warning for when a finger creeps over the lens. The study guides refreshed their research: 815 pages checked, thirteen of them changed, and 696 new pages gathered for the next two books. The photo organiser worked through three items and checked them on Windows as well.
 <!-- src: 2026-11-18/morning-brief.md (nightly-robroblox: applied RR-234's dates, no build work, 838 logic tests pass; nightly-togmatic: "the card says when a finger crept over the lens (TG-176)"; nightly-transcenders: "Corpus refreshed (815 pages, 13 changed) plus 696 new pages for the two VCAP books"; nightly-photo-organiser: PO-299, PO-300, PO-287, "Windows run on the first shift's head passed"). Study guide series and exam names not printed -->
 <!-- rev: 'Around midnight', 'target dates'; agreed by Ant 22 Nov 20:09 -->
 
@@ -51,7 +51,7 @@ That morning we were driving from Strathroy to Toronto. Before we left, I read w
 <!-- rev: agreed by Ant 22 Nov 20:26 -->
 
 <!-- p: 06-11 | agreed 2026-11-22 -->
-The cause turned out to be one I hadn't known existed. My runs were set to approve their own actions automatically, but that automatic approval has a limit. Each action is still checked, and if enough are blocked, three in a row or twenty in one session, the session stops approving itself and starts asking a person instead. From then on, even harmless steps wait for someone to tap Allow. In the middle of the night at home, with me five hours behind in Canada and not watching, nobody did. Some of those shifts sat waiting for up to eight and a half hours.
+The cause turned out to be one I hadn't known existed. My runs were set to approve their own actions automatically, but that automatic approval has a limit. Each action is still checked, and if enough are blocked (three in a row, or twenty in one session), the session stops approving itself and starts asking a person instead. From then on, even harmless steps wait for someone to tap Allow. In the middle of the night at home, with me five hours behind in Canada and not watching, nobody did. Some of those shifts sat waiting for up to eight and a half hours.
 <!-- src: smoothey/jimmy governance/loops/CONTRACT.md "Blocks and prompts: automatic approval has a limit (Ant, 3 Nov 2026)" ("after 3 blocks in a row or 20 in a session the session falls back to asking. From then on even harmless commands can wait for a tap, and overnight nobody is there (PF-86: seven shifts waited up to 8.5 hours on the night of 2 Nov)") -->
 <!-- rev: time-zone fix (Canada five hours behind); agreed by Ant 22 Nov 20:30 -->
 
