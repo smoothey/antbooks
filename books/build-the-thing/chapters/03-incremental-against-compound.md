@@ -32,8 +32,8 @@ At the financial sector company, a whole team of developers built our business s
 Three years after I'd left, I was back there as a consultant on some unrelated work. My temporary fix was still running. The crash had never been fixed. The stopgap had worked so well that the pain went away, and with it, the reason to fix the cause. It was the right instinct to build something that kept working without me. I'd just built it on the wrong side of the problem.
 <!-- src: Ant, 22 Nov 17:34 (three years after leaving, contracted as a consultant for unrelated work; "temporary fix" still running; devs never fixed the source); closing reading by Claude, agreed by Ant 22 Nov 17:36 -->
 
-<!-- p: 03-06 | agreed 2026-11-22 -->
-There's a second idea behind all this, and I met it long before any of these tools existed: in Economics GCSE. It's called comparative advantage, and it was set out by the economist David Ricardo more than two hundred years ago. The usual way to explain it goes like this. A lawyer might type faster than her assistant. She still shouldn't do her own typing, because every hour she spends typing is an hour she isn't doing the work only she can do. Being best at something doesn't mean it's the best use of your time.
+<!-- p: 03-06 | reopened 2026-11-24: Ant, shorten the repeat of chapter 1 -->
+There's a second idea behind all this: comparative advantage, from chapter 1. Picture a lawyer who types faster than her assistant. She still shouldn't do her own typing, because every hour she spends typing is an hour she isn't doing the work only she can do. Being best at something doesn't mean it's the best use of your time.
 <!-- src: chapter 1, 01-24 (agreed); r2antbooks notes/interviews/build-the-thing/2026-11-22-early-years-and-game-theory.md (comparative advantage, Ant 00:11 to 00:13); the lawyer and typist is the standard textbook illustration, not Ant's own story -->
 <!-- rev: new bridge after the Jade story; agreed by Ant 22 Nov 17:38 -->
 

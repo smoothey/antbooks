@@ -40,6 +40,9 @@ How it's tracked: each paragraph in a chapter file has a marker on the line abov
 ## References
 References go in the book's "Notes and further reading" section at the back, never as marks in the text (Ant, 22 Nov 2026). Notes are grouped by chapter and keyed by a short phrase. Add a chapter's notes when the chapter is written, each checked against a real source; the whole section is polished with the rest of the book.
 
+## Style: numbers
+Write numbers as words unless a figure is justified for that instance (Ant, 24 Nov 2026). Likely justified: times of day (22:47), dates and years, exact counts too long to read as words (489,335), and quoted text, which stays as it was said. Each figure kept is listed with its reason in the chapter's polish file for Ant to agree.
+
 ## 5. Final polish
 Each chapter gets its polish pass as soon as it's agreed, not all at the end (Ant, 24 Nov 2026, from the launch pre-mortem). A last light pass over the whole book still runs when every chapter is agreed. The polish reviewer may change wording, never intent.
 - It writes its proposed changes chapter by chapter, in `books/<book>/polish/<chapter>.md`: each change as before, after, and why, in one line.
