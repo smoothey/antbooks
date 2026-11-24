@@ -2,6 +2,7 @@
 Summary: A tight chapter that reads well and keeps Ant's voice. The proposals are few. One explains "governance" on first use, since the introduction deliberately avoided the word. One untangles the long first-paragraph sentence that explains a repository. Two match words used elsewhere in the book ("client", "Roblox game"). Two smooth the first-night paragraph, which says "live" three times in one sentence.
 
 ## Proposed changes
+Applied 24 Nov 2026, 13:27: all six agreed by Ant, plus three numbers-rule changes (02-03 forty-three, fifty-six; 02-11 twenty-six). Times and dates stay as figures.
 1. **02-01** — Before: "The first thing that did was a repository, the folder where code and the history of every change to it live, for a series of technical study guides." → After: "The first thing that did was a repository for a series of technical study guides. A repository is the folder where code lives, along with the history of every change to it." — Why: the explanation sat in the middle of the sentence and split it; two short sentences read more easily.
 2. **02-07** — Before: "Now I wasn't doing it for one customer's firewall." → After: "Now I wasn't doing it for one client's firewall." — Why: chapter 1 says "client" for the same story (01-13).
 3. **02-08** — Before: "That became governance, and governance became Jimmy." → After: "That became governance, the rules for how all the work is run, and governance became Jimmy." — Why: first use of a technical term in the book; the introduction chose plainer words for it.
