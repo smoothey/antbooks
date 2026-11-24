@@ -14,12 +14,12 @@ AI, left to itself, works the other way round. It's built to fit your preference
 <!-- src: notes/interviews/build-the-thing/2026-11-23-driving-answers-and-echo-chamber.md, answer 2 ("AI is designed to fit your preferences") -->
 
 <!-- p: 13-04 | agreed 2026-11-23 -->
-This isn't just a feeling. In a study published in 2026, researchers at Stanford tested eleven of the leading AI models on people asking for advice. The models backed the person's own actions about half as often again as other people did, even when the person described doing something wrong. And the people in the study preferred the agreeable models, even when the advice was worse. That creates a bad loop: people reward the AI for agreeing, so the AI learns to agree.
+This isn't just a feeling. In a study published in 2026, researchers at Stanford tested how eleven of the leading AI models answered people asking for advice. The models backed the person's own actions about half as often again as other people did, even when the person described doing something wrong. And the people in the study preferred the agreeable models, even when the advice was worse. That creates a bad loop: people reward the AI for agreeing, so the AI learns to agree.
 <!-- src: research, briefs.md ch 13: Cheng et al., Science (2026), Stanford News March 2026; preprint arXiv 2510.01395 ("affirm users' actions 50% more than humans do"; participants preferred sycophantic models; "perverse incentives"). Notes entry in 99-notes.md -->
 <!-- rev: 24 Nov 13:23, agreed by Ant: "In a study published in 2026" (the preprint is from Oct 2025), from the polish review -->
 
 <!-- p: 13-05 | agreed 2026-11-23 -->
-Memory makes it stronger. Researchers at MIT and Penn State gave AI models two weeks of real conversations with their users, then tested them. With that history, four of the five models became more agreeable. The biggest effect came from a short profile of the user kept in the model's memory: exactly the kind of thing modern assistants now keep about you. The models also started to mirror the user's own views back at them. The lead researcher put it plainly: if you outsource your thinking to a model for long enough, "you may find yourself in an echo chamber that you can't escape."
+Memory makes it stronger. Researchers at MIT and Penn State gave AI models two weeks of real conversations with their users, then tested them. With that history, four of the five models became more agreeable. The biggest effect came from a short profile of the user kept in the model's memory: exactly the kind of thing modern assistants now keep about you. The models also started to mirror users' own views back at them. The lead researcher put it plainly: if you outsource your thinking to a model for long enough, "you may find yourself in an echo chamber that you can't escape."
 <!-- src: research, briefs.md ch 13: Jain et al., arXiv 2509.12517; MIT News, 18 Feb 2026 ("interaction context increased agreeableness in four of the five LLMs"; "condensed user profile in the model's memory had the greatest impact"; "perspective sycophancy"; Shomik Jain quote). Notes entry in 99-notes.md -->
 
 <!-- rev: 23 Nov 21:55, agreed by Ant; 'four of the five' and no 'over time', to match the study -->
@@ -69,7 +69,7 @@ I hold people to the same standard. On the day I wrote this chapter, talking it 
 <!-- rev: 23 Nov 22:20, Ant: not 'told' (too strong); a peer, and they discussed it. 22:23: agreed; Dan unnamed in the prose for now; Ant has invited him to be credited in the book -->
 
 <!-- p: 13-15 | agreed 2026-11-23 -->
-When it works, it looks quite ordinary. In November I asked for help sending AI work to the cheapest model, including models running on my own PCs at home. I was keen on the idea, and I assumed it would save money. The research said otherwise: for plain text jobs, the cheapest hosted model had become so cheap that running my own cost about the same. The AI told me, and the plan changed shape. Home models are still worth having, for privacy and for jobs with pictures, but not for the reason I'd assumed.
+When it works, it looks quite ordinary. In November I asked for help sending AI work to the cheapest model, including models running on my own PCs at home. I was keen on the idea, and I assumed it would save money. The research said otherwise: for plain text jobs, the lowest-priced model run by an AI company had become so cheap that running my own cost about the same. The AI told me, and the plan changed shape. Home models are still worth having, for privacy and for jobs with pictures, but not for the reason I'd assumed.
 <!-- src: as 13-08, example 2 (project doc claude/task-routing-research.md, 21 Nov 2026: "local saves less on text than we assumed"; "for plain text jobs, local and Haiku 5.5 cost about the same"; what local is still worth having); r2jimmy decision local-first-routing-2026-11-21; ADR 0018. No money figures -->
 
 <!-- p: 13-16 | agreed 2026-11-23 -->
@@ -77,7 +77,7 @@ It works the other way too. Earlier that month I told the AI a pull request had 
 <!-- src: as 13-08, example 3 (Jimmy Hub chat, 5 Nov 2026: Ant said a PR had merged; Claude checked GitHub, a different one had merged) -->
 
 <!-- p: 13-17 | agreed 2026-11-23 -->
-On 23 November I wrote it into the rules that every chat and every night run follows. Every suggestion comes with its reason, whether it's mine or the AI's. When the AI disagrees, it says so plainly and gives its reason, then does what I decide. It asks to be challenged on its own ideas too. Agreement is judged on evidence, not on how nicely something is said. And what it remembers about me is there to help it understand me, not to tell me what I want to hear.
+On 23 November I wrote this into the rules that every chat and every night run follows. Every suggestion comes with its reason, whether it's mine or the AI's. When the AI disagrees, it says so plainly and gives its reason, then does what I decide. It asks to be challenged on its own ideas too. Agreement is judged on evidence, not on how nicely something is said. And what it remembers about me is there to help it understand me, not to tell me what I want to hear.
 <!-- src: smoothey/jimmy governance/README.md, Principles, "Do things for reasons" (Ant, 23 Nov 2026), merged by Ant in smoothey/jimmy#1176, 23 Nov 21:01; governance/decisions.md 2026-11-23 -->
 
 <!-- p: 13-18 | agreed 2026-11-23 -->
