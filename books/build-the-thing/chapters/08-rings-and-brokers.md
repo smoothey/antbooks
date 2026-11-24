@@ -42,7 +42,7 @@ The cloud got the same treatment. Changing the services in Azure, the cloud my p
 The third power is money. I have two kinds of capacity to spend. My Claude plan pays for the night runs. A separate pot of credit pays for extra runs and quick jobs, and it lapses if I don't use it. A third broker decides where each piece of work goes: the cheapest capacity that's allowed to take it. Allowed is the important word. Where the data lives decides what may run where, so my most private work only goes down routes built to keep it apart. That rule has a story of its own, which I'll come to in chapter 13.
 <!-- src: ADR 0014, Context (plan pays nightly runs; API credit lapses if unused); title ("Work goes to the cheapest capacity that may take it"); Decision ("Where the data lives decides what may run where", routes-by-storage, each ring its own workspace and key). Chapter 13, 13-09 to 13-12 (agreed: the routes-by-storage story). No money figures -->
 
-<!-- p: 08-11 | draft -->
+<!-- p: 08-11 | agreed 2026-11-24 -->
 Some limits apply whichever way the work goes. The runs paid from credit never put anything live, and never give themselves new schedules, secrets or powers. And a short list of changes always waits for me, however the work was paid for: anything touching how things are deployed, who can do what, or the rules the runs themselves follow.
 <!-- src: ADR 0014, Decision ("The hold list, the never list and freezes bind every route. Credit runs never deploy, and never add schedules, secrets or powers"); smoothey/jimmy governance/loops/merging.md (hold list) -->
 
