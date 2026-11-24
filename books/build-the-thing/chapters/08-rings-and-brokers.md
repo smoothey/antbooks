@@ -18,7 +18,7 @@ Ring 0 goes further. It lives in a separate store of its own, with its own locks
 
 <!-- rev: 24 Nov 00:01, Ant: plainer, 'a separate store of its own, with its own locks'; agreed -->
 
-<!-- p: 08-05 | draft -->
+<!-- p: 08-05 | agreed 2026-11-24 -->
 Who can do what is the harder question. Three powers matter most: shipping code to a live website, changing the cloud services everything runs on, and spending money. Any of them, in the wrong hands, could do real damage while I'm asleep. And there was a trap waiting. The store, the thing that knows everything, can read every ring. If I'd also given it the power to ship code, my most private notes and the power to change live sites would have sat behind one door.
 <!-- src: ADR 0009, Context ("Giving the same app the power to merge would put the most private data and the power to ship code behind one door"; merges that deploy); ADR 0010 (Azure changes); ADR 0014 (credit, spend) -->
 
