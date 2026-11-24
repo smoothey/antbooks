@@ -2,6 +2,7 @@
 Summary: The argument is clear and the Jade story gives it a good turn. The prose needs little. The proposals cut a repeat in the long sprints paragraph, swap "portfolio" for plain words, fix "learned" to the book's "learnt", point "at the start" at the introduction, and say what the 255 on 18 November counts.
 
 ## Proposed changes
+Applied 24 Nov 2026, 13:49: 2 to 5 agreed by Ant (1 superseded by the shortened 03-06), plus numbers to words: four thousand, nine hundred, two hundred and forty. Kept as figures, agreed: 480, 274 and 255 minutes (compared, and match the chapter 5 chart) and 255 changes.
 1. ~~SUPERSEDED: 03-06 rewritten shorter by Ant's choice, 24 Nov~~ **03-06** — Before: "and I met it long before any of these tools existed: in Economics GCSE." → After: "and I met it in Economics GCSE, long before any of these tools existed." — Why: the colon makes the sentence stumble; the plain order reads at once.
 2. **03-09** — Before: "I knew from what we'd already done that we would. When we worked through things together, we smashed through the work in hours." → After: "I knew from what we'd already done that we would: working together, we'd smashed through the work in hours." — Why: "in hours" and "worked through them together" already appear two sentences earlier; joining them cuts the repeat and "through ... through".
 3. **03-09** — Before: "while other projects in the portfolio carry on at the same time" → After: "while my other projects carry on at the same time" — Why: "portfolio" is jargon the book avoids elsewhere, and is first used here.
