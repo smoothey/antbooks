@@ -29,10 +29,11 @@ Each chapter lists what it draws on: L = the logs (store records, run reports, d
 
 ## Part 4: Your turn
 16. **Start small: one loop, one record, one rule.** *Written fresh.*
-17. **Many projects from one hub.** Tiers, onboarding, saying no to projects. *L: project-tiers, project-onboarding.*
-18. **A production line, end to end.** One repeating piece of work followed from idea to published product, and how the line keeps evolving. The study guides are the worked example, never named in print (no series name, no pen name; Ant, 22 Nov 01:43) (research corpus, book prep, go-live in one pull request, approval at one point), not the subject. The lesson is the line, not the number: readers should not anchor on two books a week. Ends with a checklist for any repeating output. *L: UT decisions and plan docs; Ant, 22 Nov 01:42.*
-19. **The right tool for each job.** Not everything needs the biggest model: local models, small helpers, brokers, cheapest capacity first. *L: ADR 0014, 0017, 0018; local model decisions.*
-20. **What comes next.** The Cockpit, own models, and where this goes. *L: own-photo-models, Cockpit plans; I.*
+17. **Ways of working with AI.** A menu of patterns: loops, interview me, a paragraph at a time, a separate reviewer, walk me through, chats leaving messages, research then propose, ask it to challenge you; and one pattern tried for the first time while writing this book. *L and this book's own process; I (24 Nov).*
+18. **Many projects from one hub.** Tiers, onboarding, saying no to projects. *L: project-tiers, project-onboarding.*
+19. **A production line, end to end.** One repeating piece of work followed from idea to published product, and how the line keeps evolving. The study guides are the worked example, never named in print (no series name, no pen name; Ant, 22 Nov 01:43) (research corpus, book prep, go-live in one pull request, approval at one point), not the subject. The lesson is the line, not the number: readers should not anchor on two books a week. Ends with a checklist for any repeating output. *L: UT decisions and plan docs; Ant, 22 Nov 01:42.*
+20. **The right tool for each job.** Not everything needs the biggest model: local models, small helpers, brokers, cheapest capacity first. *L: ADR 0014, 0017, 0018; local model decisions.*
+21. **What comes next.** The Cockpit, own models, and where this goes. *L: own-photo-models, Cockpit plans; I.*
 
 ## Front and back
 - A short opening story.
