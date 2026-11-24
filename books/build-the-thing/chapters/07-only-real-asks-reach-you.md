@@ -1,7 +1,7 @@
 # Chapter 7: Only real asks reach you
 
 <!-- p: 07-01 | agreed 2026-11-23 -->
-A machine that works all night can make a lot of noise in the morning. The first brief asked me to agree 26 things. That was fine for one morning. It wouldn't be fine every morning, across seven projects, for months. If every piece of work that touched me turned into a question, I'd have swapped writing code for answering a system, and the narrowest part of the pipe would still be me.
+A machine that works all night can make a lot of noise in the morning. The first brief asked me to agree twenty-six things. That was fine for one morning. It wouldn't be fine every morning, across seven projects, for months. If every piece of work that touched me turned into a question, I'd have swapped writing code for answering a system, and the narrowest part of the pipe would still be me.
 <!-- src: governance/reports/2026-10-18/morning-brief.md (26 recommendations); chapter 5, 05-01 (seven projects, agreed); chapter 1, 01-10 (narrowest part of the pipe, agreed) -->
 
 <!-- p: 07-02 | agreed 2026-11-23 -->
@@ -33,7 +33,7 @@ Real asks still need an order. A few days before all this, I'd asked for a way f
 <!-- src: claude/walk-me-through.md (22 Oct 10:31: walk through everything one at a time in priority order; ranking: blocks tonight, hard due, asap and gates, unblocks most, soft due, quick then oldest; Needs you and the brief use the same order). "asap and gates" left out as jargon -->
 
 <!-- p: 07-09 | agreed 2026-11-23 -->
-The aim behind it goes back to the first night. On 18 October I'd said I wanted tasks to be done inside Jimmy, without going to each tool's own screens. On 22 October I made that the end goal: everything I need to do, I can do in Jimmy. We're not there yet. Accepting some pull requests still means going to GitHub, and uploading a book still means going to Amazon's publishing site. But every ask that makes me leave is a gap, and the plan is to count them and close the biggest first.
+The aim behind it goes back to the first night. On 18 October I'd said I wanted tasks to be done inside Jimmy, without going to each tool's own screens. On 22 October I made that the end goal: everything I need to do, I can do in Jimmy. We're not there yet. Accepting some pull requests still means going to GitHub, the site where my code is kept, and uploading a book still means going to Amazon's publishing site. But every ask that makes me leave is a gap, and the plan is to count them and close the biggest first.
 <!-- src: charlie-doll-origins note, 18 Oct overnight loops chat ("an aspiration that tasks can be completed within Jimmy without interacting with the particular interface"); claude/walk-me-through.md (decision jimmy-actions-home, 22 Oct 10:37: "Ant completes all his actions in Jimmy"; JM-200 coverage, gaps biggest first; KDP uploads and merges left as steps) -->
 
 <!-- p: 07-10 | agreed 2026-11-23 -->
@@ -41,7 +41,7 @@ Then I went away. Chapter 4 told how the AI first treated my trip as a freeze, a
 <!-- src: r2jimmy decision away-mode (22 Oct: runs ask only for what a phone can do; device items wait for ant-back, on the brief's "When you're back" list); decision away-is-reduced-access (25 Oct: about 2 hours a day, laptop or phone; only machine-specific steps, Roblox Studio or work beyond the daily budget wait); chapter 4, 04-03b (agreed) -->
 
 <!-- p: 07-11 | agreed 2026-11-23 -->
-Each morning while I was away, the brief opened with a section called Taps for today. On 5 November it held nine things, planned to fit about 115 of my 120 minutes, each with its own estimate. Agree the wording on a study guide's cover before Sunday's upload: three minutes. Accept a fix that turned the photo organiser's checks green on Windows again: five minutes. Agree or park fifteen recommendations: about forty-five. Four things didn't fit, so they rolled to the next day. The Roblox play-tests sat under When you're back.
+Each morning while I was away, the brief opened with a section called Taps for today. On 5 November it held nine things, planned to fit about 115 of my 120 minutes, each with its own estimate. Agree the wording on a study guide's cover before Sunday's upload: three minutes. Accept a fix that turned the photo organiser's checks green on Windows again: five minutes. Agree or park fifteen recommendations: about forty-five minutes. Four things didn't fit, so they rolled to the next day. The Roblox play-tests sat under When you're back.
 <!-- src: smoothey/jimmy governance/reports/2026-11-05/morning-brief.md ("Taps for today (about 115 of your 120 minutes)"; 9 items; UT-68 cover badge wording, 3 min, before Sunday's upload; photo-organiser#123, PO-207, 5 min; "Agree or park the other 15 recs", about 45 min; "Didn't fit, rolls to tomorrow (4)"; When you're back: Robyn's Roblox play-tests in Studio). Series and exam not named -->
 
 <!-- p: 07-12 | agreed 2026-11-23 -->
