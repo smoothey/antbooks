@@ -78,6 +78,7 @@ Sources live in the store (`r2antbooks` `notes/interviews/build-the-thing/`, `no
 - Gaps: Ant's view on why one stuck and the other didn't.
 
 ## 11. Best practice by accident
+- Ch 8, 08-12 (agreed 24 Nov) already names separation of duties as arrived at, not copied. Refer back to it here; don't retell.
 - Job: arriving at known good practice without setting out to.
 - Known: "we'd be slower if we started with them"; Jimmy ended up like Azure DevOps without aiming to; the formal tiny-tasks team (ch 1) as contrast; the CMDB before ITIL (ch 1); pull before building; scripts split so a crash lands in the safe half; user stories after the fact.
 - Also (22 Nov): the Jade stopgap from ch 3 (03-05b, 03-05c): fixing the cause, not the symptom, is what IT calls problem management. Ant was doing it before he knew the name. Refer back, don't retell.

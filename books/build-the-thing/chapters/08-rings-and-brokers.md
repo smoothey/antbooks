@@ -46,7 +46,7 @@ The third power is money. I have two kinds of capacity to spend. My Claude plan 
 Some limits apply whichever way the work goes. The runs paid from credit never put anything live, and never give themselves new schedules, secrets or powers. And a short list of changes always waits for me, however the work was paid for: anything touching how things are deployed, who can do what, or the rules the runs themselves follow.
 <!-- src: ADR 0014, Decision ("The hold list, the never list and freezes bind every route. Credit runs never deploy, and never add schedules, secrets or powers"); smoothey/jimmy governance/loops/merging.md (hold list) -->
 
-<!-- p: 08-12 | draft -->
+<!-- p: 08-12 | agreed 2026-11-24 -->
 Put together, it's one idea used three times. A power, and the data it could misuse, never sit in the same place. The facts I approve are read fresh, at the moment I approve them, from the real source. And for anything that matters, the last step is a person: me. In IT this is called separation of duties. I didn't set out to copy it. It's what you end up with once you ask, for every power, what happens if the thing holding it is tricked.
 <!-- src: summary of 08-05 to 08-11 (ADR 0009, 0010, 0014); "separation of duties" is the standard term (no source needed beyond general knowledge; check at polish whether ch 11, Best practice by accident, should carry it instead) -->
 
