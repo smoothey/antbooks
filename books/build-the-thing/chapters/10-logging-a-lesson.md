@@ -10,7 +10,7 @@ Lessons are one of the kinds of thing the store keeps, from chapter 4: what went
 
 <!-- p: 10-03 | draft -->
 The mistake itself was small. Every scheduled task has an entry in a register on the Hub: what it is, when it runs, which project it's for and what it's allowed to touch. It's how I know what's running in my name. Every evening at 20:23, the agency test from chapter 5 checks that each scheduled task is in that register. On 19 October, a chat had made one without registering it, and the test failed.
-<!-- src: r2jimmy lesson 2026-10-19-agency-test-1 ("A chat made a scheduled task without registering it"); smoothey/jimmy CLAUDE.md and governance/loops/CONTRACT.md "Authority" (the Hub is the authority for every scheduled job and the access each has); chapter 5, 05-05 (agreed: agency test at 20:23) -->
+<!-- src: r2jimmy lesson 2026-10-19-agency-test-1 ("A chat made a scheduled task without registering it"); smoothey/jimmy CLAUDE.md and governance/loops/CONTRACT.md "Authority" (the Hub is the authority for every scheduled job and the access each has); chapter 5, 05-02 (agreed: agency test at 20:23) -->
 
 <!-- p: 10-04 | draft -->
 The culprit was always the same kind of thing: a one-off reminder. I'd say "remind me to check this on Thursday", and the chat would set one up, straight away, and forget the register. The test caught it that evening. A lesson was written: one-off tasks made in a chat need a register entry at the same time. Then it happened on 23 October. Then 27 and 31 October, then 12, 19 and 21 November.
