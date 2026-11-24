@@ -167,7 +167,7 @@ Sources live in the store (`r2antbooks` `notes/interviews/build-the-thing/`, `no
 
 ## Closing chapter
 - Ant, 22 Nov: the words-in, words-out ledger across the whole book could become a closing paragraph. Chapter 1: about 2,080 words typed by Ant, about 2,220 in the approved chapter, about 3.5 hours. The honest reading so far: about one to one on words; the leverage is time, quality and scaffolding. Use the final totals from `state/words-ledger-build-the-thing`.
-- Figure: `figures/figclose-lines-to-date` (lines written to date, stacked by project, like the Hub Wall) sits beside the ledger as the final "look what came out" picture (Ant, 23 Nov). Refresh its data from r2jimmy `state/output-stats` just before publishing, and say in the text that it's a rough activity count, not a measure of value.
+- Figure: a screenshot of the Hub's Wall page ("The story so far"), projects relabelled with the book's names, sits beside the ledger as the final "look what came out" picture; it replaces the redrawn chart `figclose-lines-to-date` (Ant, 23 Nov; changed 24 Nov 20:15). Take it at the files and proof step (SB-12) so the numbers are as late as possible. Refresh its data from r2jimmy `state/output-stats` just before publishing, and say in the text that it's a rough activity count, not a measure of value.
 
 ## 21. What comes next
 - Job: the Cockpit, own models, and where this goes.
