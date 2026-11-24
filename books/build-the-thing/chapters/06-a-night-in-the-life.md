@@ -35,7 +35,7 @@ That's what a good night looks like. Now for the other kind.
 <!-- src: bridge -->
 <!-- rev: agreed by Ant 22 Nov 20:16 -->
 
-<!-- p: 06-08 | reopened 2026-11-24: Ant, the runs weren't at home; only his laptop, which was with him -->
+<!-- p: 06-08 | agreed 2026-11-24 -->
 The site I'd been building for Charlie went live on her birthday, as her present. We were in Canada at the time, and I was on the two hours a day from chapter 4. My laptop came with me, and nothing was left running at home. The runs carried on in the cloud, as they always did. That night they ran as normal until about half past one.
 <!-- src: Ant, 22 Nov 2026 19:55 to 19:57 (the night was Charlie's birthday; the reveal was that day; they were in Canada; "the runs were happening from Azure runner in the main"); 2026-11-02/morning-brief.md (away mode on, about 120 minutes a day; "every task before 01:37 closed"); Ant, 22 Nov 20:01: Charlie is fine with her birthday being mentioned. The night's date is deliberately not given in the text -->
 <!-- rev: suggested version (callback to 04-03b, 'celebrating' dropped); agreed by Ant 22 Nov 20:23 -->
