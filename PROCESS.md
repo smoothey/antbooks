@@ -41,7 +41,7 @@ How it's tracked: each paragraph in a chapter file has a marker on the line abov
 References go in the book's "Notes and further reading" section at the back, never as marks in the text (Ant, 22 Nov 2026). Notes are grouped by chapter and keyed by a short phrase. Add a chapter's notes when the chapter is written, each checked against a real source; the whole section is polished with the rest of the book.
 
 ## 5. Final polish
-When the chapters are agreed, a polish reviewer reads the whole book. It may change wording, never intent.
+Each chapter gets its polish pass as soon as it's agreed, not all at the end (Ant, 24 Nov 2026, from the launch pre-mortem). A last light pass over the whole book still runs when every chapter is agreed. The polish reviewer may change wording, never intent.
 - It writes its proposed changes chapter by chapter, in `books/<book>/polish/<chapter>.md`: each change as before, after, and why, in one line.
 - Ant agrees them in bulk, chapter by chapter. He can strike any single change.
 - Agreed polish changes go into the chapter. Those paragraphs stay agreed, because their intent hasn't changed.
