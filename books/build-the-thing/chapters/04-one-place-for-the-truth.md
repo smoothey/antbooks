@@ -30,7 +30,7 @@ Before the store, the context lived in three places, and none of them was good e
 <!-- rev: last sentence changed to avoid repeating 02-05; agreed by Ant 22 Nov 18:53 -->
 
 <!-- p: 04-05 | agreed 2026-11-22 -->
-It became the one place for the truth. It holds a small number of kinds of thing, and each has a plain job. The backlog is the list of work still to do, with every item given a short code, such as JM-458. A progress record says where a project is today and what it needs from me. Decisions record what we agreed and why, so nobody argues the same point twice. Lessons record what went wrong and what we changed. Run reports say what happened each night. And messages let one chat ask another for something, the way colleagues leave each other notes.
+It became the one place for the truth. It holds a few kinds of record, each with a plain job. The backlog is the list of work still to do, with every item given a short code, such as JM-458. A progress record says where a project is today and what it needs from me. Decisions record what we agreed and why, so nobody argues the same point twice. Lessons record what went wrong and what we changed. Run reports say what happened each night. And messages let one chat ask another for something, the way colleagues leave each other notes.
 <!-- src: ADR 0002 (record kinds: backlog, state, run, message, loop, grant, decision, lesson, event); Jimmy Store connector instructions (codes such as UT-1 given by the store; needsAnt asks in the progress record) -->
 <!-- rev: 'It became', example code JM-458 (this book's first backlog item, r2jimmy); agreed by Ant 22 Nov 18:55 -->
 
@@ -45,17 +45,17 @@ It has three front doors onto the same truth. One is for the AI: the MCP connect
 <!-- rev: agreed by Ant 22 Nov 18:58; figure fig04 goes after this paragraph -->
 
 <!-- p: 04-08 | agreed 2026-11-22 -->
-Having one place also raises a problem you don't get with notes in your head: two workers changing the same thing at once. A night run and a daytime chat might both update the same progress record within a minute of each other. If the second one simply overwrote the first, work would vanish without anyone noticing. So every change says, in effect, "only save this if the record still looks the way I last saw it." If someone else got there first, the change is refused, the worker reads the new version, and tries again.
+Having one place also raises a problem you don't get with notes in your head: two workers changing the same thing at once. A night run and a daytime chat might both update the same progress record within a minute of each other. If the second one simply overwrote the first, work would vanish without anyone noticing. So every change says, in effect, "only save this if the record still looks the way I last saw it." If someone else got there first, the change is refused; the worker reads the new version and tries again.
 <!-- src: ADR 0002 ("etag-checked writes"); Jimmy Store connector instructions (expected_etag: "only change it if it still has this etag ... otherwise you get a conflict") -->
 <!-- rev: agreed by Ant 22 Nov 18:59 -->
 
 <!-- p: 04-09 | agreed 2026-11-22 -->
-Privacy needed the same kind of care, built in rather than hoped for. The store holds very different things: my own notes, things Charlie and I share, and project work that other people may one day see. I didn't want the line between them to depend on an AI remembering a rule, because a rule that only lives in what you tell an AI can be talked round. So the lines are built into the store itself. Each part has a privacy ring, and the store checks every request against it, whatever the AI has been told. Chapter 8 goes into how that works.
+Privacy needed the same kind of care, built in rather than hoped for. The store holds very different things: my own notes, things Charlie and I share, and project work that other people may one day see. I didn't want the line between them to depend on an AI remembering a rule, because a rule that only lives in what you tell an AI can be talked round. So the lines are built into the store itself. Each part has a privacy ring, a level that says who may see it, and the store checks every request against it, whatever the AI has been told. Chapter 8 goes into how that works.
 <!-- src: ADR 0003 (rings; "A rule that lives only in a prompt ... can be talked round"; "enforced in the store's code ... never in what a model is told") -->
 <!-- rev: new opening; agreed by Ant 22 Nov 19:00 -->
 
 <!-- p: 04-10 | agreed 2026-11-22 -->
-I'd seen what one place for the truth could do before I built it. On the firewall work in chapter 1, the AI kept notes about that customer between jobs: what the network looked like, how they named things, what had gone wrong before. Each new session started already knowing all that, instead of rediscovering it. And when the AI hit a trap once, the trap went into the notes, so it didn't fall into it again. Looking back at that work, the conclusion I wrote down was simple: memory is what made it compound.
+I'd seen what one place for the truth could do before I built it. On the firewall work in chapter 1, the AI kept notes about that client between jobs: what the network looked like, how they named things, what had gone wrong before. Each new session started already knowing all that, instead of rediscovering it. And when the AI hit a trap once, the trap went into the notes, so it didn't fall into it again. Looking back at that work, the conclusion I wrote down was simple: memory is what made it compound.
 <!-- src: notes/source-material/build-the-thing/2026-11-21-client-azure-ops-ai-usage.md ("Project memory carried state between sessions ... Each new session started primed instead of re-discovering the estate"; "Memory is what made it compound. Banked gotchas ... stopped repeat mistakes across sessions"); chapter 1, 01-13 (agreed) -->
 <!-- rev: 'I wrote down' kept, confirmed by Ant 22 Nov 19:02 -->
 
