@@ -49,7 +49,7 @@ Most of my hands-on time now goes on checking what comes back, and that turns ou
 
 <!-- p: 03-09 | agreed 2026-11-22 -->
 There was one thing slowing all of this down, and it took me a while to see it. The AI kept planning my work as if a team of people were doing it. It sized tasks as small, medium and large, and planned in sprints: set batches of work that a team would usually expect to take a week or two. On Charlie's site, those sprints were getting done in hours, whether we worked through them together or the runs did them overnight. Before each freeze on releases, the AI would start worrying days in advance that we wouldn't have enough time. I knew from what we'd already done that we would. When we worked through things together, we smashed through the work in hours. It isn't unusual for me to get through three sprints on one project in an afternoon, while other projects in the portfolio carry on at the same time. I found myself challenging its sense of time again and again.
-<!-- src: notes/interviews/build-the-thing/2026-11-21-theme-pace-anchoring.md ("AI's answers often assumed a rate of progress anchored to a human team. He has constantly had to challenge that"); r2jimmy decision sizing-night-share (replaced S/M/L sizes); introduction, 00-05 (agreed). NEEDS ANT: "a fortnight of work it could finish in a night" is illustrative; confirm or give a real case -->
+<!-- src: notes/interviews/build-the-thing/2026-11-21-theme-pace-anchoring.md ("AI's answers often assumed a rate of progress anchored to a human team. He has constantly had to challenge that"); r2jimmy decision sizing-night-share (replaced S/M/L sizes); introduction, 00-05 (agreed). SETTLED (paragraph agreed by Ant 22 Nov; was NEEDS ANT): "a fortnight of work it could finish in a night" is illustrative; confirm or give a real case -->
 <!-- rev: rewritten from Ant 22 Nov 17:44 (Charlie Doll sprints in hours, interactive and overnight; freeze worries days ahead; 3 sprints in an afternoon alongside other projects); sprint explained; agreed by Ant 22 Nov 17:46 -->
 
 <!-- p: 03-10 | agreed 2026-11-22 -->
@@ -69,7 +69,7 @@ So we changed the plan to match the evidence. On 22 October we started planning 
 
 <!-- p: 03-13 | agreed 2026-11-22 -->
 I said at the start that my guess is the AI learned its sense of time from writing made before AI. There may be more to it. It may play safe and pad its estimates, and it can't know its own speed until someone measures it. Either way, the most expensive limit is the one you don't notice you've accepted.
-<!-- src: notes/interviews/build-the-thing/2026-11-21-theme-pace-anchoring.md (Ant's guess: anchored to training material from before AI; Claude's offered causes: caution, no view of its own throughput). NEEDS ANT: the two extra causes were Claude's suggestion; keep only if Ant agrees -->
+<!-- src: notes/interviews/build-the-thing/2026-11-21-theme-pace-anchoring.md (Ant's guess: anchored to training material from before AI; Claude's offered causes: caution, no view of its own throughput). SETTLED (paragraph agreed by Ant 22 Nov; was NEEDS ANT): the two extra causes were Claude's suggestion; keep only if Ant agrees -->
 <!-- rev: shorter, nods to 00-05; Claude's two extra causes accepted by Ant 22 Nov 17:50 -->
 
 <!-- p: 03-14 | agreed 2026-11-22 -->

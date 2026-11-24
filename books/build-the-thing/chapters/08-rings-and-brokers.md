@@ -52,4 +52,4 @@ Put together, it's one idea used three times. A power, and the data it could mis
 
 <!-- p: 08-13 | agreed 2026-11-24 -->
 None of this is free. Every merge costs me a tap, and some cost a look at my face. It would be quicker to let the runs do it all. That trade is deliberate, and chapter 14 explains why I've chosen to keep it, even when it slows me down.
-<!-- src: chapter 5, 05-xx (agreed: "every pull request costs me a tap"); briefs ch 8 ("approvals and rings are the mechanics of the restraint ch 14 explains"); theme note holding back on access (Ant, 22 Nov 02:26) -->
+<!-- src: chapter 5, 05-06 (agreed: "every pull request costs me a tap"); briefs ch 8 ("approvals and rings are the mechanics of the restraint ch 14 explains"); theme note holding back on access (Ant, 22 Nov 02:26) -->
