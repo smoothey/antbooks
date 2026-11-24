@@ -93,6 +93,7 @@ Sources live in the store (`r2antbooks` `notes/interviews/build-the-thing/`, `no
 - Sources: store `r2antbooks` `notes/source-material/build-the-thing/2026-11-23-3d-jimmy-evening.md` and theme note; [smoothey/jimmy#1174](https://github.com/smoothey/jimmy/pull/1174), [#1175](https://github.com/smoothey/jimmy/pull/1175).
 - Answered (Ant, 23 Nov 20:14): "cursed" is perfect, and "burn it with fire" sprang to mind too; both can go in. Why he tried Meshy himself: AI newsletters and adverts, and his ceiling-finding habit of exploring the new rather than relying on what has worked (leads into the echo chamber chapter below). His rule of thumb: "other people's bullshit is dangerous, believing your own is deadly" (his challenge mindset). The ending waits for the Meshy outcome.
 - Still open: a picture of version 1, version 2 and the drawing side by side?
+- New angle (Ant, 24 Nov 00:14): "changing the methodology can change the metric - the original goal may not have been phrased fully." The first ask didn't say "could pass for the drawing"; that test only appeared once version 1 was seen. So version 1 being judged by bones and moves was partly the goal as first phrased, not only the AI leading. Store: `notes/interviews/build-the-thing/2026-11-24-theme-method-changes-metric.md`.
 - Sources (answers): store `notes/interviews/build-the-thing/2026-11-23-driving-answers-and-echo-chamber.md`.
 
 ## 13. The echo chamber (Ant's theme, 23 Nov 2026, 20:14; added to the outline 23 Nov)
