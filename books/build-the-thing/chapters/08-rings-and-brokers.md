@@ -26,7 +26,7 @@ Who can do what is the harder question. Three powers matter most: shipping code 
 So each dangerous power got its own broker: a small, separate program whose only job is to do that one thing, and only when I say so. The first was for merges, the step that accepts a pull request and, for some projects, puts it live. The merge broker has its own identity, with no access to the store at all. It holds the key it needs to act on GitHub in a way that lets it use the key but never copy it out. And it can only merge for projects on its list.
 <!-- src: ADR 0009, Decision 1 (separate Function App, own managed identity, no rights on the store's storage; "It does one thing"); Decision 2 (GitHub App key "non-exportable" in Key Vault, signs but never leaves); Decision 5 (allow-list follows project tiers) -->
 
-<!-- p: 08-07 | draft -->
+<!-- p: 08-07 | agreed 2026-11-24 -->
 I don't approve a merge on the Hub. The Hub only shows me a card with a button, and the button opens the broker's own page. That page reads the facts straight from GitHub, never from Jimmy or the store: what the change is, which files it touches, whether its checks passed, whether it will put something live. So even if the Hub were broken into, or Jimmy followed some injected text, the worst it could do is show me a misleading card. The broker's page always shows what's really there, and nothing merges without my tap on it.
 <!-- src: ADR 0009, Decision 3 ("The card is where the approval starts; the broker's page is where it is given"; reads facts from GitHub itself; "a Hub that has been broken into, or Jimmy following injected text, can at most show Ant a wrong card ... only Ant's tap merges") -->
 
