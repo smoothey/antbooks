@@ -22,7 +22,7 @@ Ring 0 goes further. It lives in a separate store of its own, with its own locks
 Who can do what is the harder question. Three powers matter most: shipping code to a live website, changing the cloud services everything runs on, and spending money. Any of them, in the wrong hands, could do real damage while I'm asleep. And there was a trap waiting. The store, the thing that knows everything, can read every ring. If I'd also given it the power to ship code, my most private notes and the power to change live sites would have sat behind one door.
 <!-- src: ADR 0009, Context ("Giving the same app the power to merge would put the most private data and the power to ship code behind one door"; merges that deploy); ADR 0010 (Azure changes); ADR 0014 (credit, spend) -->
 
-<!-- p: 08-06 | draft -->
+<!-- p: 08-06 | agreed 2026-11-24 -->
 So each dangerous power got its own broker: a small, separate program whose only job is to do that one thing, and only when I say so. The first was for merges, the step that accepts a pull request and, for some projects, puts it live. The merge broker has its own identity, with no access to the store at all. It holds the key it needs to act on GitHub in a way that lets it use the key but never copy it out. And it can only merge for projects on its list.
 <!-- src: ADR 0009, Decision 1 (separate Function App, own managed identity, no rights on the store's storage; "It does one thing"); Decision 2 (GitHub App key "non-exportable" in Key Vault, signs but never leaves); Decision 5 (allow-list follows project tiers) -->
 
