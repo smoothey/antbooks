@@ -44,7 +44,7 @@ Each chapter lists what it draws on: L = the logs (store records, run reports, d
 ## Front and back
 - A short opening story.
 - A closing chapter.
-- **Appendix: starter kit.** Templates a reader can copy: a contract page, a backlog record, a lesson record, a night run, a "never" list.
+- **Appendix: starter kit.** Templates a reader can copy: a contract page, a backlog record, a lesson record, a night run, a "never" list. First draft 27 Nov: `chapters/90-appendix-starter-kit.md`.
 - A plain glossary.
 - **Acknowledgements.** Dan Redmond, credited by name: Ant invited him on 23 Nov and he said yes (27 Nov). Add others as they agree.
 - **Notes and further reading.** References grouped by chapter, keyed by a short phrase, with no marks in the text. Filled in as each chapter is written, polished once the book is finished (Ant, 22 Nov 16:32). File: `chapters/99-notes.md`.
