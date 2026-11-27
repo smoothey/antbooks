@@ -48,9 +48,9 @@ There are two things I'd avoid at the start. The first is building the big syste
 You don't need my tools to do any of this. You need an AI that can run on a schedule, read and write files, and leave you a report. Several can, and by the time you read this there will be more. The particular product matters far less than the three pieces and the order you add them in. The appendix has a template for each one, ready to copy: a record, a night run, a lesson, and a never list.
 <!-- src: drafter's advice; outline, appendix: starter kit (a contract page, a backlog record, a lesson record, a night run, a "never" list). Deliberately names no product -->
 
-<!-- p: 17-12 | draft 2026-11-25 -->
-[Ant's own advice to someone starting, in his words.]
-<!-- q: SB-6 17-12: if a friend asked you tomorrow how to start, what would you tell them first? One or two sentences in your own words; they become this paragraph -->
+<!-- p: 17-12 | draft 2026-11-27 -->
+If a friend asked me tomorrow how to start, I'd tell them this. Pick one job that annoys you every week, and get an AI to do it with you. Build the system around it later. That's how it began for me. The firewall changes in chapter 1 were that job: they came round again and again, and each one took me hours. Writing down how they should be done was the first piece of all this, long before there was anything to call Jimmy.
+<!-- src: notes/interviews/build-the-thing/2026-11-27-sb6-answers.md (17-12: Ant picked the suggested answer "Pick one job that annoys you every week and get AI to do it with you; build the system around it later"; follow-up: his own first annoying job was the firewall requests); chapter 1, 01-13 (agreed: a change could take a few hours; he wrote down how the work should be done). "came round again and again" is the drafter's: Ant to check -->
 
 <!-- p: 17-13 | draft 2026-11-25 -->
 One record, one loop, one rule. It sounds like too little to matter. But each of them compounds. The record gets truer every night. The loop gets a little better with every lesson that's moved to where it's read. The rule list grows by one line each time something surprises you. That's the whole idea of this book, at the size of a single evening's set-up.
