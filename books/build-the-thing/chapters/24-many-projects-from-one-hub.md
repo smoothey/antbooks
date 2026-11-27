@@ -1,53 +1,53 @@
-# Chapter 23: Many projects from one hub
+# Chapter 24: Many projects from one hub
 
-<!-- p: 23-01 | draft 2026-11-25 -->
+<!-- p: 24-01 | draft 2026-11-25 -->
 This book became a project on the Hub at 21:36 on 21 November. I proposed it in a chat, and five minutes later I approved it on the Hub. Two minutes after that it had its own code repository. By 21:58 the first interview had started, and by half past one the next morning, chapter 1 was agreed. Almost none of that evening went on setting the project up. The set-up had been built once already, a month earlier, for every project that would ever come after.
 <!-- src: Jimmy Store project_history, project antbooks (proposed 2026-11-21T21:36:11Z, approved via Hub 21:41:11Z, repos changed to smoothey/antbooks 21:43:32Z; UTC = London in November); notes/interviews/build-the-thing/2026-11-22-words-in-words-out.md (first interview question 21 Nov 21:58; chapter 1 approved 22 Nov 01:32); r2jimmy decision project-onboarding (22 Oct 2026) -->
 
-<!-- p: 23-02 | draft 2026-11-27 -->
+<!-- p: 24-02 | draft 2026-11-27 -->
 At the time of writing, the Hub looks after the projects in this book: Charlie's site, the photo organiser, the camera app, the study guides, the Roblox game, a craft business I run, Jimmy itself and this book. There are a few more for my day job, which live in a separate part of the store and never appear here. Every one of them is run the same way. They have the same kind of record, the same kind of night, the same list of things that need me. That sameness is what makes it possible for one person to look after all of them.
 <!-- src: chapter 2 (agreed: the projects by the end of October); this book added 21 Nov (project register); the craft business (Kraken project in the Jimmy hub; named only as "a craft business I run", Ant, 27 Nov 17:25); r2jimmy decision work-compartment-design; store 2026-11-27-sb6-answers.md (19-02: say "the projects in this book"). Whether to keep the day-job sentence is still open (Ant: answer later). Check the craft business is on the Hub's register before print -->
 
-<!-- p: 23-03 | draft 2026-11-25 -->
+<!-- p: 24-03 | draft 2026-11-25 -->
 A new project starts as a proposal. A chat writes one record: what the project is, which chat works on it, which code repositories it uses, and, most importantly, what must never go in it. I approve or decline it on the Hub with one tap. There's no pull request and nothing to deploy. Once I've approved it, the store gives it its own private compartment and its own two-letter code, so its items read like SB-1 or CD-41 and can't be mixed up with anyone else's. It also writes an onboarding checklist, and sends a message to the project's chat to get it started.
 <!-- src: r2jimmy decision project-onboarding (22 Oct: "Projects are registered as a project record in the store, proposed by a chat and approved (or declined) by Ant on the Hub; no PR or deploy per project"); Jimmy Store propose_project tool description ("once approved the store adds its compartment and code, writes state/onboarding and notes/onboarding.md there, and sends a hub message to its chat"); r2antbooks notes/onboarding.md (the checklist). SB-1: https://hub.smoothey.co.uk/dashboard#ref/SB-1; CD-41: https://hub.smoothey.co.uk/dashboard#ref/CD-41 -->
 
-<!-- p: 23-04 | draft 2026-11-25 -->
+<!-- p: 24-04 | draft 2026-11-25 -->
 The never list is the part I care about most. For this book, it says: never Charlie's real surname, nothing about other people's private lives without their say-so, no money figures, no details of my clients' work, no secrets or keys. Those rules are written into the project's record, not just its chat, so every run and every chat that works on it reads them before it starts. Chapter 9 is about why a list like that matters, and who it protects.
 <!-- src: Jimmy Store project register, antbooks "never" ("Charlie's real surname (she is Charlie Doll); anything about Robyn beyond what Ant chooses to print; ring 0 content ...; Forge client names or work detail; other people's private details or stories without their say-so; royalty and money figures; secrets and keys"); smoothey/antbooks CLAUDE.md. Robyn is not named here on purpose. Chapter 9 isn't drafted yet: check the cross-reference -->
 
-<!-- p: 23-05 | draft 2026-11-25 -->
+<!-- p: 24-05 | draft 2026-11-25 -->
 Every proposal, approval, decline and change is kept in a history that can't be edited. I like that more than I expected to. When I wonder why a project is set up the way it is, the answer is there, with a date and who did it. It's the same idea as the decision records from chapter 11, applied to the projects themselves.
 <!-- src: decision project-onboarding ("Every proposal, approval, decline, change and archive is kept in an approval history that can't be edited"); Jimmy Store project_history tool ("It can't be edited"). "I like that more than I expected to" is the drafter's: check -->
 
-<!-- p: 23-06 | draft 2026-11-25 -->
+<!-- p: 24-06 | draft 2026-11-25 -->
 Not every project is equal, and pretending they are would waste the nights. So on 22 October I gave them tiers: gold, silver and bronze. Charlie's site, Jimmy and the study guides went in gold. The photo organiser and the Roblox game went in silver. A new project starts in bronze until I say otherwise, which is where this book still sits.
 <!-- src: r2jimmy decision project-tiers (22 Oct 10:49: Gold Charlie Doll / Poseroll, Jimmy Hub, Ultra Transcenders; Silver photo organiser, Robyn's Roblox; Bronze Bidden); decision project-onboarding point 3 ("A new personal project starts Bronze until Ant says otherwise"); project register (antbooks tier bronze). Ultra Transcenders appears only as "the study guides"; Robyn's Roblox only as "the Roblox game"; Bidden left out (ring 0) -->
 
-<!-- p: 23-07 | draft 2026-11-25 -->
+<!-- p: 24-07 | draft 2026-11-25 -->
 A tier means something real. A gold project has to be fully workable through Jimmy: every feature, every step, can be done from the Hub, or there's a written reason why not. When the merge broker from chapter 8 was switched on, it covered the gold projects first. A tier is a promise about how much of my attention, and the machine's, a project gets.
 <!-- src: decision gold-jimmy-complete (22 Oct: "Gold and above: fully feature complete in Jimmy, or a documented reason per feature"); governance/portfolio.md "Tiers"; Jimmy Hub project doc claude/walk-me-through.md, ADR 0009 ("The allow-list follows the tiers (Ant, 10:57): Gold and above"). JM-348 progress3, 5 Nov: "App on all 5 repos" (the broker was later widened, so the text says "first"). Night shares don't follow tiers exactly (chapter 5, 05-04: the camera app gets a fifth), so the chapter doesn't claim they do -->
 
-<!-- p: 23-08 | draft 2026-11-25 -->
+<!-- p: 24-08 | draft 2026-11-25 -->
 Each morning, the Hub shows every project on one page: whether things are working, and whether work is moving. Those are two different questions, and for a while I had them muddled. A project can be perfectly healthy and going nowhere, or broken and busy. Since 20 November the Hub keeps them apart. Health says whether things work. A project's status says whether the work is moving. And a known problem I can't do anything about, like a budget that's over for the month, can be parked so it stops shouting at me every day.
 <!-- src: r2jimmy decision health-on-track-rework (20 Nov 13:09: "Health says whether things work; a project's status says whether work is moving; known problems can be parked"; trigger, Ant 12:56: "everything on Health and On track looks broken ... a way to snooze or clear known problems that aren't actionable (budgets being over)"). "for a while I had them muddled" is the drafter's reading of the trigger: check -->
 
-<!-- p: 23-09 | draft 2026-11-25 -->
+<!-- p: 24-09 | draft 2026-11-25 -->
 It also notices silence. If a project's progress record hasn't been updated for eight days, the Hub stops guessing and says "Can't tell". That turns out to be one of the most useful words on the page. A project nobody has touched for a week isn't on track or off track. It's unknown, and unknown is worth knowing.
 <!-- src: Jimmy Store propose_project tool, staleDays ("How old its progress record may get before the Hub says Can't tell (default 8)"); project register (staleDays 8 for every project); r2antbooks notes/onboarding.md ("the Hub shows Can't tell until it's there") -->
 
-<!-- p: 23-10 | draft 2026-11-27 -->
+<!-- p: 24-10 | draft 2026-11-27 -->
 Running many projects also means saying no, and that's harder. Even in my working life I rarely say no outright. I say "yes, but". No rarely means closing a project. It usually means less of something. On 22 November I switched off the second night shifts for three of the smaller projects, because their extra time was better spent on Charlie's site. Earlier in the month, the Roblox game spent two days as the focus of the whole portfolio, and then I moved it back, because most of what was left for it needed me, not the machine. Neither change was a judgement on the project. It was a judgement about where the next hour should go.
 <!-- src: r2jimmy decision credit-plan-balance-2026-11-22 (second shifts for Snappier, Togmatic and Robyn's Roblox switched off 22 Nov 23:40); decisions robroblox-focus-2026-11-06 (superseded) and robroblox-deprioritised-2026-11-08; notes/interviews/build-the-thing/2026-11-27-sb6-answers.md (19-10: "In my professional life I don't say no, but I often say \"Yes but...\""). The Roblox sentence is about the project, not about Robyn: Ant to confirm it's fine in print -->
 
-<!-- p: 23-13 | draft 2026-11-27 -->
+<!-- p: 24-13 | draft 2026-11-27 -->
 I'm not precious about stopping things, though. When something isn't working, I'm happy to put a bullet in it, and I'm not too proud to make a U-turn. The clearest case was 3D Jimmy in chapter 12. The first route was a lot of work, and on paper it was nearly done. It was still wrong, so I changed course.
-<!-- src: notes/interviews/build-the-thing/2026-11-27-sb6-answers.md (19-10: "I'm not precious about putting a bullet in something if needed and I'm not too proud to make a u-turn or pivot if it is the right thing to do"; follow-up: the Jimmy-world example is the Meshy pivot); chapter 12 (draft: version 1 complete on paper but "cursed"). Must match ch 12's ending once it's written. New id 23-13 (the chapter already runs to 23-12) -->
+<!-- src: notes/interviews/build-the-thing/2026-11-27-sb6-answers.md (19-10: "I'm not precious about putting a bullet in something if needed and I'm not too proud to make a u-turn or pivot if it is the right thing to do"; follow-up: the Jimmy-world example is the Meshy pivot); chapter 12 (draft: version 1 complete on paper but "cursed"). Must match ch 12's ending once it's written. New id 24-13 (the chapter already runs to 24-12) -->
 
-<!-- p: 23-11 | draft 2026-11-25 -->
-Each project also has a chat of its own, and that matters more than it sounds. The chat for Charlie's site only knows Charlie's site. The chat for this book only knows the book. When one needs something from another, it leaves a message, as chapter 22 described. Keeping them apart stops one project's detail leaking into another, and it keeps each chat's context clean, which is half of what makes it good at its job. Every week, the night runs read each project's standing instructions and check they still make sense.
-<!-- src: chapter 22 (draft, 22-07: chats leaving messages); chapter 4 (agreed: context); r2jimmy decision project-instructions-review (24 Oct: "Every portfolio Project has instructions; the nightlies review them weekly"); Jimmy Store project register (chat per project) -->
+<!-- p: 24-11 | draft 2026-11-25 -->
+Each project also has a chat of its own, and that matters more than it sounds. The chat for Charlie's site only knows Charlie's site. The chat for this book only knows the book. When one needs something from another, it leaves a message, as chapter 23 described. Keeping them apart stops one project's detail leaking into another, and it keeps each chat's context clean, which is half of what makes it good at its job. Every week, the night runs read each project's standing instructions and check they still make sense.
+<!-- src: chapter 23 (draft, 23-07: chats leaving messages); chapter 4 (agreed: context); r2jimmy decision project-instructions-review (24 Oct: "Every portfolio Project has instructions; the nightlies review them weekly"); Jimmy Store project register (chat per project) -->
 
-<!-- p: 23-12 | draft 2026-11-25 -->
+<!-- p: 24-12 | draft 2026-11-25 -->
 And one project is different from the rest: Jimmy. He runs all the others, so he's also where the shared rules live. When something works well on one project, it usually becomes a rule for all of them. The user stories in chapter 11 started on Charlie's site and became a shape every project can use. The way this book is being written is already the standard for any other book I write under my own name. That's the real reason to run many projects from one hub. Each one teaches the others.
 <!-- src: smoothey/jimmy governance/README.md and CLAUDE.md (governance for all of Ant's projects); governance/stories/README.md ("Charlie Doll started it ... This file is the shared shape, so every project keeps the same file"); PROCESS.md ("Agreed by Ant on 21 Nov 2026 as the standard for every book that isn't an Ultra Transcenders title"; not named). -->

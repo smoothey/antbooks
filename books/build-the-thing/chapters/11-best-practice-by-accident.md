@@ -10,7 +10,7 @@ I never sat down and said "let's do DevOps properly". Most pieces arrived becaus
 
 <!-- p: 11-14 | draft 2026-11-27 -->
 One piece didn't arrive by accident. In my day job I'm an architect, and architects write architecture decision records, or ADRs: short notes of what was decided and why. I didn't start Jimmy with them. I added them once I saw chats drifting away from things we'd already settled. With AI they turned out to be worth far more than they are at work. A decision record is context the AI reads before it answers, and it anchors the answer to the outcome I actually want, instead of whatever it would have guessed.
-<!-- src: notes/interviews/build-the-thing/2026-11-27-sb6-answers.md (11-02: "It's a model that exists in my day job - I'm an architect we record ADRs. With AI they become incredibly valuable context that can be used to anchor AI responses to desired outcomes"; follow-up: added later, picked "once chats drifted from what had been decided", Claude's wording chosen by Ant); chapter 4 (agreed: context); chapter 13 (agreed: anchoring); chapter 17 (ADRs revised). Paragraph id 11-14 is new; it sits after 11-02 -->
+<!-- src: notes/interviews/build-the-thing/2026-11-27-sb6-answers.md (11-02: "It's a model that exists in my day job - I'm an architect we record ADRs. With AI they become incredibly valuable context that can be used to anchor AI responses to desired outcomes"; follow-up: added later, picked "once chats drifted from what had been decided", Claude's wording chosen by Ant); chapter 4 (agreed: context); chapter 13 (agreed: anchoring); chapter 18 (ADRs revised). Paragraph id 11-14 is new; it sits after 11-02 -->
 
 <!-- p: 11-03 | draft 2026-11-25 -->
 That isn't how it's normally done. The textbook way is to pick a method first, set it up, and then do the work inside it. The team in chapter 1 did exactly that, and moved slowly. I've come to think the order matters more than the method. As I put it to Jimmy one evening: "I think we'd be slower if we started with them, but layering them on as we see the need is really keeping momentum."
@@ -55,4 +55,4 @@ There's a pattern in which practices turned up and which didn't. Almost none of 
 
 <!-- p: 11-13 | draft 2026-11-25 -->
 So if you're starting out, don't begin by choosing a method and filling in its forms. Begin by doing the work, with something that keeps a record of it. When something goes wrong, fix the cause and write down what you changed. When it goes wrong a second time, look up its name. The good practice will come. You'll just get to it by the shortest route, and you'll know why every piece of it is there.
-<!-- src: drafter's closing; chapter 10 (draft: a lesson isn't learnt until it changes something). Check it doesn't pre-empt chapter 21 (Start small) -->
+<!-- src: drafter's closing; chapter 10 (draft: a lesson isn't learnt until it changes something). Check it doesn't pre-empt chapter 22 (Start small) -->
