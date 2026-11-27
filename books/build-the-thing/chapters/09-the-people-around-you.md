@@ -7,7 +7,7 @@ Chapter 1 (agreed) already tells Ophelia and the partner of the time; chapter 8 
 
 <!-- p: 09-01 | draft 2026-11-27 -->
 When you build something that remembers a lot about your life, the first question isn't what to put in. It's what must never go in. Every project on the Hub starts with that list. For this book, it says: never Charlie's real surname, nothing about other people's private lives without their say-so, no money figures, no details of my clients' work, no secrets or keys. The list is written into the project's own record, so every run and every chat reads it before it starts.
-<!-- src: Jimmy Store project register, antbooks "never"; smoothey/antbooks CLAUDE.md (never list; name guardrail); chapter 19, 19-04 (draft: the same list). Ch 19 says "Chapter 9 is about why a list like that matters": keep the two consistent and don't repeat the list twice in full -->
+<!-- src: Jimmy Store project register, antbooks "never"; smoothey/antbooks CLAUDE.md (never list; name guardrail); chapter 22, 25-04 (draft: the same list). Ch 22 says "Chapter 9 is about why a list like that matters": keep the two consistent and don't repeat the list twice in full -->
 
 <!-- p: 09-02 | draft 2026-11-27 -->
 Most of the people in my life never asked to be in a computer system. Charlie didn't. Nor did my family, my friends, or the people I work with. They're there because they're part of my life, and a system that helps with my life will hear about them. That puts the duty on me, not on them. They can't check what the machine knows about them, so I have to decide what it's allowed to know.
@@ -19,7 +19,7 @@ So there are rules about people, and they're strict. Each person's record lives 
 
 <!-- p: 09-04 | draft 2026-11-27 -->
 Building for someone is different from building about them. The whole thing started as a present for Charlie: a website for her modelling. That made her the person the site had to please, not me. Chapter 1 told how Ophelia, years earlier, let my partner of the time shape a tool we both used, and how the last step always waited on me. Charlie's site has Jimmy in its admin, so she can ask for things in her own words.
-<!-- src: chapter 1 (agreed: the present; Ophelia and the 2019 walkthrough); chapter 22, 22-06 (draft: the Cockpit as a kit; whether Charlie has shaped something herself is still open, Ant: answer later); r2jimmy decision one-jimmy (Jimmy in the Charlie Doll admin). "That made her the person the site had to please, not me" is the drafter's: Ant to agree -->
+<!-- src: chapter 1 (agreed: the present; Ophelia and the 2019 walkthrough); chapter 25, 25-06 (draft: the Cockpit as a kit; whether Charlie has shaped something herself is still open, Ant: answer later); r2jimmy decision one-jimmy (Jimmy in the Charlie Doll admin). "That made her the person the site had to please, not me" is the drafter's: Ant to agree -->
 <!-- q: SB-6 09-04: what's it been like building for Charlie rather than for yourself? Has she asked for something you wouldn't have thought of? (Her say-so is needed for anything printed about her) -->
 
 <!-- p: 09-05 | draft 2026-11-27 -->

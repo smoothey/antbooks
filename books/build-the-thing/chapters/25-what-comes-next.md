@@ -1,54 +1,54 @@
-# Chapter 22: What comes next
+# Chapter 25: What comes next
 
 <!--
-Ant's own view of where this goes is the main gap (briefs.md ch 22; SB-6): see the q markers. Much of this is plans as of 25 Nov 2026; the consistency pass (SB-17) must re-check them before print. The separate closing chapter (Front and back) picks up the words ledger and the method-changes-metric thread, so this chapter doesn't.
+Ant's own view of where this goes is the main gap (briefs.md ch 25; SB-6): see the q markers. Much of this is plans as of 25 Nov 2026; the consistency pass (SB-17) must re-check them before print. The separate closing chapter (Front and back) picks up the words ledger and the method-changes-metric thread, so this chapter doesn't.
 -->
 
-<!-- p: 22-01 | draft 2026-11-25 -->
+<!-- p: 25-01 | draft 2026-11-25 -->
 Every chapter so far has described something that already runs. This one is about what doesn't yet, or only just does. Plans in a book like this go stale quickly, so read it as a direction, not a promise. But the direction has been steady from the first week, and it's worth setting down.
 <!-- src: drafter's opening. "steady from the first week" rests on r2jimmy decision jimmy-actions-home (22 Oct: "End goal: Ant completes all his actions in Jimmy") and Ant's first Hub chat (18 Oct: "a personal AI assistant and a pluggable private and public facing tool"; jimmy-hub-first-chats note) -->
 
-<!-- p: 22-02 | draft 2026-11-25 -->
+<!-- p: 25-02 | draft 2026-11-25 -->
 In chapter 2 I admitted that, even with a dashboard showing every project, I still mostly ask the AI what needs my attention. The dashboard shows me everything. The question gets me a short list I can argue with. The Cockpit is my answer to having both. It's a page on the Hub, started on 26 October, that I want to become the one place I do all my work.
 <!-- src: chapter 2, 02-16 (agreed: "That's why I'm building what I call the Cockpit: one place that blends the two"); Jimmy Hub project doc claude/cockpit.md (Ant, 26 Oct 23:12: "a page on the Hub that over time becomes his default interface for all work"; named Cockpit 23:31) -->
 
-<!-- p: 22-03 | draft 2026-11-25 -->
+<!-- p: 25-03 | draft 2026-11-25 -->
 Across the top are the pull requests waiting for me, each one opening a short review on the same page. Below that is the ranked list of things to agree, each with Agree, Defer and Decline. Defer always asks until when: tonight after the runs, tomorrow morning, a date, or when it starts to hold something up. And down the side are tabs, one for each project, each one a chat with Jimmy whose history stays in that project's own compartment, so nothing leaks between them.
 <!-- src: claude/cockpit.md, "Shape (agreed)" (PR badges across the top, a click opens a review drawer; To agree: ranked asks with Agree, Defer, Decline; "Defer always asks until when (tonight after runs, tomorrow morning, after an event, a date, when it blocks something)"; tabs per project, "Each tab is a Jimmy chat whose history stays in that tab's compartment"). Check against the live Cockpit before print -->
 
-<!-- p: 22-04 | draft 2026-11-25 -->
+<!-- p: 25-04 | draft 2026-11-25 -->
 For a while, those tabs could only answer questions. That turned out to be the wrong thing to build first. When I looked at how I actually use Claude on my computer, almost none of it was questions. It was working sessions: get the code, run some commands, change things, open a pull request, update the records. So on 19 November I agreed a new piece, a small program on my own machines that runs those working sessions, signed in as me, and shows them live in the Cockpit. I can watch each step as it happens, type while it works, approve what needs approving, or press Stop.
 <!-- src: ADR 0016 (smoothey/jimmy docs/adr/0016-plan-worker-for-cockpit-sessions.md, Context: "Almost all his Claude desktop use is working sessions, not questions: clone a repo, run commands, change code, open a pull request, update the store and the docs. The Cockpit chat today is a question box"; Decision 1 and 2: plan worker "as Ant", the Cockpit as its front end, "text as it comes, each tool step, Stop, typing while it works, and approvals in the chat"; agreed by Ant 19 Nov 17:03 and 17:08); r2jimmy decision sprint-2026-11-19 ("working sessions in the Cockpit, on Ant's Claude plan"). "That turned out to be the wrong thing to build first" is the drafter's: check -->
 
-<!-- p: 22-05 | draft 2026-11-25 -->
+<!-- p: 25-05 | draft 2026-11-25 -->
 That should also take away one of my small daily irritations. In chapter 2 I said I'm still typing "attach repos", giving each new chat access to the code it needs, even though its standing instructions already say it may. I expect that to matter much less once my work runs through the Cockpit, where the access is set up once, by the rules, and not by me in each chat. Chapter 14 is about the access I'll still choose to keep in my own hands.
 <!-- src: chapter 2, 02-11 (agreed: "Five weeks on, I'm still typing 'attach repos'"); interview 3, Q2 ("Still frustrated by constantly having to say 'attach repos' ... Expects it to matter less as he moves to the Cockpit"). "where the access is set up once, by the rules" is the drafter's reading of ADR 0016 (a session gets its tab's compartment by a narrowed token): check. Cross-reference to ch 14 to check once drafted -->
 
-<!-- p: 22-06 | draft 2026-11-25 -->
+<!-- p: 25-06 | draft 2026-11-25 -->
 The Cockpit also points at an older ambition. Back in chapter 1, Ophelia let my partner of the time shape a tool we both used, but the last step always waited on me: "give Ant the nod and he can write the code." The plan now is for the Cockpit to become a kit, so other people in my life can have their own version of it, showing only what's theirs. The difference from 2019 is the last step. It no longer has to wait for me to find an evening. The AI can write the code, inside rules I've set, and I can check it.
 <!-- src: chapter 1 (agreed: the Ophelia walkthrough, January 2019; "Once done, give Ant the nod and he can write the code to recognise it"); claude/cockpit.md, 6 Nov (JM-364: "the Cockpit becomes a kit the Hub serves ... a server-side profile sets tabs, panels, tools, uploads and caps"); notes/interviews/build-the-thing/2026-11-22-theme-delegation.md ("Now: AI removes that last step"). Who the other profiles are for is left out on purpose (household, and the child ring stays to the one line in ch 8). JM-364: https://hub.smoothey.co.uk/dashboard#ref/JM-364 -->
-<!-- q: SB-6 22-06: has Charlie already shaped something on her site herself, through Jimmy in its admin? If so, that's the real payoff of Ophelia's last step and belongs here (with her say-so) -->
+<!-- q: SB-6 25-06: has Charlie already shaped something on her site herself, through Jimmy in its admin? If so, that's the real payoff of Ophelia's last step and belongs here (with her say-so) -->
 
-<!-- p: 22-07 | draft 2026-11-25 -->
+<!-- p: 25-07 | draft 2026-11-25 -->
 The second direction is models of my own. Not language models built from scratch, but smaller ones trained on my own computers for one job each. The first is for Charlie's site and the photo side of Poseroll. In order: a model that's better at picking out the person in a photo from the background; then one that suggests the settings for editing a photo, the way a photographer would set the sliders; and then one that can make the kind of retouching edit that repaints part of a picture. They'll be trained on my own photo library, nearly a hundred thousand pictures, and on Charlie's portfolio. Charlie has agreed to that.
 <!-- src: r2jimmy decision own-photo-models-2026-11-21 (agreed 21 Nov 09:01: "Train our own photo models, on our own computers. Order: (1) better masks (CD-914, CD-915), (2) a model that proposes the slider recipe (CD-916), (3) a generative edit LoRA for retouching (CD-917). Training photos: Ant's own Snappier library (nearly 100,000) and Charlie Doll's portfolio. Repainting on a person is acceptable; Charlie has consented; models must be able to reject those kinds of edits"); decision sprint-2026-11-21. Check with Ant that Charlie is happy for her consent to be mentioned in print (SB-15) -->
 
-<!-- p: 22-08 | draft 2026-11-25 -->
+<!-- p: 25-08 | draft 2026-11-25 -->
 That last kind of edit needs a limit built in, and it's one of the conditions of making it at all: the models must be able to refuse some kinds of change to a person. Other people's photos stay out of the training until there's a proper rule for when that's allowed. And the trained models themselves never go into a code repository. They stay on my computers.
 <!-- src: decision own-photo-models-2026-11-21 ("models must be able to reject those kinds of edits"; notes: "Customers' pooled photos stay out until CD-852 rule 7 is met. Our own weights are never committed"). "a proper rule" paraphrases CD-852 rule 7: check. CD-852: https://hub.smoothey.co.uk/dashboard#ref/CD-852 -->
 
-<!-- p: 22-09 | draft 2026-11-27 -->
+<!-- p: 25-09 | draft 2026-11-27 -->
 Why train our own, when good models already exist? Because I have tens of thousands of photos, and that's a strong thing to learn from. Plenty of good models are out there, but they come with limits: their licences, what they need to run, what they cost to use. Making my own lets me fit the model to my own computers and to exactly what I'm asking of it. And it puts compute I already own to work, instead of paying for someone else's.
 <!-- src: notes/interviews/build-the-thing/2026-11-27-sb6-answers.md (22-09: "I have nearly a 100,000 photos, thats a strong resource, there a lot of good models out there but may have licensing, resource etc constraints. Making my own models allow me to fit my resources to my asks, also it allows me to leverage the compute I have rather than paying for other peoples"; follow-up: keep the count vague, "tens of thousands", no detail on whose). Replaces the drafter's three guessed reasons -->
 
-<!-- p: 22-10 | draft 2026-11-25 -->
+<!-- p: 25-10 | draft 2026-11-25 -->
 Underneath both directions is the hardware. A new PC is coming, and it will be on all the time. Each of its graphics cards will run one model of its own. Once there's always a computer awake at home, the home models stop being something for jobs that can wait until morning, and become something that can answer straight away. The cloud and my own computers start to look like one pool of capacity, and the brokers decide which part of it each job should use.
 <!-- src: r2jimmy decision gandalf-one-model-per-card-2026-11-21 ("Gandalf (the new PC): one local model per graphics card"); ADR 0018 Context ("Gandalf will be on all the time (Ant, 21 Nov) ... So 'no computer on' becomes rare ... and local can take live jobs, not only ones that can wait"); decision container-workers-docker-2026-11-21 (one image for every runner, Balrog now and Gandalf later). PC names left out: Ant's call -->
 
-<!-- p: 22-11 | draft 2026-11-27 -->
+<!-- p: 25-11 | draft 2026-11-27 -->
 Where does it go from here? A year from now, I want Jimmy to be the source of truth for my life, not just my projects: the one place that knows what matters, and helps me get more out of every minute. My minutes are finite, like everyone's. The possibilities aren't. What I'll never hand over is the final say. Anything that goes out under my name, I answer for, and that includes anything the AI wrote. If I present something I haven't read, that's on me, not on the machine.
 <!-- src: notes/interviews/build-the-thing/2026-11-27-sb6-answers.md (22-11: "Jimmy becomes a source of truth for my life and helps me extract extra value out of every minute, because my minutes - like everyones are very finite but possibilities are endless"; follow-up: never hand over "the final say", Claude's wording chosen by Ant; Ant, 16:33: "You should accept responsibility for any AI outputs you present - if you haven't read it - its on you"); chapter 4 (agreed: one place for the truth) -->
 
-<!-- p: 22-12 | draft 2026-11-25 -->
+<!-- p: 25-12 | draft 2026-11-25 -->
 I started all this by asking where the ceiling really is. I still don't know. Every time I've thought I'd found it, it's turned out to be a limit in how I was working, not in what was possible. The machine keeps moving it. My job is to keep noticing when it's moved, and to keep asking for more.
 <!-- src: chapter 1 (agreed: "where is the ceiling, really?"; briefs.md: used in the intro and 01-16, so not a third time early on; this is late in the book); chapter 13 (agreed: Ant's philosophy "to try and find the ceiling", interview 2026-11-23-driving-answers). The middle sentence is the drafter's: Ant to agree it as his view -->

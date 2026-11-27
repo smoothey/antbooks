@@ -52,7 +52,7 @@ I read every line. By the end, I realised I might genuinely be onto something. I
 <!-- p: 02-16 | agreed 2026-11-22 -->
 I still do. Even now, with a dashboard that shows every project, I often just ask the AI what needs my attention. The dashboard shows me everything. The question gets me a short list, in order, and I can argue with it. One I look at; the other I talk to. That's why I'm building what I call the Cockpit: one place that blends the two.
 <!-- src: Ant 22 Nov 02:12 (often ask AI "What needs my attention"; curated, prioritised experience has value because it's interactive; cockpit built to create that blended experience) -->
-<!-- rev: 'what I call the Cockpit' (matches ch 19); agreed by Ant 22 Nov 17:14 -->
+<!-- rev: 'what I call the Cockpit' (matches ch 22); agreed by Ant 22 Nov 17:14 -->
 
 <!-- p: 02-13 | agreed 2026-11-22 -->
 But the real idea, the one this book is about, fits in one sentence. Stop doing the work, and build the thing that does the work. The website was the work. The store, the rules and the runs were the thing that builds the things. Once that existed, every project I added got the same memory, the same rules and the same nights, without any extra work from me.

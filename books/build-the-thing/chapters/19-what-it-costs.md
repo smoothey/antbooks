@@ -1,61 +1,69 @@
-# Chapter 16: What it costs
+# Chapter 19: What it costs
 
-<!-- p: 16-01 | draft 2026-11-25 -->
+<!-- p: 19-01 | draft 2026-11-25 -->
 People ask what all this costs, and they mean money. That's a fair question, and I'm not going to answer it with figures. My budgets have always been on the cautious side, and I've never minded going over them. I just want every pound to do as much as it can. The cost that actually hurt was a different one. It was waking up expecting work to be done, and finding it hadn't happened.
 <!-- src: interview 3, Q1 ("His budgets have been conservative. He's never minded overrunning them; he just wants to be as cost efficient as possible"; "My biggest frustration has been expecting work to be done overnight and it not happening"). No money figures (CLAUDE.md never list) -->
 
-<!-- p: 16-02 | draft 2026-11-25 -->
+<!-- p: 19-02 | draft 2026-11-25 -->
 That's the cost this chapter is about: work not done. It comes in a few shapes. A night that stopped early with minutes still in hand. A run that stalled and never said so. A limit somewhere I hadn't known was there. And the slowest one of all, which isn't in any report: the pull to keep improving the machine instead of the things it's meant to build.
-<!-- src: briefs.md ch 16 (job: the real cost was work not done; stalls, minutes run out, the pull of building the system instead of the product); outline ch 16 -->
+<!-- src: briefs.md ch 19 (job: the real cost was work not done; stalls, minutes run out, the pull of building the system instead of the product); outline ch 19 -->
 
-<!-- p: 16-03 | draft 2026-11-25 -->
+<!-- p: 19-03 | draft 2026-11-25 -->
 The first shape is the easiest to measure, because every morning brief counts it. A night has 480 minutes to give. On 21 November, the runs used 294 of them. Over the twelve nights before that, they'd averaged about 270. So on a typical night, close to half the time I'd set aside for building went unused. Nobody had done anything wrong. The runs had all stopped for good reasons. It just added up to a lot of nothing.
 <!-- src: r2jimmy decision night-utilisation-plan-2026-11-22 ("Night of 21 Nov used 294 of 480 minutes; the twelve nights from 10 Nov averaged about 270"). "close to half" = 210 of 480 unused, about 44%: check the wording at polish. Figures kept: 480 and 294 are exact counts from the brief -->
 
-<!-- p: 16-04 | draft 2026-11-25 -->
+<!-- p: 19-04 | draft 2026-11-25 -->
 When we looked closer, the reasons were ordinary. Charlie's site, the project with the most agreed work, had forty-one items waiting. It used eighty-eight of its hundred and fifty-eight minutes. Both of its shifts had stopped after about three quarters of an hour, because they'd filled up their context, the limit from chapter 4, and it only had two shifts a night. Meanwhile some small projects had used their own time and then stopped with nothing left that they were allowed to do.
 <!-- src: decision night-utilisation-plan-2026-11-22 ("Charlie Doll used 88 of 158 minutes with 41 items in Next: both shifts stopped on context after about 45 minutes and it had only two sessions a night"); decision credit-plan-balance-2026-11-22 (small projects' plan shifts "then stop on empty"). Numbers written as words; 158 may read better as a figure: polish file -->
 
-<!-- p: 16-05 | draft 2026-11-25 -->
+<!-- p: 19-05 | draft 2026-11-25 -->
 The fix, on 22 November, was six small changes rather than one big one. Charlie's site got two relay shifts, so a fresh session could carry on from the last one's hand-over through the night. Shifts that stop because they've lost track now have to say what went wrong. The night's window grew by half an hour, to six in the morning. The Hub got a short list of the decisions that would free the most night time, so I'd know which taps mattered. And the numbers got tidied, so a run that stops "empty" has to list what it skipped and why. I agreed all six in one go.
 <!-- src: decision night-utilisation-plan-2026-11-22 (six steps; "Window end 05:30 to 06:00"; "An unblock list on the Hub and in the brief: the five decisions that free the most night minutes"; "the brief flags an empty stop with no skipped list"; words: "Agreed to all steps", 22 Nov 10:48). Step 2 (pushing to more branches) is left out of this telling; chapter 5, 05-08 (agreed) already mentions relay shifts -->
 
-<!-- p: 16-06 | draft 2026-11-25 -->
+<!-- p: 19-06 | draft 2026-11-25 -->
 The same day we moved the daytime allowance too. It was being spent in full every day, but almost all of it went on the small projects, while Charlie's site, with its long list, got none. So the split changed. The daytime runs now take the small projects and some of Charlie's agreed work, and the nights are kept for the long, deep work. Nothing extra was spent. The same capacity just went where the waiting work was.
 <!-- src: decision credit-plan-balance-2026-11-22 (agreed 22 Nov 23:32: "Credit: small projects and daytime work. Plan: long, deep work at night"; credit runs may take agreed Charlie Doll Next items in the day; why: credit "spent in full each day but goes on small projects ... while Charlie Doll ... got no credit runs"). Allowance amounts left out on purpose (no money figures); chapter 5, 05-12 (agreed: "a separate daily allowance") -->
 
-<!-- p: 16-07 | draft 2026-11-25 -->
+<!-- p: 19-07 | draft 2026-11-25 -->
 The second shape is the stall. Chapter 6 told the worst night of it, so I won't tell it again. But stalls cost more than the night they happen on, because a stalled run doesn't just stop working. It stops telling you. One shift on Charlie's site stalled twenty-five minutes in on 3 November, during a routine save, and didn't wake up until 20 November. It had pushed its work to a branch, and meant to open the pull request later, once it had taken screenshots. So for sixteen days there was finished work sitting where nobody would look for it. The next night simply did the same item again.
 <!-- src: r2jimmy lesson 2026-11-03-nightly-charliedoll-1 ("Stalled 25 minutes in for 16 days; its pushed branch had no pull request"; "stalled about 25 minutes in, during a store write, and woke on 20 Nov"; "the next night redid CD-608 as poseroll#248"; change: "Open the pull request straight after the first push of a branch"); chapter 6 (agreed: the birthday night, not retold) -->
 
-<!-- p: 16-08 | draft 2026-11-25 -->
+<!-- p: 19-08 | draft 2026-11-25 -->
 The lesson from that one was simple, and it's now a rule: open the pull request straight after the first push, then add to it. Another shift that month finished its work by five past four in the morning, but its report didn't arrive until twenty to twelve, so the morning looked like a failure when it wasn't. That rule is simple too: write the report first. Both are about the same thing. If a run might stop at any moment, it should leave the trail before it does the work, not after.
-<!-- src: lesson 2026-11-03-nightly-charliedoll-1 (change, as 16-07); lesson 2026-11-02-nightly-robroblox-2-1 ("A shift finished its work by 04:05 but its report landed at 11:41: write the report and heartbeat first"). Project not named: it is the Roblox game's shift, and the child ring gets no more than one neutral line (run prompt). Status of both lessons is "proposed", not "applied": check they're rules in the runbooks before agreeing "it's now a rule" -->
+<!-- src: lesson 2026-11-03-nightly-charliedoll-1 (change, as 19-07); lesson 2026-11-02-nightly-robroblox-2-1 ("A shift finished its work by 04:05 but its report landed at 11:41: write the report and heartbeat first"). Project not named: it is the Roblox game's shift, and the child ring gets no more than one neutral line (run prompt). Status of both lessons is "proposed", not "applied": check they're rules in the runbooks before agreeing "it's now a rule" -->
 
-<!-- p: 16-09 | draft 2026-11-25 -->
+<!-- p: 19-09 | draft 2026-11-25 -->
 The third shape is a limit I didn't know existed until I hit it. In the small hours of 26 October, GitHub stopped starting some of my automated checks, because of a billing limit on the account. That was annoying, but it wasn't the expensive part. One run saw a check fail on a project's main code just after it had merged a change, and did what the rules told it to do: it undid its own merge. Except its change had been fine. The check hadn't failed. It had never run. So a good piece of work was reversed, and a rule had to grow a new line, saying how to tell a check that failed from one that never started.
 <!-- src: r2jimmy lesson 2026-10-26-nightly-jimmy-1 ("From about 02:00 UTC GitHub refused to start some Actions jobs (billing or spending limit). Snappier's Windows job on main failed with 0 steps; credit-photo-organiser-4 took it as its merge breaking main and reverted photo-organiser#53 (#54)"; change: merging.md section 4); lesson 2026-10-26-nightly-charliedoll-2-1 ("GitHub refused a poseroll deploy over billing; nobody saw it coming"); interview 3, Q1 ("ran out of GitHub Actions minutes, for example"). It was a credit run (paid from the daily allowance), so the text says "one run" -->
 
-<!-- p: 16-10 | draft 2026-11-25 -->
+<!-- p: 19-10 | draft 2026-11-25 -->
 The same kind of thing happened with safety checks. From 2 November, the check that watches every run started refusing to let runs accept their own pull requests. That was its call to make, and chapter 14 is about calls like that. But it meant every pull request from every project landed on me. On 3 November I said it plainly in the chat: the runs were "meant to save me work - it's making me more work". By the next morning there was a way to approve a whole batch of merges at once, with one list and one tap.
 <!-- src: r2jimmy JM-348 (https://hub.smoothey.co.uk/dashboard#ref/JM-348): "since 2 Nov Claude's safety check refuses runs' merges (PF-75), so every run's pull request lands on Ant"; Ant, 3 Nov 13:20 to 13:29: runs were "meant to save me work - it's making me more work"; jimmy#532 merged 4 Nov 04:52 UTC; batch page live 5 Nov. Chapter 14, When the machine says no, isn't drafted yet: check the cross-reference when it is. "By the next morning" = the pull request; it was switched on 5 Nov: check wording -->
 
-<!-- p: 16-11 | draft 2026-11-25 -->
+<!-- p: 19-11 | draft 2026-11-25 -->
 None of those limits were mistakes, exactly. A billing limit is there to protect me. A safety check is there to protect everyone. But every limit you don't know about is a night you'll lose finding it. So the system now looks for them in daylight. The readiness check and the agency test from chapter 5 exist to find what would stop tonight's runs while I'm still awake to fix it.
 <!-- src: chapter 5, 05-02 (agreed: readiness check 16:37, agency test 20:23, "I know before I go to bed, not when I wake up"). The first two sentences are the drafter's reading: Ant to agree -->
 
-<!-- p: 16-12 | draft 2026-11-27 -->
+<!-- p: 19-16 | draft 2026-11-27 -->
+Some costs the machine builds for itself. On 30 October, a night run built a check that took screenshots of every page of the Hub, at four screen sizes, in light and dark: more than three hundred pictures, every time a change to the Hub was pushed. In the five days up to 27 November it ran two hundred times, and used about thirty-eight hours of my runners' time. In sixteen of the last twenty-five pull requests, the screenshots hadn't even finished. The check still showed green. It had been built never to fail, so a broken run looked exactly like a passing one. A check that never fails stops being a check. Green only meant it had run.
+<!-- src: store notes/source-material/build-the-thing/2026-11-27-screenshot-checks.md (JM-158 built by a night run on 30 Oct; 317 screenshots at four screen sizes, light and dark, on every push to a Hub pull request; 23 to 27 Nov: 200 runs, about 2,300 runner minutes, "roughly 9 hours a day"; "In the last 25 pull requests, 16 said 'the screenshots didn't finish' ... yet the check still showed green. It was built never to fail"); agreed by Ant for this chapter, 27 Nov 15:47 and 15:48 ("a check that never fails stops being a check too!"). 2,300 minutes is about 38 hours. JM-158: https://hub.smoothey.co.uk/dashboard#ref/JM-158 -->
+
+<!-- p: 19-17 | draft 2026-11-27 -->
+When I said it was costing more than it was worth, the AI offered three options. Run it only when asked. Run a slim version on every change, with a full run each night. Or keep it and fix it. It recommended the middle one. I chose the first. My reason was that much of what it catches can also be found by reading the code, for far fewer tokens. That didn't just turn the amount down. It changed the method. Now the screenshots only run when a pull request is labelled for them.
+<!-- src: store notes/source-material/build-the-thing/2026-11-27-screenshot-checks.md (Ant, 27 Nov 15:39: the screenshot tests "burn through a lot of compute and time and I'm not sure the value is worth it"; three options offered, Claude recommended 2; Ant chose 1, 15:45: "some of what it catches we can also do by reading the code burning through less tokens (hence me not chosing 2)"; done as jimmy#1523, run only with the "previews" label); agreed angle: the AI recommended the middle option, and Ant's reason changed the method, not just the amount (ties to ch 12, changing the method can change the metric). jimmy#1523: https://github.com/smoothey/jimmy/pull/1523 -->
+
+<!-- p: 19-12 | draft 2026-11-27 -->
 The last shape is the hardest to count: the pull to keep improving the machine instead of the things it's for. How I handle it has changed. While Charlie's site was a present with a deadline, the order was fixed. Her site came first, then Poseroll, because that had become part of the present too, and then only enough of Jimmy to deliver them. The smallest Jimmy that would do the job, and no more. After the reveal, the deadline was gone and the order turned round. Jimmy is the thing that helps me build everything else faster, which is the whole point of this book. So now it gets the focus of my attention.
 <!-- src: notes/interviews/build-the-thing/2026-11-27-sb6-answers.md (16-12: "when I was on a deadline to make Charlies website present, my order was her site, poseroll (because that also became part of the present), and then only enough Jimmy (MVP) to deliver that. Now, in the spirit of my books message Jimmy is the thing that is helping me build faster so it gets the focus of my attention."; follow-up: the switch came after the reveal). "MVP" (minimum viable product) put in plain words -->
 
-<!-- p: 16-13 | draft 2026-11-27 -->
+<!-- p: 19-13 | draft 2026-11-27 -->
 That sounds like the trap, and it could become one. The test is whether the machine is still making the things go faster. If time spent on Jimmy stopped showing up as progress on Charlie's site, the camera app or this book, it would have turned into building for its own sake. I don't have to guess at that. Every morning the brief shows where the night went, project by project, and what each one got done.
-<!-- src: drafter's reasoning from 16-12; chapter 5 (agreed: the morning brief reports each run and its minutes). Replaces the earlier draft about Jimmy's fixed share of the night, which no longer matches Ant's answer (27 Nov). Ant to agree -->
+<!-- src: drafter's reasoning from 19-12; chapter 5 (agreed: the morning brief reports each run and its minutes). Replaces the earlier draft about Jimmy's fixed share of the night, which no longer matches Ant's answer (27 Nov). Ant to agree -->
 
-<!-- p: 16-14 | draft 2026-11-25 -->
+<!-- p: 19-14 | draft 2026-11-25 -->
 There's one more cost, and it's my own time. In chapter 1 the price of building tools was my evenings. That price hasn't gone, but it's changed shape. I spend minutes rather than hours, mostly either side of sleep, and mostly deciding rather than doing. The work I can't hand over is the judgement: what matters, what's good enough, what to leave alone.
 <!-- src: chapter 1 (agreed: personal-time cost); chapter 5, 05-13 (agreed: "Twenty minutes either side of sleep, against a night of building"). Ant's own minutes a day before and after are still open on SB-4: add a figure here if one is agreed -->
 
-<!-- p: 16-15 | draft 2026-11-25 -->
+<!-- p: 19-15 | draft 2026-11-25 -->
 So when someone asks me what it costs, the honest answer is this. The money is a choice, and you can keep it as small as you like. The real cost is attention: noticing the unused night, the silent stall, the limit you didn't know about. When I changed how the work was done, I had to change what I counted as waste. An overspent budget isn't waste. An idle night is.
-<!-- src: interview 3, Q1 and threads ("Overrunning a budget is fine; an idle night isn't"); theme note 2026-11-24-theme-method-changes-metric ("Possible light touches elsewhere: ch 16 (which costs you count changes with the method)") -->
+<!-- src: interview 3, Q1 and threads ("Overrunning a budget is fine; an idle night isn't"); theme note 2026-11-24-theme-method-changes-metric ("Possible light touches elsewhere: ch 19 (which costs you count changes with the method)") -->
