@@ -23,7 +23,7 @@ Dan, the former colleague from chapter 13, put the other half of it neatly. Rath
 
 <!-- p: 16-04 | draft 2026-11-27 -->
 With Jimmy, I'm the client, and the AI is the consultant. So which way does it lean? Mostly towards the middle. Its safety checks are firm, as chapter 14 showed. Its estimates are cautious: it plans as though a human team were doing the work, until it's shown its own pace. Asked to choose between three options, it tends to recommend the middle one. None of that is wrong. But it means the measure and the boldness both have to come from me, and I have to know which the moment needs.
-<!-- src: chapter 14 (draft: the safety check); chapter 3 (agreed: the borrowed pace, AI plans in human-team time); chapter 19 (draft: screenshot checks, the AI recommended the middle option); store 2026-11-27-screenshot-checks.md. "Mostly towards the middle" is the drafter's reading: Ant to agree -->
+<!-- src: chapter 14 (draft: the safety check); chapter 3 (agreed: the borrowed pace, AI plans in human-team time); chapter 20 (draft: screenshot checks, the AI recommended the middle option); store 2026-11-27-screenshot-checks.md. "Mostly towards the middle" is the drafter's reading: Ant to agree -->
 
 <!-- p: 16-05 | draft 2026-11-27 -->
 Sometimes the moment needs boldness. Before Charlie's site was revealed, I decided its changes would go straight to the live site, every night, right up to a freeze before the big day. No waiting on a test copy. And I set a standing rule for every freeze since: if something can be done before the freeze at the pace we're going, it should be. Doing it after needs evidence. I was tired of being asked "before or after?" every time.

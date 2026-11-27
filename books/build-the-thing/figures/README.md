@@ -21,4 +21,4 @@ Made by `charts.py` and `diagrams.py` (SVG and PNG). The admin renders come from
 | fig08-privacy-rings | 8 | Rings 0 to 3 | ADR 0003 |
 | fig10-lesson-seven-times | 10 | The one-off reminder lesson, logged 19, 23, 27, 31 Oct, 12, 19, 21 Nov | r2jimmy lesson records |
 | fig11-best-practice-by-accident | 11 | What I did against its formal name | DRAFT until chapter 11 is agreed |
-| fig16-production-line | 23 (A production line, end to end) | Idea to published, one approval | Ultra Transcenders process, never named in print |
+| fig16-production-line | 24 (A production line, end to end) | Idea to published, one approval | Ultra Transcenders process, never named in print |

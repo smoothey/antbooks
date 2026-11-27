@@ -1,66 +1,66 @@
-# Chapter 21: Ways of working with AI
+# Chapter 22: Ways of working with AI
 
 <!--
-New chapter agreed by Ant, 24 Nov 12:36 (store notes/interviews/build-the-thing/2026-11-24-ways-of-working.md). For each pattern: when to use it, what it's good for, how it goes wrong, and where the book shows it (briefs.md ch 21). Possible figure (not yet planned in figures/README.md): a one-page table of the patterns, for the reader to keep. Ant to say.
+New chapter agreed by Ant, 24 Nov 12:36 (store notes/interviews/build-the-thing/2026-11-24-ways-of-working.md). For each pattern: when to use it, what it's good for, how it goes wrong, and where the book shows it (briefs.md ch 22). Possible figure (not yet planned in figures/README.md): a one-page table of the patterns, for the reader to keep. Ant to say.
 -->
 
-<!-- p: 21-01 | draft 2026-11-25 -->
+<!-- p: 22-01 | draft 2026-11-25 -->
 Most people use AI one way. They open a chat, type a question, read the answer and close it. That's useful, but it's only one way of working, and often not the best one. Over the last few weeks I've settled into about ten different ways, each good for a different kind of job. This chapter is the menu. For each one: when I use it, what it's good for, how it goes wrong, and where you've already seen it in this book.
 <!-- src: notes/interviews/build-the-thing/2026-11-24-ways-of-working.md (Ant, 24 Nov 12:06: "different ways of working with AI - loops, 'interview me' etc"; patterns listed). "about ten": eight in use, plus the pre-mortem and quiz me -->
 
-<!-- p: 21-02 | draft 2026-11-25 -->
+<!-- p: 22-02 | draft 2026-11-25 -->
 The first is the loop: a job that runs on a schedule, reads its instructions and its record, does the work and leaves a report. It's for anything that repeats, and for anything you'd like done while you're asleep. Its strength is that it doesn't need you. That's also how it goes wrong. A loop that stalls, or quietly does the wrong thing, can do it every night until someone looks. So a loop always needs a trail and a reader. Chapters 5 and 6 are the long version.
-<!-- src: chapter 5 (agreed: night runs, heartbeats, reports, the morning brief); chapter 6 (agreed: the stalled night); chapter 19 (draft, 19-07: a stall unnoticed for sixteen days) -->
+<!-- src: chapter 5 (agreed: night runs, heartbeats, reports, the morning brief); chapter 6 (agreed: the stalled night); chapter 20 (draft, 20-07: a stall unnoticed for sixteen days) -->
 
-<!-- p: 21-03 | draft 2026-11-25 -->
+<!-- p: 22-03 | draft 2026-11-25 -->
 The second I call "interview me". Instead of me writing and the AI tidying, the AI asks the questions and I answer them, and then it drafts from my answers. This book was written that way. In one evening, three interviews covered my life before Jimmy, the first weeks and the bad nights. The rule we agreed is that it only interviews me for what it can't already find in the records, so the questions are few, specific, and say which chapter they're for. It's good for anything that has to sound like you and contain what only you know. It goes wrong when the questions are vague, or when it asks for things it could have looked up.
 <!-- src: PROCESS.md step 1 (agreed by Ant, 21 Nov 2026: "interviews Ant only for detail it can't get from that context. Questions are few and specific, and say which chapter they're for"); r2antbooks SB-3 (https://hub.smoothey.co.uk/dashboard#ref/SB-3): "all three interviews done in one evening, a week early", 21 Nov; session titles "Before", "The first weeks", "The bad nights" -->
 
-<!-- p: 21-04 | draft 2026-11-25 -->
+<!-- p: 22-04 | draft 2026-11-25 -->
 The third is a paragraph at a time. When I review a chapter, I don't read the whole thing and send a list of notes. We go through it one paragraph at a time, and I agree each one or we change it until I do. The AI shows me three paragraphs: the one before, for reference, the one under review, and the one after. Only the middle one is being agreed. Once a paragraph is agreed it stays set, unless a fact changes. It's slow per page and fast per book, because nothing has to be reviewed twice. It's good for any writing where every sentence matters. It goes wrong if you let it become a rubber stamp. If I find myself agreeing ten in a row without reading, I stop.
 <!-- src: PROCESS.md steps 3 and 4 (sliding window, Ant 22 Nov; agreed paragraphs stay set); chapter 7 briefs (all 12 paragraphs agreed 23 Nov, 22:52 to 23:07). "If I find myself agreeing ten in a row without reading, I stop" is the drafter's: see q -->
-<!-- q: SB-6 21-04: do you have a habit for not rubber-stamping paragraphs? If not, the last two sentences go -->
+<!-- q: SB-6 22-04: do you have a habit for not rubber-stamping paragraphs? If not, the last two sentences go -->
 
-<!-- p: 21-05 | draft 2026-11-25 -->
+<!-- p: 22-05 | draft 2026-11-25 -->
 The fourth is the separate reviewer. Whatever wrote the work doesn't get to mark it. Each chapter of this book gets a polish pass from a reviewer that didn't draft it, and that reviewer may change wording, never meaning. Bigger code changes get an independent review before I see them. It catches more than you'd think. When the merge broker from chapter 8 was built, a separate security review found one fault that would have made Chrome, the web browser I use, refuse every merge I tried. When the batch merges were built, another review found five. The pattern goes wrong if the reviewer is really the same process wearing a different hat, so it has to start fresh, without the writer's reasoning in front of it.
 <!-- src: PROCESS.md step 5 ("The polish reviewer is a separate pass that hasn't written the draft, so the work isn't marking itself"); Jimmy Hub project doc claude/walk-me-through.md, 29 Oct (jimmy#332: "An independent security review found one blocker (a referrer setting that would have made Chrome refuse every merge)"); JM-348 (https://hub.smoothey.co.uk/dashboard#ref/JM-348) progress, 4 Nov ("ran an independent review and fixed its five faults"). Last sentence is the drafter's -->
 
-<!-- p: 21-06 | draft 2026-11-25 -->
+<!-- p: 22-06 | draft 2026-11-25 -->
 The fifth is "walk me through". When there's a pile of things waiting for me, I don't want a dashboard. I want to be taken through them, one at a time, most important first: what it is, why now, what it takes, and a button to do it, skip it or ask about it. It shows "three of eleven", so I know how far I've got. It's good at the end of a day or after time away. It goes wrong when the list fills up with things that don't really need me. Chapter 7 is about keeping that list honest. Its cousin is the question I ask most often of all, "what needs my attention?", which chapter 2 explained.
 <!-- src: Jimmy Hub project doc claude/walk-me-through.md (Ant, 22 Oct 10:31: walks him through everything to action, one at a time, in priority order; step view "3 of 11", what, why now, what it takes, Do it, Not now, Skip, Ask Jimmy); chapter 7 (agreed: only real asks reach you); chapter 2, 02-16 (agreed: "I often just ask the AI what needs my attention") -->
 
-<!-- p: 21-07 | draft 2026-11-25 -->
+<!-- p: 22-07 | draft 2026-11-25 -->
 The sixth is chats leaving each other messages. I have a different chat for each project, and each one only knows its own. When one needs something from another, it doesn't wait for me to pass it on. It leaves a message in the store, addressed to the other chat, and the other chat picks it up the next time it starts. When this book needed the story of how Charlie's site began, the book's chat asked the site's chat for it, and the answer came back as a note. It's good whenever work crosses projects. It goes wrong if messages pile up unanswered, so every message stays open until it's answered, and the Hub shows the open ones.
 <!-- src: r2antbooks SB-6 waitingOn ("Hub message m-antbooks-cd-history-22nov to the Charlie Doll chat (22 Nov): summary of 14 Sep to 18 Oct for ch 2, to r2antbooks notes/source-material/build-the-thing/2026-11-22-charlie-doll-origins.md"; the note exists, 22 Nov 01:57); Jimmy Store record kind message (status open|answered); chapter 4 (agreed: chats leaving messages, per ways-of-working note). "the Hub shows the open ones": check the Hub page before agreeing -->
 
-<!-- p: 21-08 | draft 2026-11-25 -->
-The seventh is research, then propose. When I ask a big question, I don't want the AI's first thought. I want it to go and find out, and then come back with a proposal I can agree or argue with. On 21 November I asked how to hand work to different models as cheaply as possible, my own computers included. I expected the answer to be "run more of it at home". The research said otherwise: a new small model had become so cheap that running my own saved far less than I'd assumed. The proposal that came back used my computers for what they're actually good at, and I agreed it that evening. It goes wrong when the research is thin, or when it's quietly shaped to match what you hoped. Chapter 24 has the rest.
+<!-- p: 22-08 | draft 2026-11-25 -->
+The seventh is research, then propose. When I ask a big question, I don't want the AI's first thought. I want it to go and find out, and then come back with a proposal I can agree or argue with. On 21 November I asked how to hand work to different models as cheaply as possible, my own computers included. I expected the answer to be "run more of it at home". The research said otherwise: a new small model had become so cheap that running my own saved far less than I'd assumed. The proposal that came back used my computers for what they're actually good at, and I agreed it that evening. It goes wrong when the research is thin, or when it's quietly shaped to match what you hoped. Chapter 25 has the rest.
 <!-- src: ADR 0018 (smoothey/jimmy docs/adr/0018-local-first-routing.md: "Ant asked how to broker tasks to different models, his own computers included, as cheaply as possible"; "Haiku 5.5 changed the sum ... a local model doesn't pay for itself by replacing Haiku on plain text"; "What local is for: private work ..."); r2jimmy decision local-first-routing-2026-11-21 (agreed 19:49 to 19:55); chapter 13 (agreed: 21 Nov, research told him running models at home saved less than assumed). "I expected the answer to be 'run more of it at home'" is the drafter's reading of ch 13: check. No prices printed -->
 
-<!-- p: 21-09 | draft 2026-11-25 -->
+<!-- p: 22-09 | draft 2026-11-25 -->
 The eighth is to ask it to challenge you. AI is built to agree, and chapter 13 explained why that can quietly cap you. So when I propose something, I ask for the case against it. And when the AI proposes something, I ask why. Chapter 13 tells the story of the rule nobody questioned until I did. It's good for every decision that's hard to undo. It goes wrong when you ask for a challenge and then argue with every point, because then you've only asked it to lose.
 <!-- src: chapter 13 (agreed: the echo chamber; 26 Oct, the rule nobody questioned; "Smootheys do things for reasons"; he invites a dissenting opinion); interview 3, Q3 ("challenging what AI is proposing and why"). Last sentence is the drafter's -->
 
-<!-- p: 21-10 | draft 2026-11-25 -->
+<!-- p: 22-10 | draft 2026-11-25 -->
 Those are the patterns I found I was already using. When I listed them, I asked the AI for one I didn't use yet, something worth trying before this book was finished. It suggested the pre-mortem. Before starting something big, you tell the AI it's some months later and the thing has failed, and you ask it to write why. It's different from a review, which looks at what's already been built. A pre-mortem looks at what hasn't happened yet.
 <!-- src: ways-of-working note (Ant, 24 Nov: "if there is one you think I should try that I don't use suggest it (we've got time to adopt it before we finish the book!)"; "Suggested to try: the pre-mortem. Before starting something big, tell the AI it's some months later and the thing has failed, and ask it to write why. Different from the nightly critical review, which looks at what's already built"). The pre-mortem is Gary Klein's technique: add a note in 99-notes.md, checked against a real source -->
 
-<!-- p: 21-11 | draft 2026-11-25 -->
+<!-- p: 22-11 | draft 2026-11-25 -->
 We tried it at lunchtime on 24 November, on the launch of this book. The frame was simple: it's March 2027, and the launch failed. Why? It came back with eight reasons, most likely first. The top one stung, because it was so obviously right. Nobody knew the book existed. It would be uploaded just after Christmas, go live over New Year, with no description anyone had worked on, no early readers and no reviews, and sink on its first day. Further down the list: the draft running late, the paperback slipping, someone in the book not being asked in time, the book contradicting itself after being written in different chats.
 <!-- src: r2antbooks notes/plans/build-the-thing/2026-11-24-pre-mortem-launch.md (run 24 Nov 12:50; "Frame: it's March 2027 and the launch failed. Why?"; eight causes, most likely first; cause 1 "Nobody knew it existed. Uploaded 27 Dec, live over New Year, no description worked on, no early readers, no reviews. Sank on day one"; causes 2, 3, 5, 6). "stung" is the drafter's: Ant to confirm or change -->
 
-<!-- p: 21-12 | draft 2026-11-27 -->
+<!-- p: 22-12 | draft 2026-11-27 -->
 Of the eight causes, one was already handled: my publishing account was ready. Three became work the same minute: a launch plan, a check for consistency by a reviewer that didn't write the book, and a polish pass on each chapter as soon as it's agreed rather than all at the end. The other four I left as known risks. Most of what it found, I already had in hand in some form. But one I hadn't fully thought through: the book contradicting itself. It's being written in different chats, and its chapters have been renumbered more than once. So a separate reviewer will check every chapter number, every cross-reference, and anything that says "not yet". Three days later, a new chapter moved every chapter after it up by one.
 <!-- src: pre-mortem note, Outcome (Ant, 24 Nov 12:58; G already done; A as SB-16, F as SB-17, H as SB-18; B, C, D, E not taken up); notes/interviews/build-the-thing/2026-11-27-sb6-answers.md (18-13: "a lot of what it came up with was already in hand it did identify things I hadn't fully explored"; follow-up, 16:37: the one he hadn't fully explored was F, the consistency and freshness pass); smoothey/antbooks#2 (27 Nov: chapter 17 added, 15 to 21 renumbered 16 to 22). SB-17: https://hub.smoothey.co.uk/dashboard#ref/SB-17 -->
 
-<!-- p: 21-13 | draft 2026-11-27 -->
+<!-- p: 22-13 | draft 2026-11-27 -->
 The pre-mortem goes wrong in one obvious way: it can turn into a list of worries that nobody acts on. The fix is to decide, for each cause, there and then: handle it now, or accept the risk. Mine took a few minutes. I'm keeping it. The next time I'll use it is the launch of this book itself.
 <!-- src: notes/interviews/build-the-thing/2026-11-27-sb6-answers.md (18-13: "I will keep the pre-mortem - we are going to use it for the launch of this book"). Report how the launch pre-mortem went, if there's more to say by print (SB-16: https://hub.smoothey.co.uk/dashboard#ref/SB-16) -->
 
-<!-- p: 21-14 | draft 2026-11-25 -->
+<!-- p: 22-14 | draft 2026-11-25 -->
 It also offered a second pattern, which I haven't tried yet: "quiz me". Before I accept a change I don't fully understand, the AI asks me a few questions about it, to check I know what I'm agreeing to. It's the reverse of the interview. There, the AI learns from me. Here, it checks I've learnt from it.
 <!-- src: ways-of-working note ("Second option offered: 'quiz me', the AI tests Ant's understanding of a change before he accepts it"). Not yet tried: update this paragraph if Ant adopts it before the book is finished -->
 
-<!-- p: 21-15 | draft 2026-11-25 -->
+<!-- p: 22-15 | draft 2026-11-25 -->
 None of these is clever on its own. What they share is that each one changes who does what. In a plain chat, I ask and the AI answers. In a loop, it works and I check. In an interview, it asks and I answer. With a separate reviewer, one AI checks another. In a pre-mortem, it imagines the future so I can change it. Choosing the pattern is choosing the shape of the conversation before it starts. And that, more than the wording of any one message, decides what you get back.
 <!-- src: drafter's synthesis; interview 2, Q3 ("prompt engineering mattered less than he expected ... working in the right way achieved more"; "The trick as AI developed was working out what the right way was"). Ant to agree it as the chapter's close -->
