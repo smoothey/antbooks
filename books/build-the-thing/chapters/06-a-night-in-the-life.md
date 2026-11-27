@@ -70,3 +70,7 @@ I don't think the good night teaches as much as the bad one. On 18 November the 
 <!-- src: CONTRACT.md "Blocks and prompts"; merging.md; r2jimmy lessons 2026-11-02-morning-brief-1, 2026-11-03-agency-test-1 (abandoned heartbeats) -->
 <!-- rev: brief's honesty framed as what worked, not a new rule; agreed by Ant 22 Nov 20:39 -->
 
+<!-- p: 06-15 | draft 2026-11-27 -->
+A month on, nights like 18 November have become ordinary, which is exactly what I wanted. On the night of 26 November, all fourteen of the runs that should have happened did, and every one reported back. Between them they used four hundred and forty-three of the four hundred and eighty minutes. Charlie's site took the minutes the smaller projects didn't need. Only one thing went quietly wrong. The brake from chapter 5 came on for the first shifts, because it read my week's plan use as ninety per cent. The real figure was thirty-six. I gave it the right number at five past midnight, and the later shifts ran at full speed.
+<!-- src: smoothey/jimmy governance/reports/2026-11-26/morning-brief.md ("Runs (14 of 14 expected: all ok)"; "Utilisation: used 443 of 480 (92%)"; Charlie Doll 285 of 158 minutes, 127 borrowed; "The plan brake was on for the first shifts on a wrong 90% reading; Ant's real figure was 36% (00:05), and later shifts ran unbraked"); chapter 5, 05-14 (draft: the brake). Unlocked pass, 27 Nov: new paragraph in an agreed chapter, for Ant to agree. The wrong reading is also told in ch 20 (20-12): keep one full telling -->
+
