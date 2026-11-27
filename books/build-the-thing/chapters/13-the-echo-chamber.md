@@ -62,9 +62,9 @@ My family has a motto: Smootheys do things for reasons. If you can't say why you
 
 <!-- rev: 23 Nov 22:16, Ant: the motto is "Smootheys do things for reasons" (his surname, the name the book is published under) -->
 
-<!-- p: 13-14 | agreed 2026-11-23 -->
-I hold people to the same standard. On the day I wrote this chapter, talking it over with a former colleague, I said: "You can't judge competence by how nice people are to you." I'd rather respect someone who's good at their job and doesn't much like me than someone who loves me and doesn't know what they're talking about. Or, as I put it that day: "I don't need gold stars issued by idiots!" An AI that agrees with everything I say is handing out exactly those gold stars.
-<!-- src: as 13-13, answer 1 (Ant's WhatsApp messages, 23 Nov 2026 19:00 and 19:01, shared by Ant for this theme; the colleague is Dan Redmond, a peer; unnamed in the draft until Ant decides and Dan agrees) -->
+<!-- p: 13-14 | reopened 2026-11-27: Ant asked to name Dan (he agreed to be named); only the name changes -->
+I hold people to the same standard. On the day I wrote this chapter, talking it over with Dan Redmond, a former colleague, I said: "You can't judge competence by how nice people are to you." I'd rather respect someone who's good at their job and doesn't much like me than someone who loves me and doesn't know what they're talking about. Or, as I put it that day: "I don't need gold stars issued by idiots!" An AI that agrees with everything I say is handing out exactly those gold stars.
+<!-- src: as 13-13, answer 1 (Ant's WhatsApp messages, 23 Nov 2026 19:00 and 19:01, shared by Ant for this theme; the colleague is Dan Redmond, a peer; named at Ant's request, 27 Nov 17:48, after Dan said yes (store notes/interviews/build-the-thing/2026-11-27-learning-by-building-and-dan.md)) -->
 
 <!-- rev: 23 Nov 22:20, Ant: not 'told' (too strong); a peer, and they discussed it. 22:23: agreed; Dan unnamed in the prose for now; Ant has invited him to be credited in the book -->
 

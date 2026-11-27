@@ -8,11 +8,11 @@ Plain meanings of the technical words in the book, one or two lines each. Add a 
 
 **Context**: everything an AI can see when it answers: your message, the conversation so far, and any files, notes or instructions it has been given. It starts empty in each new chat, and it has a limit, so older details drop out of a long piece of work. (Chapter 4.)
 
-**Loop**: a job that runs on a schedule without you, does one piece of work, and writes down what it did. My night runs are loops. (Chapters 5, 17 and 18.)
-<!-- draft 2026-11-25: added with chapter 17 (briefs.md: "loop" needs a glossary entry) -->
+**Loop**: a job that runs on a schedule without you, does one piece of work, and writes down what it did. My night runs are loops. (Chapters 5, 22 and 23.)
+<!-- draft 2026-11-25: added with chapter 22 (briefs.md: "loop" needs a glossary entry) -->
 
-**Open model**: an AI model whose makers publish it for anyone to download and run on their own computer, so nothing you give it has to leave the house. (Chapter 21.)
-<!-- draft 2026-11-25: added with chapter 21 -->
+**Open model**: an AI model whose makers publish it for anyone to download and run on their own computer, so nothing you give it has to leave the house. (Chapter 26.)
+<!-- draft 2026-11-25: added with chapter 26 -->
 
 **Prompt**: the message or instructions you give an AI. "Prompt engineering" is the craft of wording them just so. (Introduction, chapter 4.)
 

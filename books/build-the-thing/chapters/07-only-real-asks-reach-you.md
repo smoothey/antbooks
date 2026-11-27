@@ -47,3 +47,11 @@ Each morning while I was away, the brief opened with a section called Taps for t
 <!-- p: 07-12 | agreed 2026-11-23 -->
 That's the job I want the machine to do for me in the morning. Not to show me everything, but to decide what's worth my time, put it in order, and make each answer one tap. The work through the night is the impressive part. The short list in the morning is what lets me keep doing it.
 <!-- src: summary of 07-01 to 07-11; chapter 2, 02-16 (agreed: the short list in order beats the dashboard) -->
+<!-- p: 07-13 | draft 2026-11-27 -->
+Even a real ask should take seconds, not minutes. Since 26 November, every pull request, mine included, has to open with a summary of one or two sentences, no more than three hundred characters. On the Wall, I hover over a change that's ready and read what it does before I decide anything. A check fails any pull request that doesn't have one. It sounds like a small rule. It's the difference between reading a page of detail at midnight and reading two sentences.
+<!-- src: smoothey/jimmy CLAUDE.md ("Every pull request starts with ## Summary: one or two sentences, 300 characters at most (Ant, 26 Nov 2026 ...). The pr-summary check fails one without it"); claude/wall-merge-unlock.md ("every pull request has a one- or two-sentence summary, shown on hover and when first clicked"; "the summary rule covers Ant's own pull requests"). Unlocked pass, 27 Nov: new paragraph, for Ant to agree. The last sentence is the drafter's -->
+
+<!-- p: 07-14 | draft 2026-11-27 -->
+And the asks themselves get reviewed. Each one now has a Review button. The asks are kept, and every night a run reads them back and proposes changes to the rules that produced them, for me to accept or turn down, with a reason given for each one it thinks I should reject. If the same kind of ask keeps reaching me, the fix belongs in the rules, not in my evenings.
+<!-- src: Ant, 25 Nov ("Wants a Review button on Needs you asks; the asks are kept, and an overnight job reviews them and proposes rule changes for him to review, saying which to reject and why"). Built? Check before print. The last sentence is the drafter's: Ant to agree. Unlocked pass, 27 Nov -->
+
