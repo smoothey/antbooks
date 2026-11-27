@@ -1,66 +1,66 @@
-# Chapter 20: The right tool for each job
+# Chapter 21: The right tool for each job
 
 <!--
 Freshness: much of this chapter describes things decided between 20 and 21 Nov 2026 and not yet carrying real work (ADR 0017, 0018: "Nothing sends a model real work yet"). The consistency pass (SB-17) must re-check every "not yet" before print. No prices or money figures, though the sources have them.
 -->
 
-<!-- p: 20-01 | draft 2026-11-25 -->
+<!-- p: 21-01 | draft 2026-11-25 -->
 Back in chapter 1, when I had to set up classrooms full of computers, I chose a disk-copying tool that wasn't the market leader. I picked it for one reason: it could be scripted. The best-known tool wasn't the right one for that job. I've been relearning that lesson with AI. The biggest, cleverest model isn't the right tool for everything, and using it for everything is a good way to run out of it.
-<!-- src: chapter 1 (agreed: "I picked PowerQuest's Drive Image Pro, even though it wasn't the market leader, for one reason: unlike its competitors, it could be scripted"); briefs.md ch 1 ("Drive Image Pro picked because it could be scripted → ch 20") -->
+<!-- src: chapter 1 (agreed: "I picked PowerQuest's Drive Image Pro, even though it wasn't the market leader, for one reason: unlike its competitors, it could be scripted"); briefs.md ch 1 ("Drive Image Pro picked because it could be scripted → ch 21") -->
 
-<!-- p: 20-02 | draft 2026-11-25 -->
+<!-- p: 21-02 | draft 2026-11-25 -->
 I have a few kinds of capacity to spend. There's my Claude plan, which pays for the night runs. There's a separate allowance of credit, used by the daytime runs and by Jimmy himself when he answers a question on the Hub. And there are my own computers, at home, with graphics cards that can run an AI model of their own. Each kind is good at different things, and each runs out in a different way.
 <!-- src: ADR 0014 (smoothey/jimmy docs/adr/0014-capacity-broker.md, Context: "two kinds of capacity: the Claude plan, which pays for the nightly runs, and Console API credit"); ADR 0017 (Balrog's graphics card; a new PC on order); chapter 5, 05-12 (agreed: "a separate daily allowance"). Amounts left out -->
 
-<!-- p: 20-03 | draft 2026-11-25 -->
+<!-- p: 21-03 | draft 2026-11-25 -->
 So on 24 October I agreed a simple rule: work goes to the cheapest capacity that's allowed to take it. Jimmy calls the part that decides a capacity broker. It's the same idea as the brokers in chapter 8, except that this one doesn't hold a power. It holds a choice. For each job it asks a few questions in order. Is there a hard rule about where this may run? Is the credit ahead of its pace for the month? What does the job need: a quick answer, a long piece of work on code, my computer, or me? And if the first choice isn't available, what's next?
 <!-- src: r2jimmy decision capacity-broker (24 Oct: "route Jimmy's work to the cheapest capacity (credit first, plan as fallback)"); ADR 0014 (title "Work goes to the cheapest capacity that may take it"; "Rules, in order: hard rules, credit pressure, fit, fallback"; four routes A to D); chapter 8 (agreed: brokers hold one power each). "It holds a choice" is the drafter's line -->
 
-<!-- p: 20-04 | draft 2026-11-25 -->
+<!-- p: 21-04 | draft 2026-11-25 -->
 The first question is the one that matters most, and it's about privacy, not price. Where the data lives decides where the work may run. Each privacy ring from chapter 8 has its own key, and stays off a route until that key exists. My most private ring never goes to the runner in the cloud with access to its records. And work for my day job never goes on some routes at all. The cheapest option is only an option if it's allowed.
 <!-- src: ADR 0014 ("Where the data lives decides what may run where (routes-by-storage): each ring has its own workspace and key, and stays off a route until its key exists. Ring 0 on B is repo work only, with no ring 0 store access in the runner's identity. Work never goes on B."); r2jimmy decision routes-by-storage (26 Oct); chapter 13 (agreed: the 26 Oct rule nobody questioned, which this replaced). Simplified for print: check it's still accurate -->
 
-<!-- p: 20-05 | draft 2026-11-25 -->
+<!-- p: 21-05 | draft 2026-11-25 -->
 Then I wanted my own computers in the mix. My main PC has a graphics card with enough memory to run a good open model, one whose makers publish it for anyone to run. On 20 November we tried three of them on the same set of test cases. One got sixty-five out of sixty-five. Another got sixty. And the third did something that ruled it out of a whole kind of work: when one of the test documents contained a hidden instruction, it obeyed it.
 <!-- src: ADR 0017 (smoothey/jimmy docs/adr/0017-local-model-route.md, Decision 2: "Gemma 65 of 65, Qwen 60 of 65 on 13 cases"; "gpt-oss 20B is kept away from any job that reads outside text: it obeyed a planted instruction and gave one answer in the wrong shape"); Balrog's RTX 3090 (24 GB). "open model" explained in the sentence. Model names left out of the prose: Ant's call whether to name Gemma, Qwen and gpt-oss -->
 
-<!-- p: 20-06 | draft 2026-11-25 -->
+<!-- p: 21-06 | draft 2026-11-25 -->
 That's the prompt injection from chapter 8, caught in a test rather than in real life. It's why that model is now kept away from anything that reads text from outside: web pages, emails, other people's documents. It's fine for some jobs. It isn't fine for those. Only a model that refused every planted instruction in the trial is allowed to read outside text, and today that's just one of them. The test did its job. A model that was perfectly good at the work turned out to be unsafe for part of it, and we found out before it mattered.
-<!-- src: ADR 0017 (as 20-05); ADR 0018, Decision 5 ("Outside text only goes to a model that refused every planted instruction in the trial. Today that is Gemma 4."); glossary "Prompt injection" (chapter 8) -->
+<!-- src: ADR 0017 (as 21-05); ADR 0018, Decision 5 ("Outside text only goes to a model that refused every planted instruction in the trial. Today that is Gemma 4."); glossary "Prompt injection" (chapter 8) -->
 
-<!-- p: 20-07 | draft 2026-11-25 -->
+<!-- p: 21-07 | draft 2026-11-25 -->
 The trial also changed my mind. My first pick that day was one model, and two rounds of testing on my own computer switched the lead to the other. I'd have been happy with either. But the one that came second had passed five fewer checks, and I'd rather choose on evidence than on what I'd read about them.
 <!-- src: ADR 0017, Decision 2 ("Ant's first pick that day was Qwen3.8; two trials on Balrog changed it"); r2jimmy decision local-model-lead-gemma-2026-11-20 (20 Nov 17:18). "I'd have been happy with either" and "on what I'd read about them" are the drafter's: check -->
 
-<!-- p: 20-08 | draft 2026-11-25 -->
+<!-- p: 21-08 | draft 2026-11-25 -->
 Even the winner doesn't get real work straight away. A kind of job only moves to my own computer once it has earned it. Until then, it runs in shadow. The normal model answers and its answer is the one used. If one of my computers is free, its model answers the same job too, just for comparison. Only when the home model agrees with a small, cheap model from Anthropic on at least ninety-five per cent of at least forty checks does that kind of job go local. And I can switch any kind on or off by hand.
 <!-- src: r2jimmy decision local-model-route-2026-11-20 ("A job type goes live on the local model when it agrees with Haiku on at least 95% of checks"); decision local-first-routing-2026-11-21 (point 2: "at 95% agreement with Haiku on at least 40 compared checks, or on Ant's switch; until then the API answers and a free computer answers beside it for comparison only"); ADR 0018, Decision 2 and 3 -->
 
-<!-- p: 20-09 | draft 2026-11-25 -->
+<!-- p: 21-09 | draft 2026-11-25 -->
 I expected that to be the big saving. It wasn't. On 21 November I asked for research on how to hand work to different models as cheaply as possible, my own computers included. The answer surprised me. The small model my home computer was being compared against had just become so cheap that the electricity for my computer to do the same work cost about as much as simply paying for it. On plain text, my computer wasn't going to pay for itself by taking that model's jobs.
-<!-- src: ADR 0018, Context ("Haiku 5.5 changed the sum ... a tenth of Haiku 4.5 ... Balrog's electricity for a million tokens out is about the same (an estimate from the 20 Nov trial speed; not yet measured at the wall). So a local model doesn't pay for itself by replacing Haiku on plain text"); chapter 13 (agreed: "research told him running models at home saved less than assumed"); chapter 17 (draft, 17-08: research then propose). No prices printed. "I expected that to be the big saving" is the drafter's reading of ch 13: check -->
+<!-- src: ADR 0018, Context ("Haiku 5.5 changed the sum ... a tenth of Haiku 4.5 ... Balrog's electricity for a million tokens out is about the same (an estimate from the 20 Nov trial speed; not yet measured at the wall). So a local model doesn't pay for itself by replacing Haiku on plain text"); chapter 13 (agreed: "research told him running models at home saved less than assumed"); chapter 18 (draft, 18-08: research then propose). No prices printed. "I expected that to be the big saving" is the drafter's reading of ch 13: check -->
 
-<!-- p: 20-10 | draft 2026-11-25 -->
+<!-- p: 21-10 | draft 2026-11-25 -->
 So we changed what the home computers are for. They're not there to replace the cheap model on simple text. They're there for the work that shouldn't leave the house, for work with no monthly cap or pause, for large batches of photos, and for graphics jobs that aren't conversation at all. That leaves the paid capacity for the hard thinking, the long sessions on code, which is where most of the spending really goes.
 <!-- src: ADR 0018, Context ("What local is for: private work that never leaves the house, no monthly cap or pause, photo volume, graphics jobs that aren't chat, and leaving credit for the Sonnet-class work that is the real spend"); r2jimmy decision haiku-helper-trial-2026-11-21 (why: "the real spend is the Sonnet agent runs") -->
 
-<!-- p: 20-11 | draft 2026-11-25 -->
+<!-- p: 21-11 | draft 2026-11-25 -->
 The way jobs get routed is deliberately simple. There's no clever model deciding which model each job needs. That approach exists, but it needs thousands of past jobs to learn from, and we don't have them. Instead there's a table, kept with the code, that lists each kind of job, the check its answer must pass, and where it goes next if the check fails. The cheapest model answers first. If its answer fails the check, the job steps up to the next model, cheapest first. A kind of job that isn't in the table stays where it was.
 <!-- src: ADR 0018, Context ("One trains a small model to guess which model a job needs; it needs thousands of past jobs. The other lets the cheap model answer, checks the answer, and steps up only on a failed check"); Decision 1 ("A table of job types, in the repo ... A job type not in the table stays on the API. No trained router") and 6 ("A failed check steps up, cheapest first"); decision local-first-routing-2026-11-21 (why: "We lack the volume to train a router") -->
 
-<!-- p: 20-12 | draft 2026-11-25 -->
+<!-- p: 21-12 | draft 2026-11-25 -->
 The computers ask for work, rather than being sent it. Each one tells the Hub what it has: which models, whether its graphics card is busy, whether I'm in the middle of a game. A computer that's off, busy or being played on is simply passed over. Nothing on my network is opened up for the Hub to call in. My evening's gaming beats the night's photo batch, which is exactly the order I want.
 <!-- src: ADR 0018, Decision 4 ("Workers pull. Each computer's worker asks the Hub for a job and says what it has: which models, whether its card is busy, whether Ant is gaming. The Hub never calls a computer. A computer that is off, busy or gaming is passed over"); ADR 0017, Decision 1 (Ollama on the computer's own address only, "Never opened to the network"). Last sentence is the drafter's -->
 
-<!-- p: 20-13 | draft 2026-11-25 -->
+<!-- p: 21-13 | draft 2026-11-25 -->
 The same thinking works inside a single run. A long session on code needs a strong model to lead it, but much of what it does along the way is small: looking things up, reading files, tidying. Since 21 November, some of the daytime runs have been trying cheaper helper models for that small work, under a stronger lead. The lead keeps every decision and every change to the code. The helpers only fetch and carry. After a week or so, we'll compare runs with and without them, and decide whether to use them more widely.
 <!-- src: r2jimmy decision haiku-helper-trial-2026-11-21 ("Trial Haiku 5.5 helpers in the credit runs"; scope: Jimmy's standing-lane credit runs only (tests and tidying); "the Sonnet lead keeps every edit, commit, push and decision"; next: "After a week or so of standing-lane runs, compare cost and results with and without a helper"). Update with the result before print -->
 
-<!-- p: 20-14 | draft 2026-11-25 -->
+<!-- p: 21-14 | draft 2026-11-25 -->
 As I write, most of this is built and tested, but very little of it is doing real work yet. The home model is installed on one computer, and a new PC is on its way to give it a second home. I'm putting it in the book anyway, because the thinking behind it is the part worth copying, whatever the results turn out to be.
 <!-- src: ADR 0017, Status ("Step 1 is built and on Balrog ... Nothing sends a model real work yet. Step 3's worker is built (21 Nov ...) and not installed"); ADR 0018, Status ("Nothing sends a model real work yet"); r2jimmy decision gandalf-one-model-per-card-2026-11-21 (the new PC). Must be re-checked before print (SB-17) -->
-<!-- q: SB-6 20-14: by the time the book is finished, is any kind of job running on your own computers? If so, this paragraph should say which, and how it's gone -->
+<!-- q: SB-6 21-14: by the time the book is finished, is any kind of job running on your own computers? If so, this paragraph should say which, and how it's gone -->
 
-<!-- p: 20-15 | draft 2026-11-25 -->
+<!-- p: 21-15 | draft 2026-11-25 -->
 So the rule I'd pass on is the one from the classroom, updated. Don't pick the most famous tool, or the biggest. Pick the one that fits the job, and prove that it fits before you trust it with real work. Start cheap, check the answer, and step up only when the check fails. And let privacy decide first, before price gets a say.
-<!-- src: drafter's synthesis of 20-01 to 20-14; chapter 1 (agreed: Drive Image Pro) -->
+<!-- src: drafter's synthesis of 21-01 to 21-14; chapter 1 (agreed: Drive Image Pro) -->

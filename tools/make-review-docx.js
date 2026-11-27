@@ -42,8 +42,8 @@ const plan = [
   { part: null, items: [['Introduction', '00']] },
   { part: 'Part 1: The shift', items: [['1. Doing the work, and the ceiling it hits', '01'], ['2. Build the thing that builds the things', '02'], ['3. Incremental against compound', '03']] },
   { part: 'Part 2: The machine', items: [['4. One place for the truth', '04'], ['5. Work while you sleep', '05'], ['6. A night in the life', '06'], ['7. Only real asks reach you', '07'], ['8. Rings and brokers', '08'], ['9. The people around you', null]] },
-  { part: 'Part 3: What it teaches you', items: [['10. Logging a lesson isn\u2019t learning it', null], ['11. Best practice by accident', null], ['12. Driving, or being driven?', null], ['13. The echo chamber', '13'], ['14. When the machine says no', null], ['15. What it costs', null]] },
-  { part: 'Part 4: Your turn', items: [['16. Start small: one loop, one record, one rule', null], ['17. Many projects from one hub', null], ['18. A production line, end to end', null], ['19. The right tool for each job', null], ['20. What comes next', null]] },
+  { part: 'Part 3: What it teaches you', items: [['10. Logging a lesson isn\u2019t learning it', null], ['11. Best practice by accident', null], ['12. Driving, or being driven?', null], ['13. The echo chamber', '13'], ['14. When the machine says no', null], ['15. Working with AI is still work', null], ['16. What it costs', null]] },
+  { part: 'Part 4: Your turn', items: [['17. Start small: one loop, one record, one rule', null], ['18. Ways of working with AI', null], ['19. Many projects from one hub', null], ['20. A production line, end to end', null], ['21. The right tool for each job', null], ['22. What comes next', null]] },
   { part: 'At the back', items: [['Closing chapter', null], ['Appendix: starter kit', null], ['Glossary', 'gloss'], ['Notes and further reading', 'notes'], ['Acknowledgements', null], ['How this book was made', null]] },
 ];
 const partBefore = { '01': 'Part 1: The shift', '04': 'Part 2: The machine', '13': 'Part 3: What it teaches you' };

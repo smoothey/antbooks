@@ -53,4 +53,4 @@ There's a pattern in which practices turned up and which didn't. Almost none of 
 
 <!-- p: 11-13 | draft 2026-11-25 -->
 So if you're starting out, don't begin by choosing a method and filling in its forms. Begin by doing the work, with something that keeps a record of it. When something goes wrong, fix the cause and write down what you changed. When it goes wrong a second time, look up its name. The good practice will come. You'll just get to it by the shortest route, and you'll know why every piece of it is there.
-<!-- src: drafter's closing; chapter 10 (draft: a lesson isn't learnt until it changes something). Check it doesn't pre-empt chapter 16 (Start small) -->
+<!-- src: drafter's closing; chapter 10 (draft: a lesson isn't learnt until it changes something). Check it doesn't pre-empt chapter 17 (Start small) -->
