@@ -39,7 +39,7 @@ So I use tokens for what they're good at. They're a measure of spend, and of pac
 
 <!-- p: 20-12 | draft 2026-11-27 -->
 A measure that acts by itself needs its inputs watched. On the night of 26 November, the brake came on for the first shifts, because it read my week's plan use as ninety per cent. The real figure was thirty-six. Nothing was wrong with the rule. The number going into it was wrong, so for the first part of the night it slowed the work down for no reason at all. The more a number is trusted to make decisions on its own, the more it matters that someone can see what it's reading.
-<!-- src: smoothey/jimmy governance/reports/2026-11-26/morning-brief.md ("The plan brake was on for the first shifts on a wrong 90% reading; Ant's real figure was 36% (00:05), and later shifts ran unbraked"); r2jimmy decision model-lanes-2026-11-26 (the 85% brake). Also told briefly in ch 6, 06-15: keep one full telling. The last two sentences are the drafter's -->
+<!-- src: smoothey/jimmy governance/reports/2026-11-26/morning-brief.md ("The plan brake was on for the first shifts on a wrong 90% reading; Ant's real figure was 36% (00:05), and later shifts ran unbraked"); r2jimmy decision model-lanes-2026-11-26 (the 85% brake). Ant, 27 Nov 23:48: cut from ch 6 (06-15); this is the one full telling. The last two sentences are the drafter's -->
 
 <!-- p: 20-09 | draft 2026-11-27 -->
 Value needs a person. For this book, the most honest number is the ledger. For chapter one, I typed about two thousand and eighty words, and the agreed chapter has about two thousand two hundred. Roughly one to one. The AI didn't multiply my words. What it gave me was time, structure and a second pair of eyes, and only I can judge whether that made the book better.
