@@ -1,0 +1,40 @@
+# Closing: The story so far
+
+<!--
+THINKING DRAFT, 28 Nov 2026 01:20. Ant asked for a draft closing "based on the content so far (approved or otherwise) ... so it can stimulate ideas". Not for review yet: expect it to be rewritten once the book settles. Paragraph ids c-nn are provisional.
+Briefs.md, Closing chapter: the words-in, words-out ledger (final totals from r2antbooks state/words-ledger-build-the-thing; so far chapter 1 only); the Wall screenshot "The story so far" as the final picture, taken at the files and proof step (SB-12), with a line saying it's a rough activity count, not a measure of value.
+Themes folded in: Ant's outlook (find the ceiling by exploring the new; anchor AI and its memories of you on the desire to grow; "other peoples bullshit is dangerous, believing your own is deadly"; store memory, Ant 23 Nov); the human out of the loop (theme note 2026-11-28); client consent (theme note 2026-11-28, generic only); what a sprint should be, as a rhetorical question for the reader, not answered (theme note 2026-11-28; Ant 01:15).
+Ch 27 already ends on the ceiling and on "if I present something I haven't read, that's on me": don't repeat either. Ch 20 (20-11) already uses chapter 1's ledger: here, only the whole-book totals.
+-->
+
+<!-- p: c-01 | draft 2026-11-28 -->
+I'll finish with an honest number. All through this book, I've kept a ledger: the words I typed, against the words that ended up on the page. Chapter 20 gave the first chapter's figures, about one to one. For the whole book, I typed about [TOTAL TYPED] words, and you've just read about [TOTAL FINAL]. [READING OF THE FINAL RATIO.] The AI didn't write the book for me, and it didn't multiply my words. What it multiplied was everything around them: the time, the structure, the research, the checking, and a second pair of eyes on every paragraph.
+<!-- src: r2antbooks state/words-ledger-build-the-thing (method; chapter 1: antWords 2,080, finalWords 2,220; "AI multiplies quality and speed, not volume"); chapter 20, 20-11 (draft: chapter 1's ledger). Placeholders: fill from the ledger's final totals at the proof step -->
+
+<!-- p: c-02 | draft 2026-11-28 -->
+And here's the picture to go with it. [FIGURE: the Wall, "The story so far", projects relabelled with the names used in this book.] It's the page I look at most days now. It counts what has been built across every project since the first night, drawn growing day by day. Read it the way chapter 20 asked: as a rough count of activity, a sense of the pace, and not a measure of what any of it was worth. The worth is in the things themselves, and in whether the people they were built for are glad of them.
+<!-- src: briefs.md, Closing chapter (the Wall screenshot replaces figclose-lines-to-date, Ant 23 Nov, changed 24 Nov 20:15; refresh from r2jimmy state/output-stats just before publishing; say it's a rough activity count, not a measure of value); chapter 20 (draft: pace against value). The last sentence is the drafter's -->
+
+<!-- p: c-03 | draft 2026-11-28 -->
+So what changed? Mostly, my job. I used to do the work. Now I build the thing that does it, and spend my minutes deciding, judging and noticing. Chapter 3 put it as comparative advantage: let the machine do what it does well, so I can spend myself where only I will do. Some evenings that still feels strange. The work happened, and I didn't do it. But I chose it, I shaped it, and I checked it, and that turned out to be the part that was always mine.
+<!-- src: chapter 2 (agreed: build the thing that builds the things); chapter 3 (agreed: comparative advantage; value moved to vision and judgement); chapter 21 (draft: minutes rather than hours, deciding rather than doing). The last three sentences are the drafter's: Ant to put in his own words -->
+
+<!-- p: c-04 | draft 2026-11-28 -->
+And what didn't? Working with AI is still work. It still takes persistence, and the habit of treating every change as an experiment: try it, measure it, keep what works. It still takes getting things wrong. I've explored a great many wrong ways of doing things in these pages, and I don't regret one of them, because that's how I learnt the right ones. Experience isn't never making the mistakes. It's having made most of them already, and having built something so they can't happen twice.
+<!-- src: chapter 18 (draft: Working with AI is still work; persistence and an experimental mindset, Ant 27 Nov); chapter 16, 16-11 to 16-13 (draft: exploring the wrong ways; Ant, 27 Nov 23:55); chapter 10, 10-11 and 10-15 (agreed: a lesson isn't learnt until it changes something; genuinely making sure) -->
+
+<!-- p: c-05 | draft 2026-11-28 -->
+If there's one habit I'd hand on above the others, it's to keep challenging. The AI is built to agree with you, and chapter 13 showed how quietly that can cap you. My own rule is blunter: other people's bullshit is dangerous, but believing your own is deadly. So ask it for the case against. Ask it why. And when it remembers things about you, make sure what it remembers is that you want to grow, not that you like to be told you're right.
+<!-- src: Ant's outlook for the book (23 Nov: "other peoples bullshit is dangerous, believing your own is deadly"; anchor AI and its memories of you on the desire to grow); chapter 13 (agreed: the echo chamber). Check Ant is happy with "bullshit" in print -->
+
+<!-- p: c-06 | draft 2026-11-28 -->
+None of it works without the people. The people around me, whose stories stay theirs, from chapter 9. The clients whose rules come before any tool, however keen they are on AI. And, oddly, me. I'm the only person working on most of these projects, and it's still easy for me to fall out of the loop: to merge something from my phone, half-remember a decision, or undo a fix I didn't know had been made. So the machine needs checks against me as well as checks on itself. What I don't know shouldn't be able to undo what it got right.
+<!-- src: chapter 9 (agreed: other people's stories stay theirs); theme note 2026-11-28-theme-client-consent.md (an AI-positive client that doesn't permit a particular tool, because of data residency; generic only; check with Forge before print); theme note 2026-11-28-theme-human-out-of-the-loop.md (Ant, 00:56: "its easy for me to be out of the loop. There needs to be checks in place that human ignorance doesn't undo the AI's good work"); chapter 16, 16-04 (draft: merging from the phone mid-conversation). The examples in the fifth sentence are the drafter's: swap in a real one from Ant -->
+
+<!-- p: c-07 | draft 2026-11-28 -->
+If you take one practical thing from this book, make it the smallest one. One loop, one record, one rule, from chapter 22. Measure instead of assuming. Write down why you did things. Chapter 13 gave my family's motto, Smootheys do things for reasons, and the reasons are what let you change your mind later. Then let it grow, one problem at a time, the way Jimmy did.
+<!-- src: chapter 22 (draft: start small); introduction (agreed: "measure, don't assume"; grew one problem at a time); chapter 13 (agreed: "Smootheys do things for reasons"); chapter 18 or ADR theme (Ant 27 Nov: ADRs revised often; respect the original intent, the detail is fair game). Ch 13 (agreed) words it as "My family has a motto"; point back rather than retell -->
+
+<!-- p: c-08 | draft 2026-11-28 -->
+I'll leave you with a question, because I've been asking it of myself. The AI kept planning my work in weeks and sprints, as if a team of people were doing it, while the work was getting done overnight. So in a world of AI-powered development, what should a sprint be? How much should go in one, and how long should it last? Two weeks used to be a sensible rhythm. In the new world order, two weeks is an eternity.
+<!-- src: Ant, 28 Nov 01:14 ("In the world of AI powered dev ops and development what should be a sprint? How much and how long because two weeks is an eternity in the new world order"); 01:15: rhetorical, a thinking point for the reader, not answered; introduction (agreed: the AI planned in weeks and sprints). End on the question: don't answer it -->
