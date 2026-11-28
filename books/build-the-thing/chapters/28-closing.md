@@ -25,7 +25,7 @@ And what didn't? Working with AI is still work. It still takes persistence, and 
 
 <!-- p: c-05 | draft 2026-11-28 -->
 If there's one habit I'd hand on above the others, it's to keep challenging. The AI is built to agree with you, and chapter 13 showed how quietly that can cap you. My own rule is blunter: other people's bullshit is dangerous, but believing your own is deadly. So ask it for the case against. Ask it why. And when it remembers things about you, make sure what it remembers is that you want to grow, not that you like to be told you're right.
-<!-- src: Ant's outlook for the book (23 Nov: "other peoples bullshit is dangerous, believing your own is deadly"; anchor AI and its memories of you on the desire to grow); chapter 13 (agreed: the echo chamber). Check Ant is happy with "bullshit" in print -->
+<!-- src: Ant's outlook for the book (23 Nov: "other peoples bullshit is dangerous, believing your own is deadly"; anchor AI and its memories of you on the desire to grow); chapter 13 (agreed: the echo chamber). Ant, 28 Nov 01:22: "Bullshit is perfect and we'll expand on it" -->
 
 <!-- p: c-06 | draft 2026-11-28 -->
 None of it works without the people. The people around me, whose stories stay theirs, from chapter 9. The clients whose rules come before any tool, however keen they are on AI. And, oddly, me. I'm the only person working on most of these projects, and it's still easy for me to fall out of the loop: to merge something from my phone, half-remember a decision, or undo a fix I didn't know had been made. So the machine needs checks against me as well as checks on itself. What I don't know shouldn't be able to undo what it got right.
